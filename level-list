@@ -50,7 +50,7 @@
 5439175) Memorization, Timings
 61357205) Ship & Wave
 27912428) Ship & Ball
-5433594) Overall
+5433594, 1, -1, 0, -1, -1
 7705437) Wave & Memorization
 23300671) (Ship)
 70444933) Overall
@@ -74,7 +74,7 @@
 74449) Best Level in the game
 14975695) Nerve Control
 9287687) Ship & Wave
-8693225) Wave
+8693225, 2, -1, 17, -1, -1
 7570320) Memorization
 44319716) Fast Paced
 4158642) Memorization
@@ -95,147 +95,141 @@
 62521060) Overall
 40945673) Overall
 71220097) Memorization
-At The Top (65768845) Wave
-Eternelle Vehemence (62028241) Nerve Control
-The Caverns (4218933) Overall
-Diffuse (36667269) Overall
+65768845) Wave
+62028241) Nerve Control
+4218933) Overall
+36667269) Overall
 
-Gold Demons (beat any 12)
-Windy Landscape (4957691) Overall
-Psychosis (15855959) Ship & Wave
-Pyromaniac (10533089) Overall
-Infrared (8237474) Memorization & Wave
-Interstellar Infant (65496280) Ship & Wave
-Tendo (67018065) Fast Paced & Timings
-8o (9145341) Ship & Ufo
-Poltergeist (7054561) Wave
-CHROMA (68372319) Wave & Timings
-Night Terrors (15395840) Ship
-Expire (57429286) Spider & Ship
-Magma Bound (56568010) Spider
-Blast Furnace (27721246) Nerve Control
-EXG (76866307) Overall
-X Adventure (18286611) Ship
-Valhalla (51489522) Overall
-Whirlwind (57179323) Wave
-Cursed Nightmare (63245954) Fast Paced & Duals
-Firewall (13437081) Overall
-Sleepless (61067595) Nerve Control
-Sadism (17312229) Ship & Wave
-FuryDynamix (7564845) Memorization
-Horntail Cave (7005127) 2 Player Mode
-Elements X (16272616) Overall
-Flat Major (26441161) Wave
+4957691) Overall
+15855959) Ship & Wave
+10533089) Overall
+8237474) Memorization & Wave
+65496280) Ship & Wave
+67018065) Fast Paced & Timings
+9145341) Ship & Ufo
+7054561) Wave
+68372319) Wave & Timings
+15395840) Ship
+57429286) Spider & Ship
+56568010) Spider
+27721246) Nerve Control
+76866307) Overall
+18286611) Ship
+51489522) Overall
+57179323) Wave
+63245954) Fast Paced & Duals
+13437081) Overall
+61067595) Nerve Control
+17312229) Ship & Wave
+7564845) Memorization
+7005127) 2 Player Mode
+16272616) Overall
+26441161) Wave
 
-Amber (beat any 9)
-Leyak (61137742) Fast Paced
-Acropolis (5155022) Timings
-Arcane (65269826) Fast Paced & Duals
-Free Level (63500550) Memorization
-Apache (60129422) Overall
-Swirling Fire (67069282) Fast Paced
-Crimson Clutter (9700312) Wave
-Gumshot (75806677) Fast Paced
-Necropolis (2241592) Timings
-Ultrasonic (8491232) Overall
-Spectral Tentation (40299716) Wave & Fast Paced
-Rampage (19719196) Overall
-Fiber (36834813) Overall
-MINDBREAKER (61799411) Memorization
-Blaster (66133800) Overall
-Cyber Chaos (18674844) Overall
-Plasma Pulse II (13457056) Overall
-Subterranean Animism (34386347) Nerve Control
-Beetle (61366260) Timings & Ship
-Optic Daydream (68718751) Wave & Spider
-Ulon (68688822) Timings & Memory
-CraZy III (73725400) Timings & Nerve Control
-Galaxy Breaker (23409681) Overall
-Cosmic Calamity (21256194) Nerve Control
-Gammaray (26512451) Wave & Ship
+61137742) Fast Paced
+5155022) Timings
+65269826) Fast Paced & Duals
+63500550) Memorization
+60129422) Overall
+67069282) Fast Paced
+9700312) Wave
+75806677) Fast Paced
+2241592) Timings
+8491232) Overall
+40299716) Wave & Fast Paced
+19719196) Overall
+36834813) Overall
+61799411) Memorization
+66133800) Overall
+18674844) Overall
+13457056) Overall
+34386347) Nerve Control
+61366260) Timings & Ship
+68718751) Wave & Spider
+68688822) Timings & Memory
+73725400) Timings & Nerve Control
+23409681) Overall
+21256194) Nerve Control
+26512451) Wave & Ship
 
-Platinum Demons (beat any 8)
-Precipitance (60197839) Overall
-Forbidden Isle (63775846) Timings & Wave
-Doop (51393047) Overall
-Misty Mountains (60708767) Timings & Nerve Control
-Allegiance (20761188) Overall
-Acu (61079355) Timings
-Thanatophobia (62809982) Flow & Timings
-Cataclysm (3979721) Ship
-Ice Carbon Diablo X (814678) Awkward Gameplay & Ship
-Make It Drop (75518661) Flow GP
-Artificial Dream (38550757) Ship & Wave
-Napalm (65561437) Overall
-Incipient (32688321) Overall
-troll level (76196489) Memorization
-Volume (48020496) Wave & Ship
-Daydream (65633532) Fast Paced
-Digital Disarray (57390806) Nerve Control
-Penombre (48454650) Overall
-Hypersonic (30219145) Overall
-Retention (18697406) Timings & Duals
-Awakening Horus (39458641) Ship & Duals
-Hurricane (60726930) Fast Paced
-Deception Dive (34379100) Ship & Wave
-Twisted Tranquility (32920197) Overall
-Bloodbath (10565740) Ship
+60197839) Overall
+63775846) Timings & Wave
+51393047) Overall
+60708767) Timings & Nerve Control
+20761188) Overall
+61079355) Timings
+62809982) Flow & Timings
+3979721) Ship
+814678) Awkward Gameplay & Ship
+75518661) Flow GP
+38550757) Ship & Wave
+65561437) Overall
+32688321) Overall
+76196489) Memorization
+48020496) Wave & Ship
+65633532) Fast Paced
+57390806) Nerve Control
+48454650) Overall
+30219145) Overall
+18697406) Timings & Duals
+39458641) Ship & Duals
+60726930) Fast Paced
+34379100) Ship & Wave
+32920197) Overall
+10565740) Ship
 
-Sapphire Demons (beat any 6)
-Concaved Memories (57559425) Overall
-NecropoliX (36449129) Timings
-Red World Rebirth (20077821) Swingcopter & Ship
-Niflheim (30194711) Memory
-Moment (68848817) Ship & Wave
-Carcano (64148732) Timings
-Prismatic Haze (59899374) Timings & Wave
-Just DANCE (60257058) Overall
-Blade of Justice (35448603) Overall
-Sigma Interface (62551239) Timings & Ship
-Phobos (19759411) Overall
-Fusion Z (59933468) Nerve Control
-Innards (54588072) Wave & Ship
-Artifice (57520174) Fast Paced & Nerve Control
-Hateful Reflection (61132346) Wave
-Novalis (33748382) Duals
-Sakupen Hell (23262780) Wave
-Falcon16 (60289382) Timings
-DARKENED (66085306) Timings
-Dolos (58417850) Timings
-RASH (6950715) Fast Paced & Timings
-Anahita (70406732) Overall
-Shock Therapy (57121503) Overall
-Carnage Mode (36107975) Nerve Control
-SubSonic (33387622) Overall
+57559425) Overall
+36449129) Timings
+20077821) Swingcopter & Ship
+30194711) Memory
+68848817) Ship & Wave
+64148732) Timings
+59899374) Timings & Wave
+60257058) Overall
+35448603) Overall
+62551239) Timings & Ship
+19759411) Overall
+59933468) Nerve Control
+54588072) Wave & Ship
+57520174) Fast Paced & Nerve Control
+61132346) Wave
+33748382) Duals
+23262780) Wave
+60289382) Timings
+66085306) Timings
+58417850) Timings
+6950715) Fast Paced & Timings
+70406732) Overall
+57121503) Overall
+36107975) Nerve Control
+33387622) Overall
 
-Emerald Demons (beat any 6)
-Athanatos (26133601) Ship & Wave
-Anoxysm (57430694) Overall
-Surge of The Shield (61127840) Nerve Control
-Low Death (60603962) Timings
-CHROMA II (70187443) Wave & Timings
-Hyper Paradox (61531210) Wave
-Distraught (55224007) Fast Paced & Wave
-Ziroikabi (44773500) Memorization & Wave
-Black Blizzard (34057654) Timings
-Berserk (60130895) Wave
-Balengu Vortex (55385816) Wave
-Crystal (73645039) Overall
-Quantum Processing (38235367) Timings
-Artificial Ascent (27122654) Nerve Control
-Ethereal Artifice (58252259) Overall
-Step To Hell (34489220) Nerve Control
-Omicron (63560498) Nerve Control
-Killbot (38754426) Memorization
-Delta Interface (45094581) Overall
-Tapwreck (58306889) Timings & Ship/Wave
-Catalyze (50333567) Wave
-Stalemate Redux (37398911) Overall
-Timor (65969451) Wave & Ship
-Digital Descent (37456092) Overall
-Lucid Chaos (62817170) Overall
+26133601) Ship & Wave
+57430694) Overall
+61127840) Nerve Control
+60603962) Timings
+70187443) Wave & Timings
+61531210) Wave
+55224007) Fast Paced & Wave
+44773500) Memorization & Wave
+34057654) Timings
+60130895) Wave
+55385816) Wave
+73645039) Overall
+38235367) Timings
+27122654) Nerve Control
+58252259) Overall
+34489220) Nerve Control
+63560498) Nerve Control
+38754426) Memorization
+45094581) Overall
+58306889) Timings & Ship/Wave
+50333567) Wave
+37398911) Overall
+65969451) Wave & Ship
+37456092) Overall
+62817170) Overall
 
-Ruby Demons (beat any 5)
 Erebus (31462941) Timings & Ship
 Dark Flare (48942548) Nerve Control
 Titan Complex (44022701) Nerve Control
@@ -252,7 +246,6 @@ Plasma Pulse Finale (38655495) Timings
 Ouroboros (56703691) Overall
 Aquatic Auroras (60740290) Wave
 
-Diamond Demons (beat any 4)
 Frozen Cave (68908396) Timings
 Kowareta (46763581) Timings
 Arctic Lights (52919433) Wave
@@ -269,7 +262,6 @@ Promethean (69333212) Ship
 Crimson Planet (45866767) Wave & Ship
 Thinking Space (54953085) Awkward Gameplay
 
-Onyx Demons (beat any 3)
 Fragile (65588448) Timings
 Renevant (58161496) Overall
 Verdant Landscape (76543324) Overall
@@ -281,7 +273,6 @@ arcturus (72315402) Ship & Wave
 Tartarus (59075347) Ship & Timings
 Trueffet (71434979) Wave & Ship
 
-Amethyst Demons (beat 1)
 Innards (Unnerfed) (54496752)  Wave & Ship 63% 
 Forsaken Hell (67073198) Wave & Timings 24% 
 Eudemonic (32568089) Wave & Ship 32%
@@ -292,7 +283,6 @@ Maniacal Chains (79431010) Awkward Gameplay 43%
 Sakupen Circles (76962930) Wave
 Abyss of Darkness (49896559) Awkward Gameplay
 
-Azurite Demons (beat 1)
 Silent Clubstep (4125776) Ship & Timings 65%
 Ashley Wave Trials (62912799) Cube 26%
 Through The Gates (49072489) Overall 61%
@@ -302,7 +292,6 @@ Doom Fractal (73902225) Overall
 Africa Circles (66787894) Wave 12%
 Subsuming Vortex (66422816) Wave 42%
 
-Obsidian Demons  (beat 1)
 Sweeping Demon II (63676749) Wave & Timings 26%
 Natural Disaster (76483916) Wave & Ship 21%
 Dystopia (66424234) Overall 21%
