@@ -1,1 +1,379 @@
+//Format:
+//Level ID, pack (primary), pack (secondary), skill 1, skill 2, skill 3
+//Skill IDs:
+//0 = Overall
+//1 = Fast Paced
+//2 = Nerve Control
+//3 = Speed Changers
+//4 = Flow
+//5 = Custom Orbs/Portals
+//6 = Memorizations
+//7 = Fast GM Switches
+//8 = Timings
+//9 = Awkward Gameplay
+//10 = Moving GP
+//11 = Duals
+//12 = 2 Player Mode
+//13 = Cube
+//14 = Ship
+//15 = Ball
+//16 = UFO
+//17 = Wave
+//18 = Robot
+//19 = Spider
+//20 = Best Level in The Game
+//clubstep and toe 2 go in pack id 0
+//deadlocked goes in pack id 1
 
+
+
+65765662, 0, -1, 0, -1, -1
+56587109, 0, -1, 1, -1, -1
+7116121, 0, -1, 17, -1, -1
+57307363, 0, -1, 1, 6, -1
+68061608, 0, -1, 14, 8, -1
+75603568, 0, -1, 0, -1, -1
+59331033, 0, -1, 4, 5, -1
+3543219, 0, -1, 3, -1, -1
+74735688, 0, -1, 2, -1, -1
+27143567, 0, -1, 0, -1, -1
+2997354, 0, -1, 14, 17, -1
+8660411, 0, -1, Nerve Control
+68337412) Overall
+17235008) Overall
+67904095) Nerve Control
+3081555) Wave
+76799716) Overall
+58356766) Wave
+38514054) Fast GM Switches
+15619194) Overall
+5439175) Memorization, Timings
+61357205) Ship & Wave
+27912428) Ship & Ball
+5433594) Overall
+7705437) Wave & Memorization
+23300671) (Ship)
+70444933) Overall
+3471703) (Overall)
+76821414) Overall
+30157349) (Nerve Control)
+5875660) Ship
+43010906) Timings
+27024880) Ship & Timings
+4318253) Memorization
+58002670) Wave
+18834999) Duals
+33618850) Wave
+25706351) Wave & Ship
+63454942) Overall
+23595034) Timings
+76158198) Timings
+27786218) Moving GP
+16500835) Wave
+58939191) Fast Paced
+74449) Best Level in the game
+14975695) Nerve Control
+9287687) Ship & Wave
+8693225) Wave
+7570320) Memorization
+44319716) Fast Paced
+4158642) Memorization
+3273541) Memorization & Wave
+4284013) Wave
+11607707) Ufo & Robot
+60869851) Fast Paced & Memorization
+59315849) Duals
+4524796) Overall
+62923992) Wave & Ship
+30944062) Memorization & Spider
+60084691) Fast Paced
+13643591) Memorization & Duals
+63075323) Memorization & Timings
+56509088) Overall
+64618054) Memorization
+1299298) Overall
+62521060) Overall
+40945673) Overall
+71220097) Memorization
+At The Top (65768845) Wave
+Eternelle Vehemence (62028241) Nerve Control
+The Caverns (4218933) Overall
+Diffuse (36667269) Overall
+
+Gold Demons (beat any 12)
+Windy Landscape (4957691) Overall
+Psychosis (15855959) Ship & Wave
+Pyromaniac (10533089) Overall
+Infrared (8237474) Memorization & Wave
+Interstellar Infant (65496280) Ship & Wave
+Tendo (67018065) Fast Paced & Timings
+8o (9145341) Ship & Ufo
+Poltergeist (7054561) Wave
+CHROMA (68372319) Wave & Timings
+Night Terrors (15395840) Ship
+Expire (57429286) Spider & Ship
+Magma Bound (56568010) Spider
+Blast Furnace (27721246) Nerve Control
+EXG (76866307) Overall
+X Adventure (18286611) Ship
+Valhalla (51489522) Overall
+Whirlwind (57179323) Wave
+Cursed Nightmare (63245954) Fast Paced & Duals
+Firewall (13437081) Overall
+Sleepless (61067595) Nerve Control
+Sadism (17312229) Ship & Wave
+FuryDynamix (7564845) Memorization
+Horntail Cave (7005127) 2 Player Mode
+Elements X (16272616) Overall
+Flat Major (26441161) Wave
+
+Amber (beat any 9)
+Leyak (61137742) Fast Paced
+Acropolis (5155022) Timings
+Arcane (65269826) Fast Paced & Duals
+Free Level (63500550) Memorization
+Apache (60129422) Overall
+Swirling Fire (67069282) Fast Paced
+Crimson Clutter (9700312) Wave
+Gumshot (75806677) Fast Paced
+Necropolis (2241592) Timings
+Ultrasonic (8491232) Overall
+Spectral Tentation (40299716) Wave & Fast Paced
+Rampage (19719196) Overall
+Fiber (36834813) Overall
+MINDBREAKER (61799411) Memorization
+Blaster (66133800) Overall
+Cyber Chaos (18674844) Overall
+Plasma Pulse II (13457056) Overall
+Subterranean Animism (34386347) Nerve Control
+Beetle (61366260) Timings & Ship
+Optic Daydream (68718751) Wave & Spider
+Ulon (68688822) Timings & Memory
+CraZy III (73725400) Timings & Nerve Control
+Galaxy Breaker (23409681) Overall
+Cosmic Calamity (21256194) Nerve Control
+Gammaray (26512451) Wave & Ship
+
+Platinum Demons (beat any 8)
+Precipitance (60197839) Overall
+Forbidden Isle (63775846) Timings & Wave
+Doop (51393047) Overall
+Misty Mountains (60708767) Timings & Nerve Control
+Allegiance (20761188) Overall
+Acu (61079355) Timings
+Thanatophobia (62809982) Flow & Timings
+Cataclysm (3979721) Ship
+Ice Carbon Diablo X (814678) Awkward Gameplay & Ship
+Make It Drop (75518661) Flow GP
+Artificial Dream (38550757) Ship & Wave
+Napalm (65561437) Overall
+Incipient (32688321) Overall
+troll level (76196489) Memorization
+Volume (48020496) Wave & Ship
+Daydream (65633532) Fast Paced
+Digital Disarray (57390806) Nerve Control
+Penombre (48454650) Overall
+Hypersonic (30219145) Overall
+Retention (18697406) Timings & Duals
+Awakening Horus (39458641) Ship & Duals
+Hurricane (60726930) Fast Paced
+Deception Dive (34379100) Ship & Wave
+Twisted Tranquility (32920197) Overall
+Bloodbath (10565740) Ship
+
+Sapphire Demons (beat any 6)
+Concaved Memories (57559425) Overall
+NecropoliX (36449129) Timings
+Red World Rebirth (20077821) Swingcopter & Ship
+Niflheim (30194711) Memory
+Moment (68848817) Ship & Wave
+Carcano (64148732) Timings
+Prismatic Haze (59899374) Timings & Wave
+Just DANCE (60257058) Overall
+Blade of Justice (35448603) Overall
+Sigma Interface (62551239) Timings & Ship
+Phobos (19759411) Overall
+Fusion Z (59933468) Nerve Control
+Innards (54588072) Wave & Ship
+Artifice (57520174) Fast Paced & Nerve Control
+Hateful Reflection (61132346) Wave
+Novalis (33748382) Duals
+Sakupen Hell (23262780) Wave
+Falcon16 (60289382) Timings
+DARKENED (66085306) Timings
+Dolos (58417850) Timings
+RASH (6950715) Fast Paced & Timings
+Anahita (70406732) Overall
+Shock Therapy (57121503) Overall
+Carnage Mode (36107975) Nerve Control
+SubSonic (33387622) Overall
+
+Emerald Demons (beat any 6)
+Athanatos (26133601) Ship & Wave
+Anoxysm (57430694) Overall
+Surge of The Shield (61127840) Nerve Control
+Low Death (60603962) Timings
+CHROMA II (70187443) Wave & Timings
+Hyper Paradox (61531210) Wave
+Distraught (55224007) Fast Paced & Wave
+Ziroikabi (44773500) Memorization & Wave
+Black Blizzard (34057654) Timings
+Berserk (60130895) Wave
+Balengu Vortex (55385816) Wave
+Crystal (73645039) Overall
+Quantum Processing (38235367) Timings
+Artificial Ascent (27122654) Nerve Control
+Ethereal Artifice (58252259) Overall
+Step To Hell (34489220) Nerve Control
+Omicron (63560498) Nerve Control
+Killbot (38754426) Memorization
+Delta Interface (45094581) Overall
+Tapwreck (58306889) Timings & Ship/Wave
+Catalyze (50333567) Wave
+Stalemate Redux (37398911) Overall
+Timor (65969451) Wave & Ship
+Digital Descent (37456092) Overall
+Lucid Chaos (62817170) Overall
+
+Ruby Demons (beat any 5)
+Erebus (31462941) Timings & Ship
+Dark Flare (48942548) Nerve Control
+Titan Complex (44022701) Nerve Control
+Yatagarasu (28220417) Nerve Control
+Sonic Wave (26681070) Wave
+Spacial Rend (40292513) Overall
+Gamma (39832454) Fast Paced & Timings
+Cybernetic Crescent (66291197) Overall
+GONER (77310650) Memorization
+Eternal Moment (59539361) Ship & Timings
+Wasureta (64658786) Fast Paced
+Nhelv (68353244) Memorization
+Plasma Pulse Finale (38655495) Timings
+Ouroboros (56703691) Overall
+Aquatic Auroras (60740290) Wave
+
+Diamond Demons (beat any 4)
+Frozen Cave (68908396) Timings
+Kowareta (46763581) Timings
+Arctic Lights (52919433) Wave
+Aronia (60564010) Timings
+Bloodlust (42584142) Ship & Nerve Control
+Lucid Nightmares (52310333) Overall
+The Rupture (57828784) Ship & Wave
+Cognition (57600307) Timings
+RUST (71912451) Timings
+Omega Interface (68654380) Wave & Ship
+Cold Sweat (63996127) Timings & Wave
+Calculator Core (58355141) Nerve Control
+Promethean (69333212) Ship
+Crimson Planet (45866767) Wave & Ship
+Thinking Space (54953085) Awkward Gameplay
+
+Onyx Demons (beat any 3)
+Fragile (65588448) Timings
+Renevant (58161496) Overall
+Verdant Landscape (76543324) Overall
+Kenos (58673581) Wave
+Zodiac (52374843) Nerve Control
+The Golden (60978746) Overall
+Sonic Wave Infinity (69685815) Wave
+arcturus (72315402) Ship & Wave
+Tartarus (59075347) Ship & Timings
+Trueffet (71434979) Wave & Ship
+
+Amethyst Demons (beat 1)
+Innards (Unnerfed) (54496752)  Wave & Ship 63% 
+Forsaken Hell (67073198) Wave & Timings 24% 
+Eudemonic (32568089) Wave & Ship 32%
+Firework (75206202) Overall
+Slaughterhouse (27690100) Wave & Ship
+Acheron (79312442) Ship & Timings 96%
+Maniacal Chains (79431010) Awkward Gameplay 43%
+Sakupen Circles (76962930) Wave
+Abyss of Darkness (49896559) Awkward Gameplay
+
+Azurite Demons (beat 1)
+Silent Clubstep (4125776) Ship & Timings 65%
+Ashley Wave Trials (62912799) Cube 26%
+Through The Gates (49072489) Overall 61%
+Malediction (65194064) Overall 13%
+Call of the Void (69135570) Ship & Wave 9%
+Doom Fractal (73902225) Overall
+Africa Circles (66787894) Wave 12%
+Subsuming Vortex (66422816) Wave 42%
+
+Obsidian Demons  (beat 1)
+Sweeping Demon II (63676749) Wave & Timings 26%
+Natural Disaster (76483916) Wave & Ship 21%
+Dystopia (66424234) Overall 21%
+The Nautical (Unnerfed) (77049802) Wave 26%
+Aquamarine (77331805) Wave 45%
+Silent Clubstep II (78614226) Ship & Timings 13%
+All I Need (79393829) Ship & Timings
+
+
+The Trusta Pack (beat all)
+Sakupen Hell 
+Wow 
+Berserk 
+Yatagarasu 
+The RGB Pack (beat all)
+Yatagarasu 
+Erebus 
+Sonic Wave 
+The Hell Trilogy (beat all)
+Cataclysm
+Bloodbath
+Aftermath
+The Sonic Wave Pack (beat all)
+Sonic Wave 
+Generic Wave
+Sonic Wave Rebirth
+Auditory Breaker
+Sonic Wave Infinity
+The Sonic Series (beat all)
+Supersonic
+Ultrasonic 
+Hypersonic
+Subsonic
+The Plasma Pack (beat all)
+Plasma Pulse 
+Plasma Pulse II
+Plasma Pulse III
+Plasma Pulse Finale
+The Speedrun Pack (beat all)
+Speequ
+Ballin
+Nyoom
+Spwipi
+Feral
+The AeonAir Pack (beat all)
+Time Pressure
+Neon Sawblade
+Project EX
+FunkStep
+Madhouse
+Possessed
+To The Stars
+ClubForce
+Antimatter
+To The Stars II
+Memory Master Pack (beat all)
+Triple Six
+Maybe Possibly Thing
+Marathon
+MadMansion
+Super Probably Level
+Killbot
+Nhelv
+The Lightwave Pack (beat all)
+Infrared
+Ultraviolet
+Gammaray
+The Temple Series ΔΔΔ (beat all)
+Water Temple
+Fire Temple
+Shadow Temple
+Lava Temple
+Forest Temple
+Desert Temple
