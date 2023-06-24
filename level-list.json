@@ -1,0 +1,21 @@
+{
+ "main-packs": [
+
+ ]
+
+ "bonus-packs": [
+
+ ]
+
+ "monthly-pack": {
+   "name": "name"
+   "month": "Month 20XX"
+   "ids": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+ }
+}
