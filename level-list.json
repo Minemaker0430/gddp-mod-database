@@ -1,15 +1,25 @@
 {
  "main-packs": [
+  "beginner": {
+   "name": "Beginner Demons",
+   "pack-id": 0,
+   "rank-requirements": 0,
+   "ids": [
 
- ]
+   ],
+   "legacy-ids": [
+
+   ]
+  }
+ ],
 
  "bonus-packs": [
 
- ]
+ ],
 
  "monthly-pack": {
-   "name": "name"
-   "month": "Month 20XX"
+   "name": "name",
+   "month": "Month 20XX",
    "ids": [
     1,
     2,
