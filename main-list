@@ -1,12 +1,12 @@
 {
-  {"Beginner", "DP_Beginner", "DP_BeginnerPlus", 25409, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13},
-  {"Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13}
-}
+  "Beginner", "DP_Beginner", "DP_BeginnerPlus", 25409, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+  "Bronze", "DP_Bronze", "DP_BronzePlus", 25408, 13,
+};
