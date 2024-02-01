@@ -1,5 +1,5 @@
 Main:
-{name, sprite, listID, levelsTillRank}
+{name, sprite, plusSprite, listID, levelsTillRank}
 
 Legacy/Bonus:
 {name, sprite, listID}
