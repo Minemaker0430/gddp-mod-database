@@ -1,0 +1,8 @@
+Main:
+{name, sprite, listID, levelsTillRank}
+
+Legacy/Bonus:
+{name, sprite, listID}
+
+Monthly:
+{name, month, year, listID, currentPack?}
