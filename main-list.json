@@ -1,3 +1,11 @@
 {
-    "testarray": ["Beginner", "DP_Beginner", "DP_BeginnerPlus", "25409", "13"]
+    "main": [
+        {
+            "name": "Beginner",
+            "sprite": "DP_Beginner",
+            "plusSprite": "DP_BeginnerPlus",
+            "listID": 25409, 
+            "reqLevels": 13
+        }
+    ]
 }
