@@ -5,4 +5,4 @@ Legacy/Bonus:
 {name, sprite, listID}
 
 Monthly:
-{name, month/year, listID, currentPack?}
+{name, month/year, listID}
