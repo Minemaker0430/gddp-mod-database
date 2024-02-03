@@ -19,7 +19,7 @@
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25408, 
-            "reqLevels": 13
+            "reqLevels": 11
         },
         {
             "name": "Gold",
