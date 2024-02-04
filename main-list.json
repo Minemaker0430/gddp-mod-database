@@ -12,7 +12,6 @@
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 25408, 
-            "levelIDs": [],
             "reqLevels": 12
         },
         {
@@ -20,7 +19,6 @@
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
-            "levelIDs": [],
             "reqLevels": 11
         },
         {
@@ -28,7 +26,6 @@
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -36,7 +33,6 @@
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -44,7 +40,6 @@
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -52,7 +47,6 @@
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -60,7 +54,6 @@
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -68,7 +61,6 @@
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -76,7 +68,6 @@
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -84,7 +75,6 @@
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -92,7 +82,6 @@
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -100,7 +89,6 @@
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -108,7 +96,6 @@
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
-            "levelIDs": [],
             "reqLevels": 13
         },
         {
@@ -116,11 +103,31 @@
             "sprite": "DP_Obsidian",
             "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
-            "levelIDs": [],
             "reqLevels": 1
         }
     ],
-    "legacy": [],
+    "legacy": [
+        {
+            "name": "Legacy Platinum",
+            "sprite": "DP_Platinum",
+            "listID": 24687
+        },
+        {
+            "name": "Legacy Sapphire",
+            "sprite": "DP_Sapphire",
+            "listID": 160741
+        },
+        {
+            "name": "Legacy Jade",
+            "sprite": "DP_Jade",
+            "listID": 160743
+        },
+        {
+            "name": "Legacy Emerald",
+            "sprite": "DP_Emerald",
+            "listID": 160745
+        }
+    ],
     "bonus": [],
     "monthly": []
 }
