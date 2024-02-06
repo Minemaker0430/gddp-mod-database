@@ -168,6 +168,182 @@
             "listID": 191555
         }
     ],
-    "bonus": [],
+    "bonus": [
+        {
+            "name": "12 Demons of Christmas (2023)",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Minigame Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "GD10",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "12 Demons of Christmas (2022)",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Nine Circles Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Nine Circles Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Memory Novice",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Memory Expert",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Memory Master",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "2P Solo Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Invisible Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "1.9 GDPS Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "XXL",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Speedrun Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Trusta Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Temple Series",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Coder Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Kria Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Aeon Air Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "GDDL 1",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "GDDL 2",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Apocalyptic Trilogy",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Plasma Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "RGB",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Sonic Series",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "The Lightwave Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+        {
+            "name": "Sonic Wave Series",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": true
+        },
+
+        {
+            "name": "The CraZy Series",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": false
+        },
+        {
+            "name": "Weary Travellers Pack",
+            "sprite": "DP_Beginner",
+            "listID": 0,
+            "official": false
+        }
+    ],
     "monthly": []
 }
