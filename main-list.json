@@ -108,6 +108,31 @@
     ],
     "legacy": [
         {
+            "name": "Legacy Beginner",
+            "sprite": "DP_Beginner",
+            "listID": 192942
+        },
+        {
+            "name": "Legacy Bronze",
+            "sprite": "DP_Bronze",
+            "listID": 192954
+        },
+        {
+            "name": "Legacy Silver",
+            "sprite": "DP_Silver",
+            "listID": 189734
+        },
+        {
+            "name": "Legacy Gold",
+            "sprite": "DP_Gold",
+            "listID": 189750
+        },
+        {
+            "name": "Legacy Amber",
+            "sprite": "DP_Amber",
+            "listID": 190522
+        },
+        {
             "name": "Legacy Platinum",
             "sprite": "DP_Platinum",
             "listID": 24687
@@ -126,6 +151,21 @@
             "name": "Legacy Emerald",
             "sprite": "DP_Emerald",
             "listID": 160745
+        },
+        {
+            "name": "Legacy Diamond",
+            "sprite": "DP_Diamond",
+            "listID": 191548
+        },
+        {
+            "name": "Legacy Onyx",
+            "sprite": "DP_Onyx",
+            "listID": 191553
+        },
+        {
+            "name": "Legacy Amethyst",
+            "sprite": "DP_Amethyst",
+            "listID": 191555
         }
     ],
     "bonus": [],
