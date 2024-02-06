@@ -26,77 +26,77 @@
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
-            "reqLevels": 13
+            "reqLevels": 10
         },
         {
             "name": "Amber",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
-            "reqLevels": 13
+            "reqLevels": 9
         },
         {
             "name": "Platinum",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
-            "reqLevels": 13
+            "reqLevels": 8
         },
         {
             "name": "Sapphire",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
-            "reqLevels": 13
+            "reqLevels": 7
         },
         {
             "name": "Jade",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
-            "reqLevels": 13
+            "reqLevels": 7
         },
         {
             "name": "Emerald",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
-            "reqLevels": 13
+            "reqLevels": 6
         },
         {
             "name": "Ruby",
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
-            "reqLevels": 13
+            "reqLevels": 5
         },
         {
             "name": "Diamond",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
-            "reqLevels": 13
+            "reqLevels": 4
         },
         {
             "name": "Onyx",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
-            "reqLevels": 13
+            "reqLevels": 3
         },
         {
             "name": "Amethyst",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
-            "reqLevels": 13
+            "reqLevels": 2
         },
         {
             "name": "Azurite",
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
-            "reqLevels": 13
+            "reqLevels": 1
         },
         {
             "name": "Obsidian",
