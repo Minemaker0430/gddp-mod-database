@@ -348,6 +348,7 @@
     "monthly": [
         {
             "name": "Valentine Pack",
+            "sprite": "DP_Beginner",
             "month": 2,
             "year": 2024,
             "listID": 0
