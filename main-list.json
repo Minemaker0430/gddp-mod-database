@@ -352,6 +352,13 @@
             "month": 2,
             "year": 2024,
             "listID": 0
+        },
+        {
+            "name": "Cosmic Pack",
+            "sprite": "DP_Beginner",
+            "month": 1,
+            "year": 2024,
+            "listID": 0
         }
-    ],
+    ]
 }
