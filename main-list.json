@@ -359,6 +359,90 @@
             "month": 1,
             "year": 2024,
             "listID": 0
+        },
+        {
+            "name": "Very Cold Pack",
+            "sprite": "DP_Beginner",
+            "month": 12,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Forest Pack",
+            "sprite": "DP_Beginner",
+            "month": 11,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Horror Pack",
+            "sprite": "DP_Beginner",
+            "month": 10,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Single Gamemode Pack",
+            "sprite": "DP_Beginner",
+            "month": 9,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Alphabet Pack",
+            "sprite": "DP_Beginner",
+            "month": 8,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Party Pack",
+            "sprite": "DP_Beginner",
+            "month": 7,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "The Tropical Pack",
+            "sprite": "DP_Beginner",
+            "month": 6,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Maymory Pack",
+            "sprite": "DP_Beginner",
+            "month": 5,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "The Science Pack",
+            "sprite": "DP_Beginner",
+            "month": 4,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "The Bright Pack",
+            "sprite": "DP_Beginner",
+            "month": 3,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Color Pack",
+            "sprite": "DP_Beginner",
+            "month": 2,
+            "year": 2023,
+            "listID": 0
+        },
+        {
+            "name": "Epic Gamer Pack",
+            "sprite": "DP_Beginner",
+            "month": 1,
+            "year": 2023,
+            "listID": 0
         }
     ]
 }
