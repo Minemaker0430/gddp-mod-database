@@ -444,5 +444,7 @@
             "year": 2023,
             "listID": 0
         }
-    ]
+    ],
+    "bonus-available": false,
+    "monthly-available": false
 }
