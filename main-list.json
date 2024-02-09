@@ -440,5 +440,6 @@
         }
     ],
     "bonus-available": false,
-    "monthly-available": false
+    "monthly-available": false,
+    "database-version": 30
 }
