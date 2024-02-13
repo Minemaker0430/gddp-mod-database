@@ -328,13 +328,13 @@
 
         {
             "name": "The CraZy Series",
-            "sprite": "DP_Beginner",
+            "sprite": "DP_Crazy",
             "listID": 195310,
             "official": false
         },
         {
             "name": "Weary Travellers Pack",
-            "sprite": "DP_Beginner",
+            "sprite": "DP_Travel",
             "listID": 0,
             "official": false
         }
