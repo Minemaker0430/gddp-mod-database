@@ -5,167 +5,194 @@
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
-            "reqLevels": 13
+            "reqLevels": 13,
+            "totalLevels": 25
         },
         {
             "name": "Bronze",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 25408, 
-            "reqLevels": 12
+            "reqLevels": 12,
+            "totalLevels": 25
         },
         {
             "name": "Silver",
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
-            "reqLevels": 11
+            "reqLevels": 11,
+            "totalLevels": 25
         },
         {
             "name": "Gold",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
-            "reqLevels": 10
+            "reqLevels": 10,
+            "totalLevels": 25
         },
         {
             "name": "Amber",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
-            "reqLevels": 9
+            "reqLevels": 9,
+            "totalLevels": 25
         },
         {
             "name": "Platinum",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
-            "reqLevels": 8
+            "reqLevels": 8,
+            "totalLevels": 25
         },
         {
             "name": "Sapphire",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
-            "reqLevels": 7
+            "reqLevels": 7,
+            "totalLevels": 25
         },
         {
             "name": "Jade",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
-            "reqLevels": 7
+            "reqLevels": 7,
+            "totalLevels": 25
         },
         {
             "name": "Emerald",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
-            "reqLevels": 6
+            "reqLevels": 6,
+            "totalLevels": 25
         },
         {
             "name": "Ruby",
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
-            "reqLevels": 5
+            "reqLevels": 5,
+            "totalLevels": 25
         },
         {
             "name": "Diamond",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
-            "reqLevels": 4
+            "reqLevels": 4,
+            "totalLevels": 25
         },
         {
             "name": "Onyx",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
-            "reqLevels": 3
+            "reqLevels": 3,
+            "totalLevels": 20
         },
         {
             "name": "Amethyst",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
-            "reqLevels": 2
+            "reqLevels": 2,
+            "totalLevels": 10
         },
         {
             "name": "Azurite",
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
-            "reqLevels": 1
+            "reqLevels": 1,
+            "totalLevels": 5
         },
         {
             "name": "Obsidian",
             "sprite": "DP_Obsidian",
             "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
-            "reqLevels": 1
+            "reqLevels": 1,
+            "totalLevels": 5
         }
     ],
     "legacy": [
         {
             "name": "Legacy Beginner",
             "sprite": "DP_Beginner",
-            "listID": 192942
+            "listID": 192942,
+            "totalLevels": 14
         },
         {
             "name": "Legacy Bronze",
             "sprite": "DP_Bronze",
-            "listID": 192954
+            "listID": 192954,
+            "totalLevels": 12
         },
         {
             "name": "Legacy Silver",
             "sprite": "DP_Silver",
-            "listID": 189734
+            "listID": 189734,
+            "totalLevels": 15
         },
         {
             "name": "Legacy Gold",
             "sprite": "DP_Gold",
-            "listID": 189750
+            "listID": 189750,
+            "totalLevels": 16
         },
         {
             "name": "Legacy Amber",
             "sprite": "DP_Amber",
-            "listID": 190522
+            "listID": 190522,
+            "totalLevels": 11
         },
         {
             "name": "Legacy Platinum",
             "sprite": "DP_Platinum",
-            "listID": 161032
+            "listID": 161032,
+            "totalLevels": 18
         },
         {
             "name": "Legacy Sapphire",
             "sprite": "DP_Sapphire",
-            "listID": 160741
+            "listID": 160741,
+            "totalLevels": 4
         },
         {
             "name": "Legacy Jade",
             "sprite": "DP_Jade",
-            "listID": 160743
+            "listID": 160743,
+            "totalLevels": 4
         },
         {
             "name": "Legacy Emerald",
             "sprite": "DP_Emerald",
-            "listID": 160745
+            "listID": 160745,
+            "totalLevels": 8
         },
         {
             "name": "Legacy Diamond",
             "sprite": "DP_Diamond",
-            "listID": 191548
+            "listID": 191548,
+            "totalLevels": 1
         },
         {
             "name": "Legacy Onyx",
             "sprite": "DP_Onyx",
-            "listID": 191553
+            "listID": 191553,
+            "totalLevels": 1
         },
         {
             "name": "Legacy Amethyst",
             "sprite": "DP_Amethyst",
-            "listID": 191555
+            "listID": 191555,
+            "totalLevels": 6
         }
     ],
     "bonus": [
@@ -173,170 +200,206 @@
             "name": "12 Demons of Christmas (2023)",
             "sprite": "DP_12DoC2023",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 12
         },
         {
             "name": "Minigame Pack",
             "sprite": "DP_Minigame",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 5
         },
         {
             "name": "GD10",
             "sprite": "DP_GD10",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "12 Demons of Christmas (2022)",
             "sprite": "DP_12DoC2022",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 12
         },
         {
             "name": "Nine Circles Pack",
             "sprite": "DP_NineCircles",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "Memory Novice",
             "sprite": "DP_MemoryNovice",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "Memory Expert",
             "sprite": "DP_MemoryExpert",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "Memory Master",
             "sprite": "DP_MemoryMaster",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "2P Solo Pack",
             "sprite": "DP_2PSolo",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "Invisible Pack",
             "sprite": "DP_Invisible",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "1.9 GDPS Pack",
             "sprite": "DP_19GDPS",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "XXL",
             "sprite": "DP_XXL",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Speedrun Pack",
             "sprite": "DP_Speedrun",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Trusta Pack",
             "sprite": "DP_Trusta",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Temple Series",
             "sprite": "DP_Temple",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Coder Pack",
             "sprite": "DP_Coder",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "Kria Pack",
             "sprite": "DP_Kria",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Aeon Air Pack",
             "sprite": "DP_AeonAir",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "GDDL 1",
             "sprite": "DP_GDDL1",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "GDDL 2",
             "sprite": "DP_GDDL2",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Apocalyptic Trilogy",
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Plasma Pack",
             "sprite": "DP_Plasma",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "RGB",
             "sprite": "DP_RGB",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Sonic Series",
             "sprite": "DP_Sonic",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "The Lightwave Pack",
             "sprite": "DP_Lightwave",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
         {
             "name": "Sonic Wave Series",
             "sprite": "DP_SonicWave",
             "listID": 0,
-            "official": true
+            "official": true,
+            "totalLevels": 25
         },
 
         {
             "name": "The CraZy Series",
             "sprite": "DP_Crazy",
             "listID": 195310,
-            "official": false
+            "official": false,
+            "totalLevels": 3
         },
         {
             "name": "Weary Travellers Pack",
             "sprite": "DP_Travel",
             "listID": 0,
-            "official": false
+            "official": false,
+            "totalLevels": 25
+        },
+        
+        {
+            "name": "The Modder Pack",
+            "sprite": "DP_Modder",
+            "listID": 0,
+            "official": false,
+            "totalLevels": 25
         }
     ],
     "monthly": [
