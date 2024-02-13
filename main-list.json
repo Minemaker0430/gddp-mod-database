@@ -502,7 +502,7 @@
             "listID": 0
         }
     ],
-    "bonus-available": false,
-    "monthly-available": false,
+    "bonus-available": true,
+    "monthly-available": true,
     "database-version": 1
 }
