@@ -393,10 +393,16 @@
             "official": false,
             "totalLevels": 7
         },
-        
         {
             "name": "The Modder Pack",
             "sprite": "DP_Modder",
+            "listID": 0,
+            "official": false,
+            "totalLevels": 5
+        },
+        {
+            "name": "The Troll Pack",
+            "sprite": "DP_Invisible",
             "listID": 0,
             "official": false,
             "totalLevels": 5
