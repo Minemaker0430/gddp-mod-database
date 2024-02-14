@@ -304,35 +304,35 @@
         {
             "name": "The Coder Pack",
             "sprite": "DP_Coder",
-            "listID": 0,
+            "listID": 208650,
             "official": true,
             "totalLevels": 5
         },
         {
             "name": "Kria Pack",
             "sprite": "DP_Kria",
-            "listID": 0,
+            "listID": 208654,
             "official": true,
             "totalLevels": 10
         },
         {
             "name": "The Aeon Air Pack",
             "sprite": "DP_AeonAir",
-            "listID": 0,
+            "listID": 208655,
             "official": true,
             "totalLevels": 10
         },
         {
             "name": "GDDL 1",
             "sprite": "DP_GDDL1",
-            "listID": 0,
+            "listID": 208657,
             "official": true,
             "totalLevels": 10
         },
         {
             "name": "GDDL 2",
             "sprite": "DP_GDDL2",
-            "listID": 0,
+            "listID": 208658,
             "official": true,
             "totalLevels": 10
         },
@@ -346,28 +346,28 @@
         {
             "name": "The Plasma Pack",
             "sprite": "DP_Plasma",
-            "listID": 0,
+            "listID": 208659,
             "official": true,
             "totalLevels": 4
         },
         {
             "name": "RGB",
             "sprite": "DP_RGB",
-            "listID": 0,
+            "listID": 208662,
             "official": true,
             "totalLevels": 3
         },
         {
             "name": "The Sonic Series",
             "sprite": "DP_Sonic",
-            "listID": 0,
+            "listID": 208663,
             "official": true,
             "totalLevels": 4
         },
         {
             "name": "The Lightwave Pack",
             "sprite": "DP_Lightwave",
-            "listID": 0,
+            "listID": 208664,
             "official": true,
             "totalLevels": 3
         },
