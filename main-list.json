@@ -503,6 +503,6 @@
         }
     ],
     "bonus-available": false,
-    "monthly-available": false,
+    "monthly-available": true,
     "database-version": 1
 }
