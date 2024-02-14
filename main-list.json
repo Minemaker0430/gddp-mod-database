@@ -199,58 +199,58 @@
         {
             "name": "12 Demons of Christmas (2023)",
             "sprite": "DP_12DoC2023",
-            "listID": 0,
+            "listID": 207325,
             "official": true,
             "totalLevels": 12
         },
         {
             "name": "Minigame Pack",
             "sprite": "DP_Minigame",
-            "listID": 0,
+            "listID": 207332,
             "official": true,
             "totalLevels": 5
         },
         {
             "name": "GD10",
             "sprite": "DP_GD10",
-            "listID": 0,
+            "listID": 207342,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 11
         },
         {
             "name": "12 Demons of Christmas (2022)",
             "sprite": "DP_12DoC2022",
-            "listID": 0,
+            "listID": 207345,
             "official": true,
             "totalLevels": 12
         },
         {
             "name": "Nine Circles Pack",
             "sprite": "DP_NineCircles",
-            "listID": 0,
+            "listID": 207346,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "Memory Novice",
             "sprite": "DP_MemoryNovice",
-            "listID": 0,
+            "listID": 207349,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "Memory Expert",
             "sprite": "DP_MemoryExpert",
-            "listID": 0,
+            "listID": 207354,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "Memory Master",
             "sprite": "DP_MemoryMaster",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 8
         },
         {
             "name": "2P Solo Pack",
@@ -341,7 +341,7 @@
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 3
         },
         {
             "name": "The Plasma Pack",
@@ -502,7 +502,7 @@
             "listID": 0
         }
     ],
-    "bonus-available": false,
+    "bonus-available": true,
     "monthly-available": false,
     "database-version": 1
 }
