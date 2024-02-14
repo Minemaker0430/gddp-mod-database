@@ -248,98 +248,98 @@
         {
             "name": "Memory Master",
             "sprite": "DP_MemoryMaster",
-            "listID": 0,
+            "listID": 207566,
             "official": true,
             "totalLevels": 8
         },
         {
             "name": "2P Solo Pack",
             "sprite": "DP_2PSolo",
-            "listID": 0,
+            "listID": 207573,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "Invisible Pack",
             "sprite": "DP_Invisible",
-            "listID": 0,
+            "listID": 207577,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "1.9 GDPS Pack",
             "sprite": "DP_19GDPS",
-            "listID": 0,
+            "listID": 207580,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "XXL",
             "sprite": "DP_XXL",
-            "listID": 0,
+            "listID": 207622,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "The Speedrun Pack",
             "sprite": "DP_Speedrun",
-            "listID": 0,
+            "listID": 207623,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "The Trusta Pack",
             "sprite": "DP_Trusta",
-            "listID": 0,
+            "listID": 207625,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "The Temple Series",
             "sprite": "DP_Temple",
-            "listID": 0,
+            "listID": 207627,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 6
         },
         {
             "name": "The Coder Pack",
             "sprite": "DP_Coder",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
         {
             "name": "Kria Pack",
             "sprite": "DP_Kria",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 10
         },
         {
             "name": "The Aeon Air Pack",
             "sprite": "DP_AeonAir",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 10
         },
         {
             "name": "GDDL 1",
             "sprite": "DP_GDDL1",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 10
         },
         {
             "name": "GDDL 2",
             "sprite": "DP_GDDL2",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 10
         },
         {
             "name": "The Apocalyptic Trilogy",
             "sprite": "DP_ApocalypticTrilogy",
-            "listID": 0,
+            "listID": 207569,
             "official": true,
             "totalLevels": 3
         },
@@ -348,35 +348,35 @@
             "sprite": "DP_Plasma",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 4
         },
         {
             "name": "RGB",
             "sprite": "DP_RGB",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 3
         },
         {
             "name": "The Sonic Series",
             "sprite": "DP_Sonic",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 4
         },
         {
             "name": "The Lightwave Pack",
             "sprite": "DP_Lightwave",
             "listID": 0,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 3
         },
         {
             "name": "Sonic Wave Series",
             "sprite": "DP_SonicWave",
-            "listID": 0,
+            "listID": 207619,
             "official": true,
-            "totalLevels": 25
+            "totalLevels": 5
         },
 
         {
@@ -391,7 +391,7 @@
             "sprite": "DP_Travel",
             "listID": 0,
             "official": false,
-            "totalLevels": 25
+            "totalLevels": 7
         },
         
         {
@@ -399,7 +399,7 @@
             "sprite": "DP_Modder",
             "listID": 0,
             "official": false,
-            "totalLevels": 25
+            "totalLevels": 5
         }
     ],
     "monthly": [
