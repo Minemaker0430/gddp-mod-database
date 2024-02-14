@@ -389,23 +389,23 @@
         {
             "name": "Weary Travellers Pack",
             "sprite": "DP_Travel",
-            "listID": 0,
+            "listID": 208914,
             "official": false,
             "totalLevels": 7
         },
         {
             "name": "The Modder Pack",
             "sprite": "DP_Modder",
-            "listID": 0,
+            "listID": 208916,
             "official": false,
-            "totalLevels": 5
+            "totalLevels": 10
         },
         {
             "name": "The Troll Pack",
             "sprite": "DP_Invisible",
-            "listID": 0,
+            "listID": 208917,
             "official": false,
-            "totalLevels": 5
+            "totalLevels": 3
         }
     ],
     "monthly": [
@@ -585,7 +585,7 @@
             "listID": 0
         }
     ],
-    "bonus-available": false,
+    "bonus-available": true,
     "monthly-available": false,
-    "database-version": 1
+    "database-version": 2
 }
