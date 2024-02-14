@@ -206,42 +206,42 @@
         {
             "name": "Minigame Pack",
             "sprite": "DP_Minigame",
-            "listID": 20733242,
+            "listID": 207332,
             "official": true,
             "totalLevels": 5
         },
         {
             "name": "GD10",
             "sprite": "DP_GD10",
-            "listID": 20734242,
+            "listID": 207342,
             "official": true,
             "totalLevels": 11
         },
         {
             "name": "12 Demons of Christmas (2022)",
             "sprite": "DP_12DoC2022",
-            "listID": 20734542,
+            "listID": 207345,
             "official": true,
             "totalLevels": 12
         },
         {
             "name": "Nine Circles Pack",
             "sprite": "DP_NineCircles",
-            "listID": 20734642,
+            "listID": 207346,
             "official": true,
             "totalLevels": 5
         },
         {
             "name": "Memory Novice",
             "sprite": "DP_MemoryNovice",
-            "listID": 20734942,
+            "listID": 207349,
             "official": true,
             "totalLevels": 5
         },
         {
             "name": "Memory Expert",
             "sprite": "DP_MemoryExpert",
-            "listID": 20735442,
+            "listID": 207354,
             "official": true,
             "totalLevels": 5
         },
