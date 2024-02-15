@@ -421,7 +421,7 @@
             "sprite": "DP_January",
             "month": 1,
             "year": 2024,
-            "listID": 0
+            "listID": 209237
         },
         {
             "name": "Very Cold Pack",
@@ -586,6 +586,6 @@
         }
     ],
     "bonus-available": true,
-    "monthly-available": false,
-    "database-version": 2
+    "monthly-available": true,
+    "database-version": 3
 }
