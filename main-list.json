@@ -456,35 +456,35 @@
             "sprite": "DP_August",
             "month": 8,
             "year": 2023,
-            "listID": 0
+            "listID": 209302
         },
         {
             "name": "Party Pack",
             "sprite": "DP_July",
             "month": 7,
             "year": 2023,
-            "listID": 0
+            "listID": 209304
         },
         {
             "name": "The Tropical Pack",
             "sprite": "DP_June",
             "month": 6,
             "year": 2023,
-            "listID": 0
+            "listID": 209308
         },
         {
             "name": "Maymory Pack",
             "sprite": "DP_May",
             "month": 5,
             "year": 2023,
-            "listID": 0
+            "listID": 209310
         },
         {
             "name": "The Science Pack",
             "sprite": "DP_April",
             "month": 4,
             "year": 2023,
-            "listID": 0
+            "listID": 209311
         },
         {
             "name": "The Bright Pack",
