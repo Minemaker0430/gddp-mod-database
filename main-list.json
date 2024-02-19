@@ -7,7 +7,7 @@
             "listID": 25409,
             "reqLevels": 13,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Bronze",
@@ -16,7 +16,7 @@
             "listID": 25408, 
             "reqLevels": 12,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Silver",
@@ -25,7 +25,7 @@
             "listID": 25406,
             "reqLevels": 11,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Gold",
@@ -34,7 +34,7 @@
             "listID": 25403,
             "reqLevels": 10,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Amber",
@@ -43,7 +43,7 @@
             "listID": 25399,
             "reqLevels": 9,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Platinum",
@@ -52,7 +52,7 @@
             "listID": 24994,
             "reqLevels": 8,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Sapphire",
@@ -61,7 +61,7 @@
             "listID": 24993,
             "reqLevels": 7,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Jade",
@@ -70,7 +70,7 @@
             "listID": 24991,
             "reqLevels": 7,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Emerald",
@@ -79,7 +79,7 @@
             "listID": 24989,
             "reqLevels": 6,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Ruby",
@@ -88,7 +88,7 @@
             "listID": 24986,
             "reqLevels": 5,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Diamond",
@@ -97,7 +97,7 @@
             "listID": 24721,
             "reqLevels": 4,
             "totalLevels": 25,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Onyx",
@@ -106,7 +106,7 @@
             "listID": 24711,
             "reqLevels": 3,
             "totalLevels": 20,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Amethyst",
@@ -115,7 +115,7 @@
             "listID": 24702,
             "reqLevels": 2,
             "totalLevels": 10,
-            "practice": true
+            "practice": false
         },
         {
             "name": "Azurite",
