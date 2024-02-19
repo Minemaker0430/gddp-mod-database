@@ -541,63 +541,63 @@
             "sprite": "DP_October",
             "month": 10,
             "year": 2022,
-            "listID": 0
+            "listID": 217789
         },
         {
             "name": "Tech Pack",
             "sprite": "DP_September",
             "month": 9,
             "year": 2022,
-            "listID": 0
+            "listID": 217793
         },
         {
             "name": "Art Pack",
             "sprite": "DP_August",
             "month": 8,
             "year": 2022,
-            "listID": 0
+            "listID": 217794
         },
         {
             "name": "Design Pack",
             "sprite": "DP_July",
             "month": 7,
             "year": 2022,
-            "listID": 0
+            "listID": 217801
         },
         {
             "name": "Meme Pack",
             "sprite": "DP_June",
             "month": 6,
             "year": 2022,
-            "listID": 0
+            "listID": 217808
         },
         {
             "name": "Japan Pack",
             "sprite": "DP_May",
             "month": 5,
             "year": 2022,
-            "listID": 0
+            "listID": 217810
         },
         {
             "name": "List Demon Pack",
             "sprite": "DP_April",
             "month": 4,
             "year": 2022,
-            "listID": 0
+            "listID": 217811
         },
         {
             "name": "Rjanskdkdorjwbosejwk",
             "sprite": "DP_March",
             "month": 3,
             "year": 2022,
-            "listID": 0
+            "listID": 217815
         },
         {
             "name": "Biohazard Pack",
             "sprite": "DP_February",
             "month": 2,
             "year": 2022,
-            "listID": 0
+            "listID": 217816
         }
     ],
     "bonus-available": true,
