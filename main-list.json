@@ -402,7 +402,7 @@
         },
         {
             "name": "The Troll Pack",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Troll",
             "listID": 208917,
             "official": false,
             "totalLevels": 3
