@@ -392,35 +392,6 @@
             "listID": 207619,
             "official": true,
             "totalLevels": 5
-        },
-
-        {
-            "name": "The CraZy Series",
-            "sprite": "DP_Crazy",
-            "listID": 195310,
-            "official": false,
-            "totalLevels": 3
-        },
-        {
-            "name": "Weary Travellers Pack",
-            "sprite": "DP_Travel",
-            "listID": 208914,
-            "official": false,
-            "totalLevels": 8
-        },
-        {
-            "name": "The Modder Pack",
-            "sprite": "DP_Modder",
-            "listID": 208916,
-            "official": false,
-            "totalLevels": 10
-        },
-        {
-            "name": "The Troll Pack",
-            "sprite": "DP_Troll",
-            "listID": 208917,
-            "official": false,
-            "totalLevels": 3
         }
     ],
     "monthly": [
@@ -602,5 +573,5 @@
     ],
     "bonus-available": true,
     "monthly-available": true,
-    "database-version": 3
+    "database-version": 4
 }
