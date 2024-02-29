@@ -141,73 +141,85 @@
             "name": "Legacy Beginner",
             "sprite": "DP_Beginner",
             "listID": 192942,
-            "totalLevels": 14
+            "totalLevels": 14,
+            "mainPack": 0
         },
         {
             "name": "Legacy Bronze",
             "sprite": "DP_Bronze",
             "listID": 192954,
-            "totalLevels": 12
+            "totalLevels": 12,
+            "mainPack": 1
         },
         {
             "name": "Legacy Silver",
             "sprite": "DP_Silver",
             "listID": 189734,
-            "totalLevels": 15
+            "totalLevels": 15,
+            "mainPack": 2
         },
         {
             "name": "Legacy Gold",
             "sprite": "DP_Gold",
             "listID": 189750,
-            "totalLevels": 16
+            "totalLevels": 16,
+            "mainPack": 3
         },
         {
             "name": "Legacy Amber",
             "sprite": "DP_Amber",
             "listID": 190522,
-            "totalLevels": 11
+            "totalLevels": 11,
+            "mainPack": 4
         },
         {
             "name": "Legacy Platinum",
             "sprite": "DP_Platinum",
             "listID": 161032,
-            "totalLevels": 18
+            "totalLevels": 18,
+            "mainPack": 5
         },
         {
             "name": "Legacy Sapphire",
             "sprite": "DP_Sapphire",
             "listID": 160741,
-            "totalLevels": 4
+            "totalLevels": 4,
+            "mainPack": 6
         },
         {
             "name": "Legacy Jade",
             "sprite": "DP_Jade",
             "listID": 160743,
-            "totalLevels": 4
+            "totalLevels": 4,
+            "mainPack": 7
         },
         {
             "name": "Legacy Emerald",
             "sprite": "DP_Emerald",
             "listID": 160745,
-            "totalLevels": 8
+            "totalLevels": 8,
+            "mainPack": 8
         },
         {
             "name": "Legacy Diamond",
             "sprite": "DP_Diamond",
             "listID": 191548,
-            "totalLevels": 1
+            "totalLevels": 1,
+            "mainPack": 10
         },
         {
             "name": "Legacy Onyx",
             "sprite": "DP_Onyx",
             "listID": 191553,
-            "totalLevels": 1
+            "totalLevels": 1,
+            "mainPack": 11
         },
         {
             "name": "Legacy Amethyst",
             "sprite": "DP_Amethyst",
             "listID": 191555,
-            "totalLevels": 6
+            "totalLevels": 6,
+            "mainPack": 12
         }
     ],
     "bonus": [
