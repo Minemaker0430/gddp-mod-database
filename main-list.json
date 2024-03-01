@@ -408,11 +408,11 @@
     ],
     "monthly": [
         {
-            "name": "TBA",
+            "name": "Industrial Pack",
             "sprite": "DP_March",
             "month": 3,
             "year": 2024,
-            "listID": 0
+            "listID": 236318
         },
         {
             "name": "Valentine Pack",
