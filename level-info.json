@@ -1,0 +1,8 @@
+[
+  [
+    "id": 0, //level id
+    "difficulty": 0, //gddp difficulty as int (0 = beginner, 1 = bronze, etc.)
+    "skills": [], //skillset badges [NYI]
+    "bonus-packs": [] //bonus pack ids the level is in (database id, not list id) [NYI]
+  ]
+]
