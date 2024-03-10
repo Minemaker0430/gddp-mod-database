@@ -5,6 +5,7 @@
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
+            "practiceID": 0,
             "reqLevels": 13,
             "totalLevels": 25,
             "practice": false
@@ -13,7 +14,8 @@
             "name": "Bronze",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
-            "listID": 25408, 
+            "listID": 25408,
+            "practiceID": 0,
             "reqLevels": 12,
             "totalLevels": 25,
             "practice": false
@@ -23,6 +25,7 @@
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
+            "practiceID": 0,
             "reqLevels": 11,
             "totalLevels": 25,
             "practice": false
@@ -32,6 +35,7 @@
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
+            "practiceID": 0,
             "reqLevels": 10,
             "totalLevels": 25,
             "practice": false
@@ -41,6 +45,7 @@
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
+            "practiceID": 0,
             "reqLevels": 9,
             "totalLevels": 25,
             "practice": false
@@ -50,6 +55,7 @@
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
+            "practiceID": 0,
             "reqLevels": 8,
             "totalLevels": 25,
             "practice": false
@@ -59,6 +65,7 @@
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
+            "practiceID": 0,
             "reqLevels": 7,
             "totalLevels": 25,
             "practice": false
@@ -68,6 +75,7 @@
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
+            "practiceID": 0,
             "reqLevels": 7,
             "totalLevels": 25,
             "practice": false
@@ -77,6 +85,7 @@
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
+            "practiceID": 0,
             "reqLevels": 6,
             "totalLevels": 25,
             "practice": false
@@ -86,6 +95,7 @@
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
+            "practiceID": 0,
             "reqLevels": 5,
             "totalLevels": 25,
             "practice": false
@@ -95,6 +105,7 @@
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
+            "practiceID": 0,
             "reqLevels": 4,
             "totalLevels": 25,
             "practice": false
@@ -104,6 +115,7 @@
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
+            "practiceID": 0,
             "reqLevels": 3,
             "totalLevels": 20,
             "practice": false
@@ -113,6 +125,7 @@
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
+            "practiceID": 0,
             "reqLevels": 2,
             "totalLevels": 10,
             "practice": false
@@ -122,6 +135,7 @@
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
+            "practiceID": 0,
             "reqLevels": 1,
             "totalLevels": 7,
             "practice": false
@@ -131,6 +145,7 @@
             "sprite": "DP_Obsidian",
             "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
+            "practiceID": 0,
             "reqLevels": 1,
             "totalLevels": 5,
             "practice": false
