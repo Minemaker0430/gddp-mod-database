@@ -619,5 +619,13 @@
     ],
     "bonus-available": true,
     "monthly-available": true,
-    "database-version": 4
+    "database-version": 4,
+    "level-data": [
+        [
+            "id": 0,
+            "difficulty": 0,
+            "skills": [],
+            "bonus-packs": []
+        ]
+    ]
 }
