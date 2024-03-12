@@ -700,9 +700,6 @@
     "monthly-available": true,
     "database-version": 4,
     "level-data": [
-        "0": {
-            "difficulty": 0,
-            "skills": []
-        }
+        
     ]
 }
