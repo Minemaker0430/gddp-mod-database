@@ -2,6 +2,7 @@
     "main": [
         {
             "name": "Beginner",
+            "description": "",
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
@@ -12,6 +13,7 @@
         },
         {
             "name": "Bronze",
+            "description": "",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 25408,
@@ -22,6 +24,7 @@
         },
         {
             "name": "Silver",
+            "description": "",
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
@@ -32,6 +35,7 @@
         },
         {
             "name": "Gold",
+            "description": "",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
@@ -42,6 +46,7 @@
         },
         {
             "name": "Amber",
+            "description": "",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
@@ -52,6 +57,7 @@
         },
         {
             "name": "Platinum",
+            "description": "",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
@@ -62,6 +68,7 @@
         },
         {
             "name": "Sapphire",
+            "description": "",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
@@ -72,6 +79,7 @@
         },
         {
             "name": "Jade",
+            "description": "",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
@@ -82,6 +90,7 @@
         },
         {
             "name": "Emerald",
+            "description": "",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
@@ -92,6 +101,7 @@
         },
         {
             "name": "Ruby",
+            "description": "",
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
@@ -102,6 +112,7 @@
         },
         {
             "name": "Diamond",
+            "description": "",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
@@ -112,6 +123,7 @@
         },
         {
             "name": "Onyx",
+            "description": "",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
@@ -122,6 +134,7 @@
         },
         {
             "name": "Amethyst",
+            "description": "",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
@@ -132,6 +145,7 @@
         },
         {
             "name": "Azurite",
+            "description": "",
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
@@ -142,6 +156,7 @@
         },
         {
             "name": "Obsidian",
+            "description": "",
             "sprite": "DP_Obsidian",
             "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
@@ -154,6 +169,7 @@
     "legacy": [
         {
             "name": "Legacy Beginner",
+            "description": "",
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 192942,
@@ -162,6 +178,7 @@
         },
         {
             "name": "Legacy Bronze",
+            "description": "",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 192954,
@@ -170,6 +187,7 @@
         },
         {
             "name": "Legacy Silver",
+            "description": "",
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 189734,
@@ -178,6 +196,7 @@
         },
         {
             "name": "Legacy Gold",
+            "description": "",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 189750,
@@ -186,6 +205,7 @@
         },
         {
             "name": "Legacy Amber",
+            "description": "",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 190522,
@@ -194,6 +214,7 @@
         },
         {
             "name": "Legacy Platinum",
+            "description": "",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 161032,
@@ -202,6 +223,7 @@
         },
         {
             "name": "Legacy Sapphire",
+            "description": "",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 160741,
@@ -210,6 +232,7 @@
         },
         {
             "name": "Legacy Jade",
+            "description": "",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 160743,
@@ -218,6 +241,7 @@
         },
         {
             "name": "Legacy Emerald",
+            "description": "",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 160745,
@@ -226,6 +250,7 @@
         },
         {
             "name": "Legacy Diamond",
+            "description": "",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 191548,
@@ -234,6 +259,7 @@
         },
         {
             "name": "Legacy Onyx",
+            "description": "",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 191553,
@@ -242,6 +268,7 @@
         },
         {
             "name": "Legacy Amethyst",
+            "description": "",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 191555,
@@ -252,6 +279,7 @@
     "bonus": [
         {
             "name": "12 Demons of Christmas (2023)",
+            "description": "",
             "sprite": "DP_12DoC2023",
             "listID": 207325,
             "official": true,
@@ -259,6 +287,7 @@
         },
         {
             "name": "Minigame Pack",
+            "description": "",
             "sprite": "DP_Minigame",
             "listID": 207332,
             "official": true,
@@ -266,6 +295,7 @@
         },
         {
             "name": "GD10",
+            "description": "",
             "sprite": "DP_GD10",
             "listID": 251462,
             "official": true,
@@ -273,6 +303,7 @@
         },
         {
             "name": "12 Demons of Christmas (2022)",
+            "description": "",
             "sprite": "DP_12DoC2022",
             "listID": 207345,
             "official": true,
@@ -280,6 +311,7 @@
         },
         {
             "name": "Nine Circles Pack",
+            "description": "",
             "sprite": "DP_NineCircles",
             "listID": 207346,
             "official": true,
@@ -287,6 +319,7 @@
         },
         {
             "name": "Memory Novice",
+            "description": "",
             "sprite": "DP_MemoryNovice",
             "listID": 207349,
             "official": true,
@@ -294,6 +327,7 @@
         },
         {
             "name": "Memory Expert",
+            "description": "",
             "sprite": "DP_MemoryExpert",
             "listID": 207354,
             "official": true,
@@ -301,6 +335,7 @@
         },
         {
             "name": "Memory Master",
+            "description": "",
             "sprite": "DP_MemoryMaster",
             "listID": 207566,
             "official": true,
@@ -308,6 +343,7 @@
         },
         {
             "name": "2P Solo Pack",
+            "description": "",
             "sprite": "DP_2PSolo",
             "listID": 207573,
             "official": true,
@@ -315,6 +351,7 @@
         },
         {
             "name": "Invisible Pack",
+            "description": "",
             "sprite": "DP_Invisible",
             "listID": 207577,
             "official": true,
@@ -322,6 +359,7 @@
         },
         {
             "name": "1.9 GDPS Pack",
+            "description": "",
             "sprite": "DP_19GDPS",
             "listID": 207580,
             "official": true,
@@ -329,6 +367,7 @@
         },
         {
             "name": "XXL",
+            "description": "",
             "sprite": "DP_XXL",
             "listID": 207622,
             "official": true,
@@ -336,6 +375,7 @@
         },
         {
             "name": "The Speedrun Pack",
+            "description": "",
             "sprite": "DP_Speedrun",
             "listID": 207623,
             "official": true,
@@ -343,6 +383,7 @@
         },
         {
             "name": "The Trusta Pack",
+            "description": "",
             "sprite": "DP_Trusta",
             "listID": 207625,
             "official": true,
@@ -350,6 +391,7 @@
         },
         {
             "name": "The Temple Series",
+            "description": "",
             "sprite": "DP_Temple",
             "listID": 207627,
             "official": true,
@@ -357,6 +399,7 @@
         },
         {
             "name": "The Coder Pack",
+            "description": "",
             "sprite": "DP_Coder",
             "listID": 208650,
             "official": true,
@@ -364,6 +407,7 @@
         },
         {
             "name": "Kria Pack",
+            "description": "",
             "sprite": "DP_Kria",
             "listID": 208654,
             "official": true,
@@ -371,6 +415,7 @@
         },
         {
             "name": "The Aeon Air Pack",
+            "description": "",
             "sprite": "DP_AeonAir",
             "listID": 208655,
             "official": true,
@@ -378,6 +423,7 @@
         },
         {
             "name": "GDDL 1",
+            "description": "",
             "sprite": "DP_GDDL1",
             "listID": 208657,
             "official": true,
@@ -385,6 +431,7 @@
         },
         {
             "name": "GDDL 2",
+            "description": "",
             "sprite": "DP_GDDL2",
             "listID": 208658,
             "official": true,
@@ -392,6 +439,7 @@
         },
         {
             "name": "The Apocalyptic Trilogy",
+            "description": "",
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 207569,
             "official": true,
@@ -399,6 +447,7 @@
         },
         {
             "name": "The Plasma Pack",
+            "description": "",
             "sprite": "DP_Plasma",
             "listID": 208659,
             "official": true,
@@ -406,6 +455,7 @@
         },
         {
             "name": "RGB",
+            "description": "",
             "sprite": "DP_RGB",
             "listID": 208662,
             "official": true,
@@ -413,6 +463,7 @@
         },
         {
             "name": "The Sonic Series",
+            "description": "",
             "sprite": "DP_Sonic",
             "listID": 208663,
             "official": true,
@@ -420,6 +471,7 @@
         },
         {
             "name": "The Lightwave Pack",
+            "description": "",
             "sprite": "DP_Lightwave",
             "listID": 208664,
             "official": true,
@@ -427,6 +479,7 @@
         },
         {
             "name": "Sonic Wave Series",
+            "description": "",
             "sprite": "DP_SonicWave",
             "listID": 207619,
             "official": true,
@@ -436,6 +489,7 @@
     "monthly": [
         {
             "name": "Industrial Pack",
+            "description": "",
             "sprite": "DP_March",
             "month": 3,
             "year": 2024,
@@ -443,6 +497,7 @@
         },
         {
             "name": "Valentine Pack",
+            "description": "",
             "sprite": "DP_February",
             "month": 2,
             "year": 2024,
@@ -450,6 +505,7 @@
         },
         {
             "name": "Cosmic Pack",
+            "description": "",
             "sprite": "DP_January",
             "month": 1,
             "year": 2024,
@@ -457,6 +513,7 @@
         },
         {
             "name": "Very Cold Pack",
+            "description": "",
             "sprite": "DP_December",
             "month": 12,
             "year": 2023,
@@ -464,6 +521,7 @@
         },
         {
             "name": "Forest Pack",
+            "description": "",
             "sprite": "DP_November",
             "month": 11,
             "year": 2023,
@@ -471,6 +529,7 @@
         },
         {
             "name": "Horror Pack",
+            "description": "",
             "sprite": "DP_October",
             "month": 10,
             "year": 2023,
@@ -478,6 +537,7 @@
         },
         {
             "name": "Single Gamemode Pack",
+            "description": "",
             "sprite": "DP_September",
             "month": 9,
             "year": 2023,
@@ -485,6 +545,7 @@
         },
         {
             "name": "Alphabet Pack",
+            "description": "",
             "sprite": "DP_August",
             "month": 8,
             "year": 2023,
@@ -492,6 +553,7 @@
         },
         {
             "name": "Party Pack",
+            "description": "",
             "sprite": "DP_July",
             "month": 7,
             "year": 2023,
@@ -499,6 +561,7 @@
         },
         {
             "name": "The Tropical Pack",
+            "description": "",
             "sprite": "DP_June",
             "month": 6,
             "year": 2023,
@@ -506,6 +569,7 @@
         },
         {
             "name": "Maymory Pack",
+            "description": "",
             "sprite": "DP_May",
             "month": 5,
             "year": 2023,
@@ -513,6 +577,7 @@
         },
         {
             "name": "The Science Pack",
+            "description": "",
             "sprite": "DP_April",
             "month": 4,
             "year": 2023,
@@ -520,6 +585,7 @@
         },
         {
             "name": "The Bright Pack",
+            "description": "",
             "sprite": "DP_March",
             "month": 3,
             "year": 2023,
@@ -527,6 +593,7 @@
         },
         {
             "name": "Color Pack",
+            "description": "",
             "sprite": "DP_February",
             "month": 2,
             "year": 2023,
@@ -534,6 +601,7 @@
         },
         {
             "name": "Epic Gamer Pack",
+            "description": "",
             "sprite": "DP_January",
             "month": 1,
             "year": 2023,
@@ -541,6 +609,7 @@
         },
         {
             "name": "Frost Pack",
+            "description": "",
             "sprite": "DP_December",
             "month": 12,
             "year": 2022,
@@ -548,6 +617,7 @@
         },
         {
             "name": "Sky and Dreams Pack",
+            "description": "",
             "sprite": "DP_November",
             "month": 11,
             "year": 2022,
@@ -555,6 +625,7 @@
         },
         {
             "name": "Halloween Pack",
+            "description": "",
             "sprite": "DP_October",
             "month": 10,
             "year": 2022,
@@ -562,6 +633,7 @@
         },
         {
             "name": "Tech Pack",
+            "description": "",
             "sprite": "DP_September",
             "month": 9,
             "year": 2022,
@@ -569,6 +641,7 @@
         },
         {
             "name": "Art Pack",
+            "description": "",
             "sprite": "DP_August",
             "month": 8,
             "year": 2022,
@@ -576,6 +649,7 @@
         },
         {
             "name": "Design Pack",
+            "description": "",
             "sprite": "DP_July",
             "month": 7,
             "year": 2022,
@@ -583,6 +657,7 @@
         },
         {
             "name": "Meme Pack",
+            "description": "",
             "sprite": "DP_June",
             "month": 6,
             "year": 2022,
@@ -590,6 +665,7 @@
         },
         {
             "name": "Japan Pack",
+            "description": "",
             "sprite": "DP_May",
             "month": 5,
             "year": 2022,
@@ -597,6 +673,7 @@
         },
         {
             "name": "List Demon Pack",
+            "description": "",
             "sprite": "DP_April",
             "month": 4,
             "year": 2022,
@@ -604,6 +681,7 @@
         },
         {
             "name": "Rjanskdkdorjwbosejwk",
+            "description": "",
             "sprite": "DP_March",
             "month": 3,
             "year": 2022,
@@ -611,6 +689,7 @@
         },
         {
             "name": "Biohazard Pack",
+            "description": "",
             "sprite": "DP_February",
             "month": 2,
             "year": 2022,
@@ -621,11 +700,9 @@
     "monthly-available": true,
     "database-version": 4,
     "level-data": [
-        {
-            "id": 0,
+        "0": {
             "difficulty": 0,
-            "skills": [],
-            "bonus-packs": []
+            "skills": []
         }
     ]
 }
