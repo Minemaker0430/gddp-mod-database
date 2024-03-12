@@ -2,7 +2,7 @@
     "main": [
         {
             "name": "Beginner",
-            "description": "",
+            "description": "You have now officially started your Geometry Dash grind! By beating 13 Easy Demons you are well prepared to continue down the list!",
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
@@ -13,7 +13,7 @@
         },
         {
             "name": "Bronze",
-            "description": "",
+            "description": "Entering Medium Demon territory. Things are getting a bit harder, and more focus is required. Beat 12 Medium Demons to achieve this rank!",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 25408,
@@ -24,7 +24,7 @@
         },
         {
             "name": "Silver",
-            "description": "",
+            "description": "The Silver tier introduces you to more visibly confusing levels, with a lot of flashing decoration and fake structures. This will definitely come in handy later on!",
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
@@ -35,7 +35,7 @@
         },
         {
             "name": "Gold",
-            "description": "",
+            "description": "Timings are getting tougher, spaces become tighter, but you pushed through! You are now ready to take on the higher end Insane Demons, GL",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
@@ -46,7 +46,7 @@
         },
         {
             "name": "Amber",
-            "description": "",
+            "description": "Like Gold, Insane Demons, but much harder >:D Get this, and you will be well prepared for the Extreme Demons!",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
@@ -57,7 +57,7 @@
         },
         {
             "name": "Platinum",
-            "description": "",
+            "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
@@ -68,7 +68,7 @@
         },
         {
             "name": "Sapphire",
-            "description": "",
+            "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends c:",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
@@ -79,7 +79,7 @@
         },
         {
             "name": "Jade",
-            "description": "",
+            "description": "This tier shows just how far you’ve gone, how far you can go, and how well you’ve done. Congrats and carry on!",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
@@ -90,7 +90,7 @@
         },
         {
             "name": "Emerald",
-            "description": "",
+            "description": "This is not an easy feat. You are now getting used to longer levels, crammed with timings and hard sections! Great Job.",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
@@ -101,7 +101,7 @@
         },
         {
             "name": "Ruby",
-            "description": "",
+            "description": "You have now passed some of the old legendary levels in this game. You show true perseverance and strength!",
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
@@ -112,7 +112,7 @@
         },
         {
             "name": "Diamond",
-            "description": "",
+            "description": "At this point, you are ready for everything. Not a lot of players have the skill or patience to go for this.",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
@@ -123,7 +123,7 @@
         },
         {
             "name": "Onyx",
-            "description": "",
+            "description": "You are now among the top players. This is a great time to thank all your friends and family.",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
@@ -134,7 +134,7 @@
         },
         {
             "name": "Amethyst",
-            "description": "",
+            "description": "You have now proved the impossible. Your skill is unmatched!",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
@@ -145,7 +145,7 @@
         },
         {
             "name": "Azurite",
-            "description": "",
+            "description": "Touch grass",
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
@@ -156,7 +156,7 @@
         },
         {
             "name": "Obsidian",
-            "description": "",
+            "description": "Why?",
             "sprite": "DP_Obsidian",
             "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
@@ -279,7 +279,7 @@
     "bonus": [
         {
             "name": "12 Demons of Christmas (2023)",
-            "description": "",
+            "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
             "listID": 207325,
             "official": true,
@@ -287,7 +287,7 @@
         },
         {
             "name": "Minigame Pack",
-            "description": "",
+            "description": "A pack of minigames.",
             "sprite": "DP_Minigame",
             "listID": 207332,
             "official": true,
@@ -295,7 +295,7 @@
         },
         {
             "name": "GD10",
-            "description": "",
+            "description": "A celebration of Geometry Dash's 10 year anniversary that includes one popular Demon from each year (2013-2023).",
             "sprite": "DP_GD10",
             "listID": 251462,
             "official": true,
@@ -303,7 +303,7 @@
         },
         {
             "name": "12 Demons of Christmas (2022)",
-            "description": "",
+            "description": "Merry Christmas everyone! Each level is chosen by one of our 12 total staff members, and will be released one level at a time, once a day for the 12 days leading up to Christmas.",
             "sprite": "DP_12DoC2022",
             "listID": 207345,
             "official": true,
@@ -311,7 +311,7 @@
         },
         {
             "name": "Nine Circles Pack",
-            "description": "",
+            "description": "Levels inspired by the well known Zobros level.",
             "sprite": "DP_NineCircles",
             "listID": 207346,
             "official": true,
@@ -319,7 +319,7 @@
         },
         {
             "name": "Memory Novice",
-            "description": "",
+            "description": "A stepping stone into more difficult memory demons, with levels varying in updates and styles. These levels will help players get used to memory with varying degrees of learning difficulty and different kinds of memory gameplay.",
             "sprite": "DP_MemoryNovice",
             "listID": 207349,
             "official": true,
@@ -327,7 +327,7 @@
         },
         {
             "name": "Memory Expert",
-            "description": "",
+            "description": "The next step into harder memory demons. This pack includes levels with difficult timings, duals, and other gamemodes alongside memory gameplay.",
             "sprite": "DP_MemoryExpert",
             "listID": 207354,
             "official": true,
@@ -335,7 +335,7 @@
         },
         {
             "name": "Memory Master",
-            "description": "",
+            "description": "This pack contains 8 of the toughest memory demons in the game!",
             "sprite": "DP_MemoryMaster",
             "listID": 207566,
             "official": true,
@@ -343,7 +343,7 @@
         },
         {
             "name": "2P Solo Pack",
-            "description": "",
+            "description": "You better get your brain in gear, because these demons require you to use both hands! Intended for solo completion.",
             "sprite": "DP_2PSolo",
             "listID": 207573,
             "official": true,
@@ -351,7 +351,7 @@
         },
         {
             "name": "Invisible Pack",
-            "description": "",
+            "description": "Geometry Dash, as you've never seen it before. Beat these 5 invisible demons to get the rank!",
             "sprite": "DP_Invisible",
             "listID": 207577,
             "official": true,
@@ -359,7 +359,7 @@
         },
         {
             "name": "1.9 GDPS Pack",
-            "description": "",
+            "description": "A true classic never goes out of style, this pack contains 5 levels made in 2.1 with 1.9 limitations.",
             "sprite": "DP_19GDPS",
             "listID": 207580,
             "official": true,
@@ -367,7 +367,7 @@
         },
         {
             "name": "XXL",
-            "description": "",
+            "description": "These levels are long, very very long. Beat the 5 longest rated levels in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_XXL",
             "listID": 207622,
             "official": true,
@@ -375,7 +375,7 @@
         },
         {
             "name": "The Speedrun Pack",
-            "description": "",
+            "description": "Beat the 5 shortest demons in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_Speedrun",
             "listID": 207623,
             "official": true,
@@ -383,7 +383,7 @@
         },
         {
             "name": "The Trusta Pack",
-            "description": "",
+            "description": " In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
             "sprite": "DP_Trusta",
             "listID": 207625,
             "official": true,
@@ -391,7 +391,7 @@
         },
         {
             "name": "The Temple Series",
-            "description": "",
+            "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank! ",
             "sprite": "DP_Temple",
             "listID": 207627,
             "official": true,
@@ -399,7 +399,7 @@
         },
         {
             "name": "The Coder Pack",
-            "description": "",
+            "description": "A pack by ElohmroW containing his levels along with some of his favorites",
             "sprite": "DP_Coder",
             "listID": 208650,
             "official": true,
@@ -407,7 +407,7 @@
         },
         {
             "name": "Kria Pack",
-            "description": "",
+            "description": "A pack containing the 2 co-owner's favorite levels. #Kria (Krtar and Lia)",
             "sprite": "DP_Kria",
             "listID": 208654,
             "official": true,
@@ -415,7 +415,7 @@
         },
         {
             "name": "The Aeon Air Pack",
-            "description": "",
+            "description": "Beat all of Aeon's rated Demon levels and subscribe to his YouTube channel :)",
             "sprite": "DP_AeonAir",
             "listID": 208655,
             "official": true,
@@ -423,7 +423,7 @@
         },
         {
             "name": "GDDL 1",
-            "description": "",
+            "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL1",
             "listID": 208657,
             "official": true,
@@ -431,7 +431,7 @@
         },
         {
             "name": "GDDL 2",
-            "description": "",
+            "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL2",
             "listID": 208658,
             "official": true,
@@ -439,7 +439,7 @@
         },
         {
             "name": "The Apocalyptic Trilogy",
-            "description": "",
+            "description": "Red hell themed extremes are the best! Beat Cataclysm, Bloodbath and Aftermath.",
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 207569,
             "official": true,
@@ -447,7 +447,7 @@
         },
         {
             "name": "The Plasma Pack",
-            "description": "",
+            "description": "Beat the 4 Plasma Pulse to get this rank!",
             "sprite": "DP_Plasma",
             "listID": 208659,
             "official": true,
@@ -455,7 +455,7 @@
         },
         {
             "name": "RGB",
-            "description": "",
+            "description": "In order to achieve this rank you need to beat Yatagarasu, Erebus and Sonic Wave. The old legendary RGB.",
             "sprite": "DP_RGB",
             "listID": 208662,
             "official": true,
@@ -463,7 +463,7 @@
         },
         {
             "name": "The Sonic Series",
-            "description": "",
+            "description": "Beat the entire Sonic series to get this rank!",
             "sprite": "DP_Sonic",
             "listID": 208663,
             "official": true,
@@ -471,7 +471,7 @@
         },
         {
             "name": "The Lightwave Pack",
-            "description": "",
+            "description": "Infrared, Ultraviolet, Gammaray and.... Microwave? Beat the first 3 mentioned :D",
             "sprite": "DP_Lightwave",
             "listID": 208664,
             "official": true,
@@ -479,7 +479,7 @@
         },
         {
             "name": "Sonic Wave Series",
-            "description": "",
+            "description": "You must really like sonic wave if you want this rank. Beat all rated Sonic Wave remakes!",
             "sprite": "DP_SonicWave",
             "listID": 207619,
             "official": true,
