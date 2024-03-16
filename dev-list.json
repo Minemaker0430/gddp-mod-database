@@ -699,7 +699,10 @@
     "bonus-available": true,
     "monthly-available": true,
     "database-version": 4,
-    "level-data": [
-        
-    ]
+    "level-data": {
+        "0": {
+            "difficulty": 0,
+            "skillsets": []
+        }
+    }
 }
