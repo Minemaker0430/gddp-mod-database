@@ -698,8 +698,762 @@
     ],
     "bonus-available": true,
     "monthly-available": true,
-    "database-version": 4,
-    "level-data": [
+    "database-version": 5,
+    "level-data": {
+        "65765662": {
+            "name": "iS",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "3543219": {
+            "name": "Speed Racer",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "63087691": {
+            "name": "STARPUNK",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "77132030": {
+            "name": "Ratio Circles",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "80433444": {
+            "name": "MAYMORY",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "27143567": {
+            "name": "Voyager",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "78797905": {
+            "name": "anasthasia",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "76821414": {
+            "name": "Zircon",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "86880648": {
+            "name": "Common S3nse",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "7116121": {
+            "name": "Problematic",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "75603568": {
+            "name": "Tabasco",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "17235008": {
+            "name": "X",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "76799716": {
+            "name": "Virtualization",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "38514054": {
+            "name": "Buried Angel",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "76564776": {
+            "name": "weird",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "62067918": {
+            "name": "ClutterX",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "8660411": {
+            "name": "Death Moon",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "68061608": {
+            "name": "NothinG",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "86012792": {
+            "name": "Cosmic Rush",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "3081555": {
+            "name": "Chaoz Impact",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "15619194": {
+            "name": "Motion",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "2997354": {
+            "name": "DeCode",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "27912428": {
+            "name": "wowzers holy",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "81742215": {
+            "name": "Fast N Spicy",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "77428474": {
+            "name": "Bloudeleuste",
+            "difficulty": 0,
+            "skillsets": []
+        },
         
-    ]
+        "70444933": {
+            "name": "Collapse",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "74449": {
+            "name": "hell and heaven",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "62378908": {
+            "name": "Section",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "77492867": {
+            "name": "COLOR CRUSHER",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "27786218": {
+            "name": "Mechanical Showdown",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "78079575": {
+            "name": "Fratura",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "4318253": {
+            "name": "INSERT COIN",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "77614559": {
+            "name": "red dart",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "58002670": {
+            "name": "Sakupen Egg",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "67113181": {
+            "name": "Scarlet Smog",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "86155700": {
+            "name": "Silent ClubX Rebirth",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "62133870": {
+            "name": "Broken Reality",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "7016598": {
+            "name": "Speed of Light II",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "83444471": {
+            "name": "WELL RESTED",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "76158198": {
+            "name": "Gy",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "47853491": {
+            "name": "Tengu Wind",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "14975695": {
+            "name": "Reanimation",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "18834999": {
+            "name": "VeritY",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "86665617": {
+            "name": "Cant Let vulc",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "43010906": {
+            "name": "Hellcat",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "63454942": {
+            "name": "Based",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "23300671": {
+            "name": "Nitrogen",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "25706351": {
+            "name": "HeLL",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "3471703": {
+            "name": "Chaoz Airflow",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "9287687": {
+            "name": "Resurrection",
+            "difficulty": 1,
+            "skillsets": []
+        },
+
+        "52663172": {
+            "name": "Crisis Complex",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "63075323": {
+            "name": "white women",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "60084691": {
+            "name": "in rainbows",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "4284013": {
+            "name": "Nine Circles",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "9718024": {
+            "name": "Creacionist",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "38445559": {
+            "name": "ThermoDynamix",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "62909889": {
+            "name": "RGB",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "7570320": {
+            "name": "Radioactive",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "59315849": {
+            "name": "Double Dash",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "44319716": {
+            "name": "Coarse",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "13643591": {
+            "name": "Ultra Drivers",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "11607707": {
+            "name": "Dance Massacre",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "82015235": {
+            "name": "Lightning Speed",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "64618054": {
+            "name": "Sedulous",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "67461519": {
+            "name": "Pain Elemental",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "1299298": {
+            "name": "Deadly ClubStep",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "65768845": {
+            "name": "At The Top",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "71220097": {
+            "name": "Mastermind",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "42200414": {
+            "name": "Generic",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "7892386": {
+            "name": "Mechanic Megaforce",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "62923992": {
+            "name": "Sparkling Hope",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "62028241": {
+            "name": "Eternelle Vehemence",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "94610370": {
+            "name": "Ring Trick",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "82210980": {
+            "name": "overnight",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "36667269": {
+            "name": "Diffuse",
+            "difficulty": 2,
+            "skillsets": []
+        },
+
+        "4957691": {
+            "name": "Windy Landscape",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "15855959": {
+            "name": "Psychosis",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "67018065": {
+            "name": "TENDO",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "82335470": {
+            "name": "Hell Gate",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "84324862": {
+            "name": "DAMAGE",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "9653767": {
+            "name": "The Four Elements",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "65496280": {
+            "name": "Interstellar Infant",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "7005127": {
+            "name": "Horntail Cave",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "76866307": {
+            "name": "EXG",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "63500550": {
+            "name": "free level",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "68372319": {
+            "name": "CHROMA",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "56568010": {
+            "name": "Magma Bound",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "68983167": {
+            "name": "FFFFFF",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "81748963": {
+            "name": "Through The Aether",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "78602801": {
+            "name": "Ultrachromatic",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "89423740": {
+            "name": "IMOISTAR",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "5155022": {
+            "name": "Acropolis",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "9145341": {
+            "name": "8o",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "75078198": {
+            "name": "Heritage",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "15395840": {
+            "name": "Night Terrors",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "65269826": {
+            "name": "Arcane",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "37011750": {
+            "name": "Hyperio Technia",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "67069282": {
+            "name": "Swirling Fire",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "63245954": {
+            "name": "Cursed Nightmare",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "17312229": {
+            "name": "Sadism",
+            "difficulty": 3,
+            "skillsets": []
+        },
+
+        "75806677": {
+            "name": "Gumshot",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "13579851": {
+            "name": "QuantumWave",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "26441161": {
+            "name": "Flat Major",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "8491232": {
+            "name": "UltraSonic",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "61137742": {
+            "name": "Leyak",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "2241592": {
+            "name": "Necropolis",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "36834813": {
+            "name": "Fiber",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "68662732": {
+            "name": "Achlys",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "61799411": {
+            "name": "MINDBREAKER",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "33405303": {
+            "name": "The Secret Box",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "84064573": {
+            "name": "Cloud Nine",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "61529436": {
+            "name": "arcane ascent",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "65046970": {
+            "name": "Apollo 13",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "18674844": {
+            "name": "Cyber Chaos",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "78385421": {
+            "name": "DVP",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "68688822": {
+            "name": "Ulon",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "61366260": {
+            "name": "Beetle",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "68718751": {
+            "name": "Optic daydream",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "66133800": {
+            "name": "Blaster",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "55454745": {
+            "name": "chancla",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "65894695": {
+            "name": "Elysian Aegis",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "23409681": {
+            "name": "Galaxy Breaker",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "814678": {
+            "name": "ICE Carbon Diablo X",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "79428382": {
+            "name": "MOTHMELONS",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "63915746": {
+            "name": "The End",
+            "difficulty": 4,
+            "skillsets": []
+        },
+
+        "61079355": {
+            "name": "platinum start",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "3979721": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "85933508": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "87481937": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "63775846": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "60708767": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "20761188": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "52527538": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "92782493": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "93549959": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "83801688": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "71728635": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "76931927": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "88172786": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "65561437": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "81944593": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "88853479": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "38550757": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "63433024": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "18697406": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "73005068": {
+            "name": "",
+            "difficulty":  5,
+            "skillsets": []
+        },
+        "65633532": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "88940074": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "60726930": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "84766628": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        }
+    }
 }
