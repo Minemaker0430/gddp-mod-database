@@ -679,7 +679,7 @@
         },
         "3543219": {
             "name": "Speed Racer",
-            "difficulty": 5,
+            "difficulty": 0,
             "skillsets": []
         },
         "63087691": {
@@ -694,11 +694,106 @@
         },
         "80433444": {
             "name": "MAYMORY",
-            "difficulty": 5,
+            "difficulty": 0,
             "skillsets": []
         },
         "27143567": {
             "name": "Voyager",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "78797905": {
+            "name": "anasthasia",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "76821414": {
+            "name": "Zircon",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "86880648": {
+            "name": "Common S3nse",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "7116121": {
+            "name": "Problematic",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "75603568": {
+            "name": "Tabasco",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "17235008": {
+            "name": "X",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "76799716": {
+            "name": "Virtualization",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "38514054": {
+            "name": "Buried Angel",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "76564776": {
+            "name": "weird",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "62067918": {
+            "name": "ClutterX",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "8660411": {
+            "name": "Death Moon",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "68061608": {
+            "name": "NothinG",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "86012792": {
+            "name": "Cosmic Rush",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "3081555": {
+            "name": "Chaoz Impact",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "15619194": {
+            "name": "Motion",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "2997354": {
+            "name": "DeCode",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "27912428": {
+            "name": "wowzers holy",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "81742215": {
+            "name": "Fast N Spicy",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "77428474": {
+            "name": "Bloudeleuste",
             "difficulty": 0,
             "skillsets": []
         }
