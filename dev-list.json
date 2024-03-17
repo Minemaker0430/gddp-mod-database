@@ -701,8 +701,34 @@
     "database-version": 5,
     "level-data": {
         "65765662": {
+            "name": "iS",
             "difficulty": 0,
             "skillsets": []
-        }
+        },
+        "3543219": {
+            "name": "Speed Racer",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "63087691": {
+            "name": "STARPUNK",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "77132030": {
+            "name": "Ratio Circles",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "80433444": {
+            "name": "MAYMORY",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "27143567": {
+            "name": "Voyager",
+            "difficulty": 0,
+            "skillsets": []
+        },
     }
 }
