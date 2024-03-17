@@ -797,6 +797,7 @@
             "difficulty": 0,
             "skillsets": []
         },
+        
         "70444933": {
             "name": "Collapse",
             "difficulty": 1,
@@ -920,6 +921,132 @@
         "9287687": {
             "name": "Resurrection",
             "difficulty": 1,
+            "skillsets": []
+        },
+
+        "52663172": {
+            "name": "Crisis Complex",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "63075323": {
+            "name": "white women",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "60084691": {
+            "name": "in rainbows",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "4284013": {
+            "name": "Nine Circles",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "9718024": {
+            "name": "Creacionist",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "38445559": {
+            "name": "ThermoDynamix",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "62909889": {
+            "name": "RGB",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "7570320": {
+            "name": "Radioactive",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "59315849": {
+            "name": "Double Dash",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "44319716": {
+            "name": "Coarse",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "13643591": {
+            "name": "Ultra Drivers",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "11607707": {
+            "name": "Dance Massacre",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "82015235": {
+            "name": "Lightning Speed",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "64618054": {
+            "name": "Sedulous",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "67461519": {
+            "name": "Pain Elemental",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "1299298": {
+            "name": "Deadly ClubStep",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "65768845": {
+            "name": "At The Top",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "71220097": {
+            "name": "Mastermind",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "42200414": {
+            "name": "Generic",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "7892386": {
+            "name": "Mechanic Megaforce",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "62923992": {
+            "name": "Sparkling Hope",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "62028241": {
+            "name": "Eternelle Vehemence",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "94610370": {
+            "name": "Ring Trick",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "82210980": {
+            "name": "overnight",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "36667269": {
+            "name": "Diffuse",
+            "difficulty": 2,
             "skillsets": []
         }
     }
