@@ -282,7 +282,6 @@
             "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
             "listID": 207325,
-            "official": true,
             "totalLevels": 12
         },
         {
@@ -290,7 +289,6 @@
             "description": "A pack of minigames.",
             "sprite": "DP_Minigame",
             "listID": 207332,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -298,7 +296,6 @@
             "description": "A celebration of Geometry Dash's 10 year anniversary that includes one popular Demon from each year (2013-2023).",
             "sprite": "DP_GD10",
             "listID": 251462,
-            "official": true,
             "totalLevels": 11
         },
         {
@@ -306,7 +303,6 @@
             "description": "Merry Christmas everyone! Each level is chosen by one of our 12 total staff members, and will be released one level at a time, once a day for the 12 days leading up to Christmas.",
             "sprite": "DP_12DoC2022",
             "listID": 207345,
-            "official": true,
             "totalLevels": 12
         },
         {
@@ -314,7 +310,6 @@
             "description": "Levels inspired by the well known Zobros level.",
             "sprite": "DP_NineCircles",
             "listID": 207346,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -322,7 +317,6 @@
             "description": "A stepping stone into more difficult memory demons, with levels varying in updates and styles. These levels will help players get used to memory with varying degrees of learning difficulty and different kinds of memory gameplay.",
             "sprite": "DP_MemoryNovice",
             "listID": 207349,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -330,7 +324,6 @@
             "description": "The next step into harder memory demons. This pack includes levels with difficult timings, duals, and other gamemodes alongside memory gameplay.",
             "sprite": "DP_MemoryExpert",
             "listID": 207354,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -338,7 +331,6 @@
             "description": "This pack contains 8 of the toughest memory demons in the game!",
             "sprite": "DP_MemoryMaster",
             "listID": 207566,
-            "official": true,
             "totalLevels": 8
         },
         {
@@ -346,7 +338,6 @@
             "description": "You better get your brain in gear, because these demons require you to use both hands! Intended for solo completion.",
             "sprite": "DP_2PSolo",
             "listID": 207573,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -354,7 +345,6 @@
             "description": "Geometry Dash, as you've never seen it before. Beat these 5 invisible demons to get the rank!",
             "sprite": "DP_Invisible",
             "listID": 207577,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -362,7 +352,6 @@
             "description": "A true classic never goes out of style, this pack contains 5 levels made in 2.1 with 1.9 limitations.",
             "sprite": "DP_19GDPS",
             "listID": 207580,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -370,7 +359,6 @@
             "description": "These levels are long, very very long. Beat the 5 longest rated levels in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_XXL",
             "listID": 207622,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -378,7 +366,6 @@
             "description": "Beat the 5 shortest demons in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_Speedrun",
             "listID": 207623,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -386,7 +373,6 @@
             "description": " In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
             "sprite": "DP_Trusta",
             "listID": 207625,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -394,7 +380,6 @@
             "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank! ",
             "sprite": "DP_Temple",
             "listID": 207627,
-            "official": true,
             "totalLevels": 6
         },
         {
@@ -402,7 +387,6 @@
             "description": "A pack by ElohmroW containing his levels along with some of his favorites",
             "sprite": "DP_Coder",
             "listID": 208650,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -410,7 +394,6 @@
             "description": "A pack containing the 2 co-owner's favorite levels. #Kria (Krtar and Lia)",
             "sprite": "DP_Kria",
             "listID": 208654,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -418,7 +401,6 @@
             "description": "Beat all of Aeon's rated Demon levels and subscribe to his YouTube channel :)",
             "sprite": "DP_AeonAir",
             "listID": 208655,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -426,7 +408,6 @@
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL1",
             "listID": 208657,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -434,7 +415,6 @@
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL2",
             "listID": 208658,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -442,7 +422,6 @@
             "description": "Red hell themed extremes are the best! Beat Cataclysm, Bloodbath and Aftermath.",
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 207569,
-            "official": true,
             "totalLevels": 3
         },
         {
@@ -450,7 +429,6 @@
             "description": "Beat the 4 Plasma Pulse to get this rank!",
             "sprite": "DP_Plasma",
             "listID": 208659,
-            "official": true,
             "totalLevels": 4
         },
         {
@@ -458,7 +436,6 @@
             "description": "In order to achieve this rank you need to beat Yatagarasu, Erebus and Sonic Wave. The old legendary RGB.",
             "sprite": "DP_RGB",
             "listID": 208662,
-            "official": true,
             "totalLevels": 3
         },
         {
@@ -466,7 +443,6 @@
             "description": "Beat the entire Sonic series to get this rank!",
             "sprite": "DP_Sonic",
             "listID": 208663,
-            "official": true,
             "totalLevels": 4
         },
         {
@@ -474,7 +450,6 @@
             "description": "Infrared, Ultraviolet, Gammaray and.... Microwave? Beat the first 3 mentioned :D",
             "sprite": "DP_Lightwave",
             "listID": 208664,
-            "official": true,
             "totalLevels": 3
         },
         {
@@ -482,7 +457,6 @@
             "description": "You must really like sonic wave if you want this rank. Beat all rated Sonic Wave remakes!",
             "sprite": "DP_SonicWave",
             "listID": 207619,
-            "official": true,
             "totalLevels": 5
         }
     ],
@@ -696,8 +670,6 @@
             "listID": 217816
         }
     ],
-    "bonus-available": true,
-    "monthly-available": true,
     "database-version": 5,
     "level-data": {
         "65765662": {
