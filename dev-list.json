@@ -1048,6 +1048,144 @@
             "name": "Diffuse",
             "difficulty": 2,
             "skillsets": []
-        }
+        },
+
+        "4957691": {
+            "name": "Windy Landscape",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "15855959": {
+            "name": "Psychosis",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "67018065": {
+            "name": "TENDO",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "82335470": {
+            "name": "Hell Gate",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "84324862": {
+            "name": "DAMAGE",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "9653767": {
+            "name": "The Four Elements",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "65496280": {
+            "name": "Interstellar Infant",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "7005127": {
+            "name": "Horntail Cave",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "76866307": {
+            "name": "EXG",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "63500550": {
+            "name": "free level",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "68372319": {
+            "name": "CHROMA",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "56568010": {
+            "name": "Magma Bound",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "68983167": {
+            "name": "FFFFFF",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "81748963": {
+            "name": "Through The Aether",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "78602801": {
+            "name": "Ultrachromatic",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "89423740": {
+            "name": "IMOISTAR",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "5155022": {
+            "name": "Acropolis",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "9145341": {
+            "name": "8o",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "75078198": {
+            "name": "Heritage",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "15395840": {
+            "name": "Night Terrors",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "65269826": {
+            "name": "Arcane",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "37011750": {
+            "name": "Hyperio Technia",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "67069282": {
+            "name": "Swirling Fire",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "63245954": {
+            "name": "Cursed Nightmare",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "17312229": {
+            "name": "Sadism",
+            "difficulty": 3,
+            "skillsets": []
+        },
+
+        "amber": [],
+        "platinum": [],
+        "sapphire": [],
+        "jade": [],
+        "emerald": [],
+        "ruby": [],
+        "diamond": [],
+        "onyx": [],
+        "amethyst": [],
+        "azurite": [],
+        "obsidian": []
     }
 }
