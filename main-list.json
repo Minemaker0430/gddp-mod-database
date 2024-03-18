@@ -1454,6 +1454,472 @@
             "name": "",
             "difficulty": 5,
             "skillsets": []
+        },
+
+        "83570278": {
+            "name": "sapphire start",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "84829178": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "30194711": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "82148336": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "83357887": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "33748382": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "57390806": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "54588072": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "81281891": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "63354496": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "59899374": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "68848817": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "64148732": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "70252932": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "10565740": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "23262780": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "57520174": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "61132346": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "70406732": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "83340498": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "68193306": {
+            "name": "",
+            "difficulty":  6,
+            "skillsets": []
+        },
+        "59933468": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "35448603": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "90597607": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "19759411": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+
+        "60289382": {
+            "name": "jade start",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "79665466": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "91267754": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "36107975": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "57047374": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "85317764": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "97235578": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "41149984": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "69507105": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "70484097": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "58507437": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "67569996": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "26133601": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "33387622": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "81548163": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "78248443": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "58417850": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "55385816": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "78007735": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "57121503": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "44773500": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "73733373": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "61531210": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "38235367": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "81429222": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+
+        "65588448": {
+            "name": "onyx start",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "54953085": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "69333212": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "88611404": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "78435955": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "58673581": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "52374843": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "95176417": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "93339534": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "93917362": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "75286957": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "76543324": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "60978746": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "71434979": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "59075347": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "72744364": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "71025973": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "72315402": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "89187968": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+        "81139702": {
+            "name": "",
+            "difficulty": 11,
+            "skillsets": []
+        },
+
+        "86084399": {
+            "name": "amethyst start",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "93091893": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "89414220": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "75206202": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "76962930": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "4125776": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "49896559": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "86018142": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "27690100": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "73667628": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+
+        "61775814": {
+            "name": "azurite start",
+            "difficulty": 13,
+            "skillsets": []
+        },
+        "101140159": {
+            "name": "",
+            "difficulty": 13,
+            "skillsets": []
+        },
+        "69135570": {
+            "name": "",
+            "difficulty": 13,
+            "skillsets": []
+        },
+        "86407629": {
+            "name": "",
+            "difficulty": 13,
+            "skillsets": []
+        },
+        "62912799": {
+            "name": "",
+            "difficulty": 13,
+            "skillsets": []
+        },
+        "73902225": {
+            "name": "",
+            "difficulty": 13,
+            "skillsets": []
+        },
+        "66422816": {
+            "name": "",
+            "difficulty": 13,
+            "skillsets": []
+        },
+
+        "85176381": {
+            "name": "obsidian start",
+            "difficulty": 14,
+            "skillsets": []
+        },
+        "66424234": {
+            "name": "",
+            "difficulty": 14,
+            "skillsets": []
+        },
+        "77049802": {
+            "name": "",
+            "difficulty": 14,
+            "skillsets": []
+        },
+        "77331805": {
+            "name": "",
+            "difficulty": 14,
+            "skillsets": []
+        },
+        "78614226": {
+            "name": "",
+            "difficulty": 14,
+            "skillsets": []
         }
     }
 }
