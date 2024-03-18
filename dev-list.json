@@ -1932,6 +1932,132 @@
             "skillsets": []
         },
 
+        "52919433": {
+            "name": "diamond start",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "46763581": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "68353244": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "92466083": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "77681476": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "60564010": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "90891227": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "86412942": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "76865589": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "86787878": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "42584142": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "57828784": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "68654380": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "90597202": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "55624478": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "91180835": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "71912451": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "52310333": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "57600307": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "94156085": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "58355141": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "58161496": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "45866767": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "33498127": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "75813671": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+
         "65588448": {
             "name": "onyx start",
             "difficulty": 11,
@@ -2146,6 +2272,20 @@
             "skillsets": []
         },
         
-        "diamond": ["52919433", "46763581", "68353244", "92466083", "77681476", "60564010", "90891227", "86412942", "76865589", "86787878", "42584142", "57828784", "68654380", "90597202", "55624478", "91180835", "71912451", "52310333", "57600307", "94156085", "58355141", "58161496", "45866767", "33498127", "75813671"]
+        "legacy-beginner": [],
+        "legacy-bronze": [],
+        "legacy-silver": [],
+        "legacy-gold": [],
+        "legacy-amber": [],
+        "legacy-platinum": [],
+        "legacy-sapphire": [],
+        "legacy-jade": [],
+        "legacy-emerald": [],
+        "legacy-ruby": [],
+        "legacy-diamond": [],
+        "legacy-onyx": [],
+        "legacy-amethyst": [],
+        "legacy-azurite": [],
+        "legacy-obsidian": []
     }
 }
