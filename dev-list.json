@@ -2271,6 +2271,37 @@
             "difficulty": 14,
             "skillsets": []
         },
+
+        "96978035": {
+            "name": "march 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "80754589": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "66521174": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "5748587": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "84265500": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "92299438": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
         
         "legacy-beginner": [],
         "legacy-bronze": [],
