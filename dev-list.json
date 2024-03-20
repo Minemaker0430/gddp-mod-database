@@ -9,7 +9,7 @@
             "practiceID": 0,
             "reqLevels": 13,
             "totalLevels": 25,
-            "practice": false
+            "practice": true
         },
         {
             "name": "Bronze",
