@@ -169,7 +169,7 @@
     "legacy": [
         {
             "name": "Legacy Beginner",
-            "description": "",
+            "description": "Levels that used to be in the Beginner Tier.",
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 192942,
@@ -178,7 +178,7 @@
         },
         {
             "name": "Legacy Bronze",
-            "description": "",
+            "description": "Levels that used to be in the Bronze Tier.",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 192954,
@@ -187,7 +187,7 @@
         },
         {
             "name": "Legacy Silver",
-            "description": "",
+            "description": "Levels that used to be in the Silver Tier.",
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 189734,
@@ -196,7 +196,7 @@
         },
         {
             "name": "Legacy Gold",
-            "description": "",
+            "description": "Levels that used to be in the Gold Tier.",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 189750,
@@ -205,7 +205,7 @@
         },
         {
             "name": "Legacy Amber",
-            "description": "",
+            "description": "Levels that used to be in the Amber Tier.",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 190522,
@@ -214,7 +214,7 @@
         },
         {
             "name": "Legacy Platinum",
-            "description": "",
+            "description": "Levels that used to be in the Platinum Tier.",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 161032,
@@ -223,7 +223,7 @@
         },
         {
             "name": "Legacy Sapphire",
-            "description": "",
+            "description": "Levels that used to be in the Sapphire Tier.",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 160741,
@@ -232,7 +232,7 @@
         },
         {
             "name": "Legacy Jade",
-            "description": "",
+            "description": "Levels that used to be in the Jade Tier.",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 160743,
@@ -241,7 +241,7 @@
         },
         {
             "name": "Legacy Emerald",
-            "description": "",
+            "description": "Levels that used to be in the Emerald Tier.",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 160745,
@@ -250,7 +250,7 @@
         },
         {
             "name": "Legacy Diamond",
-            "description": "",
+            "description": "Levels that used to be in the Diamond Tier.",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 191548,
@@ -259,7 +259,7 @@
         },
         {
             "name": "Legacy Onyx",
-            "description": "",
+            "description": "Levels that used to be in the Onyx Tier.",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 191553,
@@ -268,7 +268,7 @@
         },
         {
             "name": "Legacy Amethyst",
-            "description": "",
+            "description": "Levels that used to be in the Amethyst Tier.",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 191555,
@@ -282,7 +282,6 @@
             "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
             "listID": 207325,
-            "official": true,
             "totalLevels": 12
         },
         {
@@ -290,7 +289,6 @@
             "description": "A pack of minigames.",
             "sprite": "DP_Minigame",
             "listID": 207332,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -298,7 +296,6 @@
             "description": "A celebration of Geometry Dash's 10 year anniversary that includes one popular Demon from each year (2013-2023).",
             "sprite": "DP_GD10",
             "listID": 251462,
-            "official": true,
             "totalLevels": 11
         },
         {
@@ -306,7 +303,6 @@
             "description": "Merry Christmas everyone! Each level is chosen by one of our 12 total staff members, and will be released one level at a time, once a day for the 12 days leading up to Christmas.",
             "sprite": "DP_12DoC2022",
             "listID": 207345,
-            "official": true,
             "totalLevels": 12
         },
         {
@@ -314,7 +310,6 @@
             "description": "Levels inspired by the well known Zobros level.",
             "sprite": "DP_NineCircles",
             "listID": 207346,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -322,7 +317,6 @@
             "description": "A stepping stone into more difficult memory demons, with levels varying in updates and styles. These levels will help players get used to memory with varying degrees of learning difficulty and different kinds of memory gameplay.",
             "sprite": "DP_MemoryNovice",
             "listID": 207349,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -330,7 +324,6 @@
             "description": "The next step into harder memory demons. This pack includes levels with difficult timings, duals, and other gamemodes alongside memory gameplay.",
             "sprite": "DP_MemoryExpert",
             "listID": 207354,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -338,7 +331,6 @@
             "description": "This pack contains 8 of the toughest memory demons in the game!",
             "sprite": "DP_MemoryMaster",
             "listID": 207566,
-            "official": true,
             "totalLevels": 8
         },
         {
@@ -346,7 +338,6 @@
             "description": "You better get your brain in gear, because these demons require you to use both hands! Intended for solo completion.",
             "sprite": "DP_2PSolo",
             "listID": 207573,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -354,7 +345,6 @@
             "description": "Geometry Dash, as you've never seen it before. Beat these 5 invisible demons to get the rank!",
             "sprite": "DP_Invisible",
             "listID": 207577,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -362,7 +352,6 @@
             "description": "A true classic never goes out of style, this pack contains 5 levels made in 2.1 with 1.9 limitations.",
             "sprite": "DP_19GDPS",
             "listID": 207580,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -370,7 +359,6 @@
             "description": "These levels are long, very very long. Beat the 5 longest rated levels in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_XXL",
             "listID": 207622,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -378,7 +366,6 @@
             "description": "Beat the 5 shortest demons in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_Speedrun",
             "listID": 207623,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -386,7 +373,6 @@
             "description": " In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
             "sprite": "DP_Trusta",
             "listID": 207625,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -394,7 +380,6 @@
             "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank! ",
             "sprite": "DP_Temple",
             "listID": 207627,
-            "official": true,
             "totalLevels": 6
         },
         {
@@ -402,7 +387,6 @@
             "description": "A pack by ElohmroW containing his levels along with some of his favorites",
             "sprite": "DP_Coder",
             "listID": 208650,
-            "official": true,
             "totalLevels": 5
         },
         {
@@ -410,7 +394,6 @@
             "description": "A pack containing the 2 co-owner's favorite levels. #Kria (Krtar and Lia)",
             "sprite": "DP_Kria",
             "listID": 208654,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -418,7 +401,6 @@
             "description": "Beat all of Aeon's rated Demon levels and subscribe to his YouTube channel :)",
             "sprite": "DP_AeonAir",
             "listID": 208655,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -426,7 +408,6 @@
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL1",
             "listID": 208657,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -434,7 +415,6 @@
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL2",
             "listID": 208658,
-            "official": true,
             "totalLevels": 10
         },
         {
@@ -442,7 +422,6 @@
             "description": "Red hell themed extremes are the best! Beat Cataclysm, Bloodbath and Aftermath.",
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 207569,
-            "official": true,
             "totalLevels": 3
         },
         {
@@ -450,7 +429,6 @@
             "description": "Beat the 4 Plasma Pulse to get this rank!",
             "sprite": "DP_Plasma",
             "listID": 208659,
-            "official": true,
             "totalLevels": 4
         },
         {
@@ -458,7 +436,6 @@
             "description": "In order to achieve this rank you need to beat Yatagarasu, Erebus and Sonic Wave. The old legendary RGB.",
             "sprite": "DP_RGB",
             "listID": 208662,
-            "official": true,
             "totalLevels": 3
         },
         {
@@ -466,7 +443,6 @@
             "description": "Beat the entire Sonic series to get this rank!",
             "sprite": "DP_Sonic",
             "listID": 208663,
-            "official": true,
             "totalLevels": 4
         },
         {
@@ -474,7 +450,6 @@
             "description": "Infrared, Ultraviolet, Gammaray and.... Microwave? Beat the first 3 mentioned :D",
             "sprite": "DP_Lightwave",
             "listID": 208664,
-            "official": true,
             "totalLevels": 3
         },
         {
@@ -482,14 +457,13 @@
             "description": "You must really like sonic wave if you want this rank. Beat all rated Sonic Wave remakes!",
             "sprite": "DP_SonicWave",
             "listID": 207619,
-            "official": true,
             "totalLevels": 5
         }
     ],
     "monthly": [
         {
             "name": "Industrial Pack",
-            "description": "",
+            "description": "We present to you the Industrial Pack! (GDDP Monthly Pack for March 2024)",
             "sprite": "DP_March",
             "month": 3,
             "year": 2024,
@@ -696,9 +670,7 @@
             "listID": 217816
         }
     ],
-    "bonus-available": true,
-    "monthly-available": true,
-    "database-version": 5,
+    "database-version": 6,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2328,6 +2300,563 @@
         "92299438": {
             "name": "",
             "difficulty": 5,
+            "skillsets": []
+        },
+
+        "67904095": {
+            "name": "legacy beginner start",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "58356766": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "59331033": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "72184562": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "97557638": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "97557632": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "57307363": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "56587109": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "68337412": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "33244195": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "11317271": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "74735688": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "5439175": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "61357205": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+
+        "27024880": {
+            "name": "legacy bronze start",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "5875660": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "5433594": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "97557640": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "30157349": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "16500835": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "7705437": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "47611766": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "33618850": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "23595034": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "58939191": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "18994125": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+
+        "62521060": {
+            "name": "legacy silver start",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "4218933": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "30944062": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "4158642": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "60869851": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "3273541": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "40945673": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "4524796": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "7075386": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "4744205": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "6487910": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "7079009": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "56509088": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "8693225": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "64161645": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+
+        "13437081": {
+            "name": "legacy gold start",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "18286611": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "8237474": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "82749804": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "7054561": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "61067595": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "57429286": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "27721246": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "10288836": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "10533089": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "51489522": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "57179323": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "7564845": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "9819675": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "16272616": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "42208264": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+
+        "68786602": {
+            "name": "legacy amber start",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "19719196": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "13457056": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "60129422": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "73725400": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "25147297": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "9700312": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "40299716": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "21256194": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "34386347": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "26512451": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+
+        "69459902": {
+            "name": "legacy platinum start",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "36449129": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "64239577": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "39458641": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "78831233": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "30219145": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "60197839": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "32688321": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "48454650": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "76196489": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "51393047": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "62809982": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "75518661": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "7174110": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "34379100": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "32920197": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "60480035": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+        "48020496": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+
+        "57559425": {
+            "name": "legacy sapphire start",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "62551239": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "20077821": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+        "60257058": {
+            "name": "",
+            "difficulty": 6,
+            "skillsets": []
+        },
+
+        "46249401": {
+            "name": "legacy jade start",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "55224007": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "57430694": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+        "68323859": {
+            "name": "",
+            "difficulty": 7,
+            "skillsets": []
+        },
+
+        "61127840": {
+            "name": "legacy emerald start",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "70187443": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "27580467": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "74343352": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "34489220": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "58306889": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "72873416": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+        "60603962": {
+            "name": "",
+            "difficulty": 8,
+            "skillsets": []
+        },
+
+        "63996127": {
+            "name": "legacy diamond start",
+            "difficulty": 10,
+            "skillsets": []
+        },
+
+        "69685815": {
+            "name": "legacy onyx start",
+            "difficulty": 11,
+            "skillsets": []
+        },
+
+        "73214186": {
+            "name": "legacy amethyst start",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "88216956": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "67073198": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "32568089": {
+            "name": "",
+            "difficulty": 12,
+            "skillsets": []
+        },
+        "48991380": {
+            "name": "",
+            "difficulty": 12,
             "skillsets": []
         }
     }
