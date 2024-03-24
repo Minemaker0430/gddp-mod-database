@@ -169,7 +169,7 @@
     "legacy": [
         {
             "name": "Legacy Beginner",
-            "description": "",
+            "description": "Levels that used to be in the Beginner Tier.",
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 192942,
@@ -178,7 +178,7 @@
         },
         {
             "name": "Legacy Bronze",
-            "description": "",
+            "description": "Levels that used to be in the Bronze Tier.",
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 192954,
@@ -187,7 +187,7 @@
         },
         {
             "name": "Legacy Silver",
-            "description": "",
+            "description": "Levels that used to be in the Silver Tier.",
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 189734,
@@ -196,7 +196,7 @@
         },
         {
             "name": "Legacy Gold",
-            "description": "",
+            "description": "Levels that used to be in the Gold Tier.",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 189750,
@@ -205,7 +205,7 @@
         },
         {
             "name": "Legacy Amber",
-            "description": "",
+            "description": "Levels that used to be in the Amber Tier.",
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 190522,
@@ -214,7 +214,7 @@
         },
         {
             "name": "Legacy Platinum",
-            "description": "",
+            "description": "Levels that used to be in the Platinum Tier.",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 161032,
@@ -223,7 +223,7 @@
         },
         {
             "name": "Legacy Sapphire",
-            "description": "",
+            "description": "Levels that used to be in the Sapphire Tier.",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 160741,
@@ -232,7 +232,7 @@
         },
         {
             "name": "Legacy Jade",
-            "description": "",
+            "description": "Levels that used to be in the Jade Tier.",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 160743,
@@ -241,7 +241,7 @@
         },
         {
             "name": "Legacy Emerald",
-            "description": "",
+            "description": "Levels that used to be in the Emerald Tier.",
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 160745,
@@ -250,7 +250,7 @@
         },
         {
             "name": "Legacy Diamond",
-            "description": "",
+            "description": "Levels that used to be in the Diamond Tier.",
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 191548,
@@ -259,7 +259,7 @@
         },
         {
             "name": "Legacy Onyx",
-            "description": "",
+            "description": "Levels that used to be in the Onyx Tier.",
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 191553,
@@ -268,7 +268,7 @@
         },
         {
             "name": "Legacy Amethyst",
-            "description": "",
+            "description": "Levels that used to be in the Amethyst Tier.",
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 191555,
@@ -463,7 +463,7 @@
     "monthly": [
         {
             "name": "Industrial Pack",
-            "description": "",
+            "description": "We present to you the Industrial Pack! (GDDP Monthly Pack for March 2024)",
             "sprite": "DP_March",
             "month": 3,
             "year": 2024,
