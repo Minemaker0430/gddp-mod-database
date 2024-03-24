@@ -2860,10 +2860,210 @@
             "skillsets": []
         },
 
-        "12doc2023": ["6939821", "78407103", "88127208", "94763624", "93048524", "77884727", "67818901", "19564763", "78528225", "92751949", "15576803", "5673017"],
-        "minigame": ["70205233", "72325448", "51875825", "71565140", "71734488"],
-        "gd10": ["10109", "413504", "10229235", "26727028", "30533157", "47620786", "56946102", "65044525", "68408784", "77292103", "90475473"],
-        "12doc2022": ["17233618", "72810041", "64697194", "4245095", "79691289", "70554172", "82804029", "41287705", "73963102", "14850167", "72024993", "56455318"],
+        "6939821": {
+            "name": "12doc 2023 start",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "78407103": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "88127208": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "94763624": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "93048524": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "77884727": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "67818901": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "19564763": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "78528225": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "92751949": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "15576803": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "5673017": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+
+        "70205233": {
+            "name": "minigame start",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "72325448": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "51875825": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "71565140": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "71734488": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        },
+
+        "10109": {
+            "name": "gd10 start",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "413504": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "10229235": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "26727028": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "30533157": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "47620786": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "56946102": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "65044525": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "68408784": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "77292103": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "90475473": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+
+        "17233618": {
+            "name": "12doc 2022 start",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "72810041": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "64697194": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "4245095": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "79691289": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "70554172": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "82804029": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "41287705": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "73963102": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "14850167": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "72024993": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "56455318": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+
         "nine-circles": ["77132030", "10972106", "63842337", "64612787", "88853479"],
         "memory-novice": ["2488223", "77492867", "5118127", "68984570", "52210597"],
         "memory-expert": ["27919097", "58996624", "81189627", "68051532", "52448794"],
