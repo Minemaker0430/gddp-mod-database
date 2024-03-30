@@ -6,10 +6,10 @@
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
-            "practiceID": 0,
+            "practiceID": 276956,
             "reqLevels": 13,
             "totalLevels": 25,
-            "practice": false
+            "practice": true
         },
         {
             "name": "Bronze",
@@ -28,10 +28,10 @@
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
-            "practiceID": 0,
+            "practiceID": 277761,
             "reqLevels": 11,
             "totalLevels": 25,
-            "practice": false
+            "practice": true
         },
         {
             "name": "Gold",
@@ -39,10 +39,10 @@
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
-            "practiceID": 0,
+            "practiceID": 273409,
             "reqLevels": 10,
             "totalLevels": 25,
-            "practice": false
+            "practice": true
         },
         {
             "name": "Amber",
@@ -670,7 +670,7 @@
             "listID": 217816
         }
     ],
-    "database-version": 6,
+    "database-version": 7,
     "level-data": {
         "65765662": {
             "name": "iS",
