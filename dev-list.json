@@ -462,6 +462,14 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "",
+            "sprite": "DP_Invisible",
+            "month": 4,
+            "year": 2024,
+            "listID": 0
+        },
+        {
             "name": "Industrial Pack",
             "description": "We present to you the Industrial Pack! (GDDP Monthly Pack for March 2024)",
             "sprite": "DP_Invisible",
