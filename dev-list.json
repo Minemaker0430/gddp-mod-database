@@ -4,7 +4,7 @@
             "name": "",
             "description": "You have now officially started your Geometry Dash grind! By beating 13 Easy Demons you are well prepared to continue down the list!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 25409,
             "practiceID": 276956,
             "reqLevels": 13,
@@ -15,7 +15,7 @@
             "name": "",
             "description": "Entering Medium Demon territory. Things are getting a bit harder, and more focus is required. Beat 12 Medium Demons to achieve this rank!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 25408,
             "practiceID": 0,
             "reqLevels": 12,
@@ -26,7 +26,7 @@
             "name": "",
             "description": "The Silver tier introduces you to more visibly confusing levels, with a lot of flashing decoration and fake structures. This will definitely come in handy later on!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 25406,
             "practiceID": 277761,
             "reqLevels": 11,
@@ -37,7 +37,7 @@
             "name": "",
             "description": "Timings are getting tougher, spaces become tighter, but you pushed through! You are now ready to take on the higher end Insane Demons, GL",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 25403,
             "practiceID": 273409,
             "reqLevels": 10,
@@ -48,7 +48,7 @@
             "name": "",
             "description": "Like Gold, Insane Demons, but much harder >:D Get this, and you will be well prepared for the Extreme Demons!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 25399,
             "practiceID": 0,
             "reqLevels": 9,
@@ -59,7 +59,7 @@
             "name": "",
             "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24994,
             "practiceID": 0,
             "reqLevels": 8,
@@ -70,7 +70,7 @@
             "name": "",
             "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends c:",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24993,
             "practiceID": 0,
             "reqLevels": 7,
@@ -81,7 +81,7 @@
             "name": "",
             "description": "This tier shows just how far you’ve gone, how far you can go, and how well you’ve done. Congrats and carry on!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24991,
             "practiceID": 0,
             "reqLevels": 7,
@@ -92,7 +92,7 @@
             "name": "",
             "description": "This is not an easy feat. You are now getting used to longer levels, crammed with timings and hard sections! Great Job.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24989,
             "practiceID": 0,
             "reqLevels": 6,
@@ -103,7 +103,7 @@
             "name": "",
             "description": "You have now passed some of the old legendary levels in this game. You show true perseverance and strength!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24986,
             "practiceID": 0,
             "reqLevels": 5,
@@ -114,7 +114,7 @@
             "name": "",
             "description": "At this point, you are ready for everything. Not a lot of players have the skill or patience to go for this.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24721,
             "practiceID": 0,
             "reqLevels": 4,
@@ -125,7 +125,7 @@
             "name": "",
             "description": "You are now among the top players. This is a great time to thank all your friends and family.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24711,
             "practiceID": 0,
             "reqLevels": 3,
@@ -136,7 +136,7 @@
             "name": "",
             "description": "You have now proved the impossible. Your skill is unmatched!",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24702,
             "practiceID": 0,
             "reqLevels": 2,
@@ -147,7 +147,7 @@
             "name": "",
             "description": "Touch grass",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24694,
             "practiceID": 0,
             "reqLevels": 1,
@@ -158,7 +158,7 @@
             "name": "",
             "description": "Why?",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 24687,
             "practiceID": 0,
             "reqLevels": 1,
@@ -171,7 +171,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 192942,
             "totalLevels": 14,
             "mainPack": 0
@@ -180,7 +180,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 192954,
             "totalLevels": 12,
             "mainPack": 1
@@ -189,7 +189,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 189734,
             "totalLevels": 15,
             "mainPack": 2
@@ -198,7 +198,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 189750,
             "totalLevels": 16,
             "mainPack": 3
@@ -207,7 +207,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 190522,
             "totalLevels": 11,
             "mainPack": 4
@@ -216,7 +216,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 161032,
             "totalLevels": 18,
             "mainPack": 5
@@ -225,7 +225,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 160741,
             "totalLevels": 4,
             "mainPack": 6
@@ -234,7 +234,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 160743,
             "totalLevels": 4,
             "mainPack": 7
@@ -243,7 +243,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 160745,
             "totalLevels": 8,
             "mainPack": 8
@@ -252,7 +252,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 191548,
             "totalLevels": 1,
             "mainPack": 10
@@ -261,7 +261,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 191553,
             "totalLevels": 1,
             "mainPack": 11
@@ -270,7 +270,7 @@
             "name": "Legacy",
             "description": "Levels that used to be in the  Tier.",
             "sprite": "DP_Invisible",
-            "plusSprite": "DP_Invisible",
+            "plusSprite": "DP_Trusta",
             "listID": 191555,
             "totalLevels": 6,
             "mainPack": 12
@@ -462,15 +462,15 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "",
+            "name": "",
+            "description": "We present to you the Funny Pack! (GDDP Monthly Pack for April 2024)",
             "sprite": "DP_Invisible",
             "month": 4,
             "year": 2024,
             "listID": 0
         },
         {
-            "name": "Industrial Pack",
+            "name": "",
             "description": "We present to you the Industrial Pack! (GDDP Monthly Pack for March 2024)",
             "sprite": "DP_Invisible",
             "month": 3,
@@ -478,7 +478,7 @@
             "listID": 236318
         },
         {
-            "name": "Valentine Pack",
+            "name": "",
             "description": "",
             "sprite": "DP_Invisible",
             "month": 2,
@@ -486,7 +486,7 @@
             "listID": 207211
         },
         {
-            "name": "Cosmic Pack",
+            "name": "",
             "description": "",
             "sprite": "DP_Invisible",
             "month": 1,
@@ -494,7 +494,7 @@
             "listID": 209237
         },
         {
-            "name": "Very Cold Pack",
+            "name": "",
             "description": "",
             "sprite": "DP_Invisible",
             "month": 12,
@@ -502,7 +502,7 @@
             "listID": 209244
         },
         {
-            "name": "Forest Pack",
+            "name": "",
             "description": "",
             "sprite": "DP_Invisible",
             "month": 11,
@@ -510,7 +510,7 @@
             "listID": 209248
         },
         {
-            "name": "Horror Pack",
+            "name": "",
             "description": "",
             "sprite": "DP_Invisible",
             "month": 10,
@@ -518,161 +518,161 @@
             "listID": 209254
         },
         {
-            "name": "Single Gamemode Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_September",
+            "sprite": "DP_Invisible",
             "month": 9,
             "year": 2023,
             "listID": 209258
         },
         {
-            "name": "Alphabet Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_August",
+            "sprite": "DP_Invisible",
             "month": 8,
             "year": 2023,
             "listID": 209302
         },
         {
-            "name": "Party Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_July",
+            "sprite": "DP_Invisible",
             "month": 7,
             "year": 2023,
             "listID": 209304
         },
         {
-            "name": "The Tropical Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_June",
+            "sprite": "DP_Invisible",
             "month": 6,
             "year": 2023,
             "listID": 209308
         },
         {
-            "name": "Maymory Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_May",
+            "sprite": "DP_Invisible",
             "month": 5,
             "year": 2023,
             "listID": 209310
         },
         {
-            "name": "The Science Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_April",
+            "sprite": "DP_Invisible",
             "month": 4,
             "year": 2023,
             "listID": 209311
         },
         {
-            "name": "The Bright Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_March",
+            "sprite": "DP_Invisible",
             "month": 3,
             "year": 2023,
             "listID": 209408
         },
         {
-            "name": "Color Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_February",
+            "sprite": "DP_Invisible",
             "month": 2,
             "year": 2023,
             "listID": 209412
         },
         {
-            "name": "Epic Gamer Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_January",
+            "sprite": "DP_Invisible",
             "month": 1,
             "year": 2023,
             "listID": 209415
         },
         {
-            "name": "Frost Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_December",
+            "sprite": "DP_Invisible",
             "month": 12,
             "year": 2022,
             "listID": 209418
         },
         {
-            "name": "Sky and Dreams Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_November",
+            "sprite": "DP_Invisible",
             "month": 11,
             "year": 2022,
             "listID": 209420
         },
         {
-            "name": "Halloween Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_October",
+            "sprite": "DP_Invisible",
             "month": 10,
             "year": 2022,
             "listID": 217789
         },
         {
-            "name": "Tech Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_September",
+            "sprite": "DP_Invisible",
             "month": 9,
             "year": 2022,
             "listID": 217793
         },
         {
-            "name": "Art Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_August",
+            "sprite": "DP_Invisible",
             "month": 8,
             "year": 2022,
             "listID": 217794
         },
         {
-            "name": "Design Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_July",
+            "sprite": "DP_Invisible",
             "month": 7,
             "year": 2022,
             "listID": 217801
         },
         {
-            "name": "Meme Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_June",
+            "sprite": "DP_Invisible",
             "month": 6,
             "year": 2022,
             "listID": 217808
         },
         {
-            "name": "Japan Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_May",
+            "sprite": "DP_Invisible",
             "month": 5,
             "year": 2022,
             "listID": 217810
         },
         {
-            "name": "List Demon Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_April",
+            "sprite": "DP_Invisible",
             "month": 4,
             "year": 2022,
             "listID": 217811
         },
         {
-            "name": "Rjanskdkdorjwbosejwk",
+            "name": "",
             "description": "",
-            "sprite": "DP_March",
+            "sprite": "DP_Invisible",
             "month": 3,
             "year": 2022,
             "listID": 217815
         },
         {
-            "name": "Biohazard Pack",
+            "name": "",
             "description": "",
-            "sprite": "DP_February",
+            "sprite": "DP_Invisible",
             "month": 2,
             "year": 2022,
             "listID": 217816
