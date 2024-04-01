@@ -462,6 +462,14 @@
     ],
     "monthly": [
         {
+            "name": "Funny Pack",
+            "description": "We present to you the Funny Pack! (GDDP Monthly Pack for April 2024)",
+            "sprite": "DP_April",
+            "month": 4,
+            "year": 2024,
+            "listID": 287095
+        },
+        {
             "name": "Industrial Pack",
             "description": "We present to you the Industrial Pack! (GDDP Monthly Pack for March 2024)",
             "sprite": "DP_March",
@@ -3571,6 +3579,37 @@
         "68688849": {
             "name": "",
             "difficulty": 9,
+            "skillsets": []
+        },
+
+        "83434": {
+            "name": "monthly april 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "1655600": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "92417063": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "14024143": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "14868153": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "79054135": {
+            "name": "",
+            "difficulty": 6,
             "skillsets": []
         }
         
