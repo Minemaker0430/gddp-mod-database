@@ -1,10 +1,10 @@
 {
     "main": [
         {
-            "name": "",
+            "name": "Beginner",
             "description": "You have now officially started your Geometry Dash grind! By beating 13 Easy Demons you are well prepared to continue down the list!",
             "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
             "practiceID": 276956,
             "reqLevels": 13,
@@ -12,10 +12,10 @@
             "practice": true
         },
         {
-            "name": "",
+            "name": "Bronze",
             "description": "Entering Medium Demon territory. Things are getting a bit harder, and more focus is required. Beat 12 Medium Demons to achieve this rank!",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Bronze",
+            "plusSprite": "DP_BronzePlus",
             "listID": 25408,
             "practiceID": 0,
             "reqLevels": 12,
@@ -23,10 +23,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Silver",
             "description": "The Silver tier introduces you to more visibly confusing levels, with a lot of flashing decoration and fake structures. This will definitely come in handy later on!",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Silver",
+            "plusSprite": "DP_SilverPlus",
             "listID": 25406,
             "practiceID": 277761,
             "reqLevels": 11,
@@ -34,10 +34,10 @@
             "practice": true
         },
         {
-            "name": "",
+            "name": "Gold",
             "description": "Timings are getting tougher, spaces become tighter, but you pushed through! You are now ready to take on the higher end Insane Demons, GL",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Gold",
+            "plusSprite": "DP_GoldPlus",
             "listID": 25403,
             "practiceID": 273409,
             "reqLevels": 10,
@@ -45,10 +45,10 @@
             "practice": true
         },
         {
-            "name": "",
+            "name": "Amber",
             "description": "Like Gold, Insane Demons, but much harder >:D Get this, and you will be well prepared for the Extreme Demons!",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Amber",
+            "plusSprite": "DP_AmberPlus",
             "listID": 25399,
             "practiceID": 0,
             "reqLevels": 9,
@@ -56,10 +56,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Platinum",
             "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Platinum",
+            "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
             "practiceID": 0,
             "reqLevels": 8,
@@ -67,10 +67,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Sapphire",
             "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends c:",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Sapphire",
+            "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
             "practiceID": 0,
             "reqLevels": 7,
@@ -78,10 +78,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Jade",
             "description": "This tier shows just how far you’ve gone, how far you can go, and how well you’ve done. Congrats and carry on!",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Jade",
+            "plusSprite": "DP_JadePlus",
             "listID": 24991,
             "practiceID": 0,
             "reqLevels": 7,
@@ -89,10 +89,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Emerald",
             "description": "This is not an easy feat. You are now getting used to longer levels, crammed with timings and hard sections! Great Job.",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Emerald",
+            "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
             "practiceID": 0,
             "reqLevels": 6,
@@ -100,10 +100,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Ruby",
             "description": "You have now passed some of the old legendary levels in this game. You show true perseverance and strength!",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Ruby",
+            "plusSprite": "DP_RubyPlus",
             "listID": 24986,
             "practiceID": 0,
             "reqLevels": 5,
@@ -111,10 +111,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Diamond",
             "description": "At this point, you are ready for everything. Not a lot of players have the skill or patience to go for this.",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Diamond",
+            "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
             "practiceID": 0,
             "reqLevels": 4,
@@ -122,10 +122,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Onyx",
             "description": "You are now among the top players. This is a great time to thank all your friends and family.",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Onyx",
+            "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
             "practiceID": 0,
             "reqLevels": 3,
@@ -133,10 +133,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Amethyst",
             "description": "You have now proved the impossible. Your skill is unmatched!",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Amethyst",
+            "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
             "practiceID": 0,
             "reqLevels": 2,
@@ -144,10 +144,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Azurite",
             "description": "Touch grass",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Azurite",
+            "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
             "practiceID": 0,
             "reqLevels": 1,
@@ -155,10 +155,10 @@
             "practice": false
         },
         {
-            "name": "",
+            "name": "Obsidian",
             "description": "Why?",
-            "sprite": "DP_Beginner",
-            "plusSprite": "DP_Beginner",
+            "sprite": "DP_Obsidian",
+            "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
             "practiceID": 0,
             "reqLevels": 1,
@@ -168,109 +168,109 @@
     ],
     "legacy": [
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Beginner",
+            "description": "Levels that used to be in the Beginner Tier.",
+            "sprite": "DP_Beginner",
+            "plusSprite": "DP_BeginnerPlus",
             "listID": 192942,
             "totalLevels": 14,
             "mainPack": 0
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Bronze",
+            "description": "Levels that used to be in the Bronze Tier.",
+            "sprite": "DP_Bronze",
+            "plusSprite": "DP_BronzePlus",
             "listID": 192954,
             "totalLevels": 12,
             "mainPack": 1
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Silver",
+            "description": "Levels that used to be in the Silver Tier.",
+            "sprite": "DP_Silver",
+            "plusSprite": "DP_SilverPlus",
             "listID": 189734,
             "totalLevels": 15,
             "mainPack": 2
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Gold",
+            "description": "Levels that used to be in the Gold Tier.",
+            "sprite": "DP_Gold",
+            "plusSprite": "DP_GoldPlus",
             "listID": 189750,
             "totalLevels": 16,
             "mainPack": 3
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Amber",
+            "description": "Levels that used to be in the Amber Tier.",
+            "sprite": "DP_Amber",
+            "plusSprite": "DP_AmberPlus",
             "listID": 190522,
             "totalLevels": 11,
             "mainPack": 4
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Platinum",
+            "description": "Levels that used to be in the Platinum Tier.",
+            "sprite": "DP_Platinum",
+            "plusSprite": "DP_PlatinumPlus",
             "listID": 161032,
             "totalLevels": 18,
             "mainPack": 5
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Sapphire",
+            "description": "Levels that used to be in the Sapphire Tier.",
+            "sprite": "DP_Sapphire",
+            "plusSprite": "DP_SapphirePlus",
             "listID": 160741,
             "totalLevels": 4,
             "mainPack": 6
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Jade",
+            "description": "Levels that used to be in the Jade Tier.",
+            "sprite": "DP_Jade",
+            "plusSprite": "DP_JadePlus",
             "listID": 160743,
             "totalLevels": 4,
             "mainPack": 7
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Emerald",
+            "description": "Levels that used to be in the Emerald Tier.",
+            "sprite": "DP_Emerald",
+            "plusSprite": "DP_EmeraldPlus",
             "listID": 160745,
             "totalLevels": 8,
             "mainPack": 8
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Diamond",
+            "description": "Levels that used to be in the Diamond Tier.",
+            "sprite": "DP_Diamond",
+            "plusSprite": "DP_DiamondPlus",
             "listID": 191548,
             "totalLevels": 1,
             "mainPack": 10
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Onyx",
+            "description": "Levels that used to be in the Onyx Tier.",
+            "sprite": "DP_Onyx",
+            "plusSprite": "DP_OnyxPlus",
             "listID": 191553,
             "totalLevels": 1,
             "mainPack": 11
         },
         {
-            "name": "Legacy",
-            "description": "Levels that used to be in the  Tier.",
-            "sprite": "DP_Invisible",
-            "plusSprite": "DP_Trusta",
+            "name": "Legacy Amethyst",
+            "description": "Levels that used to be in the Amethyst Tier.",
+            "sprite": "DP_Amethyst",
+            "plusSprite": "DP_AmethystPlus",
             "listID": 191555,
             "totalLevels": 6,
             "mainPack": 12
@@ -278,401 +278,401 @@
     ],
     "bonus": [
         {
-            "name": "",
+            "name": "12 Demons of Christmas (2023)",
             "description": "Each day a new level picked by members of the List Team",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_12DoC2023",
             "listID": 207325,
             "totalLevels": 12
         },
         {
-            "name": "",
+            "name": "Minigame Pack",
             "description": "A pack of minigames.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Minigame",
             "listID": 207332,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "GD10",
             "description": "A celebration of Geometry Dash's 10 year anniversary that includes one popular Demon from each year (2013-2023).",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_GD10",
             "listID": 251462,
             "totalLevels": 11
         },
         {
-            "name": "",
+            "name": "12 Demons of Christmas (2022)",
             "description": "Merry Christmas everyone! Each level is chosen by one of our 12 total staff members, and will be released one level at a time, once a day for the 12 days leading up to Christmas.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_12DoC2022",
             "listID": 207345,
             "totalLevels": 12
         },
         {
-            "name": "",
+            "name": "Nine Circles Pack",
             "description": "Levels inspired by the well known Zobros level.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_NineCircles",
             "listID": 207346,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "Memory Novice",
             "description": "A stepping stone into more difficult memory demons, with levels varying in updates and styles. These levels will help players get used to memory with varying degrees of learning difficulty and different kinds of memory gameplay.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_MemoryNovice",
             "listID": 207349,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "Memory Expert",
             "description": "The next step into harder memory demons. This pack includes levels with difficult timings, duals, and other gamemodes alongside memory gameplay.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_MemoryExpert",
             "listID": 207354,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "Memory Master",
             "description": "This pack contains 8 of the toughest memory demons in the game!",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_MemoryMaster",
             "listID": 207566,
             "totalLevels": 8
         },
         {
-            "name": "",
+            "name": "2P Solo Pack",
             "description": "You better get your brain in gear, because these demons require you to use both hands! Intended for solo completion.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_2PSolo",
             "listID": 207573,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "Invisible Pack",
             "description": "Geometry Dash, as you've never seen it before. Beat these 5 invisible demons to get the rank!",
             "sprite": "DP_Invisible",
             "listID": 207577,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "1.9 GDPS Pack",
             "description": "A true classic never goes out of style, this pack contains 5 levels made in 2.1 with 1.9 limitations.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_19GDPS",
             "listID": 207580,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "XXL",
             "description": "These levels are long, very very long. Beat the 5 longest rated levels in the game (at the time of the pack's release) to get this rank!",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_XXL",
             "listID": 207622,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "The Speedrun Pack",
             "description": "Beat the 5 shortest demons in the game (at the time of the pack's release) to get this rank!",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Speedrun",
             "listID": 207623,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "The Trusta Pack",
             "description": " In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Trusta",
             "listID": 207625,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "The Temple Series",
             "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank! ",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Temple",
             "listID": 207627,
             "totalLevels": 6
         },
         {
-            "name": "",
+            "name": "The Coder Pack",
             "description": "A pack by ElohmroW containing his levels along with some of his favorites",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Coder",
             "listID": 208650,
             "totalLevels": 5
         },
         {
-            "name": "",
+            "name": "Kria Pack",
             "description": "A pack containing the 2 co-owner's favorite levels. #Kria (Krtar and Lia)",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Kria",
             "listID": 208654,
             "totalLevels": 10
         },
         {
-            "name": "",
+            "name": "The Aeon Air Pack",
             "description": "Beat all of Aeon's rated Demon levels and subscribe to his YouTube channel :)",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_AeonAir",
             "listID": 208655,
             "totalLevels": 10
         },
         {
-            "name": "",
+            "name": "GDDL 1",
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_GDDL1",
             "listID": 208657,
             "totalLevels": 10
         },
         {
-            "name": "",
+            "name": "GDDL 2",
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_GDDL2",
             "listID": 208658,
             "totalLevels": 10
         },
         {
-            "name": "",
+            "name": "The Apocalyptic Trilogy",
             "description": "Red hell themed extremes are the best! Beat Cataclysm, Bloodbath and Aftermath.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_ApocalypticTrilogy",
             "listID": 207569,
             "totalLevels": 3
         },
         {
-            "name": "",
+            "name": "The Plasma Pack",
             "description": "Beat the 4 Plasma Pulse to get this rank!",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Plasma",
             "listID": 208659,
             "totalLevels": 4
         },
         {
-            "name": "",
+            "name": "RGB",
             "description": "In order to achieve this rank you need to beat Yatagarasu, Erebus and Sonic Wave. The old legendary RGB.",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_RGB",
             "listID": 208662,
             "totalLevels": 3
         },
         {
-            "name": "",
+            "name": "The Sonic Series",
             "description": "Beat the entire Sonic series to get this rank!",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Sonic",
             "listID": 208663,
             "totalLevels": 4
         },
         {
-            "name": "",
+            "name": "The Lightwave Pack",
             "description": "Infrared, Ultraviolet, Gammaray and.... Microwave? Beat the first 3 mentioned :D",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_Lightwave",
             "listID": 208664,
             "totalLevels": 3
         },
         {
-            "name": "",
+            "name": "Sonic Wave Series",
             "description": "You must really like sonic wave if you want this rank. Beat all rated Sonic Wave remakes!",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_SonicWave",
             "listID": 207619,
             "totalLevels": 5
         }
     ],
     "monthly": [
         {
-            "name": "",
-            "description": "We present to you the Funny Pack! (GDDP Monthly Pack for April 2024)",
-            "sprite": "DP_Invisible",
+            "name": "Silly Pack",
+            "description": "We present to you the Silly Pack! (GDDP Monthly Pack for April 2024)",
+            "sprite": "DP_April",
             "month": 4,
             "year": 2024,
             "listID": 287095
         },
         {
-            "name": "",
+            "name": "Industrial Pack",
             "description": "We present to you the Industrial Pack! (GDDP Monthly Pack for March 2024)",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_March",
             "month": 3,
             "year": 2024,
             "listID": 236318
         },
         {
-            "name": "",
+            "name": "Valentine Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_February",
             "month": 2,
             "year": 2024,
             "listID": 207211
         },
         {
-            "name": "",
+            "name": "Cosmic Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_January",
             "month": 1,
             "year": 2024,
             "listID": 209237
         },
         {
-            "name": "",
+            "name": "Very Cold Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_December",
             "month": 12,
             "year": 2023,
             "listID": 209244
         },
         {
-            "name": "",
+            "name": "Forest Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_November",
             "month": 11,
             "year": 2023,
             "listID": 209248
         },
         {
-            "name": "",
+            "name": "Horror Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_October",
             "month": 10,
             "year": 2023,
             "listID": 209254
         },
         {
-            "name": "",
+            "name": "Single Gamemode Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_September",
             "month": 9,
             "year": 2023,
             "listID": 209258
         },
         {
-            "name": "",
+            "name": "Alphabet Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_August",
             "month": 8,
             "year": 2023,
             "listID": 209302
         },
         {
-            "name": "",
+            "name": "Party Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_July",
             "month": 7,
             "year": 2023,
             "listID": 209304
         },
         {
-            "name": "",
+            "name": "The Tropical Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_June",
             "month": 6,
             "year": 2023,
             "listID": 209308
         },
         {
-            "name": "",
+            "name": "Maymory Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_May",
             "month": 5,
             "year": 2023,
             "listID": 209310
         },
         {
-            "name": "",
+            "name": "The Science Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_April",
             "month": 4,
             "year": 2023,
             "listID": 209311
         },
         {
-            "name": "",
+            "name": "The Bright Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_March",
             "month": 3,
             "year": 2023,
             "listID": 209408
         },
         {
-            "name": "",
+            "name": "Color Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_February",
             "month": 2,
             "year": 2023,
             "listID": 209412
         },
         {
-            "name": "",
+            "name": "Epic Gamer Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_January",
             "month": 1,
             "year": 2023,
             "listID": 209415
         },
         {
-            "name": "",
+            "name": "Frost Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_December",
             "month": 12,
             "year": 2022,
             "listID": 209418
         },
         {
-            "name": "",
+            "name": "Sky and Dreams Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_November",
             "month": 11,
             "year": 2022,
             "listID": 209420
         },
         {
-            "name": "",
+            "name": "Halloween Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_October",
             "month": 10,
             "year": 2022,
             "listID": 217789
         },
         {
-            "name": "",
+            "name": "Tech Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_September",
             "month": 9,
             "year": 2022,
             "listID": 217793
         },
         {
-            "name": "",
+            "name": "Art Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_August",
             "month": 8,
             "year": 2022,
             "listID": 217794
         },
         {
-            "name": "",
+            "name": "Design Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_July",
             "month": 7,
             "year": 2022,
             "listID": 217801
         },
         {
-            "name": "",
+            "name": "Meme Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_June",
             "month": 6,
             "year": 2022,
             "listID": 217808
         },
         {
-            "name": "",
+            "name": "Japan Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_May",
             "month": 5,
             "year": 2022,
             "listID": 217810
         },
         {
-            "name": "",
+            "name": "List Demon Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_April",
             "month": 4,
             "year": 2022,
             "listID": 217811
         },
         {
-            "name": "",
+            "name": "Rjanskdkdorjwbosejwk",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_March",
             "month": 3,
             "year": 2022,
             "listID": 217815
         },
         {
-            "name": "",
+            "name": "Biohazard Pack",
             "description": "",
-            "sprite": "DP_Invisible",
+            "sprite": "DP_February",
             "month": 2,
             "year": 2022,
             "listID": 217816
