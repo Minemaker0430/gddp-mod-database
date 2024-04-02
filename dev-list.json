@@ -83,10 +83,10 @@
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
-            "practiceID": 0,
+            "practiceID": 286822,
             "reqLevels": 7,
             "totalLevels": 25,
-            "practice": false
+            "practice": true
         },
         {
             "name": "Emerald",
