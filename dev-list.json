@@ -67,6 +67,17 @@
             "practice": false
         },
         {
+            "name": "test",
+            "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG",
+            "sprite": "DP_Platinum",
+            "plusSprite": "DP_PlatinumPlus",
+            "listID": 24994,
+            "practiceID": 0,
+            "reqLevels": 8,
+            "totalLevels": 25,
+            "practice": false
+        },
+        {
             "name": "Sapphire",
             "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends c:",
             "sprite": "DP_Sapphire",
