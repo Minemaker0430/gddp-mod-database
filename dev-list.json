@@ -462,6 +462,14 @@
     ],
     "monthly": [
         {
+            "name": "test",
+            "description": "We present to you the Silly Pack! (GDDP Monthly Pack for April 2024)",
+            "sprite": "DP_April",
+            "month": 4,
+            "year": 2024,
+            "listID": 287095
+        },
+        {
             "name": "Silly Pack",
             "description": "We present to you the Silly Pack! (GDDP Monthly Pack for April 2024)",
             "sprite": "DP_April",
