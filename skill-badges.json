@@ -1,1 +1,7 @@
-
+{
+  "unknown": {
+    "display-name": "Unknown",
+    "description": "This skill does not have a description.",
+    "sprite": "DP_Skill_Unknown"
+  }
+}
