@@ -462,6 +462,14 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for May 2024)",
+            "sprite": "DP_Invisible",
+            "month": 5,
+            "year": 2024,
+            "listID": 0
+        },
+        {
             "name": "Silly Pack",
             "description": "We present to you the Silly Pack! (GDDP Monthly Pack for April 2024)",
             "sprite": "DP_April",
