@@ -462,12 +462,12 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for May 2024)",
-            "sprite": "DP_Invisible",
+            "name": "Car Crash Pack",
+            "description": "This pack was designed to perfectly represent the stages of a car crash. Remember to wear your seatbelt!!! (GDDP Monthly Pack for May 2024)",
+            "sprite": "DP_May",
             "month": 5,
             "year": 2024,
-            "listID": 0
+            "listID": 333923
         },
         {
             "name": "Silly Pack",
