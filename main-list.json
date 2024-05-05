@@ -249,6 +249,15 @@
             "mainPack": 8
         },
         {
+            "name": "Legacy Ruby",
+            "description": "Levels that used to be in the Ruby Tier.",
+            "sprite": "DP_Ruby",
+            "plusSprite": "DP_RubyPlus",
+            "listID": 0,
+            "totalLevels": 1,
+            "mainPack": 9
+        },
+        {
             "name": "Legacy Diamond",
             "description": "Levels that used to be in the Diamond Tier.",
             "sprite": "DP_Diamond",
@@ -686,132 +695,132 @@
             "listID": 217816
         }
     ],
-    "database-version": 7,
+    "database-version": 8,
     "level-data": {
         "65765662": {
             "name": "iS",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "3543219": {
             "name": "Speed Racer",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["speed-changes"]
         },
         "63087691": {
             "name": "STARPUNK",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "77132030": {
             "name": "Ratio Circles",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "80433444": {
             "name": "MAYMORY",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "27143567": {
             "name": "Voyager",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "78797905": {
             "name": "anasthasia",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "76821414": {
             "name": "Zircon",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "86880648": {
             "name": "Common S3nse",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "7116121": {
             "name": "Problematic",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "75603568": {
             "name": "Tabasco",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "17235008": {
             "name": "X",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "76799716": {
             "name": "Virtualization",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "38514054": {
             "name": "Buried Angel",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["gm-changes"]
         },
         "76564776": {
             "name": "weird",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "62067918": {
             "name": "ClutterX",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
         "8660411": {
             "name": "Death Moon",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "68061608": {
             "name": "NothinG",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
         "86012792": {
             "name": "Cosmic Rush",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "3081555": {
             "name": "Chaoz Impact",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "15619194": {
             "name": "Motion",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "2997354": {
             "name": "DeCode",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["timings", "wave"]
         },
         "27912428": {
             "name": "wowzers holy",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "ball"]
         },
         "81742215": {
             "name": "Fast N Spicy",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "77428474": {
             "name": "Bloudeleuste",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         
         "70444933": {
@@ -1917,11 +1926,6 @@
             "difficulty": 9,
             "skillsets": []
         },
-        "60740290": {
-            "name": "",
-            "difficulty": 9,
-            "skillsets": []
-        },
         "59209010": {
             "name": "",
             "difficulty": 9,
@@ -1947,14 +1951,14 @@
             "difficulty": 9,
             "skillsets": []
         },
-
         "52919433": {
-            "name": "diamond start",
-            "difficulty": 10,
+            "name": "",
+            "difficulty": 9,
             "skillsets": []
         },
+
         "46763581": {
-            "name": "",
+            "name": "diamond start",
             "difficulty": 10,
             "skillsets": []
         },
@@ -2069,6 +2073,11 @@
             "skillsets": []
         },
         "75813671": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "76159410": {
             "name": "",
             "difficulty": 10,
             "skillsets": []
@@ -3626,34 +3635,9 @@
             "skillsets": []
         },
 
-        "37220191": {
-            "name": "monthly may 2024",
-            "difficulty": 0,
-            "skillsets": []
-        },
-        "58462068": {
-            "name": "",
-            "difficulty": 0,
-            "skillsets": []
-        },
-        "989533": {
-            "name": "",
-            "difficulty": 1,
-            "skillsets": []
-        },
-        "35413982": {
-            "name": "",
-            "difficulty": 2,
-            "skillsets": []
-        },
-        "49755752": {
-            "name": "",
-            "difficulty": 3,
-            "skillsets": []
-        },
-        "80588137": {
-            "name": "",
-            "difficulty": 6,
+        "60740290": {
+            "name": "legacy ruby start",
+            "difficulty": 9,
             "skillsets": []
         }
         
