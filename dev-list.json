@@ -249,6 +249,15 @@
             "mainPack": 8
         },
         {
+            "name": "Legacy Ruby",
+            "description": "Levels that used to be in the Ruby Tier.",
+            "sprite": "DP_Ruby",
+            "plusSprite": "DP_RubyPlus",
+            "listID": 0,
+            "totalLevels": 1,
+            "mainPack": 9
+        },
+        {
             "name": "Legacy Diamond",
             "description": "Levels that used to be in the Diamond Tier.",
             "sprite": "DP_Diamond",
@@ -1917,11 +1926,6 @@
             "difficulty": 9,
             "skillsets": []
         },
-        "60740290": {
-            "name": "",
-            "difficulty": 9,
-            "skillsets": []
-        },
         "59209010": {
             "name": "",
             "difficulty": 9,
@@ -1947,14 +1951,14 @@
             "difficulty": 9,
             "skillsets": []
         },
-
         "52919433": {
-            "name": "diamond start",
-            "difficulty": 10,
+            "name": "",
+            "difficulty": 9,
             "skillsets": []
         },
+
         "46763581": {
-            "name": "",
+            "name": "diamond start",
             "difficulty": 10,
             "skillsets": []
         },
@@ -2069,6 +2073,11 @@
             "skillsets": []
         },
         "75813671": {
+            "name": "",
+            "difficulty": 10,
+            "skillsets": []
+        },
+        "76159410": {
             "name": "",
             "difficulty": 10,
             "skillsets": []
@@ -3626,34 +3635,9 @@
             "skillsets": []
         },
 
-        "37220191": {
-            "name": "monthly may 2024",
-            "difficulty": 0,
-            "skillsets": []
-        },
-        "58462068": {
-            "name": "",
-            "difficulty": 0,
-            "skillsets": []
-        },
-        "989533": {
-            "name": "",
-            "difficulty": 1,
-            "skillsets": []
-        },
-        "35413982": {
-            "name": "",
-            "difficulty": 2,
-            "skillsets": []
-        },
-        "49755752": {
-            "name": "",
-            "difficulty": 3,
-            "skillsets": []
-        },
-        "80588137": {
-            "name": "",
-            "difficulty": 6,
+        "60740290": {
+            "name": "legacy ruby start",
+            "difficulty": 9,
             "skillsets": []
         }
         
