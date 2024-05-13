@@ -1,7 +1,69 @@
 {
   "unknown": {
     "display-name": "Unknown",
+    "type": "none",
     "description": "This skill does not have a description.",
     "sprite": "DP_Skill_Unknown"
+  },
+  "overall": {
+    "display-name": "Overall",
+    "type": "none",
+    "description": "This level helps improve your overall skill level.",
+    "sprite": "DP_Skill_Overall"
+  },
+  
+  "cube": {
+    "display-name": "Cube",
+    "type": "gamemode",
+    "description": "This level contains significant Cube gameplay.",
+    "sprite": "DP_Skill_Cube"
+  },
+  "ship": {
+    "display-name": "Ship",
+    "type": "gamemode",
+    "description": "This level contains significant Ship gameplay.",
+    "sprite": "DP_Skill_Ship"
+  },
+  "ball": {
+    "display-name": "Ball",
+    "type": "gamemode",
+    "description": "This level contains significant Ball gameplay.",
+    "sprite": "DP_Skill_Ball"
+  },
+  "ufo": {
+    "display-name": "UFO",
+    "type": "gamemode",
+    "description": "This level contains significant UFO gameplay.",
+    "sprite": "DP_Skill_UFO"
+  },
+  "wave": {
+    "display-name": "Wave",
+    "type": "gamemode",
+    "description": "This level contains significant Wave gameplay.",
+    "sprite": "DP_Skill_Wave"
+  },
+  "robot": {
+    "display-name": "Robot",
+    "type": "gamemode",
+    "description": "This level contains significant Robot gameplay.",
+    "sprite": "DP_Skill_Robot"
+  },
+  "spider": {
+    "display-name": "Spider",
+    "type": "gamemode",
+    "description": "This level contains significant Spider gameplay.",
+    "sprite": "DP_Skill_Spider"
+  },
+  "swing": {
+    "display-name": "Swing",
+    "type": "gamemode",
+    "description": "This level contains significant Swing gameplay.",
+    "sprite": "DP_Skill_Swing"
+  },
+  "swing-legacy": {
+    "display-name": "Swingcopter (Pre-2.2)",
+    "type": "gamemode",
+    "description": "This level contains significant Swingcopter gameplay. This involves the Dual Ball setup using Blue Orbs as opposed to the 2.2 Swing gamemode.",
+    "sprite": "DP_Skill_LegacySwingcopter"
   }
 }
