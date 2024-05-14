@@ -2404,75 +2404,80 @@
             "skillsets": []
         },
 
-        "67904095": {
+        "legacy-beginner": {
             "name": "legacy beginner start",
             "difficulty": 0,
             "skillsets": []
         },
-        "58356766": {
-            "name": "",
+        "67904095": {
+            "name": "PsyWorm",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
+        },
+        "58356766": {
+            "name": "Desolate Deep",
+            "difficulty": 0,
+            "skillsets": ["wave", "chokepoints"]
         },
         "59331033": {
-            "name": "",
+            "name": "Meow",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["flow", "fast-paced"]
         },
         "72184562": {
-            "name": "",
+            "name": "Outbreak",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "97557638": {
-            "name": "",
+            "name": "Theory of Everything 2",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "97557632": {
-            "name": "",
+            "name": "Clubstep",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "57307363": {
-            "name": "",
+            "name": "neXus",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "56587109": {
-            "name": "",
+            "name": "phjork",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "68337412": {
-            "name": "",
+            "name": "Cobalt Ruins",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "33244195": {
-            "name": "",
+            "name": "Adust",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "11317271": {
-            "name": "",
+            "name": "Blue Hell",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["awkward"]
         },
         "74735688": {
-            "name": "",
+            "name": "THE HILLS HAVE EYES",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "5439175": {
-            "name": "",
+            "name": "Parallel Run",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "61357205": {
-            "name": "",
+            "name": "deep",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
 
         "27024880": {
@@ -3717,35 +3722,40 @@
             "skillsets": []
         },
 
-        "37220191": {
+        "may-2024": {
             "name": "monthly may 2024",
             "difficulty": 0,
             "skillsets": []
         },
-        "58462068": {
-            "name": "",
+        "37220191": {
+            "name": "Ultimate Driving",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
+        },
+        "58462068": {
+            "name": "RUSH HOUR",
+            "difficulty": 0,
+            "skillsets": ["fast-paced"]
         },
         "989533": {
-            "name": "",
+            "name": "Traffic Trauma",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "35413982": {
-            "name": "",
+            "name": "Collision",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "49755752": {
-            "name": "",
+            "name": "Big Boom",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "80588137": {
-            "name": "",
+            "name": "burn to dust",
             "difficulty": 6,
-            "skillsets": []
+            "skillsets": ["overall"]
         }
         
     }
