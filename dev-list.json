@@ -1348,6 +1348,11 @@
             "skillsets": ["memory", "timings"]
         },
         "87481937": {
+            "name": "Hidden in the Sand",
+            "difficulty": 5,
+            "skillsets": ["ship", "timings"]
+        },
+        "63775846": {
             "name": "Forbidden Isle",
             "difficulty": 5,
             "skillsets": ["timings", "wave"]
@@ -1366,11 +1371,6 @@
             "name": "MELTDOWN",
             "difficulty": 5,
             "skillsets": ["overall"]
-        },
-        "87481937": {
-            "name": "Hidden in the Sand",
-            "difficulty": 5,
-            "skillsets": ["ship", "timings"]
         },
         "92782493": {
             "name": "BLACKLIGHTS",
@@ -1408,7 +1408,7 @@
             "skillsets": ["overall"]
         },
         "81944593": {
-            "name": ":3",
+            "name": ";3",
             "difficulty": 5,
             "skillsets": ["duals"]
         },
