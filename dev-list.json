@@ -952,253 +952,253 @@
         "52663172": {
             "name": "Crisis Complex",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "63075323": {
             "name": "white women",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["memory", "timings"]
         },
         "60084691": {
             "name": "in rainbows",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["fast-paced", "high-cps"]
         },
         "4284013": {
             "name": "Nine Circles",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "9718024": {
             "name": "Creacionist",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "38445559": {
             "name": "ThermoDynamix",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "62909889": {
             "name": "RGB",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["nerve-control", "wave"]
         },
         "7570320": {
             "name": "Radioactive",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "59315849": {
             "name": "Double Dash",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "44319716": {
             "name": "Coarse",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "13643591": {
             "name": "Ultra Drivers",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["memory", "duals"]
         },
         "11607707": {
             "name": "Dance Massacre",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["ufo", "robot"]
         },
         "82015235": {
             "name": "Lightning Speed",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "64618054": {
             "name": "Sedulous",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["learny", "fast-paced"]
         },
         "67461519": {
             "name": "Pain Elemental",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "1299298": {
             "name": "Deadly ClubStep",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
         "65768845": {
             "name": "At The Top",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings", "wave"]
         },
         "71220097": {
             "name": "Mastermind",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
         "42200414": {
             "name": "Generic",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings", "wave"]
         },
         "7892386": {
             "name": "Mechanic Megaforce",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "62923992": {
             "name": "Sparkling Hope",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["wave", "timings"]
         },
         "62028241": {
             "name": "Eternelle Vehemence",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "94610370": {
             "name": "Ring Trick",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "82210980": {
             "name": "overnight",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "36667269": {
             "name": "Diffuse",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings", "wave"]
         },
 
         "4957691": {
             "name": "Windy Landscape",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "15855959": {
             "name": "Psychosis",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "67018065": {
             "name": "TENDO",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced", "high-cps"]
         },
         "82335470": {
             "name": "Hell Gate",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "84324862": {
             "name": "DAMAGE",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "9653767": {
             "name": "The Four Elements",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["timings", "swing-legacy"]
         },
         "65496280": {
             "name": "Interstellar Infant",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "7005127": {
             "name": "Horntail Cave",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["2p"]
         },
         "76866307": {
             "name": "EXG",
             "difficulty": 3,
-            "skillsets": []
-        },
-        "63500550": {
-            "name": "free level",
-            "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "68372319": {
             "name": "CHROMA",
             "difficulty": 3,
-            "skillsets": []
-        },
-        "56568010": {
-            "name": "Magma Bound",
-            "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced", "wave"]
         },
         "68983167": {
             "name": "FFFFFF",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
-        "81748963": {
-            "name": "Through The Aether",
+        "56568010": {
+            "name": "Magma Bound",
             "difficulty": 3,
-            "skillsets": []
-        },
-        "78602801": {
-            "name": "Ultrachromatic",
-            "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["spider", "high-cps"]
         },
         "89423740": {
             "name": "IMOISTAR",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["overall"]
+        },
+        "81748963": {
+            "name": "Through The Aether",
+            "difficulty": 3,
+            "skillsets": ["wave", "chokepoints"]
+        },
+        "78602801": {
+            "name": "Ultrachromatic",
+            "difficulty": 3,
+            "skillsets": ["fast-paced", "nerve-control"]
+        },
+        "63500550": {
+            "name": "free level",
+            "difficulty": 3,
+            "skillsets": ["memory"]
         },
         "5155022": {
             "name": "Acropolis",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "9145341": {
             "name": "8o",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
         "75078198": {
             "name": "Heritage",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "15395840": {
             "name": "Night Terrors",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "65269826": {
             "name": "Arcane",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced", "duals"]
         },
         "37011750": {
             "name": "Hyperio Technia",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced", "duals"]
         },
         "67069282": {
             "name": "Swirling Fire",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced", "timings"]
         },
         "63245954": {
             "name": "Cursed Nightmare",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced", "duals"]
         },
         "17312229": {
             "name": "Sadism",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["wave", "chokepoints"]
         },
 
         "75806677": {
