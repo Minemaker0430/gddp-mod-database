@@ -118,7 +118,7 @@
   "flow": {
     "display-name": "Flow",
     "type": "misc",
-    "description": "This level helps you improve Flow gameplay.",
+    "description": "This level helps you improve on Flow gameplay.",
     "sprite": "DP_Skill_Flow"
   },
   "moving-gp": {
