@@ -112,19 +112,19 @@
   "learny": {
     "display-name": "Learny",
     "type": "misc",
-    "description": "This level goes very, very fast. Remember to Practice!",
+    "description": "This level requires a bit more effort to learn. Keep practicing and you'll get it soon!",
     "sprite": "DP_Skill_Learny"
   },
   "flow": {
     "display-name": "Flow",
     "type": "misc",
-    "description": "This level tends to switch Gamemodes fast and often.",
+    "description": "This level helps you improve Flow gameplay.",
     "sprite": "DP_Skill_Flow"
   },
   "moving-gp": {
     "display-name": "Moving Gameplay",
     "type": "misc",
-    "description": "This level helps you improve your overall Timing. Keep it up and you'll reach your Final Destination.",
+    "description": "This level contains some Moving Gameplay. You may have to memorize the patterns.",
     "sprite": "DP_Skill_MovingGP"
   },
 
