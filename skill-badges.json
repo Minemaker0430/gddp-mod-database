@@ -108,5 +108,30 @@
     "type": "misc",
     "description": "This level helps you improve your overall Timing. Keep it up and you'll reach your Final Destination.",
     "sprite": "DP_Skill_Timings"
+  },
+  "learny": {
+    "display-name": "Learny",
+    "type": "misc",
+    "description": "This level goes very, very fast. Remember to Practice!",
+    "sprite": "DP_Skill_Learny"
+  },
+  "flow": {
+    "display-name": "Flow",
+    "type": "misc",
+    "description": "This level tends to switch Gamemodes fast and often.",
+    "sprite": "DP_Skill_Flow"
+  },
+  "moving-gp": {
+    "display-name": "Moving Gameplay",
+    "type": "misc",
+    "description": "This level helps you improve your overall Timing. Keep it up and you'll reach your Final Destination.",
+    "sprite": "DP_Skill_MovingGP"
+  },
+
+  "sp-best-level": {
+    "display-name": "Best Level in the Game",
+    "type": "special",
+    "description": "TRUSTA gave \"hell and heaven\" this award.",
+    "sprite": "DP_Skill_Special"
   }
 }
