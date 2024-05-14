@@ -127,6 +127,12 @@
     "description": "This level contains some Moving Gameplay. You may have to memorize the patterns.",
     "sprite": "DP_Skill_MovingGP"
   },
+  "high-cps": {
+    "display-name": "High CPS",
+    "type": "misc",
+    "description": "This level contains sections that require High CPS (Clicks Per Second).",
+    "sprite": "DP_Skill_HighCPS"
+  },
 
   "sp-best-level": {
     "display-name": "Best Level in the Game",
