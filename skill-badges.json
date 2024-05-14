@@ -65,5 +65,48 @@
     "type": "gamemode",
     "description": "This level contains significant Swingcopter gameplay. This involves the Dual Ball setup using Blue Orbs as opposed to the 2.2 Swing gamemode.",
     "sprite": "DP_Skill_LegacySwingcopter"
+  },
+  
+  "duals": {
+    "display-name": "Duals",
+    "type": "misc",
+    "description": "This level contains significant Dual parts.",
+    "sprite": "DP_Skill_Duals"
+  },
+  "speed-changes": {
+    "display-name": "Speed Changes",
+    "type": "misc",
+    "description": "This level contains lots of Speed Changes.",
+    "sprite": "DP_Skill_SpeedChanges"
+  },
+  "nerve-control": {
+    "display-name": "Nerve Control",
+    "type": "misc",
+    "description": "This level helps with improving nerve control, due to its length. Don't choke!",
+    "sprite": "DP_Skill_NerveControl"
+  },
+  "memory": {
+    "display-name": "Memorization",
+    "type": "misc",
+    "description": "This level has a lot of Memory sections in it. Remember to FOCUS.",
+    "sprite": "DP_Skill_Memory"
+  },
+  "fast-paced": {
+    "display-name": "Fast Paced",
+    "type": "misc",
+    "description": "This level goes very, very fast. Remember to Practice!",
+    "sprite": "DP_Skill_FastPaced"
+  },
+  "gm-changes": {
+    "display-name": "Gamemode Changes",
+    "type": "misc",
+    "description": "This level tends to switch Gamemodes fast and often.",
+    "sprite": "DP_Skill_GMChanges"
+  },
+  "timings": {
+    "display-name": "Timings",
+    "type": "misc",
+    "description": "This level helps you improve your overall Timing. Keep it up and you'll reach your Final Destination.",
+    "sprite": "DP_Skill_Timings"
   }
 }
