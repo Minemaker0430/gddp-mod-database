@@ -145,6 +145,12 @@
     "description": "This level may have places where you can commonly mess up. Practice these sections throughly!",
     "sprite": "DP_Skill_Chokepoints"
   },
+  "awkward": {
+    "display-name": "Awkward Gameplay",
+    "type": "misc",
+    "description": "This level has some unconventional or awkward gameplay in it.",
+    "sprite": "DP_Skill_Awkward"
+  },
 
   "sp-best-level": {
     "display-name": "Best Level in the Game",
