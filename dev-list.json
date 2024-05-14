@@ -1204,253 +1204,258 @@
         "75806677": {
             "name": "Gumshot",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["fast-paced", "learny"]
         },
         "13579851": {
             "name": "QuantumWave",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["duals", "memory"]
         },
         "26441161": {
             "name": "Flat Major",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "8491232": {
             "name": "UltraSonic",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "61137742": {
             "name": "Leyak",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["fast-paced", "learny", "duals"]
         },
         "2241592": {
             "name": "Necropolis",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings", "chokepoints"]
         },
         "36834813": {
             "name": "Fiber",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["fast-paced", "duals"]
         },
         "68662732": {
             "name": "Achlys",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "61799411": {
             "name": "MINDBREAKER",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
         "33405303": {
             "name": "The Secret Box",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["wave", "chokepoints"]
         },
         "84064573": {
             "name": "Cloud Nine",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["memory", "fast-paced"]
         },
         "61529436": {
             "name": "arcane ascent",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "65046970": {
             "name": "Apollo 13",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["wave", "memory"]
         },
         "18674844": {
             "name": "Cyber Chaos",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "78385421": {
             "name": "DVP",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["fast-paced", "timings", "wave"]
         },
         "68688822": {
             "name": "Ulon",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "61366260": {
             "name": "Beetle",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "68718751": {
             "name": "Optic daydream",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["wave", "spider"]
         },
         "66133800": {
             "name": "Blaster",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings", "nerve-control"]
         },
         "55454745": {
             "name": "chancla",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "65894695": {
             "name": "Elysian Aegis",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["fast-paced", "timings"]
         },
         "23409681": {
             "name": "Galaxy Breaker",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["wave", "chokepoints"]
         },
         "814678": {
             "name": "ICE Carbon Diablo X",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["awkward", "ship"]
         },
         "79428382": {
             "name": "MOTHMELONS",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "63915746": {
             "name": "The End",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["nerve-control", "duals"]
         },
 
-        "61079355": {
+        "platinum": {
             "name": "platinum start",
             "difficulty": 5,
             "skillsets": []
         },
-        "3979721": {
-            "name": "",
+        "61079355": {
+            "name": "Acu",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings"]
+        },
+        "3979721": {
+            "name": "Cataclysm",
+            "difficulty": 5,
+            "skillsets": ["ship", "wave"]
         },
         "85933508": {
-            "name": "",
+            "name": "Lost Love",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["memory", "timings"]
         },
         "87481937": {
-            "name": "",
+            "name": "Forbidden Isle",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings", "wave"]
         },
         "63775846": {
-            "name": "",
+            "name": "Misty Mountains",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings", "nerve-control"]
         },
         "60708767": {
-            "name": "",
+            "name": "Allegiance",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "20761188": {
-            "name": "",
+            "name": "MELTDOWN",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "52527538": {
-            "name": "",
+            "name": "Hidden in the Sand",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
         "92782493": {
-            "name": "",
+            "name": "BLACKLIGHTS",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["fast-paced", "timings"]
         },
         "93549959": {
-            "name": "",
+            "name": "Mystic Bounds",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "83801688": {
-            "name": "",
+            "name": "Miscellaneous Memory",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "71728635": {
-            "name": "",
+            "name": "Helios",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "76931927": {
-            "name": "",
+            "name": "I NEVER DREAM",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
         "88172786": {
-            "name": "",
+            "name": "Robi",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings", "ship"]
         },
         "65561437": {
-            "name": "",
+            "name": "Napalm",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "81944593": {
-            "name": "",
+            "name": ":3",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "88853479": {
-            "name": "",
+            "name": "cerebral hemorrhage",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "38550757": {
-            "name": "",
+            "name": "Artificial Dream",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "63433024": {
-            "name": "",
+            "name": "reverence",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["flow", "wave"]
         },
         "18697406": {
-            "name": "",
+            "name": "Retention",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings", "duals"]
         },
         "73005068": {
-            "name": "",
+            "name": "sunburn",
             "difficulty":  5,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "65633532": {
-            "name": "",
+            "name": "HURRICANE",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "88940074": {
-            "name": "",
+            "name": "Wind Storm",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "60726930": {
-            "name": "",
+            "name": "Daydream",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "84766628": {
-            "name": "",
+            "name": "Cat Planet",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
 
         "83570278": {
