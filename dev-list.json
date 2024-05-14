@@ -826,127 +826,127 @@
         "70444933": {
             "name": "Collapse",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "74449": {
             "name": "hell and heaven",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["sp-best-level"]
         },
         "62378908": {
             "name": "Section",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings", "fast-paced"]
         },
         "77492867": {
             "name": "COLOR CRUSHER",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "27786218": {
             "name": "Mechanical Showdown",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["moving-gp"]
         },
         "78079575": {
             "name": "Fratura",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave", "timings"]
         },
         "4318253": {
             "name": "INSERT COIN",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "77614559": {
             "name": "red dart",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave", "learny"]
         },
         "58002670": {
             "name": "Sakupen Egg",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "67113181": {
             "name": "Scarlet Smog",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["flow"]
         },
         "86155700": {
             "name": "Silent ClubX Rebirth",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship", "memory"]
         },
         "62133870": {
             "name": "Broken Reality",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "7016598": {
             "name": "Speed of Light II",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "83444471": {
             "name": "WELL RESTED",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "76158198": {
             "name": "Gy",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
         "47853491": {
             "name": "Tengu Wind",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "14975695": {
             "name": "Reanimation",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "18834999": {
             "name": "VeritY",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "86665617": {
             "name": "Cant Let vulc",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "43010906": {
             "name": "Hellcat",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "63454942": {
             "name": "Based",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "23300671": {
             "name": "Nitrogen",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "25706351": {
             "name": "HeLL",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave", "ship"]
         },
         "3471703": {
             "name": "Chaoz Airflow",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "9287687": {
             "name": "Resurrection",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
 
         "52663172": {
