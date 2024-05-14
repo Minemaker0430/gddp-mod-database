@@ -133,6 +133,18 @@
     "description": "This level contains sections that require High CPS (Clicks Per Second).",
     "sprite": "DP_Skill_HighCPS"
   },
+  "2p": {
+    "display-name": "2 Player Mode",
+    "type": "misc",
+    "description": "This level has 2 Player Mode enabled for Dual sections.",
+    "sprite": "DP_Skill_2P"
+  },
+  "chokepoints": {
+    "display-name": "Chokepoints",
+    "type": "misc",
+    "description": "This level may have places where you can commonly mess up. Practice these sections throughly!",
+    "sprite": "DP_Skill_Chokepoints"
+  },
 
   "sp-best-level": {
     "display-name": "Best Level in the Game",
