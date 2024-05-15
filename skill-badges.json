@@ -265,5 +265,11 @@
     "type": "special",
     "description": "This level was chosen for the Twelve Demons of Christmas by Alza.",
     "sprite": "DP_Skill_Special"
+  },
+  "sp-minigame": {
+    "display-name": "Minigame",
+    "type": "special",
+    "description": "This level is a \"Minigame\", or a level that qualifies as a small game.",
+    "sprite": "DP_Skill_Special"
   }
 }
