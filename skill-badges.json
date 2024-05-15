@@ -271,5 +271,11 @@
     "type": "special",
     "description": "This level is a \"Minigame\", or a level that qualifies as a small game.",
     "sprite": "DP_Skill_Special"
+  },
+  "sp-michi": {
+    "display-name": "/\\/\\/\\",
+    "type": "special",
+    "description": "<3",
+    "sprite": "DP_Skill_Special"
   }
 }
