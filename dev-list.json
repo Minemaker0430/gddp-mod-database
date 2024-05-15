@@ -3026,65 +3026,70 @@
             "skillsets": ["nerve-control"]
         },
 
-        "6939821": {
+        "12doc-2023": {
             "name": "12doc 2023 start",
             "difficulty": 2,
             "skillsets": []
         },
-        "78407103": {
-            "name": "",
+        "6939821": {
+            "name": "Jawbreaker",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-jedwint"]
+        },
+        "78407103": {
+            "name": "Sweet Summer",
+            "difficulty": 2,
+            "skillsets": ["sp-emerald1"]
         },
         "88127208": {
-            "name": "",
+            "name": "The Game",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-cyclo"]
         },
         "94763624": {
-            "name": "",
+            "name": "BSOD",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-tenu"]
         },
         "93048524": {
-            "name": "",
+            "name": "project MANDELBROT",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-smilebullet"]
         },
         "77884727": {
-            "name": "",
+            "name": "Late",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-jacher"]
         },
         "67818901": {
-            "name": "",
+            "name": "widder",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-elohmrow"]
         },
         "19564763": {
-            "name": "",
+            "name": "The Furious",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-iron"]
         },
         "78528225": {
-            "name": "",
+            "name": "Somniare",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-cork"]
         },
         "92751949": {
-            "name": "",
+            "name": "CRUNCHDOWN",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-lia"]
         },
         "15576803": {
-            "name": "",
+            "name": "Cyber Temple",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-krtar"]
         },
         "5673017": {
-            "name": "",
+            "name": "Nitronic Chaos",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-trusta"]
         },
 
         "70205233": {
