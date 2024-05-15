@@ -176,6 +176,12 @@
     "description": "BEEG",
     "sprite": "DP_Skill_Special"
   },
+  "sp-unique": {
+    "display-name": "Unique Gameplay",
+    "type": "special",
+    "description": "This level has very interesting and gimmicky gameplay.",
+    "sprite": "DP_Skill_Special"
+  },
   "sp-tlwh": {
     "display-name": "11:20",
     "type": "special",
