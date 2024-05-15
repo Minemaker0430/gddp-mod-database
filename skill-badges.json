@@ -158,6 +158,12 @@
     "description": "TrusTa gave \"hell and heaven\" this award.",
     "sprite": "DP_Skill_Special"
   },
+  "sp-spam": {
+    "display-name": "Spam",
+    "type": "special",
+    "description": "I hope you have your warranty still.",
+    "sprite": "DP_Skill_Special"
+  },
   "sp-tlwh": {
     "display-name": "11:20",
     "type": "special",
