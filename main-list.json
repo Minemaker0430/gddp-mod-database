@@ -3026,718 +3026,838 @@
             "skillsets": ["nerve-control"]
         },
 
-        "6939821": {
+        "12doc-2023": {
             "name": "12doc 2023 start",
             "difficulty": 2,
             "skillsets": []
         },
-        "78407103": {
-            "name": "",
+        "6939821": {
+            "name": "Jawbreaker",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-jedwint"]
+        },
+        "78407103": {
+            "name": "Sweet Summer",
+            "difficulty": 2,
+            "skillsets": ["sp-emerald1"]
         },
         "88127208": {
-            "name": "",
+            "name": "The Game",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-cyclo"]
         },
         "94763624": {
-            "name": "",
+            "name": "BSOD",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-tenu"]
         },
         "93048524": {
-            "name": "",
+            "name": "project MANDELBROT",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-smilebullet"]
         },
         "77884727": {
-            "name": "",
+            "name": "Late",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-jacher"]
         },
         "67818901": {
-            "name": "",
+            "name": "widder",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-elohmrow"]
         },
         "19564763": {
-            "name": "",
+            "name": "The Furious",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-iron"]
         },
         "78528225": {
-            "name": "",
+            "name": "Somniare",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-cork"]
         },
         "92751949": {
-            "name": "",
+            "name": "CRUNCHDOWN",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-lia"]
         },
         "15576803": {
-            "name": "",
+            "name": "Cyber Temple",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-krtar"]
         },
         "5673017": {
-            "name": "",
+            "name": "Nitronic Chaos",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-trusta"]
         },
 
-        "70205233": {
+        "minigame": {
             "name": "minigame start",
             "difficulty": 0,
             "skillsets": []
         },
+        "70205233": {
+            "name": "vvvvvv",
+            "difficulty": 0,
+            "skillsets": ["sp-minigame"]
+        },
         "72325448": {
-            "name": "",
+            "name": "Jump Arcade",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["sp-minigame"]
         },
         "51875825": {
-            "name": "",
+            "name": "shapes and beats",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-minigame"]
         },
         "71565140": {
-            "name": "",
+            "name": "IWannaKillTheKamilia",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["sp-minigame"]
         },
         "71734488": {
-            "name": "",
+            "name": "Falling Maze",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["sp-minigame"]
         },
 
-        "10109": {
+        "gd10": {
             "name": "gd10 start",
             "difficulty": 0,
             "skillsets": []
         },
-        "413504": {
-            "name": "",
+        "10109": {
+            "name": "Demon Park",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["memory", "timings"]
+        },
+        "413504": {
+            "name": "Crazy Bolt",
+            "difficulty": 0,
+            "skillsets": ["ship"]
         },
         "10229235": {
-            "name": "",
+            "name": "Ultimate Demon Mix",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "26727028": {
-            "name": "",
+            "name": "InsanitY",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "30533157": {
-            "name": "",
+            "name": "Iridescent",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "47620786": {
-            "name": "",
+            "name": "CraZy II",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "56946102": {
-            "name": "",
+            "name": "The Eschaton",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "65044525": {
-            "name": "",
+            "name": "Castlemania",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "68408784": {
-            "name": "",
+            "name": "Temple of Time",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-michi"]
         },
         "77292103": {
-            "name": "",
+            "name": "White Space",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "90475473": {
-            "name": "",
+            "name": "Change of Scene",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
 
-        "17233618": {
+        "12doc-2022": {
             "name": "12doc 2022 start",
             "difficulty": 1,
             "skillsets": []
         },
+        "17233618": {
+            "name": "Confetti",
+            "difficulty": 1,
+            "skillsets": ["sp-floofiwan"]
+        },
         "72810041": {
-            "name": "",
+            "name": "ZXCircleS",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-emerald1"]
         },
         "64697194": {
-            "name": "",
+            "name": "Carne Aderunt",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-tenu"]
         },
         "4245095": {
-            "name": "",
+            "name": "Cosmic Dreamer V2",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["sp-smilebullet"]
         },
         "79691289": {
-            "name": "",
+            "name": "Born Survivor",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-diogan"]
         },
         "70554172": {
-            "name": "",
+            "name": "Star Party",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-ka1sa"]
         },
         "82804029": {
-            "name": "",
+            "name": "Endless Descent",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-haze"]
         },
         "41287705": {
-            "name": "",
+            "name": "Inside",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-alza"]
         },
         "73963102": {
-            "name": "",
+            "name": "BREAKER ROOM",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["sp-elohmrow"]
         },
         "14850167": {
-            "name": "",
+            "name": "Horizon",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-krtar"]
         },
         "72024993": {
-            "name": "",
+            "name": "abgehoben",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-lia"]
         },
         "56455318": {
-            "name": "",
+            "name": "Error",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["sp-trusta"]
         },
 
-        "10972106": {
+        "nine-circles": {
             "name": "nine circles start",
             "difficulty": 1,
             "skillsets": []
         },
+        "10972106": {
+            "name": "Solar Circles",
+            "difficulty": 1,
+            "skillsets": ["wave"]
+        },
         "63842337": {
-            "name": "",
+            "name": "Fnafbass",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "64612787": {
-            "name": "",
+            "name": "Zacarias",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
 
-        "2488223": {
+        "memory-novice": {
             "name": "memory novice start",
             "difficulty": 0,
             "skillsets": []
         },
+        "2488223": {
+            "name": "Gigas Shocked",
+            "difficulty": 0,
+            "skillsets": ["memory"]
+        },
         "5118127": {
-            "name": "",
+            "name": "Vibrancy",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "68984570": {
-            "name": "",
+            "name": "Extreme AnnoPark",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "52210597": {
-            "name": "",
+            "name": "MEMORY",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
 
-        "27919097": {
+        "memory-expert": {
             "name": "memory expert start",
             "difficulty": 3,
             "skillsets": []
         },
-        "58996624": {
-            "name": "",
+        "27919097": {
+            "name": "Fake A Might",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["memory", "awkward"]
+        },
+        "58996624": {
+            "name": "dim descent",
+            "difficulty": 3,
+            "skillsets": ["memory", "timings"]
         },
         "81189627": {
-            "name": "",
+            "name": "Mucho Fuego",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["memory", "duals"]
         },
         "68051532": {
-            "name": "",
+            "name": "Knot",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "52448794": {
-            "name": "",
+            "name": "smohcs",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["memory", "timings"]
         },
 
-        "56460850": {
+        "memory-master": {
             "name": "memory master start",
             "difficulty": 6,
             "skillsets": []
         },
-        "60284098": {
-            "name": "",
+        "56460850": {
+            "name": "Triple Six",
             "difficulty": 6,
-            "skillsets": []
+            "skillsets": ["memory"]
+        },
+        "60284098": {
+            "name": "Maybe Possibly Thing",
+            "difficulty": 6,
+            "skillsets": ["memory"]
         },
         "57595201": {
-            "name": "",
+            "name": "Marathon",
             "difficulty": 6,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "51584312": {
-            "name": "",
+            "name": "super probably level",
             "difficulty": 8,
-            "skillsets": []
+            "skillsets": ["memory", "timings"]
         },
         "52303420": {
-            "name": "",
+            "name": "Requiem",
             "difficulty": 9,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
 
-        "83384354": {
+        "2p-solo": {
             "name": "2p solo start",
             "difficulty": 0,
             "skillsets": []
         },
+        "83384354": {
+            "name": "Hot Wheelers",
+            "difficulty": 0,
+            "skillsets": ["2p"]
+        },
         "52917530": {
-            "name": "",
+            "name": "ARRE Robot",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["2p"]
         },
         "15699542": {
-            "name": "",
+            "name": "Absolute Meltdown",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["2p"]
         },
         "47994830": {
-            "name": "",
+            "name": "Star Power",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["2p"]
         },
         "61417841": {
-            "name": "",
+            "name": "Halibut Cannon",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["2p"]
         },
 
-        "76294880": {
+        "invisible": {
             "name": "invisible start",
             "difficulty": 2,
             "skillsets": []
         },
+        "76294880": {
+            "name": "follow me",
+            "difficulty": 2,
+            "skillsets": ["memory"]
+        },
         "77031301": {
-            "name": "",
+            "name": "Crossroads",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "80414998": {
-            "name": "",
+            "name": "footnotes",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "30586021": {
-            "name": "",
+            "name": "M A N I X",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "14145098": {
-            "name": "",
+            "name": "Invisible Deadlocked",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
 
-        "74334112": {
+        "1pt9-gdps": {
             "name": "1.9 gdps start",
             "difficulty": 0,
             "skillsets": []
         },
+        "74334112": {
+            "name": "energy overflow",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
         "78109599": {
-            "name": "",
+            "name": "Rewind",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "65331828": {
-            "name": "",
+            "name": "TENTEN",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "65129353": {
-            "name": "",
+            "name": "Project Reunion",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "59533451": {
-            "name": "",
+            "name": "Azurite",
             "difficulty": 6,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
 
-        "76582313": {
+        "xxl": {
             "name": "xxl start",
             "difficulty": 0,
             "skillsets": []
         },
+        "76582313": {
+            "name": "The Long Walk Home",
+            "difficulty": 0,
+            "skillsets": ["sp-tlwh"]
+        },
         "72394641": {
-            "name": "",
+            "name": "By Day By Night",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["sp-bdbn"]
         },
         "37040027": {
-            "name": "",
+            "name": "Hypnotic Travel",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-hypnotravel"]
         },
         "59858021": {
-            "name": "",
+            "name": "Dream Travel",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["sp-dreamtravel"]
         },
 
-        "67447101": {
+        "speedrun": {
             "name": "speedrun start",
             "difficulty": 1,
             "skillsets": []
         },
-        "57515092": {
-            "name": "",
+        "67447101": {
+            "name": "speequ",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings"]
+        },
+        "57515092": {
+            "name": "Ballin",
+            "difficulty": 1,
+            "skillsets": ["timings"]
         },
         "58665401": {
-            "name": "",
+            "name": "nyoom",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "67199678": {
-            "name": "",
+            "name": "spwipi",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "66765209": {
-            "name": "",
+            "name": "Feral",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
 
-        "78181354": {
+        "trusta": {
             "name": "trusta start",
             "difficulty": 7,
             "skillsets": []
         },
+        "78181354": {
+            "name": "REVOLT",
+            "difficulty": 7,
+            "skillsets": ["ship", "duals"]
+        },
         "49291867": {
-            "name": "",
+            "name": "WOW",
             "difficulty": 8,
-            "skillsets": []
+            "skillsets": ["sp-spam"]
         },
 
-        "1864168": {
+        "temple-series": {
             "name": "temple series start",
             "difficulty": 2,
             "skillsets": []
         },
-        "2842129": {
-            "name": "",
+        "1864168": {
+            "name": "Water Temple",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings"]
+        },
+        "2842129": {
+            "name": "Fire Temple",
+            "difficulty": 2,
+            "skillsets": ["timings"]
         },
         "2891681": {
-            "name": "",
+            "name": "Shadow Temple",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
         "4727649": {
-            "name": "",
+            "name": "Lava Temple",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "11402965": {
-            "name": "",
+            "name": "Forest Temple",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "14880818": {
-            "name": "",
+            "name": "Desert Temple",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
 
-        "217541": {
+        "coder": {
             "name": "coder start",
             "difficulty": 1,
             "skillsets": []
         },
-        "85733571": {
-            "name": "",
+        "217541": {
+            "name": "All small",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["sp-small"]
+        },
+        "85733571": {
+            "name": "All big",
+            "difficulty": 1,
+            "skillsets": ["sp-big"]
         },
         "101294884": {
-            "name": "",
+            "name": "OK",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "58120191": {
-            "name": "",
+            "name": "Polychromatic",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["nerve-control", "duals"]
         },
         "79006927": {
-            "name": "",
+            "name": "Black Flag",
             "difficulty": 7,
-            "skillsets": []
+            "skillsets": ["timings", "fast-paced", "high-cps"]
         },
 
-        "65227464": {
+        "kria": {
             "name": "kria start",
             "difficulty": 0,
             "skillsets": []
         },
-        "17351478": {
-            "name": "",
+        "65227464": {
+            "name": "Dream flower",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
+        },
+        "17351478": {
+            "name": "Deadly Impact",
+            "difficulty": 0,
+            "skillsets": ["timings"]
         },
         "83292647": {
-            "name": "",
+            "name": "1 train",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings", "nerve-control"]
         },
         "18421584": {
-            "name": "",
+            "name": "Dem Travel",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "76742853": {
-            "name": "",
+            "name": "ILLUSION OF SPACE",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
         "80180301": {
-            "name": "",
+            "name": "Turbo Overdrive",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "22203116": {
-            "name": "",
+            "name": "SourCream II",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "86263198": {
-            "name": "",
+            "name": "SorryForPartyRocking",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["fast-paced", "chokepoints"]
         },
 
-        "897837": {
+        "aeonair": {
             "name": "aeon start",
             "difficulty": 0,
             "skillsets": []
         },
-        "949673": {
-            "name": "",
+        "897837": {
+            "name": "time pressure",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship"]
+        },
+        "949673": {
+            "name": "neon sawblade",
+            "difficulty": 0,
+            "skillsets": ["ufo"]
         },
         "998398": {
-            "name": "",
+            "name": "project EX",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "1041005": {
-            "name": "",
+            "name": "FunkStep",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "1199226": {
-            "name": "",
+            "name": "MADHOUSE",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "memory"]
         },
         "1468106": {
-            "name": "",
+            "name": "Possessed",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["memory"]
         },
         "1529740": {
-            "name": "",
+            "name": "To The Stars",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship", "fast-paced"]
         },
         "1664297": {
-            "name": "",
+            "name": "ClubForce",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "1884887": {
-            "name": "",
+            "name": "Antimatter",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["ship", "ufo"]
         },
         "66807123": {
-            "name": "",
+            "name": "To The Stars II",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
 
-        "13519": {
+        "gddl-1": {
             "name": "gddl 1 start",
             "difficulty": 0,
             "skillsets": []
         },
-        "43276194": {
-            "name": "",
+        "13519": {
+            "name": "The Nightmare",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["timings"]
+        },
+        "43276194": {
+            "name": "Slap Squad II",
+            "difficulty": 0,
+            "skillsets": ["overall"]
         },
         "64302902": {
-            "name": "",
+            "name": "Sky Tower",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["timings", "fast-paced"]
         },
         "38427291": {
-            "name": "",
+            "name": "Extinction",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
         "13704546": {
-            "name": "",
+            "name": "Ultimate Circles",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "21337579": {
-            "name": "",
+            "name": "Gold Temple",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["fast-paced", "ship"]
         },
         "6664095": {
-            "name": "",
+            "name": "The Realistic",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "62195944": {
-            "name": "",
+            "name": "One Space",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["timings"]
         },
         "61267336": {
-            "name": "",
+            "name": "Techno Punk",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["nerve-control"]
         },
 
-        "29443338": {
+        "gddl-2": {
             "name": "gddl 2 start",
             "difficulty": 2,
             "skillsets": []
         },
-        "46917410": {
-            "name": "",
+        "29443338": {
+            "name": "TOE III",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["overall"]
+        },
+        "46917410": {
+            "name": "ObamA RebirtH",
+            "difficulty": 2,
+            "skillsets": ["fast-paced"]
         },
         "44062068": {
-            "name": "",
+            "name": "Future Funk",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["nerve-control", "duals"]
         },
         "55429960": {
-            "name": "",
+            "name": "Aleph 0",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["sp-unique"]
         },
         "64049807": {
-            "name": "",
+            "name": "SFW",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["fast-paced"]
         },
         "10505306": {
-            "name": "",
+            "name": "Rupture",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["ship"]
         },
         "7899562": {
-            "name": "",
+            "name": "Colorful OverNight",
             "difficulty": 3,
-            "skillsets": []
+            "skillsets": ["duals"]
         },
         "15625052": {
-            "name": "",
+            "name": "Lunatic Doom Machine",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
         "21952243": {
-            "name": "",
+            "name": "Quest For Perfection",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["ship", "duals"]
         },
         "58620226": {
-            "name": "",
+            "name": "Night Life",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
 
-        "25610878": {
+        "apocalyptic-trilogy": {
             "name": "apocalyptic trilogy start",
             "difficulty": 5,
             "skillsets": []
         },
+        "25610878": {
+            "name": "Aftermath",
+            "difficulty": 5,
+            "skillsets": ["ship", "wave"]
+        },
 
-        "8148420": {
+        "plasma": {
             "name": "plasma start",
             "difficulty": 3,
             "skillsets": []
         },
+        "8148420": {
+            "name": "Plasma Pulse",
+            "difficulty": 3,
+            "skillsets": ["overall"]
+        },
         "20159880": {
-            "name": "",
+            "name": "Plasma Pulse III",
             "difficulty": 6,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
 
-        "4706930": {
+        "sonic": {
             "name": "sonic series start",
             "difficulty": 3,
             "skillsets": []
         },
+        "4706930": {
+            "name": "Supersonic",
+            "difficulty": 3,
+            "skillsets": ["overall"]
+        },
 
-        "51791710": {
+        "sonic-wave": {
             "name": "sonic wave start",
             "difficulty": 7,
             "skillsets": []
         },
+        "51791710": {
+            "name": "Auditory Breaker",
+            "difficulty": 7,
+            "skillsets": ["wave"]
+        },
         "49576382": {
-            "name": "",
+            "name": "Generic Wave",
             "difficulty": 8,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
         "68688849": {
-            "name": "",
+            "name": "Sonic Wave Rebirth",
             "difficulty": 9,
-            "skillsets": []
+            "skillsets": ["wave"]
         },
 
         "96978035": {
