@@ -164,6 +164,18 @@
     "description": "I hope you have your warranty still.",
     "sprite": "DP_Skill_Special"
   },
+  "sp-small": {
+    "display-name": "Small gamemode",
+    "type": "special",
+    "description": "smol",
+    "sprite": "DP_Skill_Special"
+  },
+  "sp-big": {
+    "display-name": "Big gamemode",
+    "type": "special",
+    "description": "BEEG",
+    "sprite": "DP_Skill_Special"
+  },
   "sp-tlwh": {
     "display-name": "11:20",
     "type": "special",
