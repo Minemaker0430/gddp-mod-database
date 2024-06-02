@@ -471,12 +471,12 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for June 2024)",
+            "name": "Outdoors Pack",
+            "description": "Go on, touch it :) (GDDP Monthly Pack for June 2024)",
             "sprite": "DP_June",
             "month": 6,
             "year": 2024,
-            "listID": 0
+            "listID": 374429
         },
         {
             "name": "Car Crash Pack",
@@ -3964,6 +3964,42 @@
             "name": "burn to dust",
             "difficulty": 6,
             "skillsets": ["overall"]
+        },
+
+        "june-2024": {
+            "name": "monthly june 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "93001310": {
+            "name": "SCENIC ROUTE",
+            "difficulty": 0,
+            "skillsets": ["nerve-control"]
+        },
+        "61164979": {
+            "name": "Outside",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "14726952": {
+            "name": "Summer Breeze",
+            "difficulty": 1,
+            "skillsets": ["overall"]
+        },
+        "77243596": {
+            "name": "THROUGH THE WOODS",
+            "difficulty": 2,
+            "skillsets": ["fast-paced"]
+        },
+        "75017292": {
+            "name": "Gone to the store",
+            "difficulty": 3,
+            "skillsets": ["timings", "memory"]
+        },
+        "96383314": {
+            "name": "Hopping Over Puddles",
+            "difficulty": 5,
+            "skillsets": ["timings"]
         }
         
     }
