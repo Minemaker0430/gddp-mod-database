@@ -1401,10 +1401,10 @@
             "difficulty": 5,
             "skillsets": ["overall"]
         },
-        "87481937": {
-            "name": "Hidden in the Sand",
+        "92299438": {
+            "name": "TUAPEKA",
             "difficulty": 5,
-            "skillsets": ["ship", "timings"]
+            "skillsets": ["wave", "ship"]
         },
         "92782493": {
             "name": "BLACKLIGHTS",
@@ -2756,6 +2756,11 @@
             "difficulty": 5,
             "skillsets": []
         },
+        "87481937": {
+            "name": "Hidden in the Sand",
+            "difficulty": 5,
+            "skillsets": ["ship", "timings"]
+        },
         "69459902": {
             "name": "nowdead",
             "difficulty": 5,
@@ -3894,9 +3899,9 @@
             "skillsets": []
         },
         "92299438": {
-            "name": "",
+            "name": "TUAPEKA",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["wave", "ship"]
         },
 
         "83434": {
