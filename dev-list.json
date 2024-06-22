@@ -248,7 +248,7 @@
         },
         {
             "name": "Jade",
-            "description": "This tier shows just how far you\’ve gone, how far you can go, and how well you\’ve done. Congrats and carry on!",
+            "description": "This tier shows just how far you’ve gone, how far you can go, and how well you’ve done. Congrats and carry on!",
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
