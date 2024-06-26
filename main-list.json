@@ -6,6 +6,74 @@
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 25409,
+            "saveID": "beginner",
+            "levelIDs": [
+                65765662,
+                3543219, 
+                63087691, 
+                77132030, 
+                80433444, 
+                27143567, 
+                78797905, 
+                76821414, 
+                86880648, 
+                7116121, 
+                75603568, 
+                17235008, 
+                76799716, 
+                38514054, 
+                76564776, 
+                62067918, 
+                8660411, 
+                68061608, 
+                86012792, 
+                3081555, 
+                15619194, 
+                2997354, 
+                27912428, 
+                81742215, 
+                77428474
+            ],
+            "practiceIDs": [
+                89978843, 
+                89978848, 
+                89979607, 
+                102989236, 
+                89979768, 
+                89980772, 
+                102991961, 
+                90003237, 
+                102995693, 
+                89984498, 
+                89980770, 
+                89981888, 
+                89980854, 
+                89981892, 
+                103025222, 
+                103025524, 
+                89984497, 
+                89979992, 
+                103030063, 
+                89984500, 
+                89984504, 
+                89984507, 
+                89984978, 
+                94382515, 
+                103034821, 
+                89981894, 
+                89981890, 
+                89980779, 
+                89979933, 
+                89979610, 
+                89979223, 
+                89979028, 
+                89980769, 
+                90002221, 
+                90002229, 
+                90002246, 
+                90002249, 
+                90002254
+            ],
             "practiceID": 276956,
             "reqLevels": 13,
             "totalLevels": 25,
@@ -17,6 +85,35 @@
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 25408,
+            "saveID": "bronze",
+            "levelIDs": [
+                70444933,
+                74449,
+                62378908,
+                77492867,
+                27786218,
+                78079575,
+                4318253,
+                77614559,
+                58002670,
+                67113181,
+                86155700,
+                62133870,
+                7016598,
+                83444471,
+                76158198,
+                47853491,
+                14975695,
+                18834999,
+                86665617,
+                43010906,
+                63454942,
+                23300671,
+                25706351,
+                3471703,
+                9287687
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 12,
             "totalLevels": 25,
@@ -28,6 +125,76 @@
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 25406,
+            "saveID": "silver",
+            "levelIDs": [
+                52663172,
+                63075323,
+                60084691,
+                4284013,
+                9718024,
+                38445559,
+                62909889,
+                7570320,
+                59315849,
+                44319716,
+                13643591,
+                11607707,
+                82015235,
+                64618054,
+                67461519,
+                1299298,
+                65768845,
+                71220097,
+                42200414,
+                7892386,
+                62923992,
+                62028241,
+                94610370,
+                82210980,
+                36667269
+            ],
+            "practiceIDs": [
+                102619005,
+                90024318,
+                90024320,
+                90024328,
+                102622204,
+                90024326,
+                94385063,
+                90026052,
+                90027489,
+                90026070,
+                90026072,
+                90026088,
+                90026096,
+                90026057,
+                90026090,
+                90027465,
+                90027479,
+                90028693,
+                102700540,
+                102700723,
+                90953869,
+                90953893,
+                102702457,
+                90028688,
+                90028696,
+                90028684,
+                90027471,
+                90026097,
+                90026085,
+                90026054,
+                90024323,
+                90028699,
+                90953906,
+                90953913,
+                90953917,
+                90976243,
+                90976248,
+                90976250,
+                90976255,
+                90976256
+            ],
             "practiceID": 277761,
             "reqLevels": 11,
             "totalLevels": 25,
@@ -39,6 +206,77 @@
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 25403,
+            "saveID": "gold",
+            "levelIDs": [
+                4957691,
+                15855959,
+                67018065,
+                82335470,
+                84324862,
+                9653767,
+                65496280,
+                7005127,
+                76866307,
+                63500550,
+                68372319,
+                56568010,
+                68983167,
+                81748963,
+                78602801,
+                89423740,
+                5155022,
+                9145341,
+                75078198,
+                15395840,
+                65269826,
+                37011750,
+                67069282,
+                63245954,
+                17312229
+            ],
+            "practiceIDs": [
+                94385456,
+                90122540,
+                90099041,
+                102716994,
+                102698076,
+                94385688,
+                102698718,
+                94385839,
+                94386374,
+                94388047,
+                94388048,
+                94387137,
+                102714079,
+                94386079,
+                102715874,
+                94387131,
+                94387132,
+                94388136,
+                94402635,
+                94388052,
+                94408276,
+                94387430,
+                94388667,
+                102715632,
+                94403218,
+                94402812,
+                94403971,
+                94386509,
+                102890448,
+                94403972,
+                94388384,
+                94403975,
+                94402312,
+                94403977,
+                94404058,
+                94405242,
+                94405247,
+                94405249,
+                94405251,
+                94405253,
+                94407768
+            ],
             "practiceID": 273409,
             "reqLevels": 10,
             "totalLevels": 25,
@@ -50,6 +288,35 @@
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 25399,
+            "saveID": "amber",
+            "levelIDs": [
+                75806677,
+                13579851,
+                26441161,
+                8491232,
+                61137742,
+                2241592,
+                36834813,
+                68662732,
+                61799411,
+                33405303,
+                84064573,
+                61529436,
+                65046970,
+                18674844,
+                78385421,
+                68688822,
+                61366260,
+                68718751,
+                66133800,
+                55454745,
+                65894695,
+                23409681,
+                814678,
+                79428382,
+                63915746
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 9,
             "totalLevels": 25,
@@ -61,6 +328,35 @@
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 24994,
+            "saveID": "platinum",
+            "levelIDs": [
+                61079355,
+                3979721,
+                85933508,
+                63775846,
+                60708767,
+                20761188,
+                52527538,
+                92782493,
+                93549959,
+                83801688,
+                71728635,
+                92299438,
+                76931927,
+                88172786,
+                65561437,
+                81944593,
+                88853479,
+                38550757,
+                63433024,
+                18697406,
+                73005068,
+                65633532,
+                88940074,
+                60726930,
+                84766628
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 8,
             "totalLevels": 25,
@@ -72,6 +368,66 @@
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
+            "saveID": "sapphire",
+            "levelIDs": [
+                83570278,
+                84829178,
+                30194711,
+                82148336,
+                83357887,
+                33748382,
+                57390806,
+                54588072,
+                81281891,
+                63354496,
+                59899374,
+                68848817,
+                64148732,
+                70252932,
+                10565740,
+                23262780,
+                57520174,
+                61132346,
+                70406732,
+                83340498,
+                68193306,
+                59933468,
+                35448603,
+                90597607,
+                19759411
+            ],
+            "practiceIDs": [
+                107029613,
+                95824785,
+                95857581,
+                96276280,
+                95824666,
+                96009939,
+                96010024,
+                95855967,
+                96276330,
+                96276916,
+                95857495,
+                95411239,
+                95855930,
+                96276906,
+                95411135,
+                95411281,
+                0,
+                95411177,
+                96276268,
+                107036207,
+                96009959,
+                96010004,
+                95855914,
+                107037624,
+                95857494,
+                96266844,
+                96010046,
+                95824656,
+                95411300,
+                96269127
+            ],
             "practiceID": 406365,
             "reqLevels": 7,
             "totalLevels": 25,
@@ -83,6 +439,65 @@
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 24991,
+            "saveID": "jade",
+            "levelIDs": [
+                60289382,
+                79665466,
+                91267754,
+                36107975,
+                57047374,
+                85317764,
+                97235578,
+                41149984,
+                69507105,
+                70484097,
+                58507437,
+                67569996,
+                26133601,
+                33387622,
+                81548163,
+                78248443,
+                58417850,
+                55385816,
+                78007735,
+                57121503,
+                44773500,
+                73733373,
+                61531210,
+                38235367,
+                81429222
+            ],
+            "practiceIDs": [
+                95855877,
+                103271148,
+                103328124,
+                96180590,
+                96276908,
+                103272663,
+                96182126,
+                96266893,
+                96268054,
+                96145379,
+                96228437,
+                96145430,
+                96266935,
+                96276317,
+                96266897,
+                96268055,
+                95824767,
+                96269114,
+                96266918,
+                96186002,
+                96181838,
+                103324664,
+                96145402,
+                96269124,
+                96276284,
+                96268048,
+                96268051,
+                96269129,
+                96268059
+            ],
             "practiceID": 286822,
             "reqLevels": 7,
             "totalLevels": 25,
@@ -94,6 +509,35 @@
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 24989,
+            "saveID": "emerald",
+            "levelIDs": [
+                34057654,
+                60130895,
+                73335285,
+                73645039,
+                85393418,
+                95281931,
+                27122654,
+                58252259,
+                79242390,
+                63560498,
+                38754426,
+                89876243,
+                45094581,
+                37255449,
+                37398911,
+                37456092,
+                83164497,
+                69871779,
+                86291702,
+                79484035,
+                62817170,
+                50333567,
+                84960998,
+                62869408,
+                65969451
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 6,
             "totalLevels": 25,
@@ -105,6 +549,35 @@
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 24986,
+            "saveID": "ruby",
+            "levelIDs": [
+                48942548,
+                55547703,
+                83107375,
+                31462941,
+                44022701,
+                74840882,
+                28220417,
+                77310650,
+                81535535,
+                81535535,
+                81373023,
+                81373023,
+                77255632,
+                66291197,
+                40292513,
+                39832454,
+                81372683,
+                59539361,
+                78164953,
+                78164953,
+                88421468,
+                68908396,
+                38655495,
+                52919433,
+                56703691
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 5,
             "totalLevels": 25,
@@ -116,6 +589,35 @@
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 24721,
+            "saveID": "diamond",
+            "levelIDs": [
+                46763581,
+                68353244,
+                86412942,
+                77681476,
+                60564010,
+                86787878,
+                76865589,
+                90891227,
+                42584142,
+                92466083,
+                57828784,
+                68654380,
+                55624478,
+                91180835,
+                71912451,
+                52310333,
+                33498127,
+                76159410,
+                57600307,
+                94156085,
+                58355141,
+                88136707,
+                58161496,
+                45866767,
+                75813671
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 4,
             "totalLevels": 25,
@@ -127,6 +629,30 @@
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 24711,
+            "saveID": "onyx",
+            "levelIDs": [
+                65588448,
+                54953085,
+                69333212,
+                88611404,
+                78435955,
+                58673581,
+                52374843,
+                95176417,
+                93339534,
+                93917362,
+                75286957,
+                76543324,
+                60978746,
+                71434979,
+                59075347,
+                72744364,
+                71025973,
+                72315402,
+                89187968,
+                81139702
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 3,
             "totalLevels": 20,
@@ -138,6 +664,20 @@
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 24702,
+            "saveID": "amethyst",
+            "levelIDs": [
+                86084399,
+                93091893,
+                89414220,
+                75206202,
+                76962930,
+                4125776,
+                49896559,
+                86018142,
+                27690100,
+                73667628
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 2,
             "totalLevels": 10,
@@ -149,6 +689,17 @@
             "sprite": "DP_Azurite",
             "plusSprite": "DP_AzuritePlus",
             "listID": 24694,
+            "saveID": "azurite",
+            "levelIDs": [
+                61775814,
+                101140159,
+                69135570,
+                86407629,
+                62912799,
+                73902225,
+                66422816
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 1,
             "totalLevels": 7,
@@ -160,6 +711,15 @@
             "sprite": "DP_Obsidian",
             "plusSprite": "DP_ObsidianPlus",
             "listID": 24687,
+            "saveID": "obsidian",
+            "levelIDs": [
+                85176381,
+                66424234,
+                77049802,
+                77331805,
+                78614226
+            ],
+            "practiceIDs": [],
             "practiceID": 0,
             "reqLevels": 1,
             "totalLevels": 5,
@@ -173,6 +733,23 @@
             "sprite": "DP_Beginner",
             "plusSprite": "DP_BeginnerPlus",
             "listID": 192942,
+            "saveID": "legacy-beginner",
+            "levelIDs": [
+                67904095,
+                58356766,
+                59331033,
+                72184562,
+                97557638,
+                97557632,
+                57307363,
+                56587109,
+                68337412,
+                33244195,
+                11317271,
+                74735688,
+                5439175,
+                61357205
+            ],
             "totalLevels": 14,
             "mainPack": 0
         },
@@ -182,6 +759,21 @@
             "sprite": "DP_Bronze",
             "plusSprite": "DP_BronzePlus",
             "listID": 192954,
+            "saveID": "legacy-bronze",
+            "levelIDs": [
+                27024880,
+                5875660,
+                5433594,
+                97557640,
+                30157349,
+                16500835,
+                7705437,
+                47611766,
+                33618850,
+                23595034,
+                58939191,
+                18994125
+            ],
             "totalLevels": 12,
             "mainPack": 1
         },
@@ -191,6 +783,24 @@
             "sprite": "DP_Silver",
             "plusSprite": "DP_SilverPlus",
             "listID": 189734,
+            "saveID": "legacy-silver",
+            "levelIDs": [
+                62521060,
+                4218933,
+                30944062,
+                4158642,
+                60869851,
+                3273541,
+                40945673,
+                4524796,
+                7075386,
+                4744205,
+                6487910,
+                7079009,
+                56509088,
+                8693225,
+                64161645
+            ],
             "totalLevels": 15,
             "mainPack": 2
         },
@@ -200,6 +810,25 @@
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "listID": 189750,
+            "saveID": "legacy-gold",
+            "levelIDs": [
+                13437081,
+                18286611,
+                8237474,
+                82749804,
+                7054561,
+                61067595,
+                57429286,
+                27721246,
+                10288836,
+                10533089,
+                51489522,
+                57179323,
+                7564845,
+                9819675,
+                16272616,
+                42208264
+            ],
             "totalLevels": 16,
             "mainPack": 3
         },
@@ -209,6 +838,20 @@
             "sprite": "DP_Amber",
             "plusSprite": "DP_AmberPlus",
             "listID": 190522,
+            "saveID": "legacy-amber",
+            "levelIDs": [
+                68786602,
+                19719196,
+                13457056,
+                60129422,
+                73725400,
+                25147297,
+                9700312,
+                40299716,
+                21256194,
+                34386347,
+                26512451
+            ],
             "totalLevels": 11,
             "mainPack": 4
         },
@@ -218,6 +861,28 @@
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "listID": 161032,
+            "saveID": "legacy-platinum",
+            "levelIDs": [
+                87481937,
+                69459902,
+                36449129,
+                64239577,
+                39458641,
+                78831233,
+                30219145,
+                60197839,
+                32688321,
+                48454650,
+                76196489,
+                51393047,
+                62809982,
+                75518661,
+                7174110,
+                34379100,
+                32920197,
+                60480035,
+                48020496
+            ],
             "totalLevels": 18,
             "mainPack": 5
         },
@@ -227,6 +892,14 @@
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 160741,
+            "saveID": "legacy-sapphire",
+            "levelIDs": [
+                66858272,
+                57559425,
+                62551239,
+                20077821,
+                60257058
+            ],
             "totalLevels": 4,
             "mainPack": 6
         },
@@ -236,6 +909,13 @@
             "sprite": "DP_Jade",
             "plusSprite": "DP_JadePlus",
             "listID": 160743,
+            "saveID": "legacy-jade",
+            "levelIDs": [
+                46249401,
+                55224007,
+                57430694,
+                68323859
+            ],
             "totalLevels": 4,
             "mainPack": 7
         },
@@ -245,6 +925,18 @@
             "sprite": "DP_Emerald",
             "plusSprite": "DP_EmeraldPlus",
             "listID": 160745,
+            "saveID": "legacy-emerald",
+            "levelIDs": [
+                62119245,
+                61127840,
+                70187443,
+                27580467,
+                74343352,
+                34489220,
+                58306889,
+                72873416,
+                60603962
+            ],
             "totalLevels": 8,
             "mainPack": 8
         },
@@ -254,6 +946,10 @@
             "sprite": "DP_Ruby",
             "plusSprite": "DP_RubyPlus",
             "listID": 0,
+            "saveID": "legacy-ruby",
+            "levelIDs": [
+                60740290
+            ],
             "totalLevels": 1,
             "mainPack": 9
         },
@@ -263,6 +959,11 @@
             "sprite": "DP_Diamond",
             "plusSprite": "DP_DiamondPlus",
             "listID": 191548,
+            "saveID": "legacy-diamond",
+            "levelIDs": [
+                90597202,
+                63996127
+            ],
             "totalLevels": 1,
             "mainPack": 10
         },
@@ -272,6 +973,10 @@
             "sprite": "DP_Onyx",
             "plusSprite": "DP_OnyxPlus",
             "listID": 191553,
+            "saveID": "legacy-onyx",
+            "levelIDs": [
+                69685815
+            ],
             "totalLevels": 1,
             "mainPack": 11
         },
@@ -281,6 +986,15 @@
             "sprite": "DP_Amethyst",
             "plusSprite": "DP_AmethystPlus",
             "listID": 191555,
+            "saveID": "legacy-amethyst",
+            "levelIDs": [
+                73214186,
+                88216956,
+                67073198,
+                32568089,
+                48991380,
+                76802790
+            ],
             "totalLevels": 6,
             "mainPack": 12
         }
@@ -291,6 +1005,21 @@
             "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
             "listID": 207325,
+            "saveID": "12doc-2023",
+            "levelIDs": [
+                6939821,
+                78407103,
+                88127208,
+                94763624,
+                93048524,
+                77884727,
+                67818901,
+                19564763,
+                78528225,
+                92751949,
+                15576803,
+                5673017
+            ],
             "totalLevels": 12
         },
         {
@@ -298,6 +1027,14 @@
             "description": "A pack of minigames.",
             "sprite": "DP_Minigame",
             "listID": 207332,
+            "saveID": "minigame",
+            "levelIDs": [
+                70205233,
+                72325448,
+                51875825,
+                71565140,
+                71734488
+            ],
             "totalLevels": 5
         },
         {
@@ -305,6 +1042,20 @@
             "description": "A celebration of Geometry Dash's 10 year anniversary that includes one popular Demon from each year (2013-2023).",
             "sprite": "DP_GD10",
             "listID": 251462,
+            "saveID": "gd10",
+            "levelIDs": [
+                10109,
+                413504,
+                10229235,
+                26727028,
+                30533157,
+                47620786,
+                56946102,
+                65044525,
+                68408784,
+                77292103,
+                90475473
+            ],
             "totalLevels": 11
         },
         {
@@ -312,6 +1063,21 @@
             "description": "Merry Christmas everyone! Each level is chosen by one of our 12 total staff members, and will be released one level at a time, once a day for the 12 days leading up to Christmas.",
             "sprite": "DP_12DoC2022",
             "listID": 207345,
+            "saveID": "12doc-2022",
+            "levelIDs": [
+                17233618,
+                72810041,
+                64697194,
+                4245095,
+                79691289,
+                70554172,
+                82804029,
+                41287705,
+                73963102,
+                14850167,
+                72024993,
+                56455318
+            ],
             "totalLevels": 12
         },
         {
@@ -319,6 +1085,14 @@
             "description": "Levels inspired by the well known Zobros level.",
             "sprite": "DP_NineCircles",
             "listID": 207346,
+            "saveID": "nine-circles",
+            "levelIDs": [
+                77132030,
+                10972106,
+                63842337,
+                64612787,
+                88853479
+            ],
             "totalLevels": 5
         },
         {
@@ -326,6 +1100,14 @@
             "description": "A stepping stone into more difficult memory demons, with levels varying in updates and styles. These levels will help players get used to memory with varying degrees of learning difficulty and different kinds of memory gameplay.",
             "sprite": "DP_MemoryNovice",
             "listID": 207349,
+            "saveID": "memory-novice",
+            "levelIDs": [
+                2488223,
+                77492867,
+                5118127,
+                68984570,
+                52210597
+            ],
             "totalLevels": 5
         },
         {
@@ -333,6 +1115,14 @@
             "description": "The next step into harder memory demons. This pack includes levels with difficult timings, duals, and other gamemodes alongside memory gameplay.",
             "sprite": "DP_MemoryExpert",
             "listID": 207354,
+            "saveID": "memory-expert",
+            "levelIDs": [
+                27919097,
+                58996624,
+                81189627,
+                68051532,
+                52448794
+            ],
             "totalLevels": 5
         },
         {
@@ -340,6 +1130,17 @@
             "description": "This pack contains 8 of the toughest memory demons in the game!",
             "sprite": "DP_MemoryMaster",
             "listID": 207566,
+            "saveID": "memory-master",
+            "levelIDs": [
+                56460850,
+                60284098,
+                57595201,
+                57047374,
+                51584312,
+                38754426,
+                52303420,
+                68353244
+            ],
             "totalLevels": 8
         },
         {
@@ -347,6 +1148,14 @@
             "description": "You better get your brain in gear, because these demons require you to use both hands! Intended for solo completion.",
             "sprite": "DP_2PSolo",
             "listID": 207573,
+            "saveID": "2p-solo",
+            "levelIDs": [
+                83384354,
+                52917530,
+                15699542,
+                47994830,
+                61417841
+            ],
             "totalLevels": 5
         },
         {
@@ -354,6 +1163,14 @@
             "description": "Geometry Dash, as you've never seen it before. Beat these 5 invisible demons to get the rank!",
             "sprite": "DP_Invisible",
             "listID": 207577,
+            "saveID": "invisible",
+            "levelIDs": [
+                76294880,
+                77031301,
+                80414998,
+                30586021,
+                14145098
+            ],
             "totalLevels": 5
         },
         {
@@ -361,6 +1178,14 @@
             "description": "A true classic never goes out of style, this pack contains 5 levels made in 2.1 with 1.9 limitations.",
             "sprite": "DP_19GDPS",
             "listID": 207580,
+            "saveID": "1pt9-gdps",
+            "levelIDs": [
+                74334112,
+                78109599,
+                65331828,
+                65129353,
+                59533451
+            ],
             "totalLevels": 5
         },
         {
@@ -368,6 +1193,14 @@
             "description": "These levels are long, very very long. Beat the 5 longest rated levels in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_XXL",
             "listID": 207622,
+            "saveID": "xxl",
+            "levelIDs": [
+                76582313,
+                72394641,
+                37040027,
+                59858021,
+                72873416
+            ],
             "totalLevels": 5
         },
         {
@@ -375,6 +1208,14 @@
             "description": "Beat the 5 shortest demons in the game (at the time of the pack's release) to get this rank!",
             "sprite": "DP_Speedrun",
             "listID": 207623,
+            "saveID": "speedrun",
+            "levelIDs": [
+                67447101,
+                57515092,
+                58665401,
+                67199678,
+                66765209
+            ],
             "totalLevels": 5
         },
         {
@@ -382,6 +1223,14 @@
             "description": " In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
             "sprite": "DP_Trusta",
             "listID": 207625,
+            "saveID": "trusta",
+            "levelIDs": [
+                23262780,
+                78181354,
+                60130895,
+                49291867,
+                28220417
+            ],
             "totalLevels": 5
         },
         {
@@ -389,6 +1238,15 @@
             "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank! ",
             "sprite": "DP_Temple",
             "listID": 207627,
+            "saveID": "temple-series",
+            "levelIDs": [
+                1864168,
+                2842129,
+                2891681,
+                4727649,
+                11402965,
+                14880818
+            ],
             "totalLevels": 6
         },
         {
@@ -396,6 +1254,14 @@
             "description": "A pack by ElohmroW containing his levels along with some of his favorites",
             "sprite": "DP_Coder",
             "listID": 208650,
+            "saveID": "coder",
+            "levelIDs": [
+                217541,
+                85733571,
+                101294884,
+                58120191,
+                79006927
+            ],
             "totalLevels": 5
         },
         {
@@ -403,6 +1269,19 @@
             "description": "A pack containing the 2 co-owner's favorite levels. #Kria (Krtar and Lia)",
             "sprite": "DP_Kria",
             "listID": 208654,
+            "saveID": "kria",
+            "levelIDs": [
+                65227464,
+                17351478,
+                83292647,
+                18421584,
+                76742853,
+                11402965,
+                80180301,
+                22203116,
+                86263198,
+                85933508
+            ],
             "totalLevels": 10
         },
         {
@@ -410,6 +1289,19 @@
             "description": "Beat all of Aeon's rated Demon levels and subscribe to his YouTube channel :)",
             "sprite": "DP_AeonAir",
             "listID": 208655,
+            "saveID": "aeonair",
+            "levelIDs": [
+                897837,
+                949673,
+                998398,
+                1041005,
+                1199226,
+                1468106,
+                1529740,
+                1664297,
+                1884887,
+                66807123
+            ],
             "totalLevels": 10
         },
         {
@@ -417,6 +1309,19 @@
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL1",
             "listID": 208657,
+            "saveID": "gddl-1",
+            "levelIDs": [
+                13519,
+                43276194,
+                64302902,
+                38427291,
+                13704546,
+                21337579,
+                6664095,
+                62195944,
+                61267336,
+                68408784
+            ],
             "totalLevels": 10
         },
         {
@@ -424,6 +1329,19 @@
             "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
             "sprite": "DP_GDDL2",
             "listID": 208658,
+            "saveID": "gddl-2",
+            "levelIDs": [
+                29443338,
+                46917410,
+                44062068,
+                55429960,
+                64049807,
+                10505306,
+                7899562,
+                15625052,
+                21952243,
+                58620226
+            ],
             "totalLevels": 10
         },
         {
@@ -431,6 +1349,12 @@
             "description": "Red hell themed extremes are the best! Beat Cataclysm, Bloodbath and Aftermath.",
             "sprite": "DP_ApocalypticTrilogy",
             "listID": 207569,
+            "saveID": "apoc-trilogy",
+            "levelIDs": [
+                3979721,
+                10565740,
+                25610878
+            ],
             "totalLevels": 3
         },
         {
@@ -438,6 +1362,13 @@
             "description": "Beat the 4 Plasma Pulse to get this rank!",
             "sprite": "DP_Plasma",
             "listID": 208659,
+            "saveID": "plasma",
+            "levelIDs": [
+                8148420,
+                13457056,
+                20159880,
+                38655495
+            ],
             "totalLevels": 4
         },
         {
@@ -445,6 +1376,12 @@
             "description": "In order to achieve this rank you need to beat Yatagarasu, Erebus and Sonic Wave. The old legendary RGB.",
             "sprite": "DP_RGB",
             "listID": 208662,
+            "saveID": "rgb",
+            "levelIDs": [
+                28220417,
+                31462941,
+                26681070
+            ],
             "totalLevels": 3
         },
         {
@@ -452,6 +1389,13 @@
             "description": "Beat the entire Sonic series to get this rank!",
             "sprite": "DP_Sonic",
             "listID": 208663,
+            "saveID": "sonic",
+            "levelIDs": [
+                4706930,
+                8491232,
+                30219145,
+                33387622
+            ],
             "totalLevels": 4
         },
         {
@@ -459,6 +1403,12 @@
             "description": "Infrared, Ultraviolet, Gammaray and.... Microwave? Beat the first 3 mentioned :D",
             "sprite": "DP_Lightwave",
             "listID": 208664,
+            "saveID": "lightwave",
+            "levelIDs": [
+                8237474,
+                10288836,
+                26512451
+            ],
             "totalLevels": 3
         },
         {
@@ -466,6 +1416,14 @@
             "description": "You must really like sonic wave if you want this rank. Beat all rated Sonic Wave remakes!",
             "sprite": "DP_SonicWave",
             "listID": 207619,
+            "saveID": "sonic-wave",
+            "levelIDs": [
+                51791710,
+                49576382,
+                26681070,
+                68688849,
+                69685815
+            ],
             "totalLevels": 5
         }
     ],
@@ -476,7 +1434,8 @@
             "sprite": "DP_June",
             "month": 6,
             "year": 2024,
-            "listID": 374429
+            "listID": 374429,
+            "levelIDs": [93001310,61164979,14726952,77243596,75017292,96383314]
         },
         {
             "name": "Car Crash Pack",
@@ -484,7 +1443,8 @@
             "sprite": "DP_May",
             "month": 5,
             "year": 2024,
-            "listID": 333923
+            "listID": 333923,
+            "levelIDs": [37220191,58462068,989533,35413982,49755752,80588137]
         },
         {
             "name": "Silly Pack",
@@ -492,7 +1452,8 @@
             "sprite": "DP_April",
             "month": 4,
             "year": 2024,
-            "listID": 287095
+            "listID": 287095,
+            "levelIDs": [83434,1655600,92417063,14024143,14868153,79054135]
         },
         {
             "name": "Industrial Pack",
@@ -500,7 +1461,8 @@
             "sprite": "DP_March",
             "month": 3,
             "year": 2024,
-            "listID": 236318
+            "listID": 236318,
+            "levelIDs": [96978035,80754589,66521174,5748587,84265500,92299438]
         },
         {
             "name": "Valentine Pack",
@@ -508,7 +1470,8 @@
             "sprite": "DP_February",
             "month": 2,
             "year": 2024,
-            "listID": 207211
+            "listID": 207211,
+            "levelIDs": [60281192,72305371,45231312,80153698,91904126,95757926]
         },
         {
             "name": "Cosmic Pack",
@@ -516,7 +1479,8 @@
             "sprite": "DP_January",
             "month": 1,
             "year": 2024,
-            "listID": 209237
+            "listID": 209237,
+            "levelIDs": [57577028,86012792,8839598,94591772,92111845,90197147]
         },
         {
             "name": "Very Cold Pack",
@@ -524,7 +1488,8 @@
             "sprite": "DP_December",
             "month": 12,
             "year": 2023,
-            "listID": 209244
+            "listID": 209244,
+            "levelIDs": [91326232,89379796,1963422,62434757,89423740,88017017]
         },
         {
             "name": "Forest Pack",
@@ -532,7 +1497,8 @@
             "sprite": "DP_November",
             "month": 11,
             "year": 2023,
-            "listID": 209248
+            "listID": 209248,
+            "levelIDs": [73955917,73249160,71764832,11384178,11904920,83570278]
         },
         {
             "name": "Horror Pack",
@@ -540,7 +1506,8 @@
             "sprite": "DP_October",
             "month": 10,
             "year": 2023,
-            "listID": 209254
+            "listID": 209254,
+            "levelIDs": [72687502,60993841,80868922,68109632,59014439,89190831]
         },
         {
             "name": "Single Gamemode Pack",
@@ -548,7 +1515,8 @@
             "sprite": "DP_September",
             "month": 9,
             "year": 2023,
-            "listID": 209258
+            "listID": 209258,
+            "levelIDs": [89269769,57454858,61417747,83561236,71567198,73878822]
         },
         {
             "name": "Alphabet Pack",
@@ -556,7 +1524,8 @@
             "sprite": "DP_August",
             "month": 8,
             "year": 2023,
-            "listID": 209302
+            "listID": 209302,
+            "levelIDs": [83902039,80998327,34085027,18269713,523638,59230188]
         },
         {
             "name": "Party Pack",
@@ -564,7 +1533,8 @@
             "sprite": "DP_July",
             "month": 7,
             "year": 2023,
-            "listID": 209304
+            "listID": 209304,
+            "levelIDs": [80758004,62869476,13550782,18786055,84064573,83658556]
         },
         {
             "name": "The Tropical Pack",
@@ -572,7 +1542,8 @@
             "sprite": "DP_June",
             "month": 6,
             "year": 2023,
-            "listID": 209308
+            "listID": 209308,
+            "levelIDs": [21949567,67490470,64825099,76842157,61974149,77205012]
         },
         {
             "name": "Maymory Pack",
@@ -580,7 +1551,8 @@
             "sprite": "DP_May",
             "month": 5,
             "year": 2023,
-            "listID": 209310
+            "listID": 209310,
+            "levelIDs": [80433444,86880648,7179833,78393392,88503578,89156629]
         },
         {
             "name": "The Science Pack",
@@ -588,7 +1560,8 @@
             "sprite": "DP_April",
             "month": 4,
             "year": 2023,
-            "listID": 209311
+            "listID": 209311,
+            "levelIDs": [64132348,62272735,84489308,66640702,40524017,83357887]
         },
         {
             "name": "The Bright Pack",
@@ -596,7 +1569,8 @@
             "sprite": "DP_March",
             "month": 3,
             "year": 2023,
-            "listID": 209408
+            "listID": 209408,
+            "levelIDs": [62522134,59379484,78071979,71144442,55211763,81549790]
         },
         {
             "name": "Color Pack",
@@ -604,7 +1578,8 @@
             "sprite": "DP_February",
             "month": 2,
             "year": 2023,
-            "listID": 209412
+            "listID": 209412,
+            "levelIDs": [57395071,62364298,79046821,77613408,78602801,78119012]
         },
         {
             "name": "Epic Gamer Pack",
@@ -612,7 +1587,8 @@
             "sprite": "DP_January",
             "month": 1,
             "year": 2023,
-            "listID": 209415
+            "listID": 209415,
+            "levelIDs": [82442669,897987,69230086,15427055,72240540,63377357]
         },
         {
             "name": "Frost Pack",
@@ -620,7 +1596,8 @@
             "sprite": "DP_December",
             "month": 12,
             "year": 2022,
-            "listID": 209418
+            "listID": 209418,
+            "levelIDs": [51405408,76691413,65982096,8887523,8091369,69646791]
         },
         {
             "name": "Sky and Dreams Pack",
@@ -628,7 +1605,8 @@
             "sprite": "DP_November",
             "month": 11,
             "year": 2022,
-            "listID": 209420
+            "listID": 209420,
+            "levelIDs": [71645931,65227464,63258554,76484997,83444609,80177488]
         },
         {
             "name": "Halloween Pack",
@@ -636,7 +1614,8 @@
             "sprite": "DP_October",
             "month": 10,
             "year": 2022,
-            "listID": 217789
+            "listID": 217789,
+            "levelIDs": [75329841,82977900,38520371,26539891,71084738,56460850]
         },
         {
             "name": "Tech Pack",
@@ -644,7 +1623,8 @@
             "sprite": "DP_September",
             "month": 9,
             "year": 2022,
-            "listID": 217793
+            "listID": 217793,
+            "levelIDs": [73661181,75387502,64980575,34261959,35610305,69108628]
         },
         {
             "name": "Art Pack",
@@ -652,7 +1632,8 @@
             "sprite": "DP_August",
             "month": 8,
             "year": 2022,
-            "listID": 217794
+            "listID": 217794,
+            "levelIDs": [78945916,77617824,76400976,67818901,72969191,76931927]
         },
         {
             "name": "Design Pack",
@@ -660,7 +1641,8 @@
             "sprite": "DP_July",
             "month": 7,
             "year": 2022,
-            "listID": 217801
+            "listID": 217801,
+            "levelIDs": [66689817,48199047,77831655,72275079,9229228,60516506]
         },
         {
             "name": "Meme Pack",
@@ -668,7 +1650,8 @@
             "sprite": "DP_June",
             "month": 6,
             "year": 2022,
-            "listID": 217808
+            "listID": 217808,
+            "levelIDs": [36473087,67365807,40752788,35126825,30753202,50008168]
         },
         {
             "name": "Japan Pack",
@@ -676,7 +1659,8 @@
             "sprite": "DP_May",
             "month": 5,
             "year": 2022,
-            "listID": 217810
+            "listID": 217810,
+            "levelIDs": [68988733,77570389,67484415,62285738,47784910,77396433]
         },
         {
             "name": "List Demon Pack",
@@ -684,7 +1668,8 @@
             "sprite": "DP_April",
             "month": 4,
             "year": 2022,
-            "listID": 217811
+            "listID": 217811,
+            "levelIDs": [71107449,34616261,71534654,60784748,13850073,45626173]
         },
         {
             "name": "Rjanskdkdorjwbosejwk",
@@ -692,7 +1677,8 @@
             "sprite": "DP_March",
             "month": 3,
             "year": 2022,
-            "listID": 217815
+            "listID": 217815,
+            "levelIDs": [40125024,75941344,72828395,27650846,75531829,68311699]
         },
         {
             "name": "Biohazard Pack",
@@ -700,10 +1686,11 @@
             "sprite": "DP_February",
             "month": 2,
             "year": 2022,
-            "listID": 217816
+            "listID": 217816,
+            "levelIDs": [69601365,8469744,5875660,29917082,10505306,61997741]
         }
     ],
-    "database-version": 8,
+    "database-version": 9,
     "level-data": {
 
         "beginner": {
