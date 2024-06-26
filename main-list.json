@@ -72,10 +72,10 @@
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "listID": 24993,
-            "practiceID": 0,
+            "practiceID": 406365,
             "reqLevels": 7,
             "totalLevels": 25,
-            "practice": false
+            "practice": true
         },
         {
             "name": "Jade",
