@@ -413,7 +413,7 @@
                 96276906,
                 95411135,
                 95411281,
-                0,
+                107057977,
                 95411177,
                 96276268,
                 107036207,
@@ -452,7 +452,7 @@
                 69507105,
                 70484097,
                 58507437,
-                67569996,
+                72873416,
                 26133601,
                 33387622,
                 81548163,
@@ -478,7 +478,7 @@
                 96266893,
                 96268054,
                 96145379,
-                96228437,
+                0,
                 96145430,
                 96266935,
                 96276317,
@@ -492,6 +492,7 @@
                 103324664,
                 96145402,
                 96269124,
+                96228437,
                 96276284,
                 96268048,
                 96268051,
@@ -911,6 +912,8 @@
             "listID": 160743,
             "saveID": "legacy-jade",
             "levelIDs": [
+                67569996,
+                66085306,
                 46249401,
                 55224007,
                 57430694,
@@ -934,7 +937,6 @@
                 74343352,
                 34489220,
                 58306889,
-                72873416,
                 60603962
             ],
             "totalLevels": 8,
@@ -2665,10 +2667,10 @@
             "difficulty": 7,
             "skillsets": ["fast-paced", "nerve-control"]
         },
-        "67569996": {
-            "name": "Adrenaline",
+        "72873416": {
+            "name": "Boogie",
             "difficulty": 7,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["sp-boogie"]
         },
         "26133601": {
             "name": "Athanatos",
@@ -3875,6 +3877,11 @@
             "difficulty": 7,
             "skillsets": []
         },
+        "67569996": {
+            "name": "Adrenaline",
+            "difficulty": 7,
+            "skillsets": ["nerve-control"]
+        },
         "66085306": {
             "name": "DARKENED",
             "difficulty": 7,
@@ -3940,11 +3947,6 @@
             "name": "Tapwreck",
             "difficulty": 8,
             "skillsets": ["ship", "wave"]
-        },
-        "72873416": {
-            "name": "Boogie",
-            "difficulty": 8,
-            "skillsets": ["sp-boogie"]
         },
         "60603962": {
             "name": "Low Death",
@@ -4858,6 +4860,37 @@
             "name": "Sonic Wave Rebirth",
             "difficulty": 9,
             "skillsets": ["wave"]
+        },
+
+        "60281192": {
+            "name": "february 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "72305371": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "45231312": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "80153698": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "91904126": {
+            "name": "",
+            "difficulty": 3,
+            "skillsets": []
+        },
+        "95757926": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
         },
 
         "96978035": {
