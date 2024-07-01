@@ -1432,13 +1432,13 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for July 2024)",
+            "name": "Roller Coaster Pack",
+            "description": "Every level shares the name of an existing roller coaster. Weeeeeeeeee (GDDP Monthly Pack for July 2024)",
             "sprite": "DP_July",
             "month": 7,
             "year": 2024,
             "listID": 0,
-            "levelIDs": []
+            "levelIDs": [1616126, 40367903, 3070571, 103485219, 94320862, 100826801]
         },
         {
             "name": "Outdoors Pack",
@@ -5035,6 +5035,42 @@
             "name": "Hopping Over Puddles",
             "difficulty": 5,
             "skillsets": ["timings"]
+        },
+
+        "july-2024": {
+            "name": "monthly july 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "1616126": {
+            "name": "Oblivion",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "40367903": {
+            "name": "S c r e a M",
+            "difficulty": 0,
+            "skillsets": ["fast-paced"]
+        },
+        "3070571": {
+            "name": "S T O R M",
+            "difficulty": 1,
+            "skillsets": ["overall"]
+        },
+        "103485219": {
+            "name": "FURY",
+            "difficulty": 2,
+            "skillsets": ["fast-paced"]
+        },
+        "94320862": {
+            "name": "Maverick",
+            "difficulty": 4,
+            "skillsets": ["memory", "fast-paced"]
+        },
+        "100826801": {
+            "name": "Hades",
+            "difficulty": 5,
+            "skillsets": ["learny", "fast-paced"]
         }
         
     }
