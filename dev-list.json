@@ -5035,6 +5035,42 @@
             "name": "Hopping Over Puddles",
             "difficulty": 5,
             "skillsets": ["timings"]
+        },
+
+        "july-2024": {
+            "name": "monthly july 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "1616126": {
+            "name": "Oblivion",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "40367903": {
+            "name": "S c r e a M",
+            "difficulty": 0,
+            "skillsets": ["fast-paced"]
+        },
+        "3070571": {
+            "name": "S T O R M",
+            "difficulty": 1,
+            "skillsets": ["overall"]
+        },
+        "103485219": {
+            "name": "FURY",
+            "difficulty": 2,
+            "skillsets": ["fast-paced"]
+        },
+        "94320862": {
+            "name": "Maverick",
+            "difficulty": 4,
+            "skillsets": ["memory", "fast-paced"]
+        },
+        "100826801": {
+            "name": "Hades",
+            "difficulty": 5,
+            "skillsets": ["learny", "fast-paced"]
         }
         
     }
