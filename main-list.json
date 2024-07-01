@@ -1432,6 +1432,15 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for July 2024)",
+            "sprite": "DP_July",
+            "month": 7,
+            "year": 2024,
+            "listID": 0,
+            "levelIDs": []
+        },
+        {
             "name": "Outdoors Pack",
             "description": "Go on, touch it :) (GDDP Monthly Pack for June 2024)",
             "sprite": "DP_June",
