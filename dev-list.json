@@ -1432,13 +1432,13 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for July 2024)",
+            "name": "Roller Coaster Pack",
+            "description": "Every level shares the name of an existing roller coaster. Weeeeeeeeee (GDDP Monthly Pack for July 2024)",
             "sprite": "DP_July",
             "month": 7,
             "year": 2024,
             "listID": 0,
-            "levelIDs": []
+            "levelIDs": [1616126, 40367903, 3070571, 103485219, 94320862, 100826801]
         },
         {
             "name": "Outdoors Pack",
