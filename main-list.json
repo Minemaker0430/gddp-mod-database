@@ -568,6 +568,7 @@
                 77681476,
                 60564010,
                 86787878,
+                90193093,
                 76865589,
                 90891227,
                 42584142,
@@ -575,7 +576,6 @@
                 57828784,
                 68654380,
                 55624478,
-                91180835,
                 71912451,
                 52310333,
                 33498127,
@@ -595,14 +595,13 @@
                 107373479,
                 107373569,
                 107373669,
-                107374043,
+                0,
                 107374697,
                 107374955,
                 0,
                 107375573,
                 107375676,
                 107375778,
-                107375995,
                 107376637,
                 107376712,
                 107376806,
@@ -614,7 +613,8 @@
                 107377361,
                 107377465,
                 107377603,
-                
+
+                107375995,
                 107377950,
                 107378043
             ],
@@ -927,6 +927,7 @@
             "plusSprite": "DP_DiamondPlus",
             "saveID": "legacy-diamond",
             "levelIDs": [
+                91180835,
                 90597202,
                 63996127
             ],
@@ -2926,6 +2927,11 @@
             "difficulty": 10,
             "skillsets": ["ship", "wave"]
         },
+        "90193093": {
+            "name": "Twilight",
+            "difficulty": 10,
+            "skillsets": ["high-cps", "fast-paced"]
+        },
         "76865589": {
             "name": "Terminux",
             "difficulty": 10,
@@ -2960,11 +2966,6 @@
             "name": "Ragnarok",
             "difficulty": 10,
             "skillsets": ["chokepoints", "nerve-control"]
-        },
-        "91180835": {
-            "name": "ATOMIC CANNON Mk II",
-            "difficulty": 10,
-            "skillsets": ["high-cps"]
         },
         "71912451": {
             "name": "RUST",
@@ -3855,6 +3856,11 @@
             "name": "legacy diamond start",
             "difficulty": 10,
             "skillsets": []
+        },
+        "91180835": {
+            "name": "ATOMIC CANNON Mk II",
+            "difficulty": 10,
+            "skillsets": ["high-cps"]
         },
         "90597202": {
             "name": "CORRODERE",
