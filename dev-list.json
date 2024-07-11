@@ -2927,6 +2927,11 @@
             "difficulty": 10,
             "skillsets": ["ship", "wave"]
         },
+        "90193093": {
+            "name": "Twilight",
+            "difficulty": 10,
+            "skillsets": ["high-cps", "fast-paced"]
+        },
         "76865589": {
             "name": "Terminux",
             "difficulty": 10,
@@ -2961,11 +2966,6 @@
             "name": "Ragnarok",
             "difficulty": 10,
             "skillsets": ["chokepoints", "nerve-control"]
-        },
-        "91180835": {
-            "name": "ATOMIC CANNON Mk II",
-            "difficulty": 10,
-            "skillsets": ["high-cps"]
         },
         "71912451": {
             "name": "RUST",
@@ -3856,6 +3856,11 @@
             "name": "legacy diamond start",
             "difficulty": 10,
             "skillsets": []
+        },
+        "91180835": {
+            "name": "ATOMIC CANNON Mk II",
+            "difficulty": 10,
+            "skillsets": ["high-cps"]
         },
         "90597202": {
             "name": "CORRODERE",
