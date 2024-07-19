@@ -488,8 +488,8 @@
             "plusSprite": "DP_EmeraldPlus",
             "saveID": "emerald",
             "levelIDs": [
-                34057654,
                 60130895,
+                34057654,
                 73335285,
                 73645039,
                 85393418,
@@ -499,15 +499,15 @@
                 79242390,
                 63560498,
                 38754426,
+                79922944,
                 89876243,
+                79484035,
                 45094581,
-                37255449,
                 37398911,
                 37456092,
                 83164497,
-                69871779,
                 86291702,
-                79484035,
+                69871779,
                 62817170,
                 50333567,
                 84960998,
@@ -898,6 +898,7 @@
             "plusSprite": "DP_EmeraldPlus",
             "saveID": "legacy-emerald",
             "levelIDs": [
+                37255449,
                 62119245,
                 61127840,
                 70187443,
@@ -2690,6 +2691,11 @@
             "difficulty": 8,
             "skillsets": ["memory"]
         },
+        "79922944": {
+            "name": "Dole Damos",
+            "difficulty": 8,
+            "skillsets": ["duals"]
+        },
         "89876243": {
             "name": "FIREPOWER",
             "difficulty": 8,
@@ -2699,11 +2705,6 @@
             "name": "Delta Interface",
             "difficulty": 8,
             "skillsets": ["overall"]
-        },
-        "37255449": {
-            "name": "Cadrega City",
-            "difficulty": 8,
-            "skillsets": ["timings", "duals"]
         },
         "37398911": {
             "name": "Stalemate Redux",
@@ -3799,6 +3800,11 @@
             "name": "legacy emerald start",
             "difficulty": 8,
             "skillsets": []
+        },
+        "37255449": {
+            "name": "Cadrega City",
+            "difficulty": 8,
+            "skillsets": ["timings", "duals"]
         },
         "62119245": {
             "name": "Occult Outcry",
