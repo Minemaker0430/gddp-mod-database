@@ -1340,6 +1340,14 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for August 2024)",
+            "sprite": "DP_August",
+            "month": 8,
+            "year": 2024,
+            "levelIDs": [0, 0, 0, 0, 0, 0]
+        },
+        {
             "name": "Roller Coaster Pack",
             "description": "Every level shares the name of an existing roller coaster. Weeeeeeeeee (GDDP Monthly Pack for July 2024)",
             "sprite": "DP_July",
@@ -4959,7 +4967,42 @@
             "name": "Hades",
             "difficulty": 5,
             "skillsets": ["learny", "fast-paced"]
-        }
+        },
         
+        "august-2024": {
+            "name": "monthly august 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "unk": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "unk": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "unk": {
+            "name": "",
+            "difficulty": 1,
+            "skillsets": []
+        },
+        "unk": {
+            "name": "",
+            "difficulty": 2,
+            "skillsets": []
+        },
+        "unk": {
+            "name": "",
+            "difficulty": 4,
+            "skillsets": []
+        },
+        "unk": {
+            "name": "",
+            "difficulty": 5,
+            "skillsets": []
+        }
     }
 }
