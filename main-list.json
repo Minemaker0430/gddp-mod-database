@@ -1340,12 +1340,12 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for August 2024)",
+            "name": "Ocean Pack",
+            "description": "AHOY!! SUPRRISE ATTACK! We present to you the Ocean Pack! Splish Splash I was takin a bath (GDDP Monthly Pack for August 2024)",
             "sprite": "DP_August",
             "month": 8,
             "year": 2024,
-            "levelIDs": [0, 0, 0, 0, 0, 0]
+            "levelIDs": [13000379, 94088072, 105263180, 92188591, 63753778, 89807521]
         },
         {
             "name": "Roller Coaster Pack",
@@ -4974,35 +4974,35 @@
             "difficulty": 0,
             "skillsets": []
         },
-        "unk": {
-            "name": "",
+        "13000379": {
+            "name": "Water castle",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "memory"]
         },
-        "unk": {
-            "name": "",
+        "94088072": {
+            "name": "Riptide",
             "difficulty": 0,
-            "skillsets": []
+            "skillsets": ["ship", "timings"]
         },
-        "unk": {
-            "name": "",
+        "105263180": {
+            "name": "Buoy Base",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["overall"]
         },
-        "unk": {
-            "name": "",
+        "92188591": {
+            "name": "Aquarius",
             "difficulty": 2,
-            "skillsets": []
+            "skillsets": ["ship", "wave"]
         },
-        "unk": {
-            "name": "",
+        "63753778": {
+            "name": "Deep Swim",
             "difficulty": 4,
-            "skillsets": []
+            "skillsets": ["timings", "memory"]
         },
-        "unk": {
-            "name": "",
+        "89807521": {
+            "name": "FISH FISH GODMODE",
             "difficulty": 5,
-            "skillsets": []
+            "skillsets": ["timings"]
         }
     }
 }
