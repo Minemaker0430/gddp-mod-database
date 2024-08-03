@@ -2,19 +2,7 @@
     "news": [
         {
             "date": "8-3-2024",
-            "text": "We now have a news system!\n\nThis will be used for any list changes, new packs, or general\nannouncements for the mod!"
-        },
-        {
-            "date": "1-1-2000",
-            "text": "test"
-        },
-        {
-            "date": "1-1-2000",
-            "text": "test"
-        },
-        {
-            "date": "1-1-2000",
-            "text": "test"
+            "text": "The mod now have a news system!\n\nThis will be used for any list changes, new packs, or general\nannouncements for the mod!"
         }
     ]
 }
