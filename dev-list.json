@@ -2168,7 +2168,7 @@
         "33405303": {
             "name": "The Secret Box",
             "difficulty": 4,
-            "skillsets": ["wave", "chokepoints"]
+            "skillsets": ["wave"]
         },
         "84064573": {
             "name": "Cloud Nine",
@@ -2203,7 +2203,7 @@
         "61366260": {
             "name": "Beetle",
             "difficulty": 4,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["overall"]
         },
         "68718751": {
             "name": "Optic daydream",
