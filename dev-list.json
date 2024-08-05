@@ -1599,131 +1599,406 @@
         "65765662": {
             "name": "iS",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 0, 
+                "duals": 0, 
+                "fastPaced": 0, 
+                "highCPS": 0, 
+                "memory": 1, 
+                "nerveControl": 0, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 1
+            }
         },
         "3543219": {
             "name": "Speed Racer",
             "difficulty": 0,
-            "skillsets": ["speed-changes"]
+            "skillsets": ["speed-changes"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 1, 
+                "fastPaced": 1, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 0
+            }
         },
         "63087691": {
             "name": "STARPUNK",
             "difficulty": 0,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 0, 
+                "fastPaced": 1, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 3, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "77132030": {
             "name": "Ratio Circles",
             "difficulty": 0,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 1, 
+                "ship": 1, 
+                "timings": 1, 
+                "wave": 3
+            }
         },
         "80433444": {
             "name": "MAYMORY",
             "difficulty": 0,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 0, 
+                "fastPaced": 0, 
+                "highCPS": 1, 
+                "memory": 3, 
+                "nerveControl": 1, 
+                "ship": 0, 
+                "timings": 1, 
+                "wave": 2
+            }
         },
         "27143567": {
             "name": "Voyager",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 0
+            }
         },
         "78797905": {
             "name": "anasthasia",
             "difficulty": 0,
-            "skillsets": ["fast-paced"]
+            "skillsets": ["fast-paced"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 0, 
+                "fastPaced": 3, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 1
+            }
         },
         "76821414": {
             "name": "Zircon",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 1, 
+                "timings": 1, 
+                "wave": 2
+            }
         },
         "86880648": {
             "name": "Common S3nse",
             "difficulty": 0,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 3, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 1
+            }
         },
         "7116121": {
             "name": "Problematic",
             "difficulty": 0,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 3
+            }
         },
         "75603568": {
             "name": "Tabasco",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 1
+            }
         },
         "17235008": {
             "name": "X",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "76799716": {
             "name": "Virtualization",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "38514054": {
             "name": "Buried Angel",
             "difficulty": 0,
-            "skillsets": ["gm-changes"]
+            "skillsets": ["gm-changes"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 2, 
+                "fastPaced": 1, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "76564776": {
             "name": "weird",
             "difficulty": 0,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 2
+            }
         },
         "62067918": {
             "name": "ClutterX",
             "difficulty": 0,
-            "skillsets": ["ship", "timings"]
+            "skillsets": ["ship", "timings"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 1, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 3, 
+                "timings": 3, 
+                "wave": 1
+            }
         },
         "8660411": {
             "name": "Death Moon",
             "difficulty": 0,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 3, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 3
+            }
         },
         "68061608": {
             "name": "NothinG",
             "difficulty": 0,
-            "skillsets": ["ship", "timings"]
+            "skillsets": ["ship", "timings"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 0, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 3, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "86012792": {
             "name": "Cosmic Rush",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 3, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 1
+            }
         },
         "3081555": {
             "name": "Chaoz Impact",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "15619194": {
             "name": "Motion",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "2997354": {
             "name": "DeCode",
             "difficulty": 0,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 3, 
+                "wave": 2
+            }
         },
         "27912428": {
             "name": "wowzers holy",
             "difficulty": 0,
-            "skillsets": ["ship", "ball"]
+            "skillsets": ["ship", "ball"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 0, 
+                "fastPaced": 2, 
+                "highCPS": 3, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "81742215": {
             "name": "Fast N Spicy",
             "difficulty": 0,
-            "skillsets": ["duals"]
+            "skillsets": ["duals"],
+            "xp": { 
+                "chokepoints": 2, 
+                "duals": 3, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
         "77428474": {
             "name": "Bloudeleuste",
             "difficulty": 0,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "xp": { 
+                "chokepoints": 1, 
+                "duals": 1, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 3, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
+            }
         },
 
         "bronze": {
-            "name": "bbroze start",
+            "name": "bronze start",
             "difficulty": 0,
             "skillsets": []
         },
