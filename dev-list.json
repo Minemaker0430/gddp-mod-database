@@ -2007,15 +2007,15 @@
             "difficulty": 1,
             "skillsets": ["timings"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 1, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 3, 
+                "wave": 2
             }
         },
         "74449": {
@@ -2023,14 +2023,14 @@
             "difficulty": 1,
             "skillsets": ["sp-best-level"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 3, 
                 "duals": 0, 
                 "fastPaced": 0, 
                 "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
+                "memory": 3, 
+                "nerveControl": 3, 
+                "ship": 3, 
+                "timings": 3, 
                 "wave": 0
             }
         },
@@ -2039,15 +2039,15 @@
             "difficulty": 1,
             "skillsets": ["timings", "fast-paced"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 1
             }
         },
         "77492867": {
@@ -2055,15 +2055,15 @@
             "difficulty": 1,
             "skillsets": ["memory"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 1, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 3, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 1
             }
         },
         "27786218": {
@@ -2071,15 +2071,15 @@
             "difficulty": 1,
             "skillsets": ["moving-gp"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 1, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 2
             }
         },
         "78079575": {
@@ -2087,15 +2087,15 @@
             "difficulty": 1,
             "skillsets": ["wave", "timings"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 1, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 3
             }
         },
         "4318253": {
@@ -2103,15 +2103,15 @@
             "difficulty": 1,
             "skillsets": ["memory"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 3, 
                 "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "77614559": {
@@ -2120,14 +2120,14 @@
             "skillsets": ["wave", "learny"],
             "xp": { 
                 "chokepoints": 0, 
-                "duals": 0, 
+                "duals": 2, 
                 "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
                 "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "timings": 1, 
+                "wave": 3
             }
         },
         "58002670": {
@@ -2135,15 +2135,15 @@
             "difficulty": 1,
             "skillsets": ["wave"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 2, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "67113181": {
@@ -2151,14 +2151,14 @@
             "difficulty": 1,
             "skillsets": ["flow"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 1, 
                 "wave": 0
             }
         },
@@ -2167,15 +2167,15 @@
             "difficulty": 1,
             "skillsets": ["ship", "memory"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 1, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 3, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "62133870": {
@@ -2183,15 +2183,15 @@
             "difficulty": 1,
             "skillsets": ["wave"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 2, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 3, 
+                "ship": 1, 
+                "timings": 1, 
+                "wave": 3
             }
         },
         "7016598": {
@@ -2199,15 +2199,15 @@
             "difficulty": 1,
             "skillsets": ["overall"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 1, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "83444471": {
@@ -2215,15 +2215,15 @@
             "difficulty": 1,
             "skillsets": ["nerve-control"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 1, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 3, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 1
             }
         },
         "76158198": {
@@ -2231,15 +2231,15 @@
             "difficulty": 1,
             "skillsets": ["timings", "memory"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "47853491": {
@@ -2247,15 +2247,15 @@
             "difficulty": 1,
             "skillsets": ["wave"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 1, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 3
             }
         },
         "14975695": {
@@ -2263,15 +2263,15 @@
             "difficulty": 1,
             "skillsets": ["nerve-control"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 3, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 2
             }
         },
         "18834999": {
@@ -2279,15 +2279,15 @@
             "difficulty": 1,
             "skillsets": ["duals"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
+                "chokepoints": 2, 
+                "duals": 3, 
+                "fastPaced": 1, 
                 "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 1, 
+                "wave": 2
             }
         },
         "86665617": {
@@ -2295,15 +2295,15 @@
             "difficulty": 1,
             "skillsets": ["overall"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 1, 
+                "duals": 1, 
+                "fastPaced": 3, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 2, 
+                "ship": 1, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "43010906": {
@@ -2311,14 +2311,14 @@
             "difficulty": 1,
             "skillsets": ["timings"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 1, 
+                "memory": 2, 
+                "nerveControl": 3, 
                 "ship": 0, 
-                "timings": 0, 
+                "timings": 3, 
                 "wave": 0
             }
         },
@@ -2327,15 +2327,15 @@
             "difficulty": 1,
             "skillsets": ["overall"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 1, 
+                "duals": 2, 
+                "fastPaced": 1, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "23300671": {
@@ -2343,15 +2343,15 @@
             "difficulty": 1,
             "skillsets": ["ship"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 2, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 1, 
+                "highCPS": 2, 
+                "memory": 1, 
+                "nerveControl": 1, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "25706351": {
@@ -2359,15 +2359,15 @@
             "difficulty": 1,
             "skillsets": ["wave", "ship"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 2, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 3, 
+                "highCPS": 3, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 3
             }
         },
         "3471703": {
@@ -2375,15 +2375,15 @@
             "difficulty": 1,
             "skillsets": ["overall"],
             "xp": { 
-                "chokepoints": 0, 
-                "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "chokepoints": 2, 
+                "duals": 2, 
+                "fastPaced": 2, 
+                "highCPS": 2, 
+                "memory": 3, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 2
             }
         },
         "9287687": {
@@ -2391,15 +2391,15 @@
             "difficulty": 1,
             "skillsets": ["ship", "wave"],
             "xp": { 
-                "chokepoints": 0, 
+                "chokepoints": 2, 
                 "duals": 0, 
-                "fastPaced": 0, 
-                "highCPS": 0, 
-                "memory": 0, 
-                "nerveControl": 0, 
-                "ship": 0, 
-                "timings": 0, 
-                "wave": 0
+                "fastPaced": 1, 
+                "highCPS": 2, 
+                "memory": 2, 
+                "nerveControl": 2, 
+                "ship": 2, 
+                "timings": 2, 
+                "wave": 3
             }
         },
 
