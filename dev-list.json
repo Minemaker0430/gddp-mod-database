@@ -6676,80 +6676,80 @@
             "name": "Natural Disaster (Unnerfed)",
             "difficulty": 14,
             "skillsets": ["wave", "ship"],
-            "xp": { 
-                "chokepoints": 2, 
-                "duals": 0, 
-                "fastPaced": 1, 
-                "highCPS": 1, 
-                "memory": 1, 
-                "nerveControl": 2, 
-                "ship": 3, 
-                "timings": 2, 
-                "wave": 3
+            "xp": {
+                "timings": 2,
+                "chokepoints": 2,
+                "nerve": 2,
+                "cps": 1,
+                "fastPaced": 1,
+                "memory": 1,
+                "duals": 0,
+                "wave": 3,
+                "ship": 3
             }
         },
         "66424234": {
             "name": "Dystopia",
             "difficulty": 14,
             "skillsets": ["overall"],
-            "xp": { 
-                "chokepoints": 3, 
-                "duals": 1, 
-                "fastPaced": 2, 
-                "highCPS": 2, 
-                "memory": 1, 
-                "nerveControl": 2, 
-                "ship": 3, 
-                "timings": 2, 
-                "wave": 2
+            "xp": {
+                "duals": 1,
+                "fastPaced": 2,
+                "chokepoints": 3,
+                "cps": 2,
+                "nerve": 2,
+                "timings": 2,
+                "wave": 2,
+                "memory": 1,
+                "ship": 3
             }
         },
         "77049802": {
             "name": "The Nautical (Unnerfed)",
             "difficulty": 14,
             "skillsets": ["wave"],
-            "xp": { 
-                "chokepoints": 2, 
-                "duals": 1, 
-                "fastPaced": 2, 
-                "highCPS": 2, 
-                "memory": 0, 
-                "nerveControl": 1, 
-                "ship": 1, 
-                "timings": 1, 
-                "wave": 3
+            "xp": {
+                "nerve": 1,
+                "wave": 3,
+                "ship": 1,
+                "fastPaced": 2,
+                "memory": 0,
+                "cps": 2,
+                "chokepoints": 2,
+                "duals": 1,
+                "timings": 1
             }
         },
         "77331805": {
             "name": "Aquamarine",
             "difficulty": 14,
             "skillsets": ["wave"],
-            "xp": { 
-                "chokepoints": 3, 
-                "duals": 1, 
-                "fastPaced": 2, 
-                "highCPS": 3, 
-                "memory": 1, 
-                "nerveControl": 2, 
-                "ship": 1, 
-                "timings": 2, 
-                "wave": 3
+            "xp": {
+                "timings": 2,
+                "wave": 3,
+                "fastPaced": 2,
+                "nerve": 2,
+                "cps": 3,
+                "duals": 1,
+                "memory": 1,
+                "chokepoints": 3,
+                "ship": 1
             }
         },
         "78614226": {
             "name": "Silent Clubstep II",
             "difficulty": 14,
             "skillsets": ["ship", "timings"],
-            "xp": { 
-                "chokepoints": 2, 
-                "duals": 1, 
-                "fastPaced": 2, 
-                "highCPS": 2, 
-                "memory": 2, 
-                "nerveControl": 2, 
-                "ship": 3, 
-                "timings": 3, 
-                "wave": 1
+            "xp": {
+                "cps": 2,
+                "wave": 1,
+                "chokepoints": 2,
+                "timings": 3,
+                "fastPaced": 2,
+                "nerve": 2,
+                "ship": 3,
+                "memory": 2,
+                "duals": 1
             }
         },
 
