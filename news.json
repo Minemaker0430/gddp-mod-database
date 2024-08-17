@@ -1,6 +1,10 @@
 {
     "news": [
         {
+            "date": "8-16-2024",
+            "text": "The Recommendations Update is out!\n\nAdded a Recommendations system based on the GDDP Website.\nGet the update on GitHub or the Geode Index!"
+        },
+        {
             "date": "8-9-2024",
             "text": "The XP Update is out!\n\nAdded a Skill XP system based on the GDDP Website.\nGet the update on GitHub or the Geode Index!"
         },
