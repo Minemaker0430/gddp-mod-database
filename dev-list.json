@@ -10090,6 +10090,53 @@
             "skillsets": [
                 "timings"
             ]
+        },
+        "september-2024": {
+            "name": "monthly september 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "874540": {
+            "name": "DarnocDynamix",
+            "difficulty": 0,
+            "skillsets": [
+                "fast-paced"
+            ]
+        },
+        "89752951": {
+            "name": "aeonair space battle",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "86475989": {
+            "name": "Mulpan and More",
+            "difficulty": 1,
+            "skillsets": [
+                "fast-paced"
+            ]
+        },
+        "9725767": {
+            "name": "Theory of WOOGI",
+            "difficulty": 2,
+            "skillsets": [
+                "timings"
+            ]
+        },
+        "94869320": {
+            "name": "CARZ PROCESSING",
+            "difficulty": 4,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "92729757": {
+            "name": "robotchief exposal",
+            "difficulty": 5,
+            "skillsets": [
+                "timings", "wave"
+            ]
         }
     }
 }
