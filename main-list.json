@@ -1339,6 +1339,21 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for September 2024)",
+            "sprite": "DP_September",
+            "month": 9,
+            "year": 2024,
+            "levelIDs": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
             "name": "Ocean Pack",
             "description": "AHOY!! SUPRRISE ATTACK! We present to you the Ocean Pack! Splish Splash I was takin a bath (GDDP Monthly Pack for August 2024)",
             "sprite": "DP_August",
