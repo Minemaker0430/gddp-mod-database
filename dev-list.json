@@ -1819,7 +1819,7 @@
             ]
         }
     ],
-    "database-version": 12,
+    "database-version": 13,
     "level-data": {
         "beginner": {
             "name": "beginner start",
