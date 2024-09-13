@@ -31,7 +31,12 @@
                 2997354,
                 27912428,
                 81742215,
-                77428474
+                77428474,
+                105383537,
+                104151099,
+                98071844,
+                103574402,
+                107791691
             ],
             "practiceIDs": [
                 89978843,
@@ -2281,15 +2286,12 @@
                 "memory": 1
             }
         },
-        "beginner-unknown": {
-            "name": "don't know positions or skillsets yet",
-            "difficulty": 0,
-            "skillsets": []
-        },
         "105383537": {
             "name": "Chromatique",
             "difficulty": 0,
-            "skillsets": [],
+            "skillsets": [
+                "swing"
+            ],
             "xp": {
                 "ship": 2,
                 "wave": 1,
@@ -2306,7 +2308,9 @@
         "104151099": {
             "name": "Lucy",
             "difficulty": 0,
-            "skillsets": [],
+            "skillsets": [
+                "swing"
+            ],
             "xp": {
                 "ship": 1,
                 "wave": 1,
@@ -2323,7 +2327,9 @@
         "98071844": {
             "name": "Star Road",
             "difficulty": 0,
-            "skillsets": [],
+            "skillsets": [
+                "learny"
+            ],
             "xp": {
                 "ship": 1,
                 "wave": 1,
@@ -2340,7 +2346,9 @@
         "103574402": {
             "name": "NTTE",
             "difficulty": 0,
-            "skillsets": [],
+            "skillsets": [
+                "learny"
+            ],
             "xp": {
                 "ship": 2,
                 "wave": 1,
@@ -2357,7 +2365,9 @@
         "107791691": {
             "name": "Raven",
             "difficulty": 0,
-            "skillsets": [],
+            "skillsets": [
+                "fast-paced"
+            ],
             "xp": {
                 "ship": 1,
                 "wave": 2,
