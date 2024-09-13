@@ -12,18 +12,23 @@
                 63087691,
                 77132030,
                 80433444,
+                98071844,
                 27143567,
+                103574402,
                 78797905,
                 76821414,
                 86880648,
                 7116121,
                 75603568,
                 17235008,
+                107791691,
                 76799716,
                 38514054,
                 76564776,
                 62067918,
+                105383537,
                 8660411,
+                104151099,
                 68061608,
                 86012792,
                 3081555,
@@ -31,12 +36,7 @@
                 2997354,
                 27912428,
                 81742215,
-                77428474,
-                105383537,
-                104151099,
-                98071844,
-                103574402,
-                107791691
+                77428474
             ],
             "practiceIDs": [
                 89978843,
@@ -1926,6 +1926,25 @@
                 "fastPaced": 0
             }
         },
+        "98071844": {
+            "name": "Star Road",
+            "difficulty": 0,
+            "skillsets": [
+                "learny"
+            ],
+            "xp": {
+                "ship": 1,
+                "wave": 1,
+                "chokepoints": 2,
+                "duals": 1,
+                "cps": 1,
+                "timings": 2,
+                "nerve": 1,
+                "fastPaced": 2,
+                "memory": 2,
+                "swing": 1
+            }
+        },
         "27143567": {
             "name": "Voyager",
             "difficulty": 0,
@@ -1942,6 +1961,25 @@
                 "ship": 2,
                 "cps": 1,
                 "memory": 1
+            }
+        },
+        "103574402": {
+            "name": "NTTE",
+            "difficulty": 0,
+            "skillsets": [
+                "learny"
+            ],
+            "xp": {
+                "ship": 2,
+                "wave": 1,
+                "chokepoints": 2,
+                "duals": 0,
+                "cps": 2,
+                "timings": 2,
+                "nerve": 1,
+                "fastPaced": 2,
+                "memory": 2,
+                "swing": 2
             }
         },
         "78797905": {
@@ -2052,6 +2090,25 @@
                 "duals": 2
             }
         },
+        "107791691": {
+            "name": "Raven",
+            "difficulty": 0,
+            "skillsets": [
+                "fast-paced"
+            ],
+            "xp": {
+                "ship": 1,
+                "wave": 2,
+                "chokepoints": 2,
+                "duals": 1,
+                "cps": 2,
+                "timings": 2,
+                "nerve": 1,
+                "fastPaced": 3,
+                "memory": 2,
+                "swing": 0
+            }
+        },
         "76799716": {
             "name": "Virtualization",
             "difficulty": 0,
@@ -2126,6 +2183,25 @@
                 "cps": 1
             }
         },
+        "105383537": {
+            "name": "Chromatique",
+            "difficulty": 0,
+            "skillsets": [
+                "swing"
+            ],
+            "xp": {
+                "ship": 2,
+                "wave": 1,
+                "chokepoints": 2,
+                "duals": 0,
+                "cps": 1,
+                "timings": 2,
+                "nerve": 2,
+                "fastPaced": 1,
+                "memory": 2,
+                "swing": 3
+            }
+        },
         "8660411": {
             "name": "Death Moon",
             "difficulty": 0,
@@ -2142,6 +2218,25 @@
                 "duals": 2,
                 "nerve": 3,
                 "ship": 1
+            }
+        },
+        "104151099": {
+            "name": "Lucy",
+            "difficulty": 0,
+            "skillsets": [
+                "swing"
+            ],
+            "xp": {
+                "ship": 1,
+                "wave": 1,
+                "chokepoints": 1,
+                "duals": 0,
+                "cps": 1,
+                "timings": 2,
+                "nerve": 2,
+                "fastPaced": 2,
+                "memory": 2,
+                "swing": 3
             }
         },
         "68061608": {
@@ -2289,101 +2384,6 @@
                 "nerve": 3,
                 "fastPaced": 2,
                 "memory": 1
-            }
-        },
-        "105383537": {
-            "name": "Chromatique",
-            "difficulty": 0,
-            "skillsets": [
-                "swing"
-            ],
-            "xp": {
-                "ship": 2,
-                "wave": 1,
-                "chokepoints": 2,
-                "duals": 0,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 2,
-                "fastPaced": 1,
-                "memory": 2,
-                "swing": 3
-            }
-        },
-        "104151099": {
-            "name": "Lucy",
-            "difficulty": 0,
-            "skillsets": [
-                "swing"
-            ],
-            "xp": {
-                "ship": 1,
-                "wave": 1,
-                "chokepoints": 1,
-                "duals": 0,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 2,
-                "fastPaced": 2,
-                "memory": 2,
-                "swing": 3
-            }
-        },
-        "98071844": {
-            "name": "Star Road",
-            "difficulty": 0,
-            "skillsets": [
-                "learny"
-            ],
-            "xp": {
-                "ship": 1,
-                "wave": 1,
-                "chokepoints": 2,
-                "duals": 1,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 1,
-                "fastPaced": 2,
-                "memory": 2,
-                "swing": 1
-            }
-        },
-        "103574402": {
-            "name": "NTTE",
-            "difficulty": 0,
-            "skillsets": [
-                "learny"
-            ],
-            "xp": {
-                "ship": 2,
-                "wave": 1,
-                "chokepoints": 2,
-                "duals": 0,
-                "cps": 2,
-                "timings": 2,
-                "nerve": 1,
-                "fastPaced": 2,
-                "memory": 2,
-                "swing": 2
-            }
-        },
-        "107791691": {
-            "name": "Raven",
-            "difficulty": 0,
-            "skillsets": [
-                "fast-paced"
-            ],
-            "xp": {
-                "ship": 1,
-                "wave": 2,
-                "chokepoints": 2,
-                "duals": 1,
-                "cps": 2,
-                "timings": 2,
-                "nerve": 1,
-                "fastPaced": 3,
-                "memory": 2,
-                "swing": 0
             }
         },
         "bronze": {
