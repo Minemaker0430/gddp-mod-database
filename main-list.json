@@ -1851,7 +1851,8 @@
                 "cps": 0,
                 "wave": 1,
                 "nerve": 0,
-                "fastPaced": 0
+                "fastPaced": 0,
+                "swing": 0
             }
         },
         "3543219": {
@@ -1869,7 +1870,8 @@
                 "memory": 2,
                 "fastPaced": 1,
                 "chokepoints": 1,
-                "timings": 1
+                "timings": 1,
+                "swing": 0
             }
         },
         "63087691": {
@@ -1887,7 +1889,8 @@
                 "timings": 2,
                 "chokepoints": 1,
                 "cps": 1,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "77132030": {
@@ -1905,7 +1908,8 @@
                 "fastPaced": 2,
                 "memory": 1,
                 "cps": 2,
-                "timings": 1
+                "timings": 1,
+                "swing": 0
             }
         },
         "80433444": {
@@ -1923,7 +1927,8 @@
                 "wave": 2,
                 "nerve": 1,
                 "chokepoints": 1,
-                "fastPaced": 0
+                "fastPaced": 0,
+                "swing": 0
             }
         },
         "98071844": {
@@ -1960,7 +1965,8 @@
                 "nerve": 1,
                 "ship": 2,
                 "cps": 1,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "103574402": {
@@ -1997,7 +2003,8 @@
                 "nerve": 2,
                 "chokepoints": 1,
                 "ship": 1,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "76821414": {
@@ -2015,7 +2022,8 @@
                 "ship": 1,
                 "timings": 1,
                 "nerve": 1,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "86880648": {
@@ -2033,7 +2041,8 @@
                 "memory": 3,
                 "ship": 2,
                 "cps": 1,
-                "duals": 2
+                "duals": 2,
+                "swing": 0
             }
         },
         "7116121": {
@@ -2051,7 +2060,8 @@
                 "duals": 0,
                 "fastPaced": 2,
                 "memory": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "75603568": {
@@ -2069,7 +2079,8 @@
                 "wave": 1,
                 "nerve": 1,
                 "memory": 2,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "17235008": {
@@ -2087,7 +2098,8 @@
                 "wave": 1,
                 "ship": 2,
                 "memory": 2,
-                "duals": 2
+                "duals": 2,
+                "swing": 0
             }
         },
         "107791691": {
@@ -2124,7 +2136,8 @@
                 "nerve": 1,
                 "memory": 2,
                 "chokepoints": 2,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "38514054": {
@@ -2142,7 +2155,8 @@
                 "wave": 2,
                 "duals": 2,
                 "memory": 1,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "76564776": {
@@ -2161,7 +2175,8 @@
                 "timings": 1,
                 "cps": 1,
                 "chokepoints": 1,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "62067918": {
@@ -2180,7 +2195,8 @@
                 "chokepoints": 2,
                 "memory": 1,
                 "duals": 0,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "105383537": {
@@ -2217,7 +2233,8 @@
                 "cps": 1,
                 "duals": 2,
                 "nerve": 3,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "104151099": {
@@ -2255,7 +2272,8 @@
                 "cps": 2,
                 "chokepoints": 2,
                 "memory": 1,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "86012792": {
@@ -2273,7 +2291,8 @@
                 "memory": 2,
                 "timings": 2,
                 "duals": 3,
-                "wave": 1
+                "wave": 1,
+                "swing": 0
             }
         },
         "3081555": {
@@ -2291,7 +2310,8 @@
                 "cps": 1,
                 "ship": 1,
                 "fastPaced": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "15619194": {
@@ -2309,7 +2329,8 @@
                 "duals": 2,
                 "wave": 2,
                 "chokepoints": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "2997354": {
@@ -2328,7 +2349,8 @@
                 "chokepoints": 2,
                 "cps": 2,
                 "wave": 2,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "27912428": {
@@ -2347,7 +2369,8 @@
                 "fastPaced": 2,
                 "memory": 2,
                 "cps": 3,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "81742215": {
@@ -2365,7 +2388,8 @@
                 "fastPaced": 2,
                 "nerve": 2,
                 "timings": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "77428474": {
@@ -2383,7 +2407,8 @@
                 "timings": 2,
                 "nerve": 3,
                 "fastPaced": 2,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "bronze": {
@@ -2406,7 +2431,8 @@
                 "memory": 1,
                 "timings": 3,
                 "ship": 1,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "74449": {
@@ -2424,7 +2450,8 @@
                 "wave": 0,
                 "nerve": 3,
                 "duals": 0,
-                "ship": 3
+                "ship": 3,
+                "swing": 0
             }
         },
         "62378908": {
@@ -2443,7 +2470,8 @@
                 "wave": 1,
                 "fastPaced": 2,
                 "memory": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "77492867": {
@@ -2461,7 +2489,8 @@
                 "timings": 2,
                 "chokepoints": 1,
                 "duals": 0,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "27786218": {
@@ -2479,7 +2508,8 @@
                 "duals": 2,
                 "chokepoints": 1,
                 "nerve": 1,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "78079575": {
@@ -2498,7 +2528,8 @@
                 "memory": 1,
                 "wave": 3,
                 "duals": 0,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "4318253": {
@@ -2516,7 +2547,8 @@
                 "nerve": 0,
                 "timings": 2,
                 "cps": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "77614559": {
@@ -2535,7 +2567,8 @@
                 "timings": 1,
                 "chokepoints": 0,
                 "memory": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "58002670": {
@@ -2553,7 +2586,8 @@
                 "wave": 2,
                 "timings": 2,
                 "duals": 0,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "67113181": {
@@ -2571,7 +2605,8 @@
                 "wave": 0,
                 "cps": 2,
                 "chokepoints": 2,
-                "timings": 1
+                "timings": 1,
+                "swing": 0
             }
         },
         "86155700": {
@@ -2590,7 +2625,8 @@
                 "ship": 3,
                 "cps": 2,
                 "duals": 0,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "62133870": {
@@ -2608,7 +2644,8 @@
                 "ship": 1,
                 "timings": 1,
                 "duals": 0,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "7016598": {
@@ -2645,7 +2682,8 @@
                 "nerve": 3,
                 "duals": 0,
                 "fastPaced": 2,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "76158198": {
@@ -2683,7 +2721,8 @@
                 "nerve": 1,
                 "duals": 1,
                 "ship": 2,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "14975695": {
@@ -2701,7 +2740,8 @@
                 "nerve": 3,
                 "memory": 2,
                 "timings": 1,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "18834999": {
@@ -2719,7 +2759,8 @@
                 "wave": 2,
                 "memory": 2,
                 "timings": 1,
-                "fastPaced": 1
+                "fastPaced": 1,
+                "swing": 0
             }
         },
         "86665617": {
@@ -2737,7 +2778,8 @@
                 "timings": 2,
                 "ship": 1,
                 "fastPaced": 3,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "43010906": {
@@ -2755,7 +2797,8 @@
                 "memory": 2,
                 "ship": 0,
                 "chokepoints": 2,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "63454942": {
@@ -2792,7 +2835,8 @@
                 "timings": 2,
                 "memory": 1,
                 "cps": 2,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "25706351": {
@@ -2811,7 +2855,8 @@
                 "memory": 2,
                 "ship": 2,
                 "timings": 2,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "3471703": {
@@ -2829,7 +2874,8 @@
                 "fastPaced": 2,
                 "timings": 2,
                 "nerve": 2,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "9287687": {
@@ -2848,7 +2894,8 @@
                 "fastPaced": 1,
                 "timings": 2,
                 "memory": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "silver": {
@@ -2891,7 +2938,8 @@
                 "fastPaced": 1,
                 "chokepoints": 1,
                 "cps": 1,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "60084691": {
@@ -2910,7 +2958,8 @@
                 "nerve": 1,
                 "duals": 0,
                 "cps": 2,
-                "wave": 1
+                "wave": 1,
+                "swing": 0
             }
         },
         "4284013": {
@@ -2928,7 +2977,8 @@
                 "cps": 2,
                 "duals": 0,
                 "nerve": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "9718024": {
@@ -2946,7 +2996,8 @@
                 "wave": 3,
                 "memory": 2,
                 "fastPaced": 2,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "38445559": {
@@ -2964,7 +3015,8 @@
                 "chokepoints": 2,
                 "timings": 2,
                 "ship": 3,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "62909889": {
@@ -2983,7 +3035,8 @@
                 "ship": 2,
                 "nerve": 3,
                 "wave": 2,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "7570320": {
@@ -3001,7 +3054,8 @@
                 "wave": 1,
                 "fastPaced": 2,
                 "memory": 2,
-                "duals": 1
+                "duals": 1,
+                "swing": 0
             }
         },
         "59315849": {
@@ -3019,7 +3073,8 @@
                 "chokepoints": 2,
                 "memory": 1,
                 "duals": 3,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "44319716": {
@@ -3037,7 +3092,8 @@
                 "memory": 2,
                 "wave": 2,
                 "duals": 0,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "13643591": {
@@ -3056,7 +3112,8 @@
                 "ship": 2,
                 "wave": 2,
                 "fastPaced": 1,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "11607707": {
@@ -3075,7 +3132,8 @@
                 "fastPaced": 2,
                 "ship": 2,
                 "chokepoints": 1,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "82015235": {
@@ -3093,7 +3151,8 @@
                 "fastPaced": 2,
                 "wave": 2,
                 "chokepoints": 1,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "64618054": {
@@ -3112,7 +3171,8 @@
                 "chokepoints": 2,
                 "duals": 0,
                 "timings": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "67461519": {
@@ -3130,7 +3190,8 @@
                 "memory": 1,
                 "timings": 2,
                 "cps": 1,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "1299298": {
@@ -3149,7 +3210,8 @@
                 "timings": 2,
                 "memory": 2,
                 "nerve": 2,
-                "fastPaced": 1
+                "fastPaced": 1,
+                "swing": 0
             }
         },
         "65768845": {
@@ -3168,7 +3230,8 @@
                 "nerve": 3,
                 "ship": 1,
                 "timings": 3,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "71220097": {
@@ -3187,7 +3250,8 @@
                 "nerve": 1,
                 "cps": 1,
                 "timings": 3,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "42200414": {
@@ -3206,7 +3270,8 @@
                 "timings": 3,
                 "fastPaced": 2,
                 "wave": 3,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "7892386": {
@@ -3224,7 +3289,8 @@
                 "fastPaced": 2,
                 "memory": 3,
                 "nerve": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "62923992": {
@@ -3243,7 +3309,8 @@
                 "timings": 2,
                 "wave": 3,
                 "nerve": 2,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "62028241": {
@@ -3261,7 +3328,8 @@
                 "ship": 2,
                 "duals": 2,
                 "nerve": 3,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "94610370": {
@@ -3279,7 +3347,8 @@
                 "fastPaced": 3,
                 "wave": 3,
                 "timings": 2,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "82210980": {
@@ -3297,7 +3366,8 @@
                 "nerve": 1,
                 "wave": 1,
                 "timings": 2,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "36667269": {
@@ -3340,7 +3410,8 @@
                 "chokepoints": 1,
                 "cps": 1,
                 "duals": 3,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "15855959": {
@@ -3359,7 +3430,8 @@
                 "cps": 2,
                 "chokepoints": 1,
                 "wave": 2,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "67018065": {
@@ -3378,7 +3450,8 @@
                 "nerve": 1,
                 "memory": 2,
                 "wave": 2,
-                "duals": 1
+                "duals": 1,
+                "swing": 0
             }
         },
         "82335470": {
@@ -3396,7 +3469,8 @@
                 "duals": 1,
                 "nerve": 3,
                 "wave": 1,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "84324862": {
@@ -3414,7 +3488,8 @@
                 "cps": 2,
                 "memory": 1,
                 "fastPaced": 1,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "9653767": {
@@ -3453,7 +3528,8 @@
                 "nerve": 2,
                 "timings": 2,
                 "duals": 0,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "7005127": {
@@ -3471,7 +3547,8 @@
                 "memory": 2,
                 "ship": 2,
                 "wave": 2,
-                "fastPaced": 1
+                "fastPaced": 1,
+                "swing": 0
             }
         },
         "76866307": {
@@ -3489,7 +3566,8 @@
                 "wave": 2,
                 "nerve": 1,
                 "ship": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "68372319": {
@@ -3508,7 +3586,8 @@
                 "duals": 0,
                 "chokepoints": 2,
                 "ship": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "68983167": {
@@ -3527,7 +3606,8 @@
                 "chokepoints": 1,
                 "memory": 3,
                 "fastPaced": 2,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "56568010": {
@@ -3546,7 +3626,8 @@
                 "nerve": 1,
                 "ship": 2,
                 "fastPaced": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "89423740": {
@@ -3564,7 +3645,8 @@
                 "fastPaced": 2,
                 "cps": 2,
                 "duals": 1,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "81748963": {
@@ -3583,7 +3665,8 @@
                 "fastPaced": 2,
                 "nerve": 2,
                 "duals": 1,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "78602801": {
@@ -3602,7 +3685,8 @@
                 "nerve": 3,
                 "ship": 0,
                 "timings": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "63500550": {
@@ -3620,7 +3704,8 @@
                 "nerve": 1,
                 "ship": 2,
                 "wave": 0,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "5155022": {
@@ -3638,7 +3723,8 @@
                 "chokepoints": 2,
                 "memory": 1,
                 "fastPaced": 0,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "9145341": {
@@ -3657,7 +3743,8 @@
                 "memory": 2,
                 "duals": 0,
                 "chokepoints": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "75078198": {
@@ -3675,7 +3762,8 @@
                 "wave": 3,
                 "cps": 2,
                 "ship": 1,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "15395840": {
@@ -3694,7 +3782,8 @@
                 "nerve": 2,
                 "ship": 3,
                 "cps": 2,
-                "duals": 1
+                "duals": 1,
+                "swing": 0
             }
         },
         "65269826": {
@@ -3713,7 +3802,8 @@
                 "ship": 2,
                 "chokepoints": 2,
                 "memory": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "37011750": {
@@ -3732,7 +3822,8 @@
                 "ship": 1,
                 "chokepoints": 1,
                 "wave": 1,
-                "timings": 1
+                "timings": 1,
+                "swing": 0
             }
         },
         "67069282": {
@@ -3751,7 +3842,8 @@
                 "memory": 1,
                 "ship": 2,
                 "fastPaced": 3,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "63245954": {
@@ -3770,7 +3862,8 @@
                 "nerve": 2,
                 "cps": 2,
                 "memory": 2,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "17312229": {
@@ -3789,7 +3882,8 @@
                 "timings": 2,
                 "duals": 1,
                 "fastPaced": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "amber": {
@@ -3813,7 +3907,8 @@
                 "memory": 3,
                 "fastPaced": 3,
                 "chokepoints": 1,
-                "wave": 1
+                "wave": 1,
+                "swing": 0
             }
         },
         "13579851": {
@@ -3832,7 +3927,8 @@
                 "timings": 2,
                 "chokepoints": 2,
                 "duals": 3,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "26441161": {
@@ -3850,7 +3946,8 @@
                 "fastPaced": 2,
                 "ship": 1,
                 "wave": 3,
-                "nerve": 0
+                "nerve": 0,
+                "swing": 0
             }
         },
         "8491232": {
@@ -3889,7 +3986,8 @@
                 "wave": 1,
                 "duals": 3,
                 "ship": 1,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "2241592": {
@@ -3908,7 +4006,8 @@
                 "ship": 2,
                 "cps": 1,
                 "chokepoints": 3,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "36834813": {
@@ -3967,7 +4066,8 @@
                 "chokepoints": 2,
                 "wave": 0,
                 "cps": 2,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "33405303": {
@@ -3985,7 +4085,8 @@
                 "memory": 1,
                 "nerve": 1,
                 "wave": 3,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "84064573": {
@@ -4004,7 +4105,8 @@
                 "cps": 3,
                 "fastPaced": 3,
                 "nerve": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "61529436": {
@@ -4022,7 +4124,8 @@
                 "timings": 2,
                 "nerve": 3,
                 "ship": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "65046970": {
@@ -4041,7 +4144,8 @@
                 "timings": 1,
                 "nerve": 1,
                 "wave": 3,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "18674844": {
@@ -4059,7 +4163,8 @@
                 "duals": 2,
                 "cps": 2,
                 "chokepoints": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "78385421": {
@@ -4079,7 +4184,8 @@
                 "memory": 1,
                 "nerve": 1,
                 "wave": 2,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "68688822": {
@@ -4098,7 +4204,8 @@
                 "ship": 3,
                 "chokepoints": 1,
                 "duals": 0,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "61366260": {
@@ -4136,7 +4243,8 @@
                 "wave": 3,
                 "memory": 1,
                 "chokepoints": 2,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "66133800": {
@@ -4155,7 +4263,8 @@
                 "nerve": 3,
                 "duals": 1,
                 "ship": 2,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "55454745": {
@@ -4173,7 +4282,8 @@
                 "wave": 1,
                 "nerve": 2,
                 "timings": 3,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "65894695": {
@@ -4192,7 +4302,8 @@
                 "ship": 2,
                 "wave": 1,
                 "cps": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "23409681": {
@@ -4211,7 +4322,8 @@
                 "timings": 2,
                 "nerve": 1,
                 "chokepoints": 3,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "814678": {
@@ -4230,7 +4342,8 @@
                 "duals": 0,
                 "timings": 3,
                 "chokepoints": 3,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "79428382": {
@@ -4248,7 +4361,8 @@
                 "cps": 1,
                 "timings": 3,
                 "ship": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "63915746": {
@@ -4267,7 +4381,8 @@
                 "fastPaced": 1,
                 "timings": 3,
                 "duals": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "platinum": {
@@ -4290,7 +4405,8 @@
                 "duals": 1,
                 "cps": 1,
                 "nerve": 1,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "3979721": {
@@ -4309,7 +4425,8 @@
                 "cps": 1,
                 "wave": 2,
                 "nerve": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "85933508": {
@@ -4328,7 +4445,8 @@
                 "duals": 0,
                 "ship": 0,
                 "chokepoints": 1,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "63775846": {
@@ -4347,7 +4465,8 @@
                 "fastPaced": 2,
                 "timings": 2,
                 "wave": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "60708767": {
@@ -4366,7 +4485,8 @@
                 "cps": 1,
                 "timings": 3,
                 "duals": 3,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "20761188": {
@@ -4403,7 +4523,8 @@
                 "fastPaced": 2,
                 "nerve": 1,
                 "timings": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "92782493": {
@@ -4422,7 +4543,8 @@
                 "timings": 3,
                 "ship": 1,
                 "memory": 1,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "93549959": {
@@ -4440,7 +4562,8 @@
                 "wave": 3,
                 "cps": 1,
                 "memory": 2,
-                "duals": 3
+                "duals": 3,
+                "swing": 0
             }
         },
         "83801688": {
@@ -4458,7 +4581,8 @@
                 "nerve": 3,
                 "chokepoints": 2,
                 "duals": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "71728635": {
@@ -4496,7 +4620,8 @@
                 "ship": 3,
                 "timings": 1,
                 "memory": 1,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "76931927": {
@@ -4515,7 +4640,8 @@
                 "memory": 1,
                 "ship": 3,
                 "duals": 0,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "88172786": {
@@ -4534,7 +4660,8 @@
                 "duals": 0,
                 "cps": 1,
                 "chokepoints": 1,
-                "fastPaced": 0
+                "fastPaced": 0,
+                "swing": 0
             }
         },
         "65561437": {
@@ -4552,7 +4679,8 @@
                 "wave": 2,
                 "cps": 2,
                 "duals": 2,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "81944593": {
@@ -4570,7 +4698,8 @@
                 "memory": 2,
                 "fastPaced": 1,
                 "cps": 1,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "88853479": {
@@ -4608,7 +4737,8 @@
                 "timings": 3,
                 "nerve": 1,
                 "cps": 2,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "63433024": {
@@ -4627,7 +4757,8 @@
                 "fastPaced": 3,
                 "ship": 2,
                 "duals": 1,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "18697406": {
@@ -4646,7 +4777,8 @@
                 "fastPaced": 3,
                 "wave": 2,
                 "nerve": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "73005068": {
@@ -4664,7 +4796,8 @@
                 "nerve": 1,
                 "wave": 2,
                 "ship": 2,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "65633532": {
@@ -4682,7 +4815,8 @@
                 "fastPaced": 3,
                 "ship": 2,
                 "timings": 2,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "88940074": {
@@ -4700,7 +4834,8 @@
                 "timings": 3,
                 "memory": 2,
                 "cps": 1,
-                "fastPaced": 1
+                "fastPaced": 1,
+                "swing": 0
             }
         },
         "60726930": {
@@ -4718,7 +4853,8 @@
                 "timings": 2,
                 "ship": 3,
                 "cps": 2,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "84766628": {
@@ -4736,7 +4872,8 @@
                 "chokepoints": 3,
                 "timings": 1,
                 "nerve": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "sapphire": {
@@ -4759,7 +4896,8 @@
                 "cps": 1,
                 "timings": 2,
                 "nerve": 1,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "84829178": {
@@ -4778,7 +4916,8 @@
                 "duals": 3,
                 "chokepoints": 2,
                 "ship": 2,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "30194711": {
@@ -4797,7 +4936,8 @@
                 "ship": 1,
                 "cps": 2,
                 "timings": 3,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "82148336": {
@@ -4815,7 +4955,8 @@
                 "fastPaced": 3,
                 "ship": 1,
                 "timings": 2,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "83357887": {
@@ -4834,7 +4975,8 @@
                 "chokepoints": 2,
                 "timings": 3,
                 "memory": 2,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "33748382": {
@@ -4852,7 +4994,8 @@
                 "ship": 2,
                 "nerve": 2,
                 "memory": 2,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "57390806": {
@@ -4870,7 +5013,8 @@
                 "cps": 2,
                 "nerve": 2,
                 "timings": 3,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "54588072": {
@@ -4889,7 +5033,8 @@
                 "memory": 1,
                 "cps": 1,
                 "ship": 2,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "81281891": {
@@ -4908,7 +5053,8 @@
                 "wave": 2,
                 "nerve": 2,
                 "chokepoints": 1,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "63354496": {
@@ -4926,7 +5072,8 @@
                 "cps": 2,
                 "fastPaced": 2,
                 "wave": 1,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "59899374": {
@@ -4945,7 +5092,8 @@
                 "wave": 3,
                 "memory": 1,
                 "cps": 3,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "68848817": {
@@ -4964,7 +5112,8 @@
                 "fastPaced": 3,
                 "nerve": 1,
                 "chokepoints": 2,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "64148732": {
@@ -4982,7 +5131,8 @@
                 "ship": 2,
                 "nerve": 1,
                 "cps": 2,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "70252932": {
@@ -5000,7 +5150,8 @@
                 "memory": 1,
                 "cps": 1,
                 "timings": 3,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "10565740": {
@@ -5018,7 +5169,8 @@
                 "chokepoints": 2,
                 "cps": 1,
                 "nerve": 2,
-                "duals": 1
+                "duals": 1,
+                "swing": 0
             }
         },
         "23262780": {
@@ -5036,7 +5188,8 @@
                 "duals": 1,
                 "timings": 1,
                 "wave": 3,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "57520174": {
@@ -5055,7 +5208,8 @@
                 "wave": 2,
                 "nerve": 3,
                 "fastPaced": 3,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "61132346": {
@@ -5073,7 +5227,8 @@
                 "ship": 1,
                 "memory": 1,
                 "wave": 3,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "70406732": {
@@ -5091,7 +5246,8 @@
                 "chokepoints": 2,
                 "nerve": 2,
                 "ship": 3,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "83340498": {
@@ -5109,7 +5265,8 @@
                 "chokepoints": 1,
                 "nerve": 1,
                 "timings": 3,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "68193306": {
@@ -5128,7 +5285,8 @@
                 "cps": 2,
                 "fastPaced": 2,
                 "timings": 3,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "59933468": {
@@ -5185,7 +5343,8 @@
                 "ship": 2,
                 "wave": 1,
                 "nerve": 3,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "19759411": {
@@ -5203,7 +5362,8 @@
                 "memory": 1,
                 "wave": 2,
                 "ship": 2,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "jade": {
@@ -5226,7 +5386,8 @@
                 "chokepoints": 2,
                 "nerve": 1,
                 "duals": 0,
-                "ship": 3
+                "ship": 3,
+                "swing": 0
             }
         },
         "79665466": {
@@ -5264,7 +5425,8 @@
                 "timings": 2,
                 "chokepoints": 1,
                 "wave": 1,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "36107975": {
@@ -5322,7 +5484,8 @@
                 "wave": 2,
                 "timings": 3,
                 "ship": 1,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "41149984": {
@@ -5341,7 +5504,8 @@
                 "timings": 3,
                 "nerve": 2,
                 "ship": 3,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "69507105": {
@@ -5360,7 +5524,8 @@
                 "wave": 2,
                 "chokepoints": 2,
                 "fastPaced": 3,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "70484097": {
@@ -5378,7 +5543,8 @@
                 "chokepoints": 1,
                 "duals": 2,
                 "memory": 2,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "58507437": {
@@ -5397,7 +5563,8 @@
                 "fastPaced": 3,
                 "cps": 3,
                 "memory": 2,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "72873416": {
@@ -5415,7 +5582,8 @@
                 "nerve": 3,
                 "cps": 1,
                 "memory": 3,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "26133601": {
@@ -5434,7 +5602,8 @@
                 "cps": 1,
                 "chokepoints": 3,
                 "timings": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "33387622": {
@@ -5452,7 +5621,8 @@
                 "fastPaced": 3,
                 "chokepoints": 2,
                 "duals": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "57047374": {
@@ -5490,7 +5660,8 @@
                 "memory": 3,
                 "ship": 2,
                 "nerve": 2,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "78248443": {
@@ -5547,7 +5718,8 @@
                 "nerve": 2,
                 "timings": 2,
                 "duals": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "78007735": {
@@ -5565,7 +5737,8 @@
                 "cps": 1,
                 "fastPaced": 0,
                 "nerve": 2,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "57121503": {
@@ -5583,7 +5756,8 @@
                 "ship": 2,
                 "fastPaced": 2,
                 "memory": 1,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "44773500": {
@@ -5602,7 +5776,8 @@
                 "memory": 3,
                 "chokepoints": 3,
                 "cps": 2,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "73733373": {
@@ -5620,7 +5795,8 @@
                 "fastPaced": 2,
                 "nerve": 2,
                 "cps": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "61531210": {
@@ -5638,7 +5814,8 @@
                 "fastPaced": 2,
                 "wave": 3,
                 "duals": 2,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "38235367": {
@@ -5656,7 +5833,8 @@
                 "ship": 2,
                 "duals": 1,
                 "cps": 1,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "81429222": {
@@ -5675,7 +5853,8 @@
                 "timings": 3,
                 "nerve": 1,
                 "chokepoints": 2,
-                "wave": 0
+                "wave": 0,
+                "swing": 0
             }
         },
         "emerald": {
@@ -5718,7 +5897,8 @@
                 "duals": 3,
                 "cps": 2,
                 "nerve": 3,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "73335285": {
@@ -5738,7 +5918,8 @@
                 "chokepoints": 3,
                 "duals": 0,
                 "fastPaced": 0,
-                "nerve": 1
+                "nerve": 1,
+                "swing": 0
             }
         },
         "73645039": {
@@ -5757,7 +5938,8 @@
                 "chokepoints": 2,
                 "ship": 3,
                 "timings": 2,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "85393418": {
@@ -5775,7 +5957,8 @@
                 "chokepoints": 2,
                 "cps": 3,
                 "timings": 3,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "95281931": {
@@ -5794,7 +5977,8 @@
                 "cps": 1,
                 "ship": 3,
                 "timings": 2,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "27122654": {
@@ -5812,7 +5996,8 @@
                 "timings": 2,
                 "fastPaced": 2,
                 "chokepoints": 2,
-                "duals": 2
+                "duals": 2,
+                "swing": 0
             }
         },
         "58252259": {
@@ -5849,7 +6034,8 @@
                 "cps": 2,
                 "timings": 2,
                 "nerve": 2,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "63560498": {
@@ -5867,7 +6053,8 @@
                 "chokepoints": 2,
                 "memory": 0,
                 "nerve": 3,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "38754426": {
@@ -5904,7 +6091,8 @@
                 "timings": 2,
                 "chokepoints": 2,
                 "memory": 3,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "89876243": {
@@ -5943,7 +6131,8 @@
                 "memory": 2,
                 "timings": 3,
                 "chokepoints": 2,
-                "wave": 0
+                "wave": 0,
+                "swing": 0
             }
         },
         "45094581": {
@@ -5981,7 +6170,8 @@
                 "ship": 3,
                 "chokepoints": 2,
                 "nerve": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "37456092": {
@@ -5999,7 +6189,8 @@
                 "cps": 1,
                 "timings": 2,
                 "duals": 1,
-                "nerve": 3
+                "nerve": 3,
+                "swing": 0
             }
         },
         "83164497": {
@@ -6017,7 +6208,8 @@
                 "timings": 3,
                 "memory": 2,
                 "cps": 1,
-                "wave": 0
+                "wave": 0,
+                "swing": 0
             }
         },
         "86291702": {
@@ -6054,7 +6246,8 @@
                 "chokepoints": 2,
                 "cps": 2,
                 "nerve": 1,
-                "timings": 1
+                "timings": 1,
+                "swing": 0
             }
         },
         "62817170": {
@@ -6072,7 +6265,8 @@
                 "fastPaced": 2,
                 "nerve": 3,
                 "cps": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "50333567": {
@@ -6109,7 +6303,8 @@
                 "fastPaced": 2,
                 "cps": 2,
                 "timings": 2,
-                "wave": 1
+                "wave": 1,
+                "swing": 0
             }
         },
         "62869408": {
@@ -6128,7 +6323,8 @@
                 "chokepoints": 2,
                 "timings": 3,
                 "memory": 1,
-                "cps": 3
+                "cps": 3,
+                "swing": 0
             }
         },
         "65969451": {
@@ -6147,7 +6343,8 @@
                 "fastPaced": 2,
                 "ship": 2,
                 "duals": 1,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "ruby": {
@@ -6209,7 +6406,8 @@
                 "timings": 2,
                 "fastPaced": 2,
                 "duals": 2,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "31462941": {
@@ -6228,7 +6426,8 @@
                 "fastPaced": 2,
                 "memory": 2,
                 "cps": 1,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "44022701": {
@@ -6266,7 +6465,8 @@
                 "nerve": 2,
                 "chokepoints": 2,
                 "timings": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "28220417": {
@@ -6303,7 +6503,8 @@
                 "nerve": 3,
                 "chokepoints": 2,
                 "cps": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "81535535": {
@@ -6321,7 +6522,8 @@
                 "chokepoints": 1,
                 "timings": 3,
                 "memory": 1,
-                "wave": 2
+                "wave": 2,
+                "swing": 0
             }
         },
         "26681070": {
@@ -6339,7 +6541,8 @@
                 "nerve": 2,
                 "chokepoints": 2,
                 "fastPaced": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "81373023": {
@@ -6358,7 +6561,8 @@
                 "duals": 1,
                 "ship": 1,
                 "fastPaced": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "77255632": {
@@ -6377,7 +6581,8 @@
                 "ship": 2,
                 "chokepoints": 2,
                 "wave": 3,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "64658786": {
@@ -6396,7 +6601,8 @@
                 "nerve": 2,
                 "memory": 2,
                 "timings": 2,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "66291197": {
@@ -6414,7 +6620,8 @@
                 "chokepoints": 3,
                 "nerve": 2,
                 "fastPaced": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "40292513": {
@@ -6432,7 +6639,8 @@
                 "nerve": 2,
                 "duals": 2,
                 "timings": 2,
-                "fastPaced": 2
+                "fastPaced": 2,
+                "swing": 0
             }
         },
         "39832454": {
@@ -6470,7 +6678,8 @@
                 "wave": 3,
                 "chokepoints": 0,
                 "memory": 3,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "59539361": {
@@ -6489,7 +6698,8 @@
                 "timings": 3,
                 "memory": 1,
                 "cps": 3,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "78164953": {
@@ -6527,7 +6737,8 @@
                 "fastPaced": 3,
                 "cps": 2,
                 "duals": 3,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "88421468": {
@@ -6546,7 +6757,8 @@
                 "chokepoints": 1,
                 "nerve": 2,
                 "cps": 1,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "68908396": {
@@ -6564,7 +6776,8 @@
                 "nerve": 2,
                 "duals": 2,
                 "chokepoints": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "38655495": {
@@ -6601,7 +6814,8 @@
                 "wave": 3,
                 "duals": 1,
                 "timings": 2,
-                "memory": 0
+                "memory": 0,
+                "swing": 0
             }
         },
         "56703691": {
@@ -6619,7 +6833,8 @@
                 "cps": 1,
                 "memory": 1,
                 "nerve": 3,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "diamond": {
@@ -6642,7 +6857,8 @@
                 "ship": 2,
                 "nerve": 1,
                 "memory": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "68353244": {
@@ -6660,7 +6876,8 @@
                 "memory": 3,
                 "wave": 2,
                 "cps": 1,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "86412942": {
@@ -6678,7 +6895,8 @@
                 "fastPaced": 3,
                 "chokepoints": 2,
                 "ship": 2,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "77681476": {
@@ -6697,7 +6915,8 @@
                 "cps": 3,
                 "ship": 3,
                 "nerve": 2,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "60564010": {
@@ -6716,7 +6935,8 @@
                 "duals": 3,
                 "fastPaced": 2,
                 "timings": 2,
-                "nerve": 3
+                "nerve": 3,
+                "swing": 0
             }
         },
         "86787878": {
@@ -6735,7 +6955,8 @@
                 "cps": 1,
                 "duals": 0,
                 "nerve": 3,
-                "wave": 1
+                "wave": 1,
+                "swing": 0
             }
         },
         "90193093": {
@@ -6754,7 +6975,8 @@
                 "duals": 0,
                 "ship": 2,
                 "fastPaced": 3,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "76865589": {
@@ -6773,7 +6995,8 @@
                 "wave": 3,
                 "ship": 2,
                 "chokepoints": 2,
-                "duals": 1
+                "duals": 1,
+                "swing": 0
             }
         },
         "90891227": {
@@ -6791,7 +7014,8 @@
                 "chokepoints": 2,
                 "nerve": 2,
                 "duals": 0,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "42584142": {
@@ -6829,7 +7053,8 @@
                 "cps": 1,
                 "timings": 2,
                 "nerve": 1,
-                "memory": 3
+                "memory": 3,
+                "swing": 0
             }
         },
         "57828784": {
@@ -6848,7 +7073,8 @@
                 "timings": 2,
                 "memory": 3,
                 "chokepoints": 3,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "68654380": {
@@ -6867,7 +7093,8 @@
                 "timings": 2,
                 "cps": 2,
                 "memory": 2,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "55624478": {
@@ -6886,7 +7113,8 @@
                 "ship": 2,
                 "duals": 0,
                 "memory": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "71912451": {
@@ -6905,7 +7133,8 @@
                 "memory": 2,
                 "ship": 2,
                 "fastPaced": 1,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "52310333": {
@@ -6923,7 +7152,8 @@
                 "memory": 1,
                 "ship": 3,
                 "cps": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "33498127": {
@@ -6942,7 +7172,8 @@
                 "cps": 0,
                 "fastPaced": 0,
                 "memory": 2,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "76159410": {
@@ -6960,7 +7191,8 @@
                 "chokepoints": 2,
                 "memory": 1,
                 "nerve": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "57600307": {
@@ -6978,7 +7210,8 @@
                 "wave": 1,
                 "cps": 2,
                 "fastPaced": 3,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "94156085": {
@@ -6996,7 +7229,8 @@
                 "timings": 3,
                 "chokepoints": 1,
                 "wave": 2,
-                "memory": 2
+                "memory": 2,
+                "swing": 0
             }
         },
         "58355141": {
@@ -7034,7 +7268,8 @@
                 "wave": 3,
                 "nerve": 2,
                 "chokepoints": 2,
-                "ship": 3
+                "ship": 3,
+                "swing": 0
             }
         },
         "58161496": {
@@ -7072,7 +7307,8 @@
                 "memory": 1,
                 "ship": 2,
                 "nerve": 2,
-                "chokepoints": 3
+                "chokepoints": 3,
+                "swing": 0
             }
         },
         "75813671": {
@@ -7090,7 +7326,8 @@
                 "duals": 3,
                 "chokepoints": 3,
                 "memory": 1,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "onyx": {
@@ -7113,7 +7350,8 @@
                 "fastPaced": 2,
                 "nerve": 2,
                 "memory": 1,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "65588448": {
@@ -7131,7 +7369,8 @@
                 "fastPaced": 2,
                 "cps": 2,
                 "nerve": 3,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "69333212": {
@@ -7170,7 +7409,8 @@
                 "wave": 2,
                 "nerve": 2,
                 "fastPaced": 3,
-                "chokepoints": 1
+                "chokepoints": 1,
+                "swing": 0
             }
         },
         "58673581": {
@@ -7188,7 +7428,8 @@
                 "wave": 3,
                 "chokepoints": 1,
                 "timings": 1,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "78435955": {
@@ -7225,7 +7466,8 @@
                 "timings": 2,
                 "memory": 0,
                 "chokepoints": 2,
-                "cps": 0
+                "cps": 0,
+                "swing": 0
             }
         },
         "95176417": {
@@ -7281,7 +7523,8 @@
                 "fastPaced": 3,
                 "wave": 3,
                 "memory": 2,
-                "cps": 3
+                "cps": 3,
+                "swing": 0
             }
         },
         "76543324": {
@@ -7299,7 +7542,8 @@
                 "memory": 1,
                 "nerve": 3,
                 "wave": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "71434979": {
@@ -7318,7 +7562,8 @@
                 "duals": 2,
                 "timings": 2,
                 "chokepoints": 3,
-                "ship": 2
+                "ship": 2,
+                "swing": 0
             }
         },
         "60978746": {
@@ -7336,7 +7581,8 @@
                 "duals": 1,
                 "wave": 3,
                 "timings": 2,
-                "ship": 3
+                "ship": 3,
+                "swing": 0
             }
         },
         "72744364": {
@@ -7355,7 +7601,8 @@
                 "memory": 1,
                 "chokepoints": 3,
                 "ship": 3,
-                "cps": 2
+                "cps": 2,
+                "swing": 0
             }
         },
         "71025973": {
@@ -7373,7 +7620,8 @@
                 "chokepoints": 2,
                 "duals": 0,
                 "cps": 2,
-                "memory": 1
+                "memory": 1,
+                "swing": 0
             }
         },
         "59075347": {
@@ -7431,7 +7679,8 @@
                 "duals": 0,
                 "nerve": 3,
                 "cps": 2,
-                "chokepoints": 2
+                "chokepoints": 2,
+                "swing": 0
             }
         },
         "89187968": {
@@ -7468,7 +7717,8 @@
                 "nerve": 3,
                 "memory": 3,
                 "chokepoints": 1,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "amethyst": {
@@ -7491,7 +7741,8 @@
                 "chokepoints": 3,
                 "timings": 2,
                 "duals": 1,
-                "nerve": 3
+                "nerve": 3,
+                "swing": 0
             }
         },
         "93091893": {
@@ -7509,7 +7760,8 @@
                 "cps": 1,
                 "duals": 1,
                 "memory": 1,
-                "fastPaced": 3
+                "fastPaced": 3,
+                "swing": 0
             }
         },
         "89414220": {
@@ -7547,7 +7799,8 @@
                 "ship": 1,
                 "timings": 3,
                 "fastPaced": 2,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "76962930": {
@@ -7565,7 +7818,8 @@
                 "duals": 0,
                 "fastPaced": 2,
                 "nerve": 2,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "27690100": {
@@ -7584,7 +7838,8 @@
                 "chokepoints": 2,
                 "nerve": 2,
                 "cps": 3,
-                "timings": 2
+                "timings": 2,
+                "swing": 0
             }
         },
         "49896559": {
@@ -7602,7 +7857,8 @@
                 "chokepoints": 3,
                 "ship": 2,
                 "cps": 1,
-                "duals": 2
+                "duals": 2,
+                "swing": 0
             }
         },
         "86018142": {
@@ -7620,7 +7876,8 @@
                 "memory": 3,
                 "chokepoints": 1,
                 "nerve": 2,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "4125776": {
@@ -7639,7 +7896,8 @@
                 "fastPaced": 1,
                 "cps": 2,
                 "memory": 2,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "73667628": {
@@ -7658,7 +7916,8 @@
                 "timings": 3,
                 "chokepoints": 3,
                 "memory": 1,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "azurite": {
@@ -7681,7 +7940,8 @@
                 "duals": 0,
                 "timings": 2,
                 "nerve": 2,
-                "cps": 1
+                "cps": 1,
+                "swing": 0
             }
         },
         "101140159": {
@@ -7699,7 +7959,8 @@
                 "nerve": 1,
                 "memory": 2,
                 "chokepoints": 1,
-                "timings": 3
+                "timings": 3,
+                "swing": 0
             }
         },
         "69135570": {
@@ -7718,7 +7979,8 @@
                 "wave": 3,
                 "nerve": 1,
                 "fastPaced": 2,
-                "ship": 3
+                "ship": 3,
+                "swing": 0
             }
         },
         "86407629": {
@@ -7756,7 +8018,8 @@
                 "ship": 0,
                 "wave": 3,
                 "timings": 1,
-                "nerve": 2
+                "nerve": 2,
+                "swing": 0
             }
         },
         "73902225": {
@@ -7774,7 +8037,8 @@
                 "memory": 2,
                 "wave": 0,
                 "fastPaced": 1,
-                "duals": 0
+                "duals": 0,
+                "swing": 0
             }
         },
         "66422816": {
@@ -7792,7 +8056,8 @@
                 "memory": 1,
                 "ship": 1,
                 "timings": 2,
-                "wave": 3
+                "wave": 3,
+                "swing": 0
             }
         },
         "obsidian": {
@@ -7816,7 +8081,8 @@
                 "memory": 1,
                 "duals": 0,
                 "wave": 3,
-                "ship": 3
+                "ship": 3,
+                "swing": 0
             }
         },
         "66424234": {
@@ -7853,7 +8119,8 @@
                 "cps": 2,
                 "chokepoints": 2,
                 "duals": 1,
-                "timings": 1
+                "timings": 1,
+                "swing": 0
             }
         },
         "77331805": {
@@ -7871,7 +8138,8 @@
                 "duals": 1,
                 "memory": 1,
                 "chokepoints": 3,
-                "ship": 1
+                "ship": 1,
+                "swing": 0
             }
         },
         "78614226": {
