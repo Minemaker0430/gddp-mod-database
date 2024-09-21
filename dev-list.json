@@ -290,7 +290,6 @@
                 75806677,
                 13579851,
                 26441161,
-                8491232,
                 61137742,
                 2241592,
                 36834813,
@@ -306,6 +305,7 @@
                 61366260,
                 68718751,
                 66133800,
+                96604457,
                 55454745,
                 65894695,
                 23409681,
@@ -826,6 +826,7 @@
             "plusSprite": "DP_AmberPlus",
             "saveID": "legacy-amber",
             "levelIDs": [
+                8491232,
                 68786602,
                 19719196,
                 13457056,
@@ -3950,25 +3951,6 @@
                 "swing": 0
             }
         },
-        "8491232": {
-            "name": "UltraSonic",
-            "difficulty": 4,
-            "skillsets": [
-                "overall"
-            ],
-            "xp": {
-                "chokepoints": 2,
-                "timings": 1,
-                "cps": 2,
-                "memory": 2,
-                "wave": 2,
-                "fastPaced": 2,
-                "duals": 0,
-                "ship": 2,
-                "nerve": 2,
-                "swing": 2
-            }
-        },
         "61137742": {
             "name": "Leyak",
             "difficulty": 4,
@@ -4265,6 +4247,23 @@
                 "ship": 2,
                 "wave": 2,
                 "swing": 0
+            }
+        },
+        "96604457": {
+            "name": "Sephiroth Ultra",
+            "difficulty": 4,
+            "skillsets": ["nerve-control", "overall"],
+            "xp": {
+                "fastPaced": 2,
+                "nerve": 3,
+                "ship": 2,
+                "chokepoints": 2,
+                "duals": 1,
+                "cps": 1,
+                "wave": 2,
+                "memory": 1,
+                "swing": 2,
+                "timings": 1
             }
         },
         "55454745": {
@@ -8611,6 +8610,13 @@
             "name": "legacy amber start",
             "difficulty": 4,
             "skillsets": []
+        },
+        "8491232": {
+            "name": "UltraSonic",
+            "difficulty": 4,
+            "skillsets": [
+                "overall"
+            ]
         },
         "68786602": {
             "name": "CMYK",
