@@ -1350,6 +1350,21 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for October 2024)",
+            "sprite": "DP_October",
+            "month": 10,
+            "year": 2024,
+            "levelIDs": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
             "name": "Username Pack",
             "description": "All of these levels have a player's username in their title! (GDDP Monthly Pack for September 2024)",
             "sprite": "DP_September",
