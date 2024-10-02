@@ -1350,18 +1350,18 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for October 2024)",
+            "name": "Unsettling Pack",
+            "description": "All of these levels are creepy, off-putting, and/or unsettling in some form. Also don't look out your window. (GDDP Monthly Pack for October 2024)",
             "sprite": "DP_October",
             "month": 10,
             "year": 2024,
             "levelIDs": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
+                95324136,
+                60580078,
+                60151777,
+                105945506,
+                106937411,
+                92362284
             ]
         },
         {
@@ -10579,6 +10579,53 @@
             "difficulty": 5,
             "skillsets": [
                 "timings", "wave"
+            ]
+        },
+        "october-2024": {
+            "name": "monthly october 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "95324136": {
+            "name": "Jarrell",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "60580078": {
+            "name": "MARENOL",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "60151777": {
+            "name": "LIGHT",
+            "difficulty": 1,
+            "skillsets": [
+                "ship", "fast-paced"
+            ]
+        },
+        "105945506": {
+            "name": "Out of This World",
+            "difficulty": 2,
+            "skillsets": [
+                "learny", "wave"
+            ]
+        },
+        "106937411": {
+            "name": "witness",
+            "difficulty": 3,
+            "skillsets": [
+                "timings"
+            ]
+        },
+        "92362284": {
+            "name": "La Llorona",
+            "difficulty": 5,
+            "skillsets": [
+                "timings", "fast-paced"
             ]
         }
     }
