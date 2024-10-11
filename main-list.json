@@ -713,7 +713,6 @@
                 85176381,
                 66424234,
                 77049802,
-                77331805,
                 78614226
             ],
             "practiceIDs": [],
@@ -8134,25 +8133,6 @@
                 "chokepoints": 2,
                 "duals": 1,
                 "timings": 1,
-                "swing": 0
-            }
-        },
-        "77331805": {
-            "name": "Aquamarine",
-            "difficulty": 14,
-            "skillsets": [
-                "wave"
-            ],
-            "xp": {
-                "timings": 2,
-                "wave": 3,
-                "fastPaced": 2,
-                "nerve": 2,
-                "cps": 3,
-                "duals": 1,
-                "memory": 1,
-                "chokepoints": 3,
-                "ship": 1,
                 "swing": 0
             }
         },
