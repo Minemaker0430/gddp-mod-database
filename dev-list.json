@@ -211,6 +211,7 @@
                 4957691,
                 15855959,
                 67018065,
+                110711884,
                 82335470,
                 84324862,
                 9653767,
@@ -221,7 +222,6 @@
                 68372319,
                 56568010,
                 68983167,
-                81748963,
                 78602801,
                 89423740,
                 5155022,
@@ -799,6 +799,7 @@
             "plusSprite": "DP_GoldPlus",
             "saveID": "legacy-gold",
             "levelIDs": [
+                81748963,
                 13437081,
                 18286611,
                 8237474,
@@ -3469,6 +3470,25 @@
                 "swing": 0
             }
         },
+        "110711884": {
+            "name": "Terraphobia",
+            "difficulty": 3,
+            "skillsets": [
+                "wave"
+            ],
+            "xp": {
+                "chokepoints": 2,
+                "memory": 1,
+                "timings": 1,
+                "ship": 1,
+                "cps": 2,
+                "fastPaced": 2,
+                "nerve": 2,
+                "duals": 1,
+                "wave": 3,
+                "swing": 0
+            }
+        },
         "82335470": {
             "name": "Hell Gate",
             "difficulty": 3,
@@ -3661,26 +3681,6 @@
                 "cps": 2,
                 "duals": 1,
                 "memory": 2,
-                "swing": 0
-            }
-        },
-        "81748963": {
-            "name": "Through The Aether",
-            "difficulty": 3,
-            "skillsets": [
-                "wave",
-                "chokepoints"
-            ],
-            "xp": {
-                "chokepoints": 3,
-                "memory": 1,
-                "timings": 1,
-                "ship": 1,
-                "cps": 3,
-                "fastPaced": 2,
-                "nerve": 2,
-                "duals": 1,
-                "wave": 3,
                 "swing": 0
             }
         },
@@ -8477,6 +8477,14 @@
             "name": "legacy gold start",
             "difficulty": 3,
             "skillsets": []
+        },
+        "81748963": {
+            "name": "Through The Aether",
+            "difficulty": 3,
+            "skillsets": [
+                "wave",
+                "chokepoints"
+            ]
         },
         "13437081": {
             "name": "Firewall",
