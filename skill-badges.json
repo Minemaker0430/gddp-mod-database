@@ -182,36 +182,6 @@
     "description": "This level has very interesting and gimmicky gameplay.",
     "sprite": "DP_Skill_Special"
   },
-  "sp-tlwh": {
-    "display-name": "11:20",
-    "type": "special",
-    "description": "This level is very, very long.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-bdbn": {
-    "display-name": "7:00",
-    "type": "special",
-    "description": "This level is very, very long.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-hypnotravel": {
-    "display-name": "9:26",
-    "type": "special",
-    "description": "This level is very, very long.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-dreamtravel": {
-    "display-name": "7:30",
-    "type": "special",
-    "description": "This level is very, very long.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-boogie": {
-    "display-name": "6:41",
-    "type": "special",
-    "description": "This level is very, very long.",
-    "sprite": "DP_Skill_Special"
-  },
   "sp-jedwint": {
     "display-name": "Jedwint",
     "type": "special",
