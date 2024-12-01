@@ -1350,6 +1350,21 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for December 2024)",
+            "sprite": "DP_December",
+            "month": 12,
+            "year": 2024,
+            "levelIDs": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
             "name": "American Thanksgiving Pack",
             "description": "All of these levels were chosen due to their relation with food one would find in the FDA's manual chapter labeled \"Avoid\" (GDDP Monthly Pack for November 2024)",
             "sprite": "DP_November",
