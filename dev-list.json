@@ -1350,18 +1350,18 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for December 2024)",
+            "name": "The Snowy Pack",
+            "description": "As Winter draws in, the weather turns cold and snowy. (GDDP Monthly Pack for December 2024)",
             "sprite": "DP_December",
             "month": 12,
             "year": 2024,
             "levelIDs": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
+                67507734,
+                44610724,
+                87366435,
+                85266830,
+                91885669,
+                68743944
             ]
         },
         {
@@ -11411,6 +11411,53 @@
             "difficulty": 5,
             "skillsets": [
                 "high-cps"
+            ]
+        },
+        "december-2024": {
+            "name": "monthly december 2024",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "67507734": {
+            "name": "Snowflakes",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "44610724": {
+            "name": "Summit",
+            "difficulty": 0,
+            "skillsets": [
+                "nerve-control"
+            ]
+        },
+        "87366435": {
+            "name": "SnowBound",
+            "difficulty": 1,
+            "skillsets": [
+                "learny"
+            ]
+        },
+        "85266830": {
+            "name": "Candy Cane",
+            "difficulty": 2,
+            "skillsets": [
+                "timings"
+            ]
+        },
+        "91885669": {
+            "name": "Frozone",
+            "difficulty": 3,
+            "skillsets": [
+                "memory"
+            ]
+        },
+        "68743944": {
+            "name": "Snowfall Storm",
+            "difficulty": 6,
+            "skillsets": [
+                "timings", "duals"
             ]
         }
     }
