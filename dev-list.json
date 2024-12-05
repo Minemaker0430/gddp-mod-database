@@ -974,6 +974,26 @@
     ],
     "bonus": [
         {
+            "name": "test",
+            "description": "Each day a new level picked by members of the List Team",
+            "sprite": "DP_12DoC2024",
+            "saveID": "12doc-2024",
+            "levelIDs": [
+                6939821,
+                78407103,
+                88127208,
+                94763624,
+                93048524,
+                77884727,
+                67818901,
+                19564763,
+                78528225,
+                92751949,
+                15576803,
+                5673017
+            ]
+        },
+        {
             "name": "12 Demons of Christmas (2023)",
             "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
