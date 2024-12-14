@@ -290,6 +290,30 @@
     "description": "This level was chosen for the Twelve Demons of Christmas by Croma.",
     "sprite": "DP_Skill_Special"
   },
+  "sp-starfruit": {
+    "display-name": "StarfruitGamer",
+    "type": "special",
+    "description": "This level was chosen for the Twelve Demons of Christmas by StarfruitGamer.",
+    "sprite": "DP_Skill_Special"
+  },
+  "sp-landet": {
+    "display-name": "Landet",
+    "type": "special",
+    "description": "This level was chosen for the Twelve Demons of Christmas by Landet.",
+    "sprite": "DP_Skill_Special"
+  },
+  "sp-tortur": {
+    "display-name": "tortur",
+    "type": "special",
+    "description": "This level was chosen for the Twelve Demons of Christmas by tortur.",
+    "sprite": "DP_Skill_Special"
+  },
+  "sp-stephen": {
+    "display-name": "StephenPlays",
+    "type": "special",
+    "description": "This level was chosen for the Twelve Demons of Christmas by StephenPlays.",
+    "sprite": "DP_Skill_Special"
+  },
   "sp-minigame": {
     "display-name": "Minigame",
     "type": "special",
