@@ -974,6 +974,26 @@
     ],
     "bonus": [
         {
+            "name": "12 Demons of Christmas (2024)",
+            "description": "Each day a new level picked by members of the List Team",
+            "sprite": "DP_12DoC2024",
+            "saveID": "12doc-2024",
+            "levelIDs": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
             "name": "12 Demons of Christmas (2023)",
             "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
