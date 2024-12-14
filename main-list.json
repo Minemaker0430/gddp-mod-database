@@ -974,6 +974,26 @@
     ],
     "bonus": [
         {
+            "name": "12 Demons of Christmas (2024)",
+            "description": "We introduce you to 12 Demons of Christmas 2024 Edition!! Following the same rules as the previous 12DoC packs, each day one level chosen by individual List Managers will be revealed until Christmas!",
+            "sprite": "DP_12DoC2024",
+            "saveID": "12doc-2024",
+            "levelIDs": [
+                75462015,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
             "name": "12 Demons of Christmas (2023)",
             "description": "Each day a new level picked by members of the List Team",
             "sprite": "DP_12DoC2023",
@@ -11458,6 +11478,18 @@
             "difficulty": 6,
             "skillsets": [
                 "timings", "duals"
+            ]
+        },
+        "12doc2024": {
+            "name": "",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "75462015": {
+            "name": "Home",
+            "difficulty": 3,
+            "skillsets": [
+                "sp-croma"
             ]
         }
     }
