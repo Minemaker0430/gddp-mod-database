@@ -142,7 +142,7 @@
   "chokepoints": {
     "display-name": "Chokepoints",
     "type": "misc",
-    "description": "This level may have places where you can commonly mess up. Practice these sections throughly!",
+    "description": "This level may have places where you can commonly mess up. Practice these sections thoroughly!",
     "sprite": "DP_Skill_Chokepoints"
   },
   "awkward": {
