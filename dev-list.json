@@ -980,7 +980,7 @@
             "saveID": "12doc-2024",
             "levelIDs": [
                 75462015,
-                0,
+                109274356,
                 0,
                 0,
                 0,
@@ -11490,6 +11490,13 @@
             "difficulty": 3,
             "skillsets": [
                 "sp-croma"
+            ]
+        },
+        "109274356": {
+            "name": "Schrodingers Gibbage",
+            "difficulty": 3,
+            "skillsets": [
+                "sp-tortur"
             ]
         }
     }
