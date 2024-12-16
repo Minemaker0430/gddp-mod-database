@@ -981,7 +981,7 @@
             "levelIDs": [
                 75462015,
                 109274356,
-                0,
+                20274259,
                 0,
                 0,
                 0,
@@ -11497,6 +11497,13 @@
             "difficulty": 3,
             "skillsets": [
                 "sp-tortur"
+            ]
+        },
+        "20274259": {
+            "name": "Anger Storm",
+            "difficulty": 3,
+            "skillsets": [
+                "sp-landet"
             ]
         }
     }
