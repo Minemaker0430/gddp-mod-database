@@ -982,7 +982,7 @@
                 75462015,
                 109274356,
                 20274259,
-                0,
+                87381537,
                 0,
                 0,
                 0,
@@ -11504,6 +11504,13 @@
             "difficulty": 3,
             "skillsets": [
                 "sp-landet"
+            ]
+        },
+        "87381537": {
+            "name": "Luminescence",
+            "difficulty": 3,
+            "skillsets": [
+                "sp-starfruit"
             ]
         }
     }
