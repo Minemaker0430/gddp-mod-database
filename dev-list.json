@@ -983,7 +983,7 @@
                 109274356,
                 20274259,
                 87381537,
-                0,
+                96189372,
                 0,
                 0,
                 0,
@@ -11511,6 +11511,13 @@
             "difficulty": 3,
             "skillsets": [
                 "sp-starfruit"
+            ]
+        },
+        "96189372": {
+            "name": "INTERFERENCE",
+            "difficulty": 3,
+            "skillsets": [
+                "sp-stephen"
             ]
         }
     }
