@@ -314,6 +314,12 @@
     "description": "This level was chosen for the Twelve Demons of Christmas by StephenPlays.",
     "sprite": "DP_Skill_Special"
   },
+  "sp-kria": {
+    "display-name": "Kria",
+    "type": "special",
+    "description": "This level was chosen for the Twelve Demons of Christmas by Krtar and Lia. #Kria",
+    "sprite": "DP_Skill_Special"
+  },
   "sp-minigame": {
     "display-name": "Minigame",
     "type": "special",
