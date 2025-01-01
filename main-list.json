@@ -1152,6 +1152,21 @@
     ],
     "monthly": [
         {
+            "name": "???",
+            "description": "??? (GDDP Monthly Pack for January 2025)",
+            "sprite": "DP_January",
+            "month": 1,
+            "year": 2025,
+            "levelIDs": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
             "name": "The Snowy Pack",
             "description": "As Winter draws in, the weather turns cold and snowy. (GDDP Monthly Pack for December 2024)",
             "sprite": "DP_December",
