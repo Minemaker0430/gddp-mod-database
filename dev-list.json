@@ -1152,18 +1152,18 @@
     ],
     "monthly": [
         {
-            "name": "???",
-            "description": "??? (GDDP Monthly Pack for January 2025)",
+            "name": "Dream Pack",
+            "description": "Sweet dreams are made of this... (GDDP Monthly Pack for January 2025)",
             "sprite": "DP_January",
             "month": 1,
             "year": 2025,
             "levelIDs": [
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
+                95916696,
+                83410727,
+                84285168,
+                34141421,
+                59858021,
+                72908323
             ]
         },
         {
@@ -11364,6 +11364,46 @@
             "difficulty": 5,
             "skillsets": [
                 "sp-kria"
+            ]
+        },
+        "january-2025": {
+            "name": "monthly january 2025",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "95916696": {
+            "name": "Sleep Forever",
+            "difficulty": 0,
+            "skillsets": [
+                "timings", "wave"
+            ]
+        },
+        "83410727": {
+            "name": "Sleepwalker",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "84285168": {
+            "name": "DreamScape",
+            "difficulty": 1,
+            "skillsets": [
+                "timings"
+            ]
+        },
+        "34141421": {
+            "name": "Dream Reaper",
+            "difficulty": 2,
+            "skillsets": [
+                "ship", "wave"
+            ]
+        },
+        "72908323": {
+            "name": "Dream City",
+            "difficulty": 6,
+            "skillsets": [
+                "ship", "learny"
             ]
         }
     }
