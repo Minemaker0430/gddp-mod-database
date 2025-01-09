@@ -17,8 +17,8 @@
                 103574402,
                 78797905,
                 76821414,
-                86880648,
                 7116121,
+                106696944,
                 75603568,
                 17235008,
                 107791691,
@@ -99,6 +99,7 @@
                 13643591,
                 11607707,
                 82015235,
+                79862130,
                 64618054,
                 67461519,
                 1299298,
@@ -108,7 +109,6 @@
                 7892386,
                 62923992,
                 62028241,
-                94610370,
                 82210980,
                 36667269
             ],
@@ -127,20 +127,20 @@
                 15855959,
                 67018065,
                 110711884,
-                82335470,
                 84324862,
                 9653767,
                 65496280,
                 7005127,
                 76866307,
+                86925233,
                 63500550,
                 68372319,
                 56568010,
+                110653463,
                 68983167,
                 78602801,
                 89423740,
                 5155022,
-                9145341,
                 75078198,
                 15395840,
                 65269826,
@@ -510,6 +510,7 @@
             "plusSprite": "DP_BeginnerPlus",
             "saveID": "legacy-beginner",
             "levelIDs": [
+                86880648,
                 67904095,
                 58356766,
                 59331033,
@@ -556,6 +557,7 @@
             "plusSprite": "DP_SilverPlus",
             "saveID": "legacy-silver",
             "levelIDs": [
+                94610370,
                 62521060,
                 4218933,
                 30944062,
@@ -581,6 +583,8 @@
             "plusSprite": "DP_GoldPlus",
             "saveID": "legacy-gold",
             "levelIDs": [
+                9145341,
+                82335470,
                 81748963,
                 13437081,
                 18286611,
@@ -1692,7 +1696,7 @@
             ]
         }
     ],
-    "database-version": 14,
+    "database-version": 15,
     "level-data": {
         "beginner": {
             "name": "beginner start",
@@ -1889,25 +1893,6 @@
                 "swing": 0
             }
         },
-        "86880648": {
-            "name": "Common S3nse",
-            "difficulty": 0,
-            "skillsets": [
-                "memory"
-            ],
-            "xp": {
-                "nerve": 2,
-                "wave": 1,
-                "timings": 1,
-                "chokepoints": 1,
-                "fastPaced": 2,
-                "memory": 3,
-                "ship": 2,
-                "cps": 1,
-                "duals": 2,
-                "swing": 0
-            }
-        },
         "7116121": {
             "name": "Problematic",
             "difficulty": 0,
@@ -1925,6 +1910,25 @@
                 "memory": 2,
                 "ship": 1,
                 "swing": 0
+            }
+        },
+        "106696944": {
+            "name": "NODE",
+            "difficulty": 0,
+            "skillsets": [
+                "memory"
+            ],
+            "xp": {
+                "fastPaced": 2,
+                "swing": 0,
+                "nerve": 1,
+                "cps": 1,
+                "chokepoints": 1,
+                "wave": 2,
+                "duals": 0,
+                "memory": 3,
+                "ship": 2,
+                "timings": 2
             }
         },
         "75603568": {
@@ -3018,6 +3022,25 @@
                 "swing": 0
             }
         },
+        "79862130": {
+            "name": "Mehdi",
+            "difficulty": 2,
+            "skillsets": [
+                "wave"
+            ],
+            "xp": {
+                "wave": 3,
+                "chokepoints": 2,
+                "memory": 0,
+                "ship": 1,
+                "duals": 0,
+                "fastPaced": 1,
+                "swing": 0,
+                "cps": 2,
+                "nerve": 2,
+                "timings": 0
+            }
+        },
         "64618054": {
             "name": "Sedulous",
             "difficulty": 2,
@@ -3195,25 +3218,6 @@
                 "swing": 0
             }
         },
-        "94610370": {
-            "name": "Ring Trick",
-            "difficulty": 2,
-            "skillsets": [
-                "wave"
-            ],
-            "xp": {
-                "duals": 1,
-                "ship": 1,
-                "memory": 2,
-                "nerve": 2,
-                "cps": 2,
-                "fastPaced": 3,
-                "wave": 3,
-                "timings": 2,
-                "chokepoints": 1,
-                "swing": 0
-            }
-        },
         "82210980": {
             "name": "overnight",
             "difficulty": 2,
@@ -3336,25 +3340,6 @@
                 "swing": 0
             }
         },
-        "82335470": {
-            "name": "Hell Gate",
-            "difficulty": 3,
-            "skillsets": [
-                "nerve-control"
-            ],
-            "xp": {
-                "memory": 2,
-                "timings": 2,
-                "chokepoints": 2,
-                "cps": 1,
-                "fastPaced": 2,
-                "duals": 1,
-                "nerve": 3,
-                "wave": 1,
-                "ship": 1,
-                "swing": 0
-            }
-        },
         "84324862": {
             "name": "DAMAGE",
             "difficulty": 3,
@@ -3452,6 +3437,26 @@
                 "swing": 0
             }
         },
+        "86925233": {
+            "name": "gooberverse",
+            "difficulty": 3,
+            "skillsets": [
+                "ship",
+                "timings"
+            ],
+            "xp": {
+                "wave": 0,
+                "chokepoints": 2,
+                "fastPaced": 0,
+                "duals": 0,
+                "swing": 0,
+                "ship": 3,
+                "nerve": 1,
+                "timings": 3,
+                "cps": 1,
+                "memory": 1
+            }
+        },
         "68372319": {
             "name": "CHROMA",
             "difficulty": 3,
@@ -3510,6 +3515,25 @@
                 "fastPaced": 2,
                 "timings": 2,
                 "swing": 0
+            }
+        },
+        "110653463": {
+            "name": "commatose",
+            "difficulty": 3,
+            "skillsets": [
+                "nerve-control"
+            ],
+            "xp": {
+                "nerve": 3,
+                "ship": 1,
+                "fastPaced": 2,
+                "memory": 2,
+                "swing": 1,
+                "duals": 0,
+                "timings": 2,
+                "wave": 1,
+                "cps": 1,
+                "chokepoints": 2
             }
         },
         "89423740": {
@@ -3585,26 +3609,6 @@
                 "chokepoints": 2,
                 "memory": 1,
                 "fastPaced": 0,
-                "timings": 3,
-                "swing": 0
-            }
-        },
-        "9145341": {
-            "name": "8o",
-            "difficulty": 3,
-            "skillsets": [
-                "ship",
-                "timings"
-            ],
-            "xp": {
-                "nerve": 2,
-                "ship": 3,
-                "fastPaced": 2,
-                "wave": 0,
-                "cps": 2,
-                "memory": 2,
-                "duals": 0,
-                "chokepoints": 2,
                 "timings": 3,
                 "swing": 0
             }
@@ -8008,6 +8012,13 @@
             "difficulty": 0,
             "skillsets": []
         },
+        "86880648": {
+            "name": "Common S3nse",
+            "difficulty": 0,
+            "skillsets": [
+                "memory"
+            ]
+        },
         "67904095": {
             "name": "PsyWorm",
             "difficulty": 0,
@@ -8207,6 +8218,13 @@
             "difficulty": 2,
             "skillsets": []
         },
+        "94610370": {
+            "name": "Ring Trick",
+            "difficulty": 2,
+            "skillsets": [
+                "wave"
+            ]
+        },
         "62521060": {
             "name": "Zap",
             "difficulty": 2,
@@ -8324,6 +8342,21 @@
             "name": "legacy gold start",
             "difficulty": 3,
             "skillsets": []
+        },
+        "9145341": {
+            "name": "8o",
+            "difficulty": 3,
+            "skillsets": [
+                "ship",
+                "timings"
+            ]
+        },
+        "82335470": {
+            "name": "Hell Gate",
+            "difficulty": 3,
+            "skillsets": [
+                "nerve-control"
+            ]
         },
         "81748963": {
             "name": "Through The Aether",
