@@ -4589,8 +4589,8 @@
             "name": "Artificial Dream",
             "difficulty": 5,
             "skillsets": [
-                "ship",
-                "wave"
+                "flow",
+                "timings"
             ],
             "xp": {
                 "duals": 2,
@@ -6819,7 +6819,7 @@
                 "cps": 1,
                 "duals": 0,
                 "nerve": 3,
-                "wave": 1,
+                "wave": 3,
                 "swing": 0
             }
         },
