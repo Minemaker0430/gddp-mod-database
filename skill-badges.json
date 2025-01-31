@@ -152,6 +152,13 @@
     "sprite": "DP_Skill_Awkward"
   },
 
+  "plat-momentum": {
+    "display-name": "Momentum",
+    "type": "platformer",
+    "description": "This level utilizes momentum mechanics.\n(Platformer Only)",
+    "sprite": "DP_Skill_Unknown"
+  },
+
   "sp-best-level": {
     "display-name": "Best Level in the Game",
     "type": "special",

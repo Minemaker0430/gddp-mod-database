@@ -1156,6 +1156,21 @@
     ],
     "monthly": [
         {
+            "name": "Achromatic Pack",
+            "description": "It's time. To go back to the past. Samurai Jack. Let's see if you can handle the Achromatic Pack!! (GDDP Monthly Pack for February 2025)",
+            "sprite": "DP_February",
+            "month": 2,
+            "year": 2025,
+            "levelIDs": [
+                89176762,
+                97064861,
+                101116471,
+                109796810,
+                78245383,
+                96549270
+            ]
+        },
+        {
             "name": "Dream Pack",
             "description": "Sweet dreams are made of this... (GDDP Monthly Pack for January 2025)",
             "sprite": "DP_January",
@@ -11437,6 +11452,53 @@
             "difficulty": 6,
             "skillsets": [
                 "ship", "learny"
+            ]
+        },
+        "february-2025": {
+            "name": "monthly february 2025",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "89176762": {
+            "name": "Emptiness",
+            "difficulty": 0,
+            "skillsets": [
+                "timings"
+            ]
+        },
+        "97064861": {
+            "name": "Flicker",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "101116471": {
+            "name": "Spidertek",
+            "difficulty": 1,
+            "skillsets": [
+                "plat-momentum"
+            ]
+        },
+        "109796810": {
+            "name": "Options",
+            "difficulty": 2,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "78245383": {
+            "name": "Noirv",
+            "difficulty": 4,
+            "skillsets": [
+                "timings", "learny"
+            ]
+        },
+        "96549270": {
+            "name": "All In",
+            "difficulty": 6,
+            "skillsets": [
+                "overall"
             ]
         }
     }
