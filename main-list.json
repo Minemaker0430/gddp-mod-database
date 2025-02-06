@@ -90,13 +90,13 @@
                 63075323,
                 60084691,
                 4284013,
-                9718024,
+                7887341,
                 38445559,
                 62909889,
-                7570320,
                 59315849,
                 44319716,
                 13643591,
+                94610603,
                 11607707,
                 82015235,
                 79862130,
@@ -108,9 +108,9 @@
                 42200414,
                 7892386,
                 62923992,
+                15855959,
                 62028241,
-                82210980,
-                36667269
+                82210980
             ],
             "practiceIDs": [],
             "reqLevels": 11,
@@ -124,29 +124,29 @@
             "saveID": "gold",
             "levelIDs": [
                 4957691,
-                15855959,
-                67018065,
                 110711884,
+                36667269,
                 84324862,
                 9653767,
                 65496280,
                 7005127,
                 76866307,
                 86925233,
-                63500550,
-                68372319,
-                56568010,
                 110653463,
+                68372319,
                 68983167,
-                78602801,
+                56568010,
                 89423740,
+                72240540,
+                78602801,
+                63500550,
                 5155022,
-                75078198,
                 15395840,
-                65269826,
-                37011750,
+                75806677,
+                45111047,
                 67069282,
                 63245954,
+                43008397,
                 17312229
             ],
             "practiceIDs": [],
@@ -160,30 +160,30 @@
             "plusSprite": "DP_AmberPlus",
             "saveID": "amber",
             "levelIDs": [
-                75806677,
+                36099108,
                 13579851,
-                26441161,
                 61137742,
+                33405303,
                 2241592,
                 36834813,
                 68662732,
-                61799411,
-                33405303,
                 84064573,
                 61529436,
-                65046970,
-                18674844,
                 78385421,
+                26441161,
+                18674844,
                 68688822,
                 61366260,
                 68718751,
+                90677710,
                 66133800,
                 96604457,
                 55454745,
                 65894695,
-                23409681,
                 814678,
                 79428382,
+                89865688,
+                78397973,
                 63915746
             ],
             "practiceIDs": [],
@@ -218,9 +218,9 @@
                 63433024,
                 18697406,
                 73005068,
-                65633532,
-                88940074,
                 60726930,
+                88940074,
+                65633532,
                 84766628
             ],
             "practiceIDs": [],
@@ -244,6 +244,7 @@
                 54588072,
                 81281891,
                 63354496,
+                92245045,
                 59899374,
                 68848817,
                 64148732,
@@ -257,7 +258,6 @@
                 68193306,
                 59933468,
                 35448603,
-                90597607,
                 19759411
             ],
             "practiceIDs": [],
@@ -275,7 +275,6 @@
                 79665466,
                 91267754,
                 36107975,
-                57047374,
                 85317764,
                 97235578,
                 41149984,
@@ -285,6 +284,7 @@
                 72873416,
                 26133601,
                 33387622,
+                57047374,
                 81548163,
                 78248443,
                 58417850,
@@ -293,9 +293,9 @@
                 57121503,
                 44773500,
                 73733373,
+                60130895,
                 61531210,
-                38235367,
-                81429222
+                38235367
             ],
             "practiceIDs": [],
             "reqLevels": 6,
@@ -308,7 +308,6 @@
             "plusSprite": "DP_EmeraldPlus",
             "saveID": "emerald",
             "levelIDs": [
-                60130895,
                 34057654,
                 73335285,
                 73645039,
@@ -316,17 +315,18 @@
                 95281931,
                 27122654,
                 58252259,
+                55610687,
                 79242390,
-                63560498,
+                81429222,
                 38754426,
                 79922944,
                 89876243,
                 79484035,
+                81906166,
                 45094581,
                 37398911,
                 37456092,
                 83164497,
-                86291702,
                 69871779,
                 62817170,
                 50333567,
@@ -345,17 +345,17 @@
             "plusSprite": "DP_RubyPlus",
             "saveID": "ruby",
             "levelIDs": [
+                81373023,
                 48942548,
                 55547703,
                 83107375,
                 31462941,
+                81535535,
                 44022701,
                 74840882,
                 28220417,
                 77310650,
-                81535535,
                 26681070,
-                81373023,
                 77255632,
                 64658786,
                 66291197,
@@ -419,23 +419,23 @@
             "plusSprite": "DP_OnyxPlus",
             "saveID": "onyx",
             "levelIDs": [
-                65588448,
                 54953085,
                 69333212,
+                65588448,
                 88611404,
                 78435955,
+                72744364,
                 58673581,
                 52374843,
-                95176417,
-                93339534,
-                93917362,
+                71434979,
                 75286957,
+                95176417,
+                93917362,
                 76543324,
                 60978746,
-                71434979,
-                59075347,
-                72744364,
                 71025973,
+                59075347,
+                93339534,
                 72315402,
                 89187968,
                 81139702
@@ -452,14 +452,19 @@
             "saveID": "amethyst",
             "levelIDs": [
                 86084399,
-                93091893,
+                94359172,
+                90390075,
                 89414220,
+                95851008,
                 75206202,
-                76962930,
-                4125776,
-                49896559,
-                86018142,
+                93091893,
+                107805281,
                 27690100,
+                86018142,
+                49896559,
+                110815379,
+                112313819,
+                4125776,
                 73667628
             ],
             "practiceIDs": [],
@@ -473,11 +478,10 @@
             "plusSprite": "DP_AzuritePlus",
             "saveID": "azurite",
             "levelIDs": [
-                61775814,
+                89496627,
                 101140159,
                 69135570,
                 86407629,
-                62912799,
                 73902225,
                 66422816
             ],
@@ -557,6 +561,8 @@
             "plusSprite": "DP_SilverPlus",
             "saveID": "legacy-silver",
             "levelIDs": [
+                7570320,
+                9718024,
                 94610370,
                 62521060,
                 4218933,
@@ -583,6 +589,10 @@
             "plusSprite": "DP_GoldPlus",
             "saveID": "legacy-gold",
             "levelIDs": [
+                67018065,
+                75078198,
+                37011750,
+                65269826,
                 9145341,
                 82335470,
                 81748963,
@@ -612,6 +622,9 @@
             "plusSprite": "DP_AmberPlus",
             "saveID": "legacy-amber",
             "levelIDs": [
+                23409681,
+                61799411,
+                65046970,
                 8491232,
                 68786602,
                 19719196,
@@ -663,6 +676,7 @@
             "plusSprite": "DP_SapphirePlus",
             "saveID": "legacy-sapphire",
             "levelIDs": [
+                90597607,
                 66858272,
                 57559425,
                 62551239,
@@ -694,6 +708,8 @@
             "plusSprite": "DP_EmeraldPlus",
             "saveID": "legacy-emerald",
             "levelIDs": [
+                63560498,
+                86291702,
                 37255449,
                 62119245,
                 61127840,
@@ -748,6 +764,7 @@
             "plusSprite": "DP_AmethystPlus",
             "saveID": "legacy-amethyst",
             "levelIDs": [
+                76962930,
                 73214186,
                 88216956,
                 67073198,
@@ -1711,8 +1728,25 @@
             ]
         }
     ],
-    "database-version": 15,
+    "database-version": 16,
     "level-data": {
+        "template": {
+            "name": "Name",
+            "difficulty": 0,
+            "skillsets": [],
+            "xp": {
+                "chokepoints": 0,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 0,
+                "memory": 0,
+                "nerve": 0,
+                "ship": 0,
+                "swing": 0,
+                "timings": 0,
+                "wave": 0
+            }
+        },
         "beginner": {
             "name": "beginner start",
             "difficulty": 0,
@@ -2863,22 +2897,22 @@
                 "swing": 0
             }
         },
-        "9718024": {
-            "name": "Creacionist",
+        "7887341": {
+            "name": "Grey Trap",
             "difficulty": 2,
             "skillsets": [
-                "overall"
+                "duals"
             ],
             "xp": {
-                "chokepoints": 2,
-                "timings": 2,
-                "ship": 2,
-                "cps": 1,
-                "duals": 0,
-                "wave": 3,
                 "memory": 2,
-                "fastPaced": 2,
+                "ship": 1,
+                "wave": 1,
+                "fastPaced": 0,
+                "timings": 2,
+                "cps": 0,
+                "duals": 3,
                 "nerve": 2,
+                "chokepoints": 2,
                 "swing": 0
             }
         },
@@ -2918,25 +2952,6 @@
                 "nerve": 3,
                 "wave": 2,
                 "fastPaced": 2,
-                "swing": 0
-            }
-        },
-        "7570320": {
-            "name": "Radioactive",
-            "difficulty": 2,
-            "skillsets": [
-                "overall"
-            ],
-            "xp": {
-                "chokepoints": 1,
-                "nerve": 1,
-                "ship": 2,
-                "timings": 2,
-                "cps": 1,
-                "wave": 1,
-                "fastPaced": 2,
-                "memory": 2,
-                "duals": 1,
                 "swing": 0
             }
         },
@@ -2996,6 +3011,25 @@
                 "fastPaced": 1,
                 "chokepoints": 2,
                 "swing": 0
+            }
+        },
+        "94610603": {
+            "name": "Charcoal",
+            "difficulty": 2,
+            "skillsets": [
+                "overall"
+            ],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
             }
         },
         "11607707": {
@@ -3214,6 +3248,26 @@
                 "swing": 0
             }
         },
+        "15855959": {
+            "name": "Psychosis",
+            "difficulty": 2,
+            "skillsets": [
+                "ship",
+                "wave"
+            ],
+            "xp": {
+                "duals": 0,
+                "ship": 2,
+                "fastPaced": 2,
+                "nerve": 2,
+                "timings": 2,
+                "cps": 2,
+                "chokepoints": 1,
+                "wave": 2,
+                "memory": 1,
+                "swing": 0
+            }
+        },
         "62028241": {
             "name": "Eternelle Vehemence",
             "difficulty": 2,
@@ -3252,26 +3306,6 @@
                 "swing": 0
             }
         },
-        "36667269": {
-            "name": "Diffuse",
-            "difficulty": 2,
-            "skillsets": [
-                "timings",
-                "wave"
-            ],
-            "xp": {
-                "memory": 1,
-                "fastPaced": 1,
-                "cps": 2,
-                "chokepoints": 3,
-                "wave": 3,
-                "timings": 3,
-                "nerve": 3,
-                "ship": 2,
-                "duals": 0,
-                "swing": 2
-            }
-        },
         "gold": {
             "name": "gold start",
             "difficulty": 0,
@@ -3296,46 +3330,6 @@
                 "swing": 0
             }
         },
-        "15855959": {
-            "name": "Psychosis",
-            "difficulty": 3,
-            "skillsets": [
-                "ship",
-                "wave"
-            ],
-            "xp": {
-                "duals": 0,
-                "ship": 2,
-                "fastPaced": 2,
-                "nerve": 2,
-                "timings": 2,
-                "cps": 2,
-                "chokepoints": 1,
-                "wave": 2,
-                "memory": 1,
-                "swing": 0
-            }
-        },
-        "67018065": {
-            "name": "TENDO",
-            "difficulty": 3,
-            "skillsets": [
-                "fast-paced",
-                "high-cps"
-            ],
-            "xp": {
-                "fastPaced": 3,
-                "cps": 3,
-                "timings": 2,
-                "ship": 1,
-                "chokepoints": 2,
-                "nerve": 1,
-                "memory": 2,
-                "wave": 2,
-                "duals": 1,
-                "swing": 0
-            }
-        },
         "110711884": {
             "name": "Terraphobia",
             "difficulty": 3,
@@ -3353,6 +3347,26 @@
                 "duals": 1,
                 "wave": 3,
                 "swing": 0
+            }
+        },
+        "36667269": {
+            "name": "Diffuse",
+            "difficulty": 3,
+            "skillsets": [
+                "timings",
+                "wave"
+            ],
+            "xp": {
+                "memory": 1,
+                "fastPaced": 1,
+                "cps": 2,
+                "chokepoints": 3,
+                "wave": 3,
+                "timings": 3,
+                "nerve": 3,
+                "ship": 2,
+                "duals": 0,
+                "swing": 2
             }
         },
         "84324862": {
@@ -3570,6 +3584,26 @@
                 "swing": 0
             }
         },
+        "72240540": {
+            "name": "Super Mario Wave",
+            "difficulty": 3,
+            "skillsets": [
+                "wave",
+                "nerve-control"
+            ],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 0,
+                "swing": 0,
+                "timings": 1,
+                "wave": 3
+            }
+        },
         "78602801": {
             "name": "Ultrachromatic",
             "difficulty": 3,
@@ -3628,25 +3662,6 @@
                 "swing": 0
             }
         },
-        "75078198": {
-            "name": "Heritage",
-            "difficulty": 3,
-            "skillsets": [
-                "wave"
-            ],
-            "xp": {
-                "duals": 0,
-                "nerve": 2,
-                "memory": 0,
-                "fastPaced": 2,
-                "chokepoints": 1,
-                "wave": 3,
-                "cps": 2,
-                "ship": 1,
-                "timings": 2,
-                "swing": 0
-            }
-        },
         "15395840": {
             "name": "Night Terrors",
             "difficulty": 3,
@@ -3667,44 +3682,43 @@
                 "swing": 0
             }
         },
-        "65269826": {
-            "name": "Arcane",
+        "75806677": {
+            "name": "Gumshot",
             "difficulty": 3,
             "skillsets": [
                 "fast-paced",
-                "duals"
+                "learny"
             ],
             "xp": {
-                "nerve": 3,
-                "duals": 3,
-                "fastPaced": 2,
-                "timings": 1,
+                "timings": 2,
+                "cps": 3,
+                "duals": 0,
+                "ship": 1,
+                "nerve": 1,
+                "memory": 3,
+                "fastPaced": 3,
+                "chokepoints": 1,
                 "wave": 1,
-                "ship": 2,
-                "chokepoints": 2,
-                "memory": 2,
-                "cps": 2,
                 "swing": 0
             }
         },
-        "37011750": {
-            "name": "Hyperio Technia",
+        "45111047": {
+            "name": "Blast Insanity",
             "difficulty": 3,
             "skillsets": [
-                "fast-paced",
-                "duals"
+                "memory"
             ],
             "xp": {
-                "fastPaced": 3,
-                "cps": 3,
-                "duals": 3,
-                "memory": 2,
-                "nerve": 2,
-                "ship": 1,
                 "chokepoints": 1,
-                "wave": 1,
-                "timings": 1,
-                "swing": 0
+                "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
             }
         },
         "67069282": {
@@ -3747,6 +3761,26 @@
                 "swing": 0
             }
         },
+        "43008397": {
+            "name": "Bit Reaper",
+            "difficulty": 3,
+            "skillsets": [
+                "fast-paced",
+                "high-cps"
+            ],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
+        },
         "17312229": {
             "name": "Sadism",
             "difficulty": 3,
@@ -3772,24 +3806,23 @@
             "difficulty": 0,
             "skillsets": []
         },
-        "75806677": {
-            "name": "Gumshot",
+        "36099108": {
+            "name": "Pulsar",
             "difficulty": 4,
             "skillsets": [
-                "fast-paced",
-                "learny"
+                "wave"
             ],
             "xp": {
-                "timings": 2,
-                "cps": 3,
-                "duals": 0,
-                "ship": 1,
-                "nerve": 1,
-                "memory": 3,
-                "fastPaced": 3,
                 "chokepoints": 1,
-                "wave": 1,
-                "swing": 0
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 1,
+                "wave": 3
             }
         },
         "13579851": {
@@ -3912,26 +3945,6 @@
                 "swing": 2
             }
         },
-        "61799411": {
-            "name": "MINDBREAKER",
-            "difficulty": 4,
-            "skillsets": [
-                "timings",
-                "memory"
-            ],
-            "xp": {
-                "timings": 3,
-                "memory": 3,
-                "duals": 0,
-                "fastPaced": 1,
-                "nerve": 2,
-                "chokepoints": 2,
-                "wave": 0,
-                "cps": 2,
-                "ship": 2,
-                "swing": 0
-            }
-        },
         "33405303": {
             "name": "The Secret Box",
             "difficulty": 4,
@@ -3987,26 +4000,6 @@
                 "nerve": 3,
                 "ship": 2,
                 "cps": 2,
-                "swing": 0
-            }
-        },
-        "65046970": {
-            "name": "Apollo 13",
-            "difficulty": 4,
-            "skillsets": [
-                "wave",
-                "memory"
-            ],
-            "xp": {
-                "cps": 2,
-                "duals": 2,
-                "ship": 1,
-                "chokepoints": 1,
-                "fastPaced": 2,
-                "timings": 1,
-                "nerve": 1,
-                "wave": 3,
-                "memory": 3,
                 "swing": 0
             }
         },
@@ -4109,6 +4102,26 @@
                 "swing": 0
             }
         },
+        "90677710": {
+            "name": "DIABLO",
+            "difficulty": 4,
+            "skillsets": [
+                "memory",
+                "fast-paced"
+            ],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
         "66133800": {
             "name": "Blaster",
             "difficulty": 4,
@@ -4132,7 +4145,10 @@
         "96604457": {
             "name": "Sephiroth Ultra",
             "difficulty": 4,
-            "skillsets": ["nerve-control", "overall"],
+            "skillsets": [
+                "nerve-control",
+                "overall"
+            ],
             "xp": {
                 "fastPaced": 2,
                 "nerve": 3,
@@ -4185,26 +4201,6 @@
                 "swing": 0
             }
         },
-        "23409681": {
-            "name": "Galaxy Breaker",
-            "difficulty": 4,
-            "skillsets": [
-                "wave",
-                "chokepoints"
-            ],
-            "xp": {
-                "memory": 1,
-                "cps": 0,
-                "duals": 2,
-                "wave": 3,
-                "ship": 2,
-                "timings": 2,
-                "nerve": 1,
-                "chokepoints": 3,
-                "fastPaced": 2,
-                "swing": 0
-            }
-        },
         "814678": {
             "name": "ICE Carbon Diablo X",
             "difficulty": 4,
@@ -4242,6 +4238,45 @@
                 "ship": 2,
                 "chokepoints": 2,
                 "swing": 0
+            }
+        },
+        "89865688": {
+            "name": "Boom Shakalaka",
+            "difficulty": 4,
+            "skillsets": [
+                "memory"
+            ],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 2,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
+        "78397973": {
+            "name": "Darkest Highway",
+            "difficulty": 4,
+            "skillsets": [
+                "wave",
+                "ship"
+            ],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 3,
+                "timings": 2,
+                "wave": 3
             }
         },
         "63915746": {
@@ -4955,6 +4990,25 @@
                 "swing": 0
             }
         },
+        "92245045": {
+            "name": "Cluttered Confusion",
+            "difficulty": 6,
+            "skillsets": [
+                "memory"
+            ],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 2,
+                "nerve": 2,
+                "timings": 2,
+                "ship": 1,
+                "cps": 0,
+                "fastPaced": 1,
+                "wave": 1,
+                "memory": 3,
+                "swing": 0
+            }
+        },
         "59899374": {
             "name": "Prismatic Haze",
             "difficulty": 6,
@@ -5204,26 +5258,6 @@
                 "timings": 2,
                 "chokepoints": 2,
                 "swing": 2
-            }
-        },
-        "90597607": {
-            "name": "Le Midd Mapperoonies",
-            "difficulty": 6,
-            "skillsets": [
-                "memory",
-                "nerve-control"
-            ],
-            "xp": {
-                "cps": 2,
-                "chokepoints": 3,
-                "fastPaced": 2,
-                "timings": 2,
-                "duals": 0,
-                "ship": 2,
-                "wave": 1,
-                "nerve": 3,
-                "memory": 3,
-                "swing": 0
             }
         },
         "19759411": {
@@ -5716,34 +5750,9 @@
                 "swing": 0
             }
         },
-        "81429222": {
-            "name": "Raisins",
-            "difficulty": 7,
-            "skillsets": [
-                "ship",
-                "timings"
-            ],
-            "xp": {
-                "fastPaced": 2,
-                "ship": 3,
-                "memory": 2,
-                "cps": 2,
-                "duals": 0,
-                "timings": 3,
-                "nerve": 1,
-                "chokepoints": 2,
-                "wave": 0,
-                "swing": 0
-            }
-        },
-        "emerald": {
-            "name": "emerald start",
-            "difficulty": 8,
-            "skillsets": []
-        },
         "60130895": {
             "name": "Berserk",
-            "difficulty": 8,
+            "difficulty": 7,
             "skillsets": [
                 "wave"
             ],
@@ -5759,6 +5768,11 @@
                 "memory": 1,
                 "swing": 1
             }
+        },
+        "emerald": {
+            "name": "emerald start",
+            "difficulty": 8,
+            "skillsets": []
         },
         "34057654": {
             "name": "Black Blizzard",
@@ -5898,6 +5912,23 @@
                 "swing": 1
             }
         },
+        "55610687": {
+            "name": "Belloq",
+            "difficulty": 8,
+            "skillsets": [],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
         "79242390": {
             "name": "vaenstep",
             "difficulty": 8,
@@ -5917,22 +5948,23 @@
                 "swing": 0
             }
         },
-        "63560498": {
-            "name": "Omicron",
+        "81429222": {
+            "name": "Raisins",
             "difficulty": 8,
             "skillsets": [
-                "nerve-control"
+                "ship",
+                "timings"
             ],
             "xp": {
-                "duals": 1,
                 "fastPaced": 2,
-                "wave": 1,
-                "timings": 2,
-                "cps": 1,
+                "ship": 3,
+                "memory": 2,
+                "cps": 2,
+                "duals": 0,
+                "timings": 3,
+                "nerve": 1,
                 "chokepoints": 2,
-                "memory": 0,
-                "nerve": 3,
-                "ship": 2,
+                "wave": 0,
                 "swing": 0
             }
         },
@@ -6014,6 +6046,25 @@
                 "swing": 0
             }
         },
+        "81906166": {
+            "name": "Retention Rush",
+            "difficulty": 8,
+            "skillsets": [
+                "memory"
+            ],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            }
+        },
         "45094581": {
             "name": "Delta Interface",
             "difficulty": 8,
@@ -6089,25 +6140,6 @@
                 "cps": 1,
                 "wave": 0,
                 "swing": 0
-            }
-        },
-        "86291702": {
-            "name": "Nightmare Chasm",
-            "difficulty": 8,
-            "skillsets": [
-                "nerve-control"
-            ],
-            "xp": {
-                "timings": 2,
-                "cps": 2,
-                "duals": 0,
-                "memory": 2,
-                "wave": 1,
-                "chokepoints": 2,
-                "nerve": 3,
-                "ship": 2,
-                "fastPaced": 3,
-                "swing": 1
             }
         },
         "69871779": {
@@ -7624,23 +7656,43 @@
                 "swing": 0
             }
         },
-        "93091893": {
-            "name": "Deimos",
+        "94359172": {
+            "name": "COMBUSTION",
             "difficulty": 12,
             "skillsets": [
-                "nerve-control"
+                "wave",
+                "ship"
             ],
             "xp": {
-                "timings": 2,
-                "ship": 2,
                 "chokepoints": 2,
-                "wave": 2,
-                "nerve": 3,
-                "cps": 1,
                 "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "90390075": {
+            "name": "Solar Flare",
+            "difficulty": 12,
+            "skillsets": [
+                "wave"
+            ],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 2,
                 "memory": 1,
-                "fastPaced": 3,
-                "swing": 0
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 1,
+                "wave": 3
             }
         },
         "89414220": {
@@ -7663,6 +7715,26 @@
                 "swing": 2
             }
         },
+        "95851008": {
+            "name": "Eyes in the Water",
+            "difficulty": 12,
+            "skillsets": [
+                "ship",
+                "high-cps"
+            ],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 1,
+                "fastPaced": 2,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
         "75206202": {
             "name": "Firework",
             "difficulty": 12,
@@ -7682,23 +7754,42 @@
                 "swing": 0
             }
         },
-        "76962930": {
-            "name": "Sakupen Circles",
+        "93091893": {
+            "name": "Deimos",
             "difficulty": 12,
             "skillsets": [
-                "wave"
+                "nerve-control"
             ],
             "xp": {
-                "cps": 3,
-                "memory": 0,
-                "wave": 3,
-                "chokepoints": 3,
-                "ship": 1,
-                "duals": 0,
-                "fastPaced": 2,
-                "nerve": 2,
                 "timings": 2,
+                "ship": 2,
+                "chokepoints": 2,
+                "wave": 2,
+                "nerve": 3,
+                "cps": 1,
+                "duals": 1,
+                "memory": 1,
+                "fastPaced": 3,
                 "swing": 0
+            }
+        },
+        "107805281": {
+            "name": "Menace",
+            "difficulty": 12,
+            "skillsets": [
+                "overall"
+            ],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 3,
+                "timings": 3,
+                "wave": 2
             }
         },
         "27690100": {
@@ -7721,6 +7812,25 @@
                 "swing": 0
             }
         },
+        "86018142": {
+            "name": "Kyouki",
+            "difficulty": 12,
+            "skillsets": [
+                "fast-paced"
+            ],
+            "xp": {
+                "fastPaced": 3,
+                "wave": 2,
+                "cps": 3,
+                "duals": 1,
+                "timings": 1,
+                "memory": 3,
+                "chokepoints": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0
+            }
+        },
         "49896559": {
             "name": "Abyss of Darkness",
             "difficulty": 12,
@@ -7740,23 +7850,43 @@
                 "swing": 0
             }
         },
-        "86018142": {
-            "name": "Kyouki",
+        "110815379": {
+            "name": "Spectre",
             "difficulty": 12,
             "skillsets": [
-                "fast-paced"
+                "nerve-control"
             ],
             "xp": {
-                "fastPaced": 3,
-                "wave": 2,
-                "cps": 3,
+                "chokepoints": 2,
+                "duals": 2,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 1,
+                "timings": 3,
+                "wave": 2
+            }
+        },
+        "112313819": {
+            "name": "Anathema",
+            "difficulty": 12,
+            "skillsets": [
+                "fast-paced",
+                "nerve-control"
+            ],
+            "xp": {
+                "chokepoints": 3,
                 "duals": 1,
-                "timings": 1,
-                "memory": 3,
-                "chokepoints": 1,
-                "nerve": 2,
-                "ship": 1,
-                "swing": 0
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 2,
+                "timings": 3,
+                "wave": 2
             }
         },
         "4125776": {
@@ -7804,23 +7934,24 @@
             "difficulty": 13,
             "skillsets": []
         },
-        "61775814": {
-            "name": "Element 111 Rg",
+        "89496627": {
+            "name": "Avernus",
             "difficulty": 13,
             "skillsets": [
-                "awkward"
+                "ship",
+                "wave"
             ],
             "xp": {
-                "ship": 2,
-                "fastPaced": 1,
-                "chokepoints": 1,
-                "wave": 0,
-                "memory": 3,
-                "duals": 0,
-                "timings": 2,
+                "chokepoints": 3,
+                "duals": 1,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 1,
                 "nerve": 2,
-                "cps": 1,
-                "swing": 0
+                "ship": 3,
+                "swing": 0,
+                "timings": 3,
+                "wave": 3
             }
         },
         "101140159": {
@@ -7879,25 +8010,6 @@
                 "wave": 3,
                 "timings": 2,
                 "nerve": 3,
-                "swing": 0
-            }
-        },
-        "62912799": {
-            "name": "Ashley Wave Trials",
-            "difficulty": 13,
-            "skillsets": [
-                "wave"
-            ],
-            "xp": {
-                "fastPaced": 2,
-                "memory": 1,
-                "chokepoints": 3,
-                "cps": 1,
-                "duals": 1,
-                "ship": 0,
-                "wave": 3,
-                "timings": 1,
-                "nerve": 2,
                 "swing": 0
             }
         },
@@ -8233,6 +8345,20 @@
             "difficulty": 2,
             "skillsets": []
         },
+        "7570320": {
+            "name": "Radioactive",
+            "difficulty": 2,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "9718024": {
+            "name": "Creacionist",
+            "difficulty": 2,
+            "skillsets": [
+                "overall"
+            ]
+        },
         "94610370": {
             "name": "Ring Trick",
             "difficulty": 2,
@@ -8357,6 +8483,37 @@
             "name": "legacy gold start",
             "difficulty": 3,
             "skillsets": []
+        },
+        "67018065": {
+            "name": "TENDO",
+            "difficulty": 3,
+            "skillsets": [
+                "fast-paced",
+                "high-cps"
+            ]
+        },
+        "75078198": {
+            "name": "Heritage",
+            "difficulty": 3,
+            "skillsets": [
+                "wave"
+            ]
+        },
+        "37011750": {
+            "name": "Hyperio Technia",
+            "difficulty": 3,
+            "skillsets": [
+                "fast-paced",
+                "duals"
+            ]
+        },
+        "65269826": {
+            "name": "Arcane",
+            "difficulty": 3,
+            "skillsets": [
+                "fast-paced",
+                "duals"
+            ]
         },
         "9145341": {
             "name": "8o",
@@ -8508,6 +8665,30 @@
             "name": "legacy amber start",
             "difficulty": 4,
             "skillsets": []
+        },
+        "23409681": {
+            "name": "Galaxy Breaker",
+            "difficulty": 4,
+            "skillsets": [
+                "wave",
+                "chokepoints"
+            ]
+        },
+        "61799411": {
+            "name": "MINDBREAKER",
+            "difficulty": 4,
+            "skillsets": [
+                "timings",
+                "memory"
+            ]
+        },
+        "65046970": {
+            "name": "Apollo 13",
+            "difficulty": 4,
+            "skillsets": [
+                "wave",
+                "memory"
+            ]
         },
         "8491232": {
             "name": "UltraSonic",
@@ -8752,6 +8933,14 @@
             "difficulty": 6,
             "skillsets": []
         },
+        "90597607": {
+            "name": "Le Midd Mapperoonies",
+            "difficulty": 6,
+            "skillsets": [
+                "memory",
+                "nerve-control"
+            ]
+        },
         "66858272": {
             "name": "Goldcrest Palace",
             "difficulty": 6,
@@ -8842,6 +9031,20 @@
             "name": "legacy emerald start",
             "difficulty": 8,
             "skillsets": []
+        },
+        "63560498": {
+            "name": "Omicron",
+            "difficulty": 8,
+            "skillsets": [
+                "nerve-control"
+            ]
+        },
+        "86291702": {
+            "name": "Nightmare Chasm",
+            "difficulty": 8,
+            "skillsets": [
+                "nerve-control"
+            ]
         },
         "37255449": {
             "name": "Cadrega City",
@@ -8967,6 +9170,13 @@
             "name": "legacy amethyst start",
             "difficulty": 12,
             "skillsets": []
+        },
+        "76962930": {
+            "name": "Sakupen Circles",
+            "difficulty": 12,
+            "skillsets": [
+                "wave"
+            ]
         },
         "73214186": {
             "name": "Diabolic ClubStep",
@@ -10479,7 +10689,7 @@
             "difficulty": 2,
             "skillsets": []
         },
-        "72240540": {
+        "72240540-dupe": {
             "name": "",
             "difficulty": 3,
             "skillsets": []
@@ -11181,7 +11391,8 @@
             "name": "robotchief exposal",
             "difficulty": 5,
             "skillsets": [
-                "timings", "wave"
+                "timings",
+                "wave"
             ]
         },
         "october-2024": {
@@ -11207,14 +11418,16 @@
             "name": "LIGHT",
             "difficulty": 1,
             "skillsets": [
-                "ship", "fast-paced"
+                "ship",
+                "fast-paced"
             ]
         },
         "105945506": {
             "name": "Out of This World",
             "difficulty": 2,
             "skillsets": [
-                "learny", "wave"
+                "learny",
+                "wave"
             ]
         },
         "106937411": {
@@ -11228,7 +11441,8 @@
             "name": "La Llorona",
             "difficulty": 5,
             "skillsets": [
-                "timings", "fast-paced"
+                "timings",
+                "fast-paced"
             ]
         },
         "november-2024": {
@@ -11261,7 +11475,8 @@
             "name": "Ronal Goes To McDon",
             "difficulty": 2,
             "skillsets": [
-                "memory", "duals"
+                "memory",
+                "duals"
             ]
         },
         "34803081": {
@@ -11322,7 +11537,8 @@
             "name": "Snowfall Storm",
             "difficulty": 6,
             "skillsets": [
-                "timings", "duals"
+                "timings",
+                "duals"
             ]
         },
         "12doc2024": {
@@ -11423,7 +11639,8 @@
             "name": "Sleep Forever",
             "difficulty": 0,
             "skillsets": [
-                "timings", "wave"
+                "timings",
+                "wave"
             ]
         },
         "83410727": {
@@ -11444,14 +11661,16 @@
             "name": "Dream Reaper",
             "difficulty": 2,
             "skillsets": [
-                "ship", "wave"
+                "ship",
+                "wave"
             ]
         },
         "72908323": {
             "name": "Dream City",
             "difficulty": 6,
             "skillsets": [
-                "ship", "learny"
+                "ship",
+                "learny"
             ]
         },
         "february-2025": {
@@ -11491,7 +11710,8 @@
             "name": "Noirv",
             "difficulty": 4,
             "skillsets": [
-                "timings", "learny"
+                "timings",
+                "learny"
             ]
         },
         "96549270": {
