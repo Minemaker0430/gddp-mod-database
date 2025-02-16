@@ -463,9 +463,9 @@
                 86018142,
                 49896559,
                 110815379,
-                112313819,
                 4125776,
-                73667628
+                73667628,
+                112313819
             ],
             "practiceIDs": [],
             "reqLevels": 2,
@@ -5972,7 +5972,7 @@
             "name": "Killbot",
             "difficulty": 8,
             "skillsets": [
-                "memory"
+                "memory", "timings"
             ],
             "xp": {
                 "timings": 3,
@@ -6403,7 +6403,7 @@
             "name": "GONER",
             "difficulty": 9,
             "skillsets": [
-                "memory"
+                "memory", "wave"
             ],
             "xp": {
                 "timings": 1,
@@ -7869,26 +7869,6 @@
                 "wave": 2
             }
         },
-        "112313819": {
-            "name": "Anathema",
-            "difficulty": 12,
-            "skillsets": [
-                "fast-paced",
-                "nerve-control"
-            ],
-            "xp": {
-                "chokepoints": 3,
-                "duals": 1,
-                "fastPaced": 3,
-                "cps": 2,
-                "memory": 2,
-                "nerve": 3,
-                "ship": 2,
-                "swing": 2,
-                "timings": 3,
-                "wave": 2
-            }
-        },
         "4125776": {
             "name": "Silent clubstep",
             "difficulty": 12,
@@ -7927,6 +7907,26 @@
                 "memory": 1,
                 "nerve": 2,
                 "swing": 0
+            }
+        },
+        "112313819": {
+            "name": "Anathema",
+            "difficulty": 12,
+            "skillsets": [
+                "fast-paced",
+                "nerve-control"
+            ],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 1,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 2,
+                "timings": 3,
+                "wave": 2
             }
         },
         "azurite": {
