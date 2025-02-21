@@ -70,7 +70,7 @@
   "duals": {
     "display-name": "Duals",
     "type": "misc",
-    "description": "This level contains significant Dual parts.",
+    "description": "This level contains significant Dual parts. Dual gamemode is the best gamemode.",
     "sprite": "DP_Skill_Duals"
   },
   "speed-changes": {
@@ -82,7 +82,7 @@
   "nerve-control": {
     "display-name": "Nerve Control",
     "type": "misc",
-    "description": "This level helps with improving nerve control, due to its length. Don't choke!",
+    "description": "This level helps with improving nerve control. Don't choke!",
     "sprite": "DP_Skill_NerveControl"
   },
   "memory": {
@@ -94,7 +94,7 @@
   "fast-paced": {
     "display-name": "Fast Paced",
     "type": "misc",
-    "description": "This level goes very, very fast. Remember to Practice!",
+    "description": "This level goes very, very fast. Slow down and learn the patterns.",
     "sprite": "DP_Skill_FastPaced"
   },
   "gm-changes": {
@@ -118,13 +118,13 @@
   "flow": {
     "display-name": "Flow",
     "type": "misc",
-    "description": "This level helps you improve on Flow gameplay.",
+    "description": "This level helps you improve on Flow gameplay. Just go with the flow!",
     "sprite": "DP_Skill_Flow"
   },
   "moving-gp": {
     "display-name": "Moving Gameplay",
     "type": "misc",
-    "description": "This level contains some Moving Gameplay. You may have to memorize the patterns.",
+    "description": "This level contains some Moving Gameplay. You may have to memorize the movement patterns.",
     "sprite": "DP_Skill_MovingGP"
   },
   "high-cps": {
@@ -330,13 +330,13 @@
   "sp-minigame": {
     "display-name": "Minigame",
     "type": "special",
-    "description": "This level is a \"Minigame\", or a level that qualifies as a small game.",
+    "description": "This level is a \"Minigame\", or a level that qualifies as a small game inside of GD.",
     "sprite": "DP_Skill_Special"
   },
   "sp-michi": {
     "display-name": "/\\/\\/\\",
     "type": "special",
-    "description": "<3",
+    "description": "Rest in Peace.\n\n<3",
     "sprite": "DP_Skill_Special"
   }
 }
