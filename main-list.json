@@ -6797,7 +6797,7 @@
             "name": "Knights of Thunder",
             "difficulty": 10,
             "skillsets": [
-                "wave"
+                "wave", "fast-paced"
             ],
             "xp": {
                 "timings": 2,
