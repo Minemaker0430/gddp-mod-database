@@ -155,7 +155,7 @@
   "plat-momentum": {
     "display-name": "Momentum",
     "type": "platformer",
-    "description": "This level utilizes momentum mechanics.\n(Platformer Only)",
+    "description": "This level utilizes momentum mechanics.\n\n(Platformer Only)",
     "sprite": "DP_Skill_Unknown"
   },
 
