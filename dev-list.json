@@ -38,9 +38,7 @@
                 81742215,
                 77428474
             ],
-            "practiceIDs": [],
-            "reqLevels": 13,
-            "practice": false
+            "reqLevels": 13
         },
         {
             "name": "Bronze",
@@ -80,9 +78,7 @@
                 3471703,
                 9287687
             ],
-            "practiceIDs": [],
-            "reqLevels": 12,
-            "practice": false
+            "reqLevels": 12
         },
         {
             "name": "Silver",
@@ -117,9 +113,7 @@
                 62028241,
                 82210980
             ],
-            "practiceIDs": [],
-            "reqLevels": 11,
-            "practice": false
+            "reqLevels": 11
         },
         {
             "name": "Gold",
@@ -154,9 +148,7 @@
                 43008397,
                 17312229
             ],
-            "practiceIDs": [],
-            "reqLevels": 10,
-            "practice": false
+            "reqLevels": 10
         },
         {
             "name": "Amber",
@@ -191,9 +183,7 @@
                 78397973,
                 63915746
             ],
-            "practiceIDs": [],
-            "reqLevels": 9,
-            "practice": false
+            "reqLevels": 9
         },
         {
             "name": "Platinum",
@@ -228,9 +218,7 @@
                 65633532,
                 84766628
             ],
-            "practiceIDs": [],
-            "reqLevels": 8,
-            "practice": false
+            "reqLevels": 8
         },
         {
             "name": "Sapphire",
@@ -265,9 +253,7 @@
                 35448603,
                 19759411
             ],
-            "practiceIDs": [],
-            "reqLevels": 7,
-            "practice": false
+            "reqLevels": 7
         },
         {
             "name": "Jade",
@@ -302,9 +288,7 @@
                 61531210,
                 38235367
             ],
-            "practiceIDs": [],
-            "reqLevels": 6,
-            "practice": false
+            "reqLevels": 6
         },
         {
             "name": "Emerald",
@@ -339,9 +323,7 @@
                 62869408,
                 65969451
             ],
-            "practiceIDs": [],
-            "reqLevels": 6,
-            "practice": false
+            "reqLevels": 6
         },
         {
             "name": "Ruby",
@@ -376,9 +358,7 @@
                 52919433,
                 56703691
             ],
-            "practiceIDs": [],
-            "reqLevels": 5,
-            "practice": false
+            "reqLevels": 5
         },
         {
             "name": "Diamond",
@@ -413,9 +393,7 @@
                 45866767,
                 75813671
             ],
-            "practiceIDs": [],
-            "reqLevels": 4,
-            "practice": false
+            "reqLevels": 4
         },
         {
             "name": "Onyx",
@@ -445,9 +423,7 @@
                 89187968,
                 81139702
             ],
-            "practiceIDs": [],
-            "reqLevels": 3,
-            "practice": false
+            "reqLevels": 3
         },
         {
             "name": "Amethyst",
@@ -472,9 +448,7 @@
                 73667628,
                 112313819
             ],
-            "practiceIDs": [],
-            "reqLevels": 2,
-            "practice": false
+            "reqLevels": 2
         },
         {
             "name": "Azurite",
@@ -490,9 +464,7 @@
                 73902225,
                 66422816
             ],
-            "practiceIDs": [],
-            "reqLevels": 1,
-            "practice": false
+            "reqLevels": 1
         },
         {
             "name": "Obsidian",
@@ -506,9 +478,7 @@
                 77049802,
                 78614226
             ],
-            "practiceIDs": [],
-            "reqLevels": 1,
-            "practice": false
+            "reqLevels": 1
         }
     ],
     "legacy": [
