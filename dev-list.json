@@ -1148,6 +1148,21 @@
     ],
     "monthly": [
         {
+            "name": "Video Game Pack",
+            "description": "GD is a little boring, so here are six other games for you to play instead :) (GDDP Monthly Pack for March 2025)",
+            "sprite": "DP_March",
+            "month": 3,
+            "year": 2025,
+            "levelIDs": [
+                110843215,
+                102515825,
+                85912665,
+                105394274,
+                43945511,
+                109877068
+            ]
+        },
+        {
             "name": "Achromatic Pack",
             "description": "It's time. To go back to the past. Samurai Jack. Let's see if you can handle the Achromatic Pack!! (GDDP Monthly Pack for February 2025)",
             "sprite": "DP_February",
@@ -11781,6 +11796,53 @@
             "difficulty": 6,
             "skillsets": [
                 "overall"
+            ]
+        },
+        "march-2025": {
+            "name": "monthly march 2025",
+            "difficulty": 0,
+            "skillsets": []
+        },
+        "110843215": {
+            "name": "LAP TWO",
+            "difficulty": 0,
+            "skillsets": [
+                "overall"
+            ]
+        },
+        "102515825": {
+            "name": "Back Again",
+            "difficulty": 0,
+            "skillsets": [
+                "memory"
+            ]
+        },
+        "85912665": {
+            "name": "till Doomsday",
+            "difficulty": 1,
+            "skillsets": [
+                "fast-paced", "timings"
+            ]
+        },
+        "105394274": {
+            "name": "Brainiac Maniac",
+            "difficulty": 2,
+            "skillsets": [
+                "overall", "timings"
+            ]
+        },
+        "43945511": {
+            "name": "Game Time",
+            "difficulty": 3,
+            "skillsets": [
+                "2p", "sp-minigame"
+            ]
+        },
+        "109877068": {
+            "name": "Warios Gold MinE",
+            "difficulty": 5,
+            "skillsets": [
+                "timings", "learny"
             ]
         }
     }
