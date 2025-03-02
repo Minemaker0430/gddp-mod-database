@@ -2858,7 +2858,7 @@
         "99220012": {
             "name": "Breakout",
             "difficulty": 1,
-            "skillsets": ["swing"],
+            "skillsets": ["swing", "learny"],
             "xp": {
                 "chokepoints": 2,
                 "duals": 0,
