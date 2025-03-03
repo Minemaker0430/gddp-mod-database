@@ -117,7 +117,7 @@
         },
         {
             "name": "Gold",
-            "description": "Timings are getting tougher, spaces become tighter, but you pushed through! You are now ready to take on the higher end Insane Demons, GL",
+            "description": "Timings are getting tougher, spaces become tighter, but you pushed through! You are now ready to take on the higher end Insane Demons, GL!",
             "sprite": "DP_Gold",
             "plusSprite": "DP_GoldPlus",
             "saveID": "gold",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Platinum",
-            "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG",
+            "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG.",
             "sprite": "DP_Platinum",
             "plusSprite": "DP_PlatinumPlus",
             "saveID": "platinum",
@@ -222,7 +222,7 @@
         },
         {
             "name": "Sapphire",
-            "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends c:",
+            "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends.",
             "sprite": "DP_Sapphire",
             "plusSprite": "DP_SapphirePlus",
             "saveID": "sapphire",
