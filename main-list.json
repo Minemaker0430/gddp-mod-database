@@ -6699,7 +6699,7 @@
             "xp": {
                 "memory": 2,
                 "cps": 1,
-                "duals": 3,
+                "duals": 0,
                 "nerve": 3,
                 "ship": 3,
                 "fastPaced": 2,
