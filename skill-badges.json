@@ -1,342 +1,338 @@
 {
-  "unknown": {
-    "display-name": "Unknown",
-    "type": "none",
-    "description": "This skill does not have a description.",
-    "sprite": "DP_Skill_Unknown"
-  },
-  "overall": {
-    "display-name": "Overall",
-    "type": "none",
-    "description": "This level helps improve your overall skill level.",
-    "sprite": "DP_Skill_Overall"
-  },
-  
-  "cube": {
-    "display-name": "Cube",
-    "type": "gamemode",
-    "description": "This level contains significant Cube gameplay.",
-    "sprite": "DP_Skill_Cube"
-  },
-  "ship": {
-    "display-name": "Ship",
-    "type": "gamemode",
-    "description": "This level contains significant Ship gameplay.",
-    "sprite": "DP_Skill_Ship"
-  },
-  "ball": {
-    "display-name": "Ball",
-    "type": "gamemode",
-    "description": "This level contains significant Ball gameplay.",
-    "sprite": "DP_Skill_Ball"
-  },
-  "ufo": {
-    "display-name": "UFO",
-    "type": "gamemode",
-    "description": "This level contains significant UFO gameplay.",
-    "sprite": "DP_Skill_UFO"
-  },
-  "wave": {
-    "display-name": "Wave",
-    "type": "gamemode",
-    "description": "This level contains significant Wave gameplay.",
-    "sprite": "DP_Skill_Wave"
-  },
-  "robot": {
-    "display-name": "Robot",
-    "type": "gamemode",
-    "description": "This level contains significant Robot gameplay.",
-    "sprite": "DP_Skill_Robot"
-  },
-  "spider": {
-    "display-name": "Spider",
-    "type": "gamemode",
-    "description": "This level contains significant Spider gameplay.",
-    "sprite": "DP_Skill_Spider"
-  },
-  "swing": {
-    "display-name": "Swing",
-    "type": "gamemode",
-    "description": "This level contains significant Swing gameplay.",
-    "sprite": "DP_Skill_Swing"
-  },
-  "swing-legacy": {
-    "display-name": "Swingcopter (Pre-2.2)",
-    "type": "gamemode",
-    "description": "This level contains significant Swingcopter gameplay. This involves the Dual Ball setup using Blue Orbs as opposed to the 2.2 Swing gamemode.",
-    "sprite": "DP_Skill_LegacySwingcopter"
-  },
-  
-  "duals": {
-    "display-name": "Duals",
-    "type": "misc",
-    "description": "This level contains significant Dual parts. Dual gamemode is the best gamemode.",
-    "sprite": "DP_Skill_Duals"
-  },
-  "speed-changes": {
-    "display-name": "Speed Changes",
-    "type": "misc",
-    "description": "This level contains lots of Speed Changes.",
-    "sprite": "DP_Skill_SpeedChanges"
-  },
-  "nerve-control": {
-    "display-name": "Nerve Control",
-    "type": "misc",
-    "description": "This level helps with improving nerve control. Don't choke!",
-    "sprite": "DP_Skill_NerveControl"
-  },
-  "memory": {
-    "display-name": "Memorization",
-    "type": "misc",
-    "description": "This level has a lot of Memory sections in it. Remember to FOCUS.",
-    "sprite": "DP_Skill_Memory"
-  },
-  "fast-paced": {
-    "display-name": "Fast Paced",
-    "type": "misc",
-    "description": "This level goes very, very fast. Slow down and learn the patterns.",
-    "sprite": "DP_Skill_FastPaced"
-  },
-  "gm-changes": {
-    "display-name": "Gamemode Changes",
-    "type": "misc",
-    "description": "This level tends to switch Gamemodes fast and often.",
-    "sprite": "DP_Skill_GMChanges"
-  },
-  "timings": {
-    "display-name": "Timings",
-    "type": "misc",
-    "description": "This level helps you improve your overall Timing. Keep it up and you'll reach your Final Destination.",
-    "sprite": "DP_Skill_Timings"
-  },
-  "learny": {
-    "display-name": "Learny",
-    "type": "misc",
-    "description": "This level requires a bit more effort to learn. Keep practicing and you'll get it soon!",
-    "sprite": "DP_Skill_Learny"
-  },
-  "flow": {
-    "display-name": "Flow",
-    "type": "misc",
-    "description": "This level helps you improve on Flow gameplay. Just go with the flow!",
-    "sprite": "DP_Skill_Flow"
-  },
-  "moving-gp": {
-    "display-name": "Moving Gameplay",
-    "type": "misc",
-    "description": "This level contains some Moving Gameplay. You may have to memorize the movement patterns.",
-    "sprite": "DP_Skill_MovingGP"
-  },
-  "high-cps": {
-    "display-name": "High CPS",
-    "type": "misc",
-    "description": "This level contains sections that require High CPS (Clicks Per Second).",
-    "sprite": "DP_Skill_HighCPS"
-  },
-  "2p": {
-    "display-name": "2 Player Mode",
-    "type": "misc",
-    "description": "This level has 2 Player Mode enabled for Dual sections.",
-    "sprite": "DP_Skill_2P"
-  },
-  "chokepoints": {
-    "display-name": "Chokepoints",
-    "type": "misc",
-    "description": "This level may have places where you can commonly mess up. Practice these sections thoroughly!",
-    "sprite": "DP_Skill_Chokepoints"
-  },
-  "awkward": {
-    "display-name": "Awkward Gameplay",
-    "type": "misc",
-    "description": "This level has some unconventional or awkward gameplay in it.",
-    "sprite": "DP_Skill_Awkward"
-  },
-
-  "plat-momentum": {
-    "display-name": "Momentum",
-    "type": "platformer",
-    "description": "This level utilizes momentum mechanics.\n\n(Platformer Only)",
-    "sprite": "DP_Skill_Unknown"
-  },
-
-  "sp-best-level": {
-    "display-name": "Best Level in the Game",
-    "type": "special",
-    "description": "TrusTa gave \"hell and heaven\" this award.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-spam": {
-    "display-name": "Spam",
-    "type": "special",
-    "description": "I hope you have your warranty still.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-small": {
-    "display-name": "Small gamemode",
-    "type": "special",
-    "description": "smol",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-big": {
-    "display-name": "Big gamemode",
-    "type": "special",
-    "description": "BEEG",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-unique": {
-    "display-name": "Unique Gameplay",
-    "type": "special",
-    "description": "This level has very interesting and gimmicky gameplay.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-jedwint": {
-    "display-name": "Jedwint",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Jedwint.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-emerald1": {
-    "display-name": "Emerald1",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Emerald1.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-cyclo": {
-    "display-name": "Cyclo",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Cyclo.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-tenu": {
-    "display-name": "Tenu",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Tenu.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-smilebullet": {
-    "display-name": "SmileBullet",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by SmileBullet.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-jacher": {
-    "display-name": "Jacher",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Jacher.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-elohmrow": {
-    "display-name": "ElohmroW",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by ElohmroW.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-iron": {
-    "display-name": "Iron",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Iron.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-cork": {
-    "display-name": "Cork",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Cork.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-lia": {
-    "display-name": "Lia",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Lia.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-krtar": {
-    "display-name": "Krtar",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Krtar.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-trusta": {
-    "display-name": "Trusta",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Trusta.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-floofiwan": {
-    "display-name": "FloofiWan",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by FloofiWan.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-diogan": {
-    "display-name": "Diogan",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Diogan.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-ka1sa": {
-    "display-name": "Ka1sa",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Ka1sa.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-haze": {
-    "display-name": "Haze",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Haze.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-alza": {
-    "display-name": "Alza",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Alza.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-croma": {
-    "display-name": "Croma",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Croma.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-starfruit": {
-    "display-name": "StarfruitGamer",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by StarfruitGamer.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-landet": {
-    "display-name": "Landet",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Landet.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-tortur": {
-    "display-name": "tortur",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by tortur.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-stephen": {
-    "display-name": "StephenPlays",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by StephenPlays.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-kria": {
-    "display-name": "Kria",
-    "type": "special",
-    "description": "This level was chosen for the Twelve Demons of Christmas by Krtar and Lia. #Kria",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-minigame": {
-    "display-name": "Minigame",
-    "type": "special",
-    "description": "This level is a \"Minigame\", or a level that qualifies as a small game inside of GD.",
-    "sprite": "DP_Skill_Special"
-  },
-  "sp-michi": {
-    "display-name": "/\\/\\/\\",
-    "type": "special",
-    "description": "Rest in Peace.\n\n<3",
-    "sprite": "DP_Skill_Special"
-  }
+    "unknown": {
+        "display-name": "Unknown",
+        "type": "none",
+        "description": "This skill does not have a description.",
+        "sprite": "DP_Skill_Unknown"
+    },
+    "overall": {
+        "display-name": "Overall",
+        "type": "none",
+        "description": "This level helps improve your overall skill level.",
+        "sprite": "DP_Skill_Overall"
+    },
+    "cube": {
+        "display-name": "Cube",
+        "type": "gamemode",
+        "description": "This level contains significant Cube gameplay.",
+        "sprite": "DP_Skill_Cube"
+    },
+    "ship": {
+        "display-name": "Ship",
+        "type": "gamemode",
+        "description": "This level contains significant Ship gameplay.",
+        "sprite": "DP_Skill_Ship"
+    },
+    "ball": {
+        "display-name": "Ball",
+        "type": "gamemode",
+        "description": "This level contains significant Ball gameplay.",
+        "sprite": "DP_Skill_Ball"
+    },
+    "ufo": {
+        "display-name": "UFO",
+        "type": "gamemode",
+        "description": "This level contains significant UFO gameplay.",
+        "sprite": "DP_Skill_UFO"
+    },
+    "wave": {
+        "display-name": "Wave",
+        "type": "gamemode",
+        "description": "This level contains significant Wave gameplay.",
+        "sprite": "DP_Skill_Wave"
+    },
+    "robot": {
+        "display-name": "Robot",
+        "type": "gamemode",
+        "description": "This level contains significant Robot gameplay.",
+        "sprite": "DP_Skill_Robot"
+    },
+    "spider": {
+        "display-name": "Spider",
+        "type": "gamemode",
+        "description": "This level contains significant Spider gameplay.",
+        "sprite": "DP_Skill_Spider"
+    },
+    "swing": {
+        "display-name": "Swing",
+        "type": "gamemode",
+        "description": "This level contains significant Swing gameplay.",
+        "sprite": "DP_Skill_Swing"
+    },
+    "swing-legacy": {
+        "display-name": "Swingcopter (Pre-2.2)",
+        "type": "gamemode",
+        "description": "This level contains significant Swingcopter gameplay. This involves the Dual Ball setup using Blue Orbs as opposed to the 2.2 Swing gamemode.",
+        "sprite": "DP_Skill_LegacySwingcopter"
+    },
+    "duals": {
+        "display-name": "Duals",
+        "type": "misc",
+        "description": "This level contains significant Dual parts. Dual gamemode is the best gamemode.",
+        "sprite": "DP_Skill_Duals"
+    },
+    "speed-changes": {
+        "display-name": "Speed Changes",
+        "type": "misc",
+        "description": "This level contains lots of Speed Changes.",
+        "sprite": "DP_Skill_SpeedChanges"
+    },
+    "nerve-control": {
+        "display-name": "Nerve Control",
+        "type": "misc",
+        "description": "This level helps with improving nerve control. Don't choke!",
+        "sprite": "DP_Skill_NerveControl"
+    },
+    "memory": {
+        "display-name": "Memorization",
+        "type": "misc",
+        "description": "This level has a lot of Memory sections in it. Remember to FOCUS.",
+        "sprite": "DP_Skill_Memory"
+    },
+    "fast-paced": {
+        "display-name": "Fast Paced",
+        "type": "misc",
+        "description": "This level goes very, very fast. Slow down and learn the patterns.",
+        "sprite": "DP_Skill_FastPaced"
+    },
+    "gm-changes": {
+        "display-name": "Gamemode Changes",
+        "type": "misc",
+        "description": "This level tends to switch Gamemodes fast and often.",
+        "sprite": "DP_Skill_GMChanges"
+    },
+    "timings": {
+        "display-name": "Timings",
+        "type": "misc",
+        "description": "This level helps you improve your overall Timing. Keep it up and you'll reach your Final Destination.",
+        "sprite": "DP_Skill_Timings"
+    },
+    "learny": {
+        "display-name": "Learny",
+        "type": "misc",
+        "description": "This level requires a bit more effort to learn. Keep practicing and you'll get it soon!",
+        "sprite": "DP_Skill_Learny"
+    },
+    "flow": {
+        "display-name": "Flow",
+        "type": "misc",
+        "description": "This level helps you improve on Flow gameplay. Just go with the flow!",
+        "sprite": "DP_Skill_Flow"
+    },
+    "moving-gp": {
+        "display-name": "Moving Gameplay",
+        "type": "misc",
+        "description": "This level contains some Moving Gameplay. You may have to memorize the movement patterns.",
+        "sprite": "DP_Skill_MovingGP"
+    },
+    "high-cps": {
+        "display-name": "High CPS",
+        "type": "misc",
+        "description": "This level contains sections that require High CPS (Clicks Per Second).",
+        "sprite": "DP_Skill_HighCPS"
+    },
+    "2p": {
+        "display-name": "2 Player Mode",
+        "type": "misc",
+        "description": "This level has 2 Player Mode enabled for Dual sections.",
+        "sprite": "DP_Skill_2P"
+    },
+    "chokepoints": {
+        "display-name": "Chokepoints",
+        "type": "misc",
+        "description": "This level may have places where you can commonly mess up. Practice these sections thoroughly!",
+        "sprite": "DP_Skill_Chokepoints"
+    },
+    "awkward": {
+        "display-name": "Awkward Gameplay",
+        "type": "misc",
+        "description": "This level has some unconventional or awkward gameplay in it.",
+        "sprite": "DP_Skill_Awkward"
+    },
+    "plat-momentum": {
+        "display-name": "Momentum",
+        "type": "platformer",
+        "description": "This level utilizes momentum mechanics.\n\n(Platformer Only)",
+        "sprite": "DP_Skill_Unknown"
+    },
+    "sp-best-level": {
+        "display-name": "Best Level in the Game",
+        "type": "special",
+        "description": "TrusTa gave \"hell and heaven\" this award.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-spam": {
+        "display-name": "Spam",
+        "type": "special",
+        "description": "I hope you have your warranty still.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-small": {
+        "display-name": "Small gamemode",
+        "type": "special",
+        "description": "smol",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-big": {
+        "display-name": "Big gamemode",
+        "type": "special",
+        "description": "BEEG",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-unique": {
+        "display-name": "Unique Gameplay",
+        "type": "special",
+        "description": "This level has very interesting and gimmicky gameplay.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-jedwint": {
+        "display-name": "Jedwint",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Jedwint.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-emerald1": {
+        "display-name": "Emerald1",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Emerald1.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-cyclo": {
+        "display-name": "Cyclo",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Cyclo.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-tenu": {
+        "display-name": "Tenu",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Tenu.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-smilebullet": {
+        "display-name": "SmileBullet",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by SmileBullet.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-jacher": {
+        "display-name": "Jacher",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Jacher.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-elohmrow": {
+        "display-name": "ElohmroW",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by ElohmroW.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-iron": {
+        "display-name": "Iron",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Iron.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-cork": {
+        "display-name": "Cork",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Cork.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-lia": {
+        "display-name": "Lia",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Lia.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-krtar": {
+        "display-name": "Krtar",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Krtar.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-trusta": {
+        "display-name": "Trusta",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Trusta.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-floofiwan": {
+        "display-name": "FloofiWan",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by FloofiWan.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-diogan": {
+        "display-name": "Diogan",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Diogan.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-ka1sa": {
+        "display-name": "Ka1sa",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Ka1sa.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-haze": {
+        "display-name": "Haze",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Haze.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-alza": {
+        "display-name": "Alza",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Alza.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-croma": {
+        "display-name": "Croma",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Croma.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-starfruit": {
+        "display-name": "StarfruitGamer",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by StarfruitGamer.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-landet": {
+        "display-name": "Landet",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Landet.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-tortur": {
+        "display-name": "tortur",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by tortur.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-stephen": {
+        "display-name": "StephenPlays",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by StephenPlays.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-kria": {
+        "display-name": "Kria",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Krtar and Lia. #Kria",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-minigame": {
+        "display-name": "Minigame",
+        "type": "special",
+        "description": "This level is a \"Minigame\", or a level that qualifies as a small game inside of GD.",
+        "sprite": "DP_Skill_Special"
+    },
+    "sp-michi": {
+        "display-name": "/\\/\\/\\",
+        "type": "special",
+        "description": "Rest in Peace.\n\n<3",
+        "sprite": "DP_Skill_Special"
+    }
 }
