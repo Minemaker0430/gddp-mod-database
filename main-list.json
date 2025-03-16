@@ -481,181 +481,181 @@
         "levelIDs": [96978035, 80754589, 66521174, 5748587, 84265500, 92299438]
     }, {
         "name": "Valentine Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for February 2024)",
         "sprite": "DP_February",
         "month": 2,
         "year": 2024,
         "levelIDs": [60281192, 72305371, 45231312, 80153698, 91904126, 95757926]
     }, {
         "name": "Cosmic Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for January 2024)",
         "sprite": "DP_January",
         "month": 1,
         "year": 2024,
         "levelIDs": [57577028, 86012792, 8839598, 94591772, 92111845, 90197147]
     }, {
         "name": "Very Cold Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for December 2023)",
         "sprite": "DP_December",
         "month": 12,
         "year": 2023,
         "levelIDs": [91326232, 89379796, 1963422, 62434757, 89423740, 88017017]
     }, {
         "name": "Forest Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for November 2023)",
         "sprite": "DP_November",
         "month": 11,
         "year": 2023,
         "levelIDs": [73955917, 73249160, 71764832, 11384178, 11904920, 83570278]
     }, {
         "name": "Horror Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for October 2023)",
         "sprite": "DP_October",
         "month": 10,
         "year": 2023,
         "levelIDs": [72687502, 60993841, 80868922, 68109632, 59014439, 89190831]
     }, {
         "name": "Single Gamemode Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for September 2023)",
         "sprite": "DP_September",
         "month": 9,
         "year": 2023,
         "levelIDs": [89269769, 57454858, 61417747, 83561236, 71567198, 73878822]
     }, {
         "name": "Alphabet Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for August 2023)",
         "sprite": "DP_August",
         "month": 8,
         "year": 2023,
         "levelIDs": [83902039, 80998327, 34085027, 18269713, 523638, 59230188]
     }, {
         "name": "Party Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for July 2023)",
         "sprite": "DP_July",
         "month": 7,
         "year": 2023,
         "levelIDs": [80758004, 62869476, 13550782, 18786055, 84064573, 83658556]
     }, {
         "name": "The Tropical Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for June 2023)",
         "sprite": "DP_June",
         "month": 6,
         "year": 2023,
         "levelIDs": [21949567, 67490470, 64825099, 76842157, 61974149, 77205012]
     }, {
         "name": "Maymory Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for May 2023)",
         "sprite": "DP_May",
         "month": 5,
         "year": 2023,
         "levelIDs": [80433444, 86880648, 7179833, 78393392, 88503578, 89156629]
     }, {
         "name": "The Science Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for April 2023)",
         "sprite": "DP_April",
         "month": 4,
         "year": 2023,
         "levelIDs": [64132348, 62272735, 84489308, 66640702, 40524017, 83357887]
     }, {
         "name": "The Bright Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for March 2023)",
         "sprite": "DP_March",
         "month": 3,
         "year": 2023,
         "levelIDs": [62522134, 59379484, 78071979, 71144442, 55211763, 81549790]
     }, {
         "name": "Color Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for February 2023)",
         "sprite": "DP_February",
         "month": 2,
         "year": 2023,
         "levelIDs": [57395071, 62364298, 79046821, 77613408, 78602801, 78119012]
     }, {
         "name": "Epic Gamer Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for January 2023)",
         "sprite": "DP_January",
         "month": 1,
         "year": 2023,
         "levelIDs": [82442669, 897987, 69230086, 15427055, 72240540, 63377357]
     }, {
         "name": "Frost Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for December 2022)",
         "sprite": "DP_December",
         "month": 12,
         "year": 2022,
         "levelIDs": [51405408, 76691413, 65982096, 8887523, 8091369, 69646791]
     }, {
         "name": "Sky and Dreams Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for November 2022)",
         "sprite": "DP_November",
         "month": 11,
         "year": 2022,
         "levelIDs": [71645931, 65227464, 63258554, 76484997, 83444609, 80177488]
     }, {
         "name": "Halloween Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for October 2022)",
         "sprite": "DP_October",
         "month": 10,
         "year": 2022,
         "levelIDs": [75329841, 82977900, 38520371, 26539891, 71084738, 56460850]
     }, {
         "name": "Tech Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for September 2022)",
         "sprite": "DP_September",
         "month": 9,
         "year": 2022,
         "levelIDs": [73661181, 75387502, 64980575, 34261959, 35610305, 69108628]
     }, {
         "name": "Art Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for August 2022)",
         "sprite": "DP_August",
         "month": 8,
         "year": 2022,
         "levelIDs": [78945916, 77617824, 76400976, 67818901, 72969191, 76931927]
     }, {
         "name": "Design Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for July 2022)",
         "sprite": "DP_July",
         "month": 7,
         "year": 2022,
         "levelIDs": [66689817, 48199047, 77831655, 72275079, 9229228, 60516506]
     }, {
         "name": "Meme Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for June 2022)",
         "sprite": "DP_June",
         "month": 6,
         "year": 2022,
         "levelIDs": [36473087, 67365807, 40752788, 35126825, 30753202, 50008168]
     }, {
         "name": "Japan Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for May 2022)",
         "sprite": "DP_May",
         "month": 5,
         "year": 2022,
         "levelIDs": [68988733, 77570389, 67484415, 62285738, 47784910, 77396433]
     }, {
         "name": "List Demon Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for April 2022)",
         "sprite": "DP_April",
         "month": 4,
         "year": 2022,
         "levelIDs": [71107449, 34616261, 71534654, 60784748, 13850073, 45626173]
     }, {
         "name": "Rjanskdkdorjwbosejwk",
-        "description": "",
+        "description": "(GDDP Monthly Pack for March 2022)",
         "sprite": "DP_March",
         "month": 3,
         "year": 2022,
         "levelIDs": [40125024, 75941344, 72828395, 27650846, 75531829, 68311699]
     }, {
         "name": "Biohazard Pack",
-        "description": "",
+        "description": "(GDDP Monthly Pack for February 2022)",
         "sprite": "DP_February",
         "month": 2,
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 17,
+    "database-version": 18,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -7423,7 +7423,7 @@
             "skillsets": ["timings", "fast-paced", "high-cps"]
         },
         "65227464": {
-            "name": "Dream flower",
+            "name": "Dream Flower",
             "difficulty": 0,
             "skillsets": ["nerve-control"]
         },
@@ -7643,732 +7643,732 @@
             "skillsets": ["wave"]
         },
         "69601365": {
-            "name": "february 2022",
+            "name": "Toxic Subway",
             "difficulty": 0,
             "skillsets": []
         },
         "8469744": {
-            "name": "",
+            "name": "Toxin Lab II",
             "difficulty": 0,
             "skillsets": []
         },
         "29917082": {
-            "name": "",
+            "name": "Toxin Lab IV",
             "difficulty": 2,
             "skillsets": []
         },
         "61997741": {
-            "name": "",
+            "name": "Biohazard",
             "difficulty": 6,
             "skillsets": []
         },
         "40125024": {
-            "name": "march 2022",
+            "name": "SUPERCALIFRAGILISTIC",
             "difficulty": 0,
             "skillsets": []
         },
         "75941344": {
-            "name": "",
+            "name": "BRPM8ZGKRJ",
             "difficulty": 0,
             "skillsets": []
         },
         "72828395": {
-            "name": "",
+            "name": "bHjflBrhObvgrHu",
             "difficulty": 1,
             "skillsets": []
         },
         "27650846": {
-            "name": "",
+            "name": "SW50ZXJzdGVsbGFy",
             "difficulty": 2,
             "skillsets": []
         },
         "75531829": {
-            "name": "",
+            "name": "YMTHLYFYMBIKWHRLYF",
             "difficulty": 3,
             "skillsets": []
         },
         "68311699": {
-            "name": "",
+            "name": "GewErbiX",
             "difficulty": 6,
             "skillsets": []
         },
         "71107449": {
-            "name": "april 2022",
+            "name": "Cold Sweat II",
             "difficulty": 0,
             "skillsets": []
         },
         "34616261": {
-            "name": "",
+            "name": "Spacial Rend",
             "difficulty": 0,
             "skillsets": []
         },
         "71534654": {
-            "name": "",
+            "name": "Firework",
             "difficulty": 1,
             "skillsets": []
         },
         "60784748": {
-            "name": "",
+            "name": "Arcturus",
             "difficulty": 2,
             "skillsets": []
         },
         "13850073": {
-            "name": "",
+            "name": "Slaughterhouse",
             "difficulty": 3,
             "skillsets": []
         },
         "45626173": {
-            "name": "",
+            "name": "Silentium Gradas",
             "difficulty": 6,
             "skillsets": []
         },
         "68988733": {
-            "name": "may 2022",
+            "name": "Maki Roll",
             "difficulty": 0,
             "skillsets": []
         },
         "77570389": {
-            "name": "",
+            "name": "Good Vibes",
             "difficulty": 0,
             "skillsets": []
         },
         "67484415": {
-            "name": "",
+            "name": "Tohru",
             "difficulty": 1,
             "skillsets": []
         },
         "62285738": {
-            "name": "",
+            "name": "Japan Modern Thing",
             "difficulty": 2,
             "skillsets": []
         },
         "47784910": {
-            "name": "",
+            "name": "Osaka Nights",
             "difficulty": 3,
             "skillsets": []
         },
         "77396433": {
-            "name": "",
+            "name": "Ainoseikatsu",
             "difficulty": 5,
             "skillsets": []
         },
         "36473087": {
-            "name": "june 2022",
+            "name": "Gotta Go FAST",
             "difficulty": 0,
             "skillsets": []
         },
         "67365807": {
-            "name": "",
+            "name": "If Among US Was Lv 2",
             "difficulty": 0,
             "skillsets": []
         },
         "40752788": {
-            "name": "",
+            "name": "Dank Travle",
             "difficulty": 1,
             "skillsets": []
         },
         "35126825": {
-            "name": "",
+            "name": "Jajagarasu",
             "difficulty": 2,
             "skillsets": []
         },
         "30753202": {
-            "name": "",
+            "name": "One",
             "difficulty": 3,
             "skillsets": []
         },
         "50008168": {
-            "name": "",
+            "name": "UltraSans",
             "difficulty": 5,
             "skillsets": []
         },
         "66689817": {
-            "name": "july 2022",
+            "name": "Shock Therapy",
             "difficulty": 0,
             "skillsets": []
         },
         "48199047": {
-            "name": "",
+            "name": "The Fairydust",
             "difficulty": 0,
             "skillsets": []
         },
         "77831655": {
-            "name": "",
+            "name": "Scatterbrains",
             "difficulty": 1,
             "skillsets": []
         },
         "72275079": {
-            "name": "",
+            "name": "Bitcrunch",
             "difficulty": 2,
             "skillsets": []
         },
         "9229228": {
-            "name": "",
+            "name": "Future Demoness",
             "difficulty": 3,
             "skillsets": []
         },
         "60516506": {
-            "name": "",
+            "name": "Torgue",
             "difficulty": 5,
             "skillsets": []
         },
         "78945916": {
-            "name": "august 2022",
+            "name": "Air Supply",
             "difficulty": 0,
             "skillsets": []
         },
         "77617824": {
-            "name": "",
+            "name": "BLIZZARD",
             "difficulty": 0,
             "skillsets": []
         },
         "76400976": {
-            "name": "",
+            "name": "Scam of the Century",
             "difficulty": 1,
             "skillsets": []
         },
         "72969191": {
-            "name": "",
+            "name": "PURGATORY",
             "difficulty": 3,
             "skillsets": []
         },
         "73661181": {
-            "name": "september 2022",
+            "name": "Mindfrick",
             "difficulty": 0,
             "skillsets": []
         },
         "75387502": {
-            "name": "",
+            "name": "Broken Gameboy",
             "difficulty": 0,
             "skillsets": []
         },
         "64980575": {
-            "name": "",
+            "name": "Futuristic D",
             "difficulty": 1,
             "skillsets": []
         },
         "34261959": {
-            "name": "",
+            "name": "Cyber Abyss",
             "difficulty": 2,
             "skillsets": []
         },
         "35610305": {
-            "name": "",
+            "name": "Spacelocked II",
             "difficulty": 3,
             "skillsets": []
         },
         "69108628": {
-            "name": "",
+            "name": "Broken Signal",
             "difficulty": 5,
             "skillsets": []
         },
         "75329841": {
-            "name": "october 2022",
+            "name": "Hutaolloween",
             "difficulty": 0,
             "skillsets": []
         },
         "82977900": {
-            "name": "",
+            "name": "Not a Phobia",
             "difficulty": 0,
             "skillsets": []
         },
         "38520371": {
-            "name": "",
+            "name": "Pumpkin Moon",
             "difficulty": 1,
             "skillsets": []
         },
         "26539891": {
-            "name": "",
+            "name": "Phantoms Manor",
             "difficulty": 2,
             "skillsets": []
         },
         "71084738": {
-            "name": "",
+            "name": "Buh",
             "difficulty": 3,
             "skillsets": []
         },
         "71645931": {
-            "name": "november 2022",
+            "name": "The Clouds Give Way",
             "difficulty": 0,
             "skillsets": []
         },
         "63258554": {
-            "name": "",
+            "name": "The Cult of Olympia",
             "difficulty": 1,
             "skillsets": []
         },
         "76484997": {
-            "name": "",
+            "name": "Sky Watching",
             "difficulty": 2,
             "skillsets": []
         },
         "83444609": {
-            "name": "",
+            "name": "Dreamfully",
             "difficulty": 4,
             "skillsets": []
         },
         "80177488": {
-            "name": "",
+            "name": "Quaoar",
             "difficulty": 6,
             "skillsets": []
         },
         "51405408": {
-            "name": "december 2022",
+            "name": "Winter Memory",
             "difficulty": 0,
             "skillsets": []
         },
         "76691413": {
-            "name": "",
+            "name": "MLXmas",
             "difficulty": 0,
             "skillsets": []
         },
         "65982096": {
-            "name": "",
+            "name": "Snowblind",
             "difficulty": 1,
             "skillsets": []
         },
         "8887523": {
-            "name": "",
+            "name": "Snow v2",
             "difficulty": 2,
             "skillsets": []
         },
         "8091369": {
-            "name": "",
+            "name": "Frozen Space",
             "difficulty": 3,
             "skillsets": []
         },
         "69646791": {
-            "name": "",
+            "name": "Frozen",
             "difficulty": 6,
             "skillsets": []
         },
         "82442669": {
-            "name": "january 2023",
+            "name": "Altos Adventure",
             "difficulty": 0,
             "skillsets": []
         },
         "897987": {
-            "name": "",
+            "name": "Flappy Weird",
             "difficulty": 0,
             "skillsets": []
         },
         "69230086": {
-            "name": "",
+            "name": "The Devourer",
             "difficulty": 1,
             "skillsets": []
         },
         "15427055": {
-            "name": "",
+            "name": "Megalovania",
             "difficulty": 2,
             "skillsets": []
         },
         "63377357": {
-            "name": "",
+            "name": "Halberd",
             "difficulty": 5,
             "skillsets": []
         },
         "57395071": {
-            "name": "february 2023",
+            "name": "Hue Effect",
             "difficulty": 0,
             "skillsets": []
         },
         "62364298": {
-            "name": "",
+            "name": "Color Mash",
             "difficulty": 0,
             "skillsets": []
         },
         "79046821": {
-            "name": "",
+            "name": "Red Strings",
             "difficulty": 1,
             "skillsets": []
         },
         "77613408": {
-            "name": "",
+            "name": "BLRPL LGHTS",
             "difficulty": 2,
             "skillsets": []
         },
         "78119012": {
-            "name": "",
+            "name": "ILOVECYAN",
             "difficulty": 5,
             "skillsets": []
         },
         "62522134": {
-            "name": "march 2023",
+            "name": "Fire and Blaze",
             "difficulty": 0,
             "skillsets": []
         },
         "59379484": {
-            "name": "",
+            "name": "Light Speed",
             "difficulty": 0,
             "skillsets": []
         },
         "78071979": {
-            "name": "",
+            "name": "Sunrise",
             "difficulty": 1,
             "skillsets": []
         },
         "71144442": {
-            "name": "",
+            "name": "Luminescent",
             "difficulty": 2,
             "skillsets": []
         },
         "55211763": {
-            "name": "",
+            "name": "Shimmering Citadel",
             "difficulty": 3,
             "skillsets": []
         },
         "81549790": {
-            "name": "",
+            "name": "RTX ON",
             "difficulty": 5,
             "skillsets": []
         },
         "64132348": {
-            "name": "april 2023",
+            "name": "Hydrogenic Chromiums",
             "difficulty": 0,
             "skillsets": []
         },
         "62272735": {
-            "name": "",
+            "name": "ne0n",
             "difficulty": 0,
             "skillsets": []
         },
         "84489308": {
-            "name": "",
+            "name": "RADIUM",
             "difficulty": 1,
             "skillsets": []
         },
         "66640702": {
-            "name": "",
+            "name": "Hydrocarbon",
             "difficulty": 2,
             "skillsets": []
         },
         "40524017": {
-            "name": "",
+            "name": "Isotope",
             "difficulty": 4,
             "skillsets": []
         },
         "7179833": {
-            "name": "",
+            "name": "Infiltrated",
             "difficulty": 1,
             "skillsets": []
         },
         "78393392": {
-            "name": "",
+            "name": "Templarium",
             "difficulty": 2,
             "skillsets": []
         },
         "88503578": {
-            "name": "",
+            "name": "Pootis Engage",
             "difficulty": 3,
             "skillsets": []
         },
         "89156629": {
-            "name": "",
+            "name": "loop",
             "difficulty": 5,
             "skillsets": []
         },
         "21949567": {
-            "name": "june 2023",
+            "name": "Huakai",
             "difficulty": 0,
             "skillsets": []
         },
         "67490470": {
-            "name": "",
+            "name": "Exotic",
             "difficulty": 0,
             "skillsets": []
         },
         "64825099": {
-            "name": "",
+            "name": "Tropicalium",
             "difficulty": 1,
             "skillsets": []
         },
         "76842157": {
-            "name": "",
+            "name": "heatstroke",
             "difficulty": 2,
             "skillsets": []
         },
         "61974149": {
-            "name": "",
+            "name": "Tropical Thunder",
             "difficulty": 4,
             "skillsets": []
         },
         "77205012": {
-            "name": "",
+            "name": "Disastrous Downpour",
             "difficulty": 6,
             "skillsets": []
         },
         "80758004": {
-            "name": "july 2023",
+            "name": "dance partay",
             "difficulty": 0,
             "skillsets": []
         },
         "62869476": {
-            "name": "",
+            "name": "DISCO BLITZ",
             "difficulty": 0,
             "skillsets": []
         },
         "13550782": {
-            "name": "",
+            "name": "Disco Dimensions",
             "difficulty": 1,
             "skillsets": []
         },
         "18786055": {
-            "name": "",
+            "name": "Funky Road",
             "difficulty": 2,
             "skillsets": []
         },
         "83658556": {
-            "name": "",
+            "name": "Party Rock Anthem",
             "difficulty": 5,
             "skillsets": []
         },
         "83902039": {
-            "name": "august 2023",
+            "name": "wxyz",
             "difficulty": 0,
             "skillsets": []
         },
         "80998327": {
-            "name": "",
+            "name": "GG",
             "difficulty": 0,
             "skillsets": []
         },
         "34085027": {
-            "name": "",
+            "name": "B",
             "difficulty": 1,
             "skillsets": []
         },
         "18269713": {
-            "name": "",
+            "name": "Y",
             "difficulty": 2,
             "skillsets": []
         },
         "523638": {
-            "name": "",
+            "name": "Alphabet X",
             "difficulty": 3,
             "skillsets": []
         },
         "59230188": {
-            "name": "",
+            "name": "Thunder Alphabet",
             "difficulty": 5,
             "skillsets": []
         },
         "89269769": {
-            "name": "september 2023",
+            "name": "Robot Upgrade",
             "difficulty": 0,
             "skillsets": []
         },
         "57454858": {
-            "name": "",
+            "name": "Spib",
             "difficulty": 0,
             "skillsets": []
         },
         "61417747": {
-            "name": "",
+            "name": "potal",
             "difficulty": 1,
             "skillsets": []
         },
         "83561236": {
-            "name": "",
+            "name": "Shipcretes Eltiny",
             "difficulty": 2,
             "skillsets": []
         },
         "71567198": {
-            "name": "",
+            "name": "VEIL",
             "difficulty": 4,
             "skillsets": []
         },
         "73878822": {
-            "name": "",
+            "name": "On1y Cub3",
             "difficulty": 5,
             "skillsets": []
         },
         "72687502": {
-            "name": "october 2023",
+            "name": "Eyes In The Water",
             "difficulty": 0,
             "skillsets": []
         },
         "60993841": {
-            "name": "",
+            "name": "Mr CrazyHands",
             "difficulty": 0,
             "skillsets": []
         },
         "80868922": {
-            "name": "",
+            "name": "Collab Level",
             "difficulty": 1,
             "skillsets": []
         },
         "68109632": {
-            "name": "",
+            "name": "dak",
             "difficulty": 2,
             "skillsets": []
         },
         "59014439": {
-            "name": "",
+            "name": "Kidsmoke",
             "difficulty": 4,
             "skillsets": []
         },
         "89190831": {
-            "name": "",
+            "name": "Heart Attack",
             "difficulty": 5,
             "skillsets": []
         },
         "73955917": {
-            "name": "november 2023",
+            "name": "Deep Forest",
             "difficulty": 0,
             "skillsets": []
         },
         "73249160": {
-            "name": "",
+            "name": "Phase 2",
             "difficulty": 0,
             "skillsets": []
         },
         "71764832": {
-            "name": "",
+            "name": "Deepvine Pass",
             "difficulty": 1,
             "skillsets": []
         },
         "11384178": {
-            "name": "",
+            "name": "ForestHell",
             "difficulty": 2,
             "skillsets": []
         },
         "11904920": {
-            "name": "",
+            "name": "El Dorado",
             "difficulty": 3,
             "skillsets": []
         },
         "91326232": {
-            "name": "december 2023",
+            "name": "Snow Pack",
             "difficulty": 0,
             "skillsets": []
         },
         "89379796": {
-            "name": "",
+            "name": "Yellow Snow",
             "difficulty": 0,
             "skillsets": []
         },
         "1963422": {
-            "name": "",
+            "name": "Frozen Palace",
             "difficulty": 1,
             "skillsets": []
         },
         "62434757": {
-            "name": "",
+            "name": "Absolute Zero",
             "difficulty": 2,
             "skillsets": []
         },
         "88017017": {
-            "name": "",
+            "name": "Snowdrift",
             "difficulty": 5,
             "skillsets": []
         },
         "57577028": {
-            "name": "january 2024",
+            "name": "Starlit Realm",
             "difficulty": 0,
             "skillsets": []
         },
         "8839598": {
-            "name": "",
+            "name": "Lunar Dream",
             "difficulty": 1,
             "skillsets": []
         },
         "94591772": {
-            "name": "",
+            "name": "Nomostros Cosmos",
             "difficulty": 2,
             "skillsets": []
         },
         "92111845": {
-            "name": "",
+            "name": "One North",
             "difficulty": 3,
             "skillsets": []
         },
         "90197147": {
-            "name": "",
+            "name": "niflhel",
             "difficulty": 5,
             "skillsets": []
         },
         "60281192": {
-            "name": "february 2024",
+            "name": "Miss You",
             "difficulty": 0,
             "skillsets": []
         },
         "72305371": {
-            "name": "",
+            "name": "red velvet corridor",
             "difficulty": 0,
             "skillsets": []
         },
         "45231312": {
-            "name": "",
+            "name": "Love",
             "difficulty": 1,
             "skillsets": []
         },
         "80153698": {
-            "name": "",
+            "name": "Love Hurts",
             "difficulty": 2,
             "skillsets": []
         },
         "91904126": {
-            "name": "",
+            "name": "Love Syndrome",
             "difficulty": 3,
             "skillsets": []
         },
         "95757926": {
-            "name": "",
+            "name": "Cupid",
             "difficulty": 5,
             "skillsets": []
         },
         "96978035": {
-            "name": "march 2024",
+            "name": "OXIDIZE",
             "difficulty": 0,
             "skillsets": []
         },
         "80754589": {
-            "name": "",
+            "name": "Mass Production",
             "difficulty": 0,
             "skillsets": []
         },
         "66521174": {
-            "name": "",
+            "name": "old rust dont dry",
             "difficulty": 1,
             "skillsets": []
         },
         "5748587": {
-            "name": "",
+            "name": "Steampunk",
             "difficulty": 2,
             "skillsets": []
         },
         "84265500": {
-            "name": "",
+            "name": "The  Place",
             "difficulty": 3,
             "skillsets": []
         },
         "83434": {
-            "name": "monthly april 2024",
+            "name": "69 Machine",
             "difficulty": 0,
             "skillsets": []
         },
         "1655600": {
-            "name": "",
+            "name": "Stereo Whiteness",
             "difficulty": 0,
             "skillsets": []
         },
         "92417063": {
-            "name": "",
+            "name": "PRINTER NOISES",
             "difficulty": 1,
             "skillsets": []
         },
         "14024143": {
-            "name": "",
+            "name": "MoonStone",
             "difficulty": 2,
             "skillsets": []
         },
         "14868153": {
-            "name": "",
+            "name": "the blood room",
             "difficulty": 3,
             "skillsets": []
         },
         "79054135": {
-            "name": "",
+            "name": "Barbaros Finale",
             "difficulty": 6,
             "skillsets": []
         },
