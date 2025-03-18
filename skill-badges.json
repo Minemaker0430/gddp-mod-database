@@ -153,186 +153,186 @@
         "display-name": "Momentum",
         "type": "platformer",
         "description": "This level utilizes momentum mechanics.\n\n(Platformer Only)",
-        "sprite": "DP_Skill_Unknown"
+        "sprite": "DP_Skill_Momentum"
     },
     "sp-best-level": {
         "display-name": "Best Level in the Game",
         "type": "special",
         "description": "TrusTa gave \"hell and heaven\" this award.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_BestLevel"
     },
     "sp-spam": {
         "display-name": "Spam",
         "type": "special",
         "description": "I hope you have your warranty still.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Spam"
     },
     "sp-small": {
         "display-name": "Small gamemode",
         "type": "special",
         "description": "smol",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Small"
     },
     "sp-big": {
         "display-name": "Big gamemode",
         "type": "special",
         "description": "BEEG",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Big"
     },
     "sp-unique": {
         "display-name": "Unique Gameplay",
         "type": "special",
         "description": "This level has very interesting and gimmicky gameplay.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Unique"
     },
     "sp-jedwint": {
         "display-name": "Jedwint",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Jedwint.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Jedwint"
     },
     "sp-emerald1": {
         "display-name": "Emerald1",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Emerald1.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Emerald1"
     },
     "sp-cyclo": {
         "display-name": "Cyclo",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Cyclo.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Cyclo"
     },
     "sp-tenu": {
         "display-name": "Tenu",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Tenu.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Tenu"
     },
     "sp-smilebullet": {
         "display-name": "SmileBullet",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by SmileBullet.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Smilebullet"
     },
     "sp-jacher": {
         "display-name": "Jacher",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Jacher.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-elohmrow": {
         "display-name": "ElohmroW",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by ElohmroW.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Elohmrow"
     },
     "sp-iron": {
         "display-name": "Iron",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Iron.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Iron"
     },
     "sp-cork": {
         "display-name": "Cork",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Cork.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Cork"
     },
     "sp-lia": {
         "display-name": "Lia",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Lia.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Lia"
     },
     "sp-krtar": {
         "display-name": "Krtar",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Krtar.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Krtar"
     },
     "sp-trusta": {
         "display-name": "Trusta",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Trusta.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Trusta"
     },
     "sp-floofiwan": {
         "display-name": "FloofiWan",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by FloofiWan.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-diogan": {
         "display-name": "Diogan",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Diogan.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-ka1sa": {
         "display-name": "Ka1sa",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Ka1sa.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-haze": {
         "display-name": "Haze",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Haze.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-alza": {
         "display-name": "Alza",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Alza.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-croma": {
         "display-name": "Croma",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Croma.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-starfruit": {
         "display-name": "StarfruitGamer",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by StarfruitGamer.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Starfruit"
     },
     "sp-landet": {
         "display-name": "Landet",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Landet.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-tortur": {
         "display-name": "tortur",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by tortur.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-stephen": {
         "display-name": "StephenPlays",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by StephenPlays.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_GenericUser"
     },
     "sp-kria": {
         "display-name": "Kria",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Krtar and Lia. #Kria",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Kria"
     },
     "sp-minigame": {
         "display-name": "Minigame",
         "type": "special",
         "description": "This level is a \"Minigame\", or a level that qualifies as a small game inside of GD.",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Minigame"
     },
     "sp-michi": {
         "display-name": "/\\/\\/\\",
         "type": "special",
         "description": "Rest in Peace.\n\n<3",
-        "sprite": "DP_Skill_Special"
+        "sprite": "DP_Skill_Michigun"
     }
 }
