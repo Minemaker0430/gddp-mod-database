@@ -655,7 +655,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 18,
+    "database-version": 19,
     "level-data": {
         "65765662": {
             "name": "iS",
