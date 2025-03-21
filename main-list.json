@@ -655,7 +655,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 22,
+    "database-version": 23,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1169,19 +1169,19 @@
         },
         "70444933": {
             "name": "Collapse",
-            "difficulty": 1,
+            "difficulty": 0,
             "skillsets": ["timings"],
             "xp": {
-                "fastPaced": 1,
                 "chokepoints": 2,
-                "cps": 1,
                 "duals": 2,
-                "nerve": 2,
+                "fastPaced": 1,
+                "cps": 1,
                 "memory": 1,
-                "timings": 3,
+                "nerve": 2,
                 "ship": 1,
-                "wave": 2,
-                "swing": 0
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
             }
         },
         "74449": {
