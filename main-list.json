@@ -762,19 +762,7 @@
         "27143567": {
             "name": "Voyager",
             "difficulty": 0,
-            "skillsets": ["overall"],
-            "xp": {
-                "fastPaced": {},
-                "duals": {},
-                "timings": {},
-                "wave": {},
-                "chokepoints": {},
-                "nerve": {},
-                "ship": {},
-                "cps": {},
-                "memory": {},
-                "swing": {}
-            }
+            "skillsets": ["overall"]
         },
         "103574402": {
             "name": "NTTE",
