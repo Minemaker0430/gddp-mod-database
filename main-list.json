@@ -764,16 +764,16 @@
             "difficulty": 0,
             "skillsets": ["overall"],
             "xp": {
-                "fastPaced": 2,
-                "duals": 2,
-                "timings": 1,
-                "wave": 0,
-                "chokepoints": 1,
-                "nerve": 1,
-                "ship": 2,
-                "cps": 1,
-                "memory": 1,
-                "swing": 0
+                "fastPaced": {},
+                "duals": {},
+                "timings": {},
+                "wave": {},
+                "chokepoints": {},
+                "nerve": {},
+                "ship": {},
+                "cps": {},
+                "memory": {},
+                "swing": {}
             }
         },
         "103574402": {
