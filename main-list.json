@@ -655,7 +655,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 24,
+    "database-version": 25,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1206,16 +1206,16 @@
             "difficulty": 1,
             "skillsets": ["timings", "fast-paced"],
             "xp": {
-                "nerve": 1,
-                "chokepoints": 2,
-                "duals": 2,
-                "timings": 2,
-                "cps": 1,
-                "wave": 1,
-                "fastPaced": 2,
-                "memory": 2,
-                "ship": 1,
-                "swing": 0
+                "chokepoints": 0,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 0,
+                "memory": 0,
+                "nerve": 0,
+                "ship": 0,
+                "swing": 0,
+                "timings": 0,
+                "wave": 0
             }
         },
         "77492867": {
@@ -1274,16 +1274,16 @@
             "difficulty": 1,
             "skillsets": ["memory"],
             "xp": {
-                "wave": 2,
-                "fastPaced": 2,
-                "ship": 2,
-                "memory": 3,
-                "duals": 2,
+                "chokepoints": 0,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 0,
+                "memory": 0,
                 "nerve": 0,
-                "timings": 2,
-                "cps": 2,
-                "chokepoints": 2,
-                "swing": 0
+                "ship": 0,
+                "swing": 0,
+                "timings": 0,
+                "wave": 0
             }
         },
         "77614559": {
@@ -1886,16 +1886,16 @@
             "difficulty": 2,
             "skillsets": ["duals"],
             "xp": {
-                "memory": 3,
-                "duals": 3,
-                "ship": 2,
-                "cps": 1,
-                "timings": 1,
-                "fastPaced": 2,
-                "wave": 2,
-                "chokepoints": 1,
-                "nerve": 1,
-                "swing": 0
+                "chokepoints": 0,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 0,
+                "memory": 0,
+                "nerve": 0,
+                "ship": 0,
+                "swing": 0,
+                "timings": 0,
+                "wave": 0
             }
         },
         "79862130": {
