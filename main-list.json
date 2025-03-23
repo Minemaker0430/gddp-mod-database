@@ -1204,19 +1204,7 @@
         "62378908": {
             "name": "Section",
             "difficulty": 1,
-            "skillsets": ["timings", "fast-paced"],
-            "xp": {
-                "chokepoints": 0,
-                "duals": 0,
-                "fastPaced": 0,
-                "cps": 0,
-                "memory": 0,
-                "nerve": 0,
-                "ship": 0,
-                "swing": 0,
-                "timings": 0,
-                "wave": 0
-            }
+            "skillsets": ["timings", "fast-paced"]
         },
         "77492867": {
             "name": "COLOR CRUSHER",
@@ -1272,19 +1260,7 @@
         "4318253": {
             "name": "INSERT COIN",
             "difficulty": 1,
-            "skillsets": ["memory"],
-            "xp": {
-                "chokepoints": 0,
-                "duals": 0,
-                "fastPaced": 0,
-                "cps": 0,
-                "memory": 0,
-                "nerve": 0,
-                "ship": 0,
-                "swing": 0,
-                "timings": 0,
-                "wave": 0
-            }
+            "skillsets": ["memory"]
         },
         "77614559": {
             "name": "red dart",
@@ -1884,19 +1860,7 @@
         "82015235": {
             "name": "Lightning Speed",
             "difficulty": 2,
-            "skillsets": ["duals"],
-            "xp": {
-                "chokepoints": 0,
-                "duals": 0,
-                "fastPaced": 0,
-                "cps": 0,
-                "memory": 0,
-                "nerve": 0,
-                "ship": 0,
-                "swing": 0,
-                "timings": 0,
-                "wave": 0
-            }
+            "skillsets": ["duals"]
         },
         "79862130": {
             "name": "Mehdi",
