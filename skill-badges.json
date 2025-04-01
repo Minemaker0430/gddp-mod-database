@@ -338,7 +338,7 @@
     "plat-gimmicky": {
         "display-name": "Gimmicky",
         "type": "platformer",
-        "description": "This level contains some gimmicky mechanics.\\n\\n(Platformer Only)",
+        "description": "This level contains some gimmicky mechanics.\n\n(Platformer Only)",
         "sprite": "DP_Skill_Unknown"
     }
 }
