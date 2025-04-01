@@ -6,6 +6,7 @@
         "plusSprite": "DP_BeginnerPlus",
         "saveID": "beginner",
         "levelIDs": [65765662, 3543219, 63087691, 77132030, 78797905, 80433444, 107791691, 98071844, 105383537, 76821414, 7116121, 106696944, 103574402, 75603568, 17235008, 76799716, 38514054, 76564776, 62067918, 8660411, 68061608, 86012792, 104151099, 3081555, 15619194, 2997354, 27912428, 81742215, 70444933, 77428474],
+        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 110233334, 0, 0, 0, 0, 0, 0, 0],
         "reqLevels": 13
     }, {
         "name": "Bronze",
@@ -389,6 +390,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "Red Herring Pack",
+        "description": "You'd be a fool if you think this is another Staff Pack. (GDDP Monthly Pack for April 2025)",
+        "sprite": "DP_April",
+        "month": 4,
+        "year": 2025,
+        "levelIDs": [88938066, 106226014, 26960030, 94623556, 87932531, 84354027]
+    }, {
         "name": "Video Game Pack",
         "description": "GD is a little boring, so here are six other games for you to play instead :) (GDDP Monthly Pack for March 2025)",
         "sprite": "DP_March",
@@ -655,7 +663,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 28,
+    "database-version": 30,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -8793,6 +8801,36 @@
                 "timings": 2,
                 "wave": 2
             }
+        },
+        "88938066": {
+            "name": "Vapor",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "106226014": {
+            "name": "UPPIES",
+            "difficulty": 0,
+            "skillsets": ["plat-gimmicky"]
+        },
+        "26960030": {
+            "name": "Nemesis",
+            "difficulty": 1,
+            "skillsets": ["learny"]
+        },
+        "94623556": {
+            "name": "Skittles",
+            "difficulty": 2,
+            "skillsets": ["overall"]
+        },
+        "87932531": {
+            "name": "Fool Moon Paranoid",
+            "difficulty": 3,
+            "skillsets": ["learny"]
+        },
+        "84354027": {
+            "name": "Decay",
+            "difficulty": 5,
+            "skillsets": ["timings"]
         }
     }
 }
