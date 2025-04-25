@@ -129,7 +129,7 @@
         "sprite": "DP_Azurite",
         "plusSprite": "DP_AzuritePlus",
         "saveID": "azurite",
-        "levelIDs": [89496627, 112313819, 101140159, 69135570, 86407629, 73902225, 66422816],
+        "levelIDs": [89496627, 112313819, 114283297, 116174063, 86407629],
         "practiceIDs": [],
         "reqLevels": 1
     }, {
@@ -138,7 +138,8 @@
         "sprite": "DP_Obsidian",
         "plusSprite": "DP_ObsidianPlus",
         "saveID": "obsidian",
-        "levelIDs": [85176381, 66424234, 77049802, 78614226],
+        "levelIDs": [73902225, 85176381, 66424234, 77049802, 78614226],
+        "practiceIDs": [],
         "reqLevels": 1
     }],
     "legacy": [{
@@ -691,7 +692,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 40,
+    "database-version": 41,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -6078,40 +6079,6 @@
                 "wave": 3
             }
         },
-        "101140159": {
-            "name": "Malediction",
-            "difficulty": 14,
-            "skillsets": ["overall"],
-            "xp": {
-                "cps": 2,
-                "ship": 2,
-                "duals": 0,
-                "wave": 2,
-                "fastPaced": 2,
-                "nerve": 1,
-                "memory": 2,
-                "chokepoints": 1,
-                "timings": 3,
-                "swing": 0
-            }
-        },
-        "69135570": {
-            "name": "Call of the Void",
-            "difficulty": 14,
-            "skillsets": ["ship", "wave"],
-            "xp": {
-                "cps": 2,
-                "duals": 0,
-                "chokepoints": 1,
-                "timings": 2,
-                "memory": 1,
-                "wave": 3,
-                "nerve": 1,
-                "fastPaced": 2,
-                "ship": 3,
-                "swing": 0
-            }
-        },
         "86407629": {
             "name": "Tidal Wave",
             "difficulty": 14,
@@ -6131,36 +6098,19 @@
         },
         "73902225": {
             "name": "Doom Fractal",
-            "difficulty": 14,
+            "difficulty": 15,
             "skillsets": ["overall"],
             "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 2,
                 "nerve": 3,
                 "ship": 2,
-                "chokepoints": 2,
-                "cps": 1,
+                "swing": 0,
                 "timings": 3,
-                "memory": 2,
-                "wave": 0,
-                "fastPaced": 1,
-                "duals": 0,
-                "swing": 0
-            }
-        },
-        "66422816": {
-            "name": "Subsuming Vortex",
-            "difficulty": 14,
-            "skillsets": ["wave"],
-            "xp": {
-                "nerve": 2,
-                "chokepoints": 2,
-                "fastPaced": 3,
-                "duals": 1,
-                "cps": 2,
-                "memory": 1,
-                "ship": 1,
-                "timings": 2,
-                "wave": 3,
-                "swing": 0
+                "wave": 0
             }
         },
         "85176381": {
@@ -9378,6 +9328,40 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
+            }
+        },
+        "114283297": {
+            "name": "andromeda",
+            "difficulty": 14,
+            "skillsets": ["fast-paced"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "116174063": {
+            "name": "Every End",
+            "difficulty": 14,
+            "skillsets": ["nerve-control", "timings"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 0,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 0,
+                "swing": 0,
+                "timings": 3,
+                "wave": 0
             }
         }
     }
