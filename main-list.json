@@ -419,6 +419,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Supreme Intelligence Pack",
+        "description": "it's maymory we will force you to beat memory demons again OKAY THANKS BYE (GDDP Monthly Pack for May 2025)",
+        "sprite": "DP_May",
+        "month": 5,
+        "year": 2025,
+        "levelIDs": [102712977, 112770258, 108076646, 85143676, 90852190, 109513812]
+    }, {
         "name": "Red Herring Pack",
         "description": "You'd be a fool if you think this is another Staff Pack. (GDDP Monthly Pack for April 2025)",
         "sprite": "DP_April",
@@ -692,7 +699,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 41,
+    "database-version": 42,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9363,6 +9370,36 @@
                 "timings": 3,
                 "wave": 0
             }
+        },
+        "102712977": {
+            "name": "In Visible",
+            "difficulty": 0,
+            "skillsets": ["memory"]
+        },
+        "112770258": {
+            "name": "experiment",
+            "difficulty": 0,
+            "skillsets": ["learny"]
+        },
+        "108076646": {
+            "name": "Ancient Codex",
+            "difficulty": 1,
+            "skillsets": ["memory", "timings"]
+        },
+        "85143676": {
+            "name": "Mechanical RootS",
+            "difficulty": 2,
+            "skillsets": ["memory", "timings"]
+        },
+        "90852190": {
+            "name": "weaves of origin",
+            "difficulty": 4,
+            "skillsets": ["memory"]
+        },
+        "109513812": {
+            "name": "HeatSeeker",
+            "difficulty": 5,
+            "skillsets": ["memory", "duals"]
         }
     }
 }
