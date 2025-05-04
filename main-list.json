@@ -5,8 +5,8 @@
         "sprite": "DP_Beginner",
         "plusSprite": "DP_BeginnerPlus",
         "saveID": "beginner",
-        "levelIDs": [65765662, 3543219, 63087691, 77132030, 78797905, 80433444, 107791691, 98071844, 105383537, 76821414, 7116121, 106696944, 103574402, 75603568, 17235008, 76799716, 38514054, 76564776, 62067918, 8660411, 68061608, 86012792, 104151099, 3081555, 15619194, 2997354, 27912428, 81742215, 70444933, 77428474],
-        "practiceIDs": [89978843, 89978848, 89979607, 102989236, 102991961, 89979768, 110234227, 110233843, 0, 90003237, 89984498, 114139709, 110234080, 89980770, 89981888, 89980854, 89981892, 103025222, 103025524, 89984497, 89979992, 103030063, 110233334, 89984500, 89984504, 89984507, 89984978, 94382515, 90018885, 103034821],
+        "levelIDs": [65765662, 3543219, 63087691, 9864147, 80433444, 105383537, 7116121, 106696944, 103574402, 75603568, 17235008, 76799716, 38514054, 76564776, 96973689, 62067918, 8660411, 116591597, 68061608, 98564977, 86012792, 104151099, 15619194, 114703942, 2997354, 27912428, 81742215, 70444933, 77428474, 72810041],
+        "practiceIDs": [89978843, 89978848, 89979607, 0, 89979768, 0, 89984498, 114139709, 110234080, 89980770, 89981888, 89980854, 89981892, 103025222, 0, 103025524, 89984497, 0, 89979992, 0, 103030063, 110233334, 89984504, 0, 89984507, 89984978, 94382515, 90018885, 103034821, 0],
         "reqLevels": 13
     }, {
         "name": "Bronze",
@@ -148,8 +148,8 @@
         "sprite": "DP_Beginner",
         "plusSprite": "DP_BeginnerPlus",
         "saveID": "legacy-beginner",
-        "levelIDs": [27143567, 86880648, 67904095, 58356766, 59331033, 72184562, 97557638, 97557632, 57307363, 56587109, 68337412, 33244195, 11317271, 74735688, 5439175, 61357205],
-        "practiceIDs": [89980772, 102995693, 89981894, 89981890, 0, 89980779, 89979933, 89979610, 89979223, 89979028, 89980769, 90002221, 90002229, 90002246, 90002249, 90002254],
+        "levelIDs": [78797905, 98071844, 107791691, 76821414, 3081555, 77132030, 27143567, 86880648, 67904095, 58356766, 59331033, 72184562, 97557638, 97557632, 57307363, 56587109, 68337412, 33244195, 11317271, 74735688, 5439175, 61357205],
+        "practiceIDs": [0, 0, 0, 0, 0, 0, 89980772, 102995693, 89981894, 89981890, 0, 89980779, 89979933, 89979610, 89979223, 89979028, 89980769, 90002221, 90002229, 90002246, 90002249, 90002254],
         "mainPack": 0
     }, {
         "name": "Legacy Bronze",
@@ -699,7 +699,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 43,
+    "database-version": 44,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -755,19 +755,7 @@
         "77132030": {
             "name": "Ratio Circles",
             "difficulty": 0,
-            "skillsets": ["wave"],
-            "xp": {
-                "wave": 3,
-                "duals": 0,
-                "nerve": 1,
-                "ship": 1,
-                "chokepoints": 1,
-                "fastPaced": 2,
-                "memory": 1,
-                "cps": 2,
-                "timings": 1,
-                "swing": 0
-            }
+            "skillsets": ["wave"]
         },
         "80433444": {
             "name": "MAYMORY",
@@ -789,19 +777,7 @@
         "98071844": {
             "name": "Star Road",
             "difficulty": 0,
-            "skillsets": ["learny"],
-            "xp": {
-                "ship": 1,
-                "wave": 1,
-                "chokepoints": 2,
-                "duals": 1,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 1,
-                "fastPaced": 2,
-                "memory": 2,
-                "swing": 1
-            }
+            "skillsets": ["learny"]
         },
         "27143567": {
             "name": "Voyager",
@@ -828,36 +804,12 @@
         "78797905": {
             "name": "anasthasia",
             "difficulty": 0,
-            "skillsets": ["fast-paced"],
-            "xp": {
-                "timings": 2,
-                "memory": 1,
-                "fastPaced": 3,
-                "duals": 0,
-                "wave": 1,
-                "nerve": 2,
-                "chokepoints": 1,
-                "ship": 1,
-                "cps": 1,
-                "swing": 0
-            }
+            "skillsets": ["fast-paced"]
         },
         "76821414": {
             "name": "Zircon",
             "difficulty": 0,
-            "skillsets": ["overall"],
-            "xp": {
-                "duals": 0,
-                "cps": 1,
-                "wave": 2,
-                "chokepoints": 2,
-                "memory": 2,
-                "ship": 1,
-                "timings": 1,
-                "nerve": 1,
-                "fastPaced": 2,
-                "swing": 0
-            }
+            "skillsets": ["overall"]
         },
         "7116121": {
             "name": "Problematic",
@@ -930,19 +882,7 @@
         "107791691": {
             "name": "Raven",
             "difficulty": 0,
-            "skillsets": ["fast-paced"],
-            "xp": {
-                "ship": 1,
-                "wave": 2,
-                "chokepoints": 2,
-                "duals": 1,
-                "cps": 2,
-                "timings": 2,
-                "nerve": 1,
-                "fastPaced": 3,
-                "memory": 2,
-                "swing": 0
-            }
+            "skillsets": ["fast-paced"]
         },
         "76799716": {
             "name": "Virtualization",
@@ -1100,19 +1040,7 @@
         "3081555": {
             "name": "Chaoz Impact",
             "difficulty": 0,
-            "skillsets": ["overall"],
-            "xp": {
-                "nerve": 2,
-                "chokepoints": 2,
-                "duals": 2,
-                "wave": 2,
-                "timings": 2,
-                "cps": 1,
-                "ship": 1,
-                "fastPaced": 2,
-                "memory": 2,
-                "swing": 0
-            }
+            "skillsets": ["overall"]
         },
         "15619194": {
             "name": "Motion",
@@ -7021,7 +6949,19 @@
         "72810041": {
             "name": "ZXCircleS",
             "difficulty": 0,
-            "skillsets": ["sp-emerald1"]
+            "skillsets": ["wave", "sp-emerald1"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
         },
         "64697194": {
             "name": "Carne Aderunt",
@@ -9400,6 +9340,91 @@
             "name": "HeatSeeker",
             "difficulty": 5,
             "skillsets": ["memory", "duals"]
+        },
+        "9864147": {
+            "name": "Space Circles",
+            "difficulty": 0,
+            "skillsets": ["wave"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 1,
+                "wave": 3
+            }
+        },
+        "96973689": {
+            "name": "BITBLEXIT",
+            "difficulty": 0,
+            "skillsets": ["fast-paced", "high-cps"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
+        "116591597": {
+            "name": "Adrenaline Rush",
+            "difficulty": 0,
+            "skillsets": ["fast-paced", "learny"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 1,
+                "timings": 1,
+                "wave": 1
+            }
+        },
+        "98564977": {
+            "name": "Breakout",
+            "difficulty": 0,
+            "skillsets": ["overall"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 2,
+                "timings": 1,
+                "wave": 0
+            }
+        },
+        "114703942": {
+            "name": "Game Over",
+            "difficulty": 0,
+            "skillsets": ["flow"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 1,
+                "timings": 2,
+                "wave": 2
+            }
         }
     }
 }
