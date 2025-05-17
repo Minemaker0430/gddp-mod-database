@@ -699,7 +699,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 44,
+    "database-version": 45,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2029,18 +2029,18 @@
         "4957691": {
             "name": "Windy Landscape",
             "difficulty": 3,
-            "skillsets": ["overall"],
+            "skillsets": ["timings", "ship"],
             "xp": {
-                "wave": 1,
+                "chokepoints": 1,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 1,
                 "nerve": 2,
                 "ship": 2,
-                "fastPaced": 2,
+                "swing": 0,
                 "timings": 2,
-                "chokepoints": 1,
-                "cps": 1,
-                "duals": 3,
-                "memory": 1,
-                "swing": 0
+                "wave": 1
             }
         },
         "110711884": {
