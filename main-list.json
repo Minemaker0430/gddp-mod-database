@@ -252,7 +252,8 @@
         "sprite": "DP_Amethyst",
         "plusSprite": "DP_AmethystPlus",
         "saveID": "legacy-amethyst",
-        "levelIDs": [76962930, 73214186, 88216956, 67073198, 32568089, 48991380, 76802790],
+        "levelIDs": [76962930],
+        "practiceIDs": [],
         "mainPack": 13
     }],
     "bonus": [{
@@ -699,7 +700,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 48,
+    "database-version": 49,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -6771,35 +6772,10 @@
             "difficulty": 13,
             "skillsets": ["wave"]
         },
-        "73214186": {
-            "name": "Diabolic ClubStep",
-            "difficulty": 13,
-            "skillsets": ["timings"]
-        },
-        "88216956": {
-            "name": "True Innards",
-            "difficulty": 13,
-            "skillsets": ["timings", "nerve-control"]
-        },
-        "67073198": {
-            "name": "Forsaken Hell (Unnerfed)",
-            "difficulty": 13,
-            "skillsets": ["wave", "timings"]
-        },
         "32568089": {
             "name": "Eudemonic",
             "difficulty": 13,
             "skillsets": ["wave", "ship"]
-        },
-        "48991380": {
-            "name": "Maniacal Chains",
-            "difficulty": 13,
-            "skillsets": ["awkward"]
-        },
-        "76802790": {
-            "name": "Surface",
-            "difficulty": 13,
-            "skillsets": ["nerve-control"]
         },
         "6939821": {
             "name": "Jawbreaker",
