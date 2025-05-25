@@ -700,7 +700,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 49,
+    "database-version": 50,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -6772,11 +6772,6 @@
             "difficulty": 13,
             "skillsets": ["wave"]
         },
-        "32568089": {
-            "name": "Eudemonic",
-            "difficulty": 13,
-            "skillsets": ["wave", "ship"]
-        },
         "6939821": {
             "name": "Jawbreaker",
             "difficulty": 2,
@@ -9020,7 +9015,7 @@
             "difficulty": 10,
             "skillsets": ["overall"],
             "xp": {
-                "chokepoints": 2,
+                "chokepoints": 3,
                 "duals": 1,
                 "fastPaced": 2,
                 "cps": 1,
