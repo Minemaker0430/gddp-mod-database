@@ -138,8 +138,8 @@
         "sprite": "DP_Obsidian",
         "plusSprite": "DP_ObsidianPlus",
         "saveID": "obsidian",
-        "levelIDs": [73902225, 85176381, 66424234, 77049802, 78614226],
-        "practiceIDs": [],
+        "levelIDs": [111680151, 31325851, 102135018, 118059486, 92922586, 102646926, 73902225, 66424234, 77049802, 78614226],
+        "practiceIDs": [0, 0, 0, 0, 0, 0],
         "reqLevels": 1
     }],
     "legacy": [{
@@ -700,7 +700,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 50,
+    "database-version": 52,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -6049,23 +6049,6 @@
                 "wave": 0
             }
         },
-        "85176381": {
-            "name": "Natural Disaster (Unnerfed)",
-            "difficulty": 15,
-            "skillsets": ["wave", "ship"],
-            "xp": {
-                "timings": 2,
-                "chokepoints": 2,
-                "nerve": 2,
-                "cps": 1,
-                "fastPaced": 1,
-                "memory": 1,
-                "duals": 0,
-                "wave": 3,
-                "ship": 3,
-                "swing": 0
-            }
-        },
         "66424234": {
             "name": "Dystopia",
             "difficulty": 15,
@@ -9395,6 +9378,108 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 2
+            }
+        },
+        "102646926": {
+            "name": "Aeternus",
+            "difficulty": 15,
+            "skillsets": ["ship", "wave"],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 1,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "92922586": {
+            "name": "howconfusingisthelvl",
+            "difficulty": 15,
+            "skillsets": ["memory"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 2,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            }
+        },
+        "111680151": {
+            "name": "FAIRY KNIFE HELL",
+            "difficulty": 15,
+            "skillsets": ["fast-paced", "high-cps"],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 2,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 3,
+                "timings": 2,
+                "wave": 2
+            }
+        },
+        "118059486": {
+            "name": "WORLD RENDER",
+            "difficulty": 15,
+            "skillsets": ["ship", "nerve-control"],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 1,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 3,
+                "ship": 3,
+                "swing": 1,
+                "timings": 3,
+                "wave": 2
+            }
+        },
+        "31325851": {
+            "name": "Exasperation",
+            "difficulty": 15,
+            "skillsets": ["timings", "nerve-control"],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 1,
+                "fastPaced": 1,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 1,
+                "timings": 3,
+                "wave": 3
+            }
+        },
+        "102135018": {
+            "name": "ANGELICIDE",
+            "difficulty": 15,
+            "skillsets": ["high-cps", "wave", "duals"],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 3,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             }
         }
     }
