@@ -420,6 +420,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Confession Pack",
+        "description": "It's pride month yet again! Here's a story of gay love that probably relates to someone out there. (GDDP Monthly Pack for June 2025)",
+        "sprite": "DP_June",
+        "month": 6,
+        "year": 2025,
+        "levelIDs": [89406811, 91281165, 87451648, 97051551, 79144750, 113464561]
+    }, {
         "name": "The Supreme Intelligence Pack",
         "description": "it's maymory we will force you to beat memory demons again OKAY THANKS BYE (GDDP Monthly Pack for May 2025)",
         "sprite": "DP_May",
@@ -700,7 +707,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 53,
+    "database-version": 54,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9481,6 +9488,36 @@
                 "timings": 2,
                 "wave": 3
             }
+        },
+        "113464561": {
+            "name": "Lovers Sadness",
+            "difficulty": 6,
+            "skillsets": ["duals", "nerve-control"]
+        },
+        "79144750": {
+            "name": "I Wanna Tell Ya",
+            "difficulty": 3,
+            "skillsets": ["overall"]
+        },
+        "97051551": {
+            "name": "iloveyou",
+            "difficulty": 2,
+            "skillsets": ["high-cps", "wave"]
+        },
+        "87451648": {
+            "name": "My heart is beating",
+            "difficulty": 1,
+            "skillsets": ["timings"]
+        },
+        "91281165": {
+            "name": "Not My Style",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "89406811": {
+            "name": "I feel colorous",
+            "difficulty": 0,
+            "skillsets": ["timings", "wave"]
         }
     }
 }
