@@ -50,7 +50,8 @@
         "sprite": "DP_Platinum",
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "platinum",
-        "levelIDs": [61079355, 3979721, 85933508, 63775846, 60708767, 20761188, 52527538, 92782493, 93549959, 83801688, 71728635, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 38550757, 63433024, 18697406, 73005068, 60726930, 88940074, 65633532, 84766628],
+        "levelIDs": [61079355, 3979721, 85933508, 102352215, 60708767, 66851981, 20761188, 92782493, 93549959, 83801688, 71728635, 108558924, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 38550757, 63433024, 18697406, 73005068, 88940074, 65633532, 84766628],
+        "practiceIDs": [],
         "reqLevels": 8
     }, {
         "name": "Sapphire",
@@ -58,8 +59,8 @@
         "sprite": "DP_Sapphire",
         "plusSprite": "DP_SapphirePlus",
         "saveID": "sapphire",
-        "levelIDs": [83570278, 84829178, 30194711, 82148336, 83357887, 33748382, 57390806, 83340498, 54588072, 81281891, 63354496, 92245045, 59899374, 68848817, 64148732, 70252932, 10565740, 23262780, 57520174, 61132346, 70406732, 68193306, 59933468, 35448603, 19759411],
-        "practiceIDs": [107029613, 115309976, 95857581, 96276280, 95824666, 96009939, 96010024, 107036207, 95855967, 96276330, 96276916, 115310556, 95857495, 95411239, 95855930, 96276906, 95411135, 95411281, 0, 95411177, 96276268, 96009959, 96010004, 95855914, 95857494],
+        "levelIDs": [83570278, 84829178, 30194711, 82148336, 83357887, 33748382, 57390806, 83340498, 54588072, 48175126, 81281891, 92245045, 59899374, 68848817, 64148732, 70252932, 10565740, 23262780, 57520174, 61132346, 70406732, 68193306, 59933468, 35448603, 19759411],
+        "practiceIDs": [107029613, 115309976, 95857581, 96276280, 95824666, 96009939, 96010024, 107036207, 95855967, 0, 96276330, 115310556, 95857495, 95411239, 95855930, 96276906, 95411135, 95411281, 0, 95411177, 96276268, 96009959, 96010004, 95855914, 95857494],
         "reqLevels": 7
     }, {
         "name": "Jade",
@@ -113,7 +114,6 @@
         "plusSprite": "DP_OnyxPlus",
         "saveID": "onyx",
         "levelIDs": [58673581, 110913375, 99495619, 71434979, 79771070, 88442157, 75286957, 95176417, 93917362, 76543324, 107741051, 60978746, 71025973, 59075347, 109947627, 93339534, 72315402, 96083028, 113220284, 113256247, 95998005, 110500920, 96314787, 89187968, 81139702],
-        "practiceIDs": [],
         "reqLevels": 3
     }, {
         "name": "Amethyst",
@@ -129,7 +129,7 @@
         "sprite": "DP_Azurite",
         "plusSprite": "DP_AzuritePlus",
         "saveID": "azurite",
-        "levelIDs": [89496627, 112313819, 114283297, 116174063, 86407629],
+        "levelIDs": [89496627, 112313819, 114283297, 116174063, 86407629, 119550490],
         "practiceIDs": [],
         "reqLevels": 1
     }, {
@@ -139,7 +139,6 @@
         "plusSprite": "DP_ObsidianPlus",
         "saveID": "obsidian",
         "levelIDs": [111680151, 31325851, 78614226, 73902225, 66424234, 77049802, 102135018, 118059486, 92922586, 102646926],
-        "practiceIDs": [],
         "reqLevels": 1
     }],
     "legacy": [{
@@ -192,7 +191,8 @@
         "sprite": "DP_Platinum",
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "legacy-platinum",
-        "levelIDs": [87481937, 69459902, 36449129, 64239577, 39458641, 78831233, 30219145, 60197839, 32688321, 48454650, 76196489, 51393047, 62809982, 75518661, 7174110, 34379100, 32920197, 60480035, 48020496],
+        "levelIDs": [60726930, 63775846, 52527538, 87481937, 69459902, 36449129, 64239577, 39458641, 78831233, 30219145, 60197839, 32688321, 48454650, 76196489, 51393047, 62809982, 75518661, 7174110, 34379100, 32920197, 60480035, 48020496],
+        "practiceIDs": [],
         "mainPack": 5
     }, {
         "name": "Legacy Sapphire",
@@ -200,7 +200,8 @@
         "sprite": "DP_Sapphire",
         "plusSprite": "DP_SapphirePlus",
         "saveID": "legacy-sapphire",
-        "levelIDs": [90597607, 66858272, 57559425, 62551239, 20077821, 60257058],
+        "levelIDs": [63354496, 90597607, 66858272, 57559425, 62551239, 20077821, 60257058],
+        "practiceIDs": [],
         "mainPack": 6
     }, {
         "name": "Legacy Jade",
@@ -253,7 +254,6 @@
         "plusSprite": "DP_AmethystPlus",
         "saveID": "legacy-amethyst",
         "levelIDs": [76962930],
-        "practiceIDs": [],
         "mainPack": 13
     }],
     "bonus": [{
@@ -707,7 +707,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 54,
+    "database-version": 55,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2938,19 +2938,7 @@
         "63775846": {
             "name": "Forbidden Isle",
             "difficulty": 5,
-            "skillsets": ["timings", "wave"],
-            "xp": {
-                "duals": 1,
-                "ship": 2,
-                "nerve": 1,
-                "chokepoints": 2,
-                "memory": 1,
-                "fastPaced": 2,
-                "timings": 2,
-                "wave": 2,
-                "cps": 2,
-                "swing": 0
-            }
+            "skillsets": ["timings", "wave"]
         },
         "60708767": {
             "name": "Misty Mountains",
@@ -2989,19 +2977,7 @@
         "52527538": {
             "name": "MELTDOWN",
             "difficulty": 5,
-            "skillsets": ["overall"],
-            "xp": {
-                "chokepoints": 2,
-                "ship": 3,
-                "duals": 1,
-                "wave": 2,
-                "memory": 2,
-                "fastPaced": 2,
-                "nerve": 1,
-                "timings": 2,
-                "cps": 2,
-                "swing": 0
-            }
+            "skillsets": ["overall"]
         },
         "92782493": {
             "name": "BLACKLIGHTS",
@@ -3278,19 +3254,7 @@
         "60726930": {
             "name": "Daydream",
             "difficulty": 5,
-            "skillsets": ["fast-paced"],
-            "xp": {
-                "memory": 0,
-                "wave": 2,
-                "duals": 1,
-                "nerve": 1,
-                "fastPaced": 3,
-                "timings": 2,
-                "ship": 3,
-                "cps": 2,
-                "chokepoints": 1,
-                "swing": 0
-            }
+            "skillsets": ["fast-paced"]
         },
         "84766628": {
             "name": "Cat Planet",
@@ -3465,19 +3429,7 @@
         "63354496": {
             "name": "Disentombed",
             "difficulty": 6,
-            "skillsets": ["nerve-control"],
-            "xp": {
-                "chokepoints": 2,
-                "duals": 1,
-                "nerve": 3,
-                "timings": 2,
-                "ship": 2,
-                "cps": 2,
-                "fastPaced": 2,
-                "wave": 1,
-                "memory": 2,
-                "swing": 0
-            }
+            "skillsets": ["nerve-control"]
         },
         "92245045": {
             "name": "Cluttered Confusion",
@@ -9518,6 +9470,91 @@
             "name": "I feel colorous",
             "difficulty": 0,
             "skillsets": ["timings", "wave"]
+        },
+        "102352215": {
+            "name": "Ion",
+            "difficulty": 5,
+            "skillsets": ["ship"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 2,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 1,
+                "wave": 1
+            }
+        },
+        "66851981": {
+            "name": "Redemption",
+            "difficulty": 5,
+            "skillsets": ["wave"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 1,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "108558924": {
+            "name": "Maths",
+            "difficulty": 5,
+            "skillsets": ["high-cps"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 1
+            }
+        },
+        "48175126": {
+            "name": "Idols",
+            "difficulty": 6,
+            "skillsets": ["nerve-control"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 2,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 3,
+                "swing": 2,
+                "timings": 1,
+                "wave": 1
+            }
+        },
+        "119550490": {
+            "name": "Amethyst",
+            "difficulty": 14,
+            "skillsets": ["wave", "ship"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
         }
     }
 }
