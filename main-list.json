@@ -707,7 +707,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 57,
+    "database-version": 58,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2734,7 +2734,7 @@
         "66133800": {
             "name": "Blaster",
             "difficulty": 4,
-            "skillsets": ["timings", "nerve-control"],
+            "skillsets": ["timings"],
             "xp": {
                 "chokepoints": 2,
                 "duals": 1,
