@@ -420,6 +420,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "Mathematics Pack",
+        "description": "Welcome back to summer school! Your final test is to beat this pack. :) (GDDP Monthly Pack for July 2025)",
+        "sprite": "DP_July",
+        "month": 7,
+        "year": 2025,
+        "levelIDs": [104555993, 90915378, 77723735, 94290040, 75199399, 88108583]
+    }, {
         "name": "The Confession Pack",
         "description": "It's pride month yet again! Here's a story of gay love that probably relates to someone out there. (GDDP Monthly Pack for June 2025)",
         "sprite": "DP_June",
@@ -707,7 +714,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 58,
+    "database-version": 59,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9555,6 +9562,36 @@
                 "timings": 2,
                 "wave": 3
             }
+        },
+        "88108583": {
+            "name": "MINIMUM",
+            "difficulty": 6,
+            "skillsets": ["timings", "awkward"]
+        },
+        "75199399": {
+            "name": "10HEX",
+            "difficulty": 3,
+            "skillsets": ["high-cps", "fast-paced"]
+        },
+        "94290040": {
+            "name": "Dfx",
+            "difficulty": 2,
+            "skillsets": ["timings", "learny"]
+        },
+        "77723735": {
+            "name": "163",
+            "difficulty": 1,
+            "skillsets": ["nerve-control"]
+        },
+        "90915378": {
+            "name": "zero",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "104555993": {
+            "name": "Variable",
+            "difficulty": 0,
+            "skillsets": ["fast-paced", "duals"]
         }
     }
 }
