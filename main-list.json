@@ -714,7 +714,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 59,
+    "database-version": 60,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -3008,16 +3008,16 @@
             "difficulty": 5,
             "skillsets": ["nerve-control"],
             "xp": {
-                "fastPaced": 3,
                 "chokepoints": 1,
-                "ship": 1,
-                "nerve": 3,
-                "timings": 3,
-                "wave": 3,
-                "cps": 1,
-                "memory": 2,
                 "duals": 3,
-                "swing": 0
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
             }
         },
         "83801688": {
