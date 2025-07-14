@@ -714,7 +714,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 60,
+    "database-version": 61,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -4514,16 +4514,16 @@
             "difficulty": 8,
             "skillsets": ["timings", "wave"],
             "xp": {
-                "nerve": 3,
-                "wave": 3,
-                "ship": 2,
-                "fastPaced": 3,
-                "duals": 3,
                 "chokepoints": 2,
-                "timings": 3,
+                "duals": 2,
+                "fastPaced": 3,
+                "cps": 2,
                 "memory": 1,
-                "cps": 3,
-                "swing": 0
+                "nerve": 3,
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
             }
         },
         "65969451": {
