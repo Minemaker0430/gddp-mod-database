@@ -50,7 +50,7 @@
         "sprite": "DP_Platinum",
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "platinum",
-        "levelIDs": [61079355, 3979721, 85933508, 102352215, 60708767, 66851981, 20761188, 92782493, 93549959, 83801688, 71728635, 108558924, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 38550757, 63433024, 18697406, 73005068, 88940074, 60726930, 84766628],
+        "levelIDs": [61079355, 93549959, 109513812, 102352215, 60708767, 66851981, 85933508, 3979721, 92782493, 20761188, 89201076, 108558924, 71728635, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 63433024, 18697406, 73005068, 60726930, 88940074, 75232616],
         "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "reqLevels": 8
     }, {
@@ -59,8 +59,8 @@
         "sprite": "DP_Sapphire",
         "plusSprite": "DP_SapphirePlus",
         "saveID": "sapphire",
-        "levelIDs": [83570278, 84829178, 30194711, 82148336, 83357887, 33748382, 57390806, 83340498, 54588072, 48175126, 81281891, 92245045, 59899374, 68848817, 64148732, 70252932, 10565740, 23262780, 57520174, 61132346, 70406732, 68193306, 59933468, 35448603, 19759411],
-        "practiceIDs": [107029613, 115309976, 95857581, 96276280, 95824666, 96009939, 96010024, 107036207, 95855967, 0, 96276330, 115310556, 95857495, 95411239, 95855930, 96276906, 95411135, 95411281, 0, 95411177, 96276268, 96009959, 96010004, 95855914, 95857494],
+        "levelIDs": [83570278, 84829178, 30194711, 82148336, 83357887, 33748382, 116401475, 83340498, 54588072, 48175126, 81281891, 92245045, 59899374, 68848817, 64148732, 70252932, 10565740, 102807047, 23262780, 57520174, 70406732, 68193306, 59933468, 35448603, 19759411],
+        "practiceIDs": [107029613, 115309976, 95857581, 96276280, 95824666, 96009939, 0, 107036207, 95855967, 0, 96276330, 115310556, 95857495, 95411239, 95855930, 96276906, 95411135, 0, 95411281, 0, 96276268, 96009959, 96010004, 95855914, 95857494],
         "reqLevels": 7
     }, {
         "name": "Jade",
@@ -192,8 +192,8 @@
         "sprite": "DP_Platinum",
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "legacy-platinum",
-        "levelIDs": [65633532, 63775846, 52527538, 87481937, 69459902, 36449129, 64239577, 39458641, 78831233, 30219145, 60197839, 32688321, 48454650, 76196489, 51393047, 62809982, 75518661, 7174110, 34379100, 32920197, 60480035, 48020496],
-        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "levelIDs": [84766628, 38550757, 83801688, 65633532, 63775846, 52527538, 87481937, 69459902, 36449129, 64239577, 39458641, 78831233, 30219145, 60197839, 32688321, 48454650, 76196489, 51393047, 62809982, 75518661, 7174110, 34379100, 32920197, 60480035, 48020496],
+        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "mainPack": 5
     }, {
         "name": "Legacy Sapphire",
@@ -201,8 +201,8 @@
         "sprite": "DP_Sapphire",
         "plusSprite": "DP_SapphirePlus",
         "saveID": "legacy-sapphire",
-        "levelIDs": [63354496, 90597607, 66858272, 57559425, 62551239, 20077821, 60257058],
-        "practiceIDs": [0, 0, 0, 0, 0, 0, 0],
+        "levelIDs": [61132346, 57390806, 63354496, 90597607, 66858272, 57559425, 62551239, 20077821, 60257058],
+        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0],
         "mainPack": 6
     }, {
         "name": "Legacy Jade",
@@ -715,7 +715,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 63,
+    "database-version": 66,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -3024,19 +3024,7 @@
         "83801688": {
             "name": "Miscellaneous Memory",
             "difficulty": 5,
-            "skillsets": ["memory"],
-            "xp": {
-                "wave": 1,
-                "fastPaced": 2,
-                "ship": 1,
-                "timings": 3,
-                "memory": 3,
-                "nerve": 3,
-                "chokepoints": 2,
-                "duals": 2,
-                "cps": 2,
-                "swing": 0
-            }
+            "skillsets": ["memory"]
         },
         "71728635": {
             "name": "Helios",
@@ -3160,19 +3148,7 @@
         "38550757": {
             "name": "Artificial Dream",
             "difficulty": 5,
-            "skillsets": ["flow", "timings"],
-            "xp": {
-                "duals": 2,
-                "memory": 2,
-                "chokepoints": 2,
-                "fastPaced": 2,
-                "ship": 2,
-                "timings": 3,
-                "nerve": 1,
-                "cps": 2,
-                "wave": 2,
-                "swing": 0
-            }
+            "skillsets": ["flow", "timings"]
         },
         "63433024": {
             "name": "reverence",
@@ -3267,19 +3243,7 @@
         "84766628": {
             "name": "Cat Planet",
             "difficulty": 5,
-            "skillsets": ["wave"],
-            "xp": {
-                "ship": 1,
-                "wave": 3,
-                "duals": 1,
-                "fastPaced": 2,
-                "cps": 2,
-                "chokepoints": 3,
-                "timings": 1,
-                "nerve": 2,
-                "memory": 2,
-                "swing": 0
-            }
+            "skillsets": ["wave"]
         },
         "83570278": {
             "name": "Totem",
@@ -3386,19 +3350,7 @@
         "57390806": {
             "name": "Digital Disarray",
             "difficulty": 6,
-            "skillsets": ["nerve-control"],
-            "xp": {
-                "wave": 2,
-                "duals": 1,
-                "fastPaced": 2,
-                "memory": 1,
-                "ship": 2,
-                "cps": 2,
-                "nerve": 2,
-                "timings": 3,
-                "chokepoints": 2,
-                "swing": 0
-            }
+            "skillsets": ["nerve-control"]
         },
         "54588072": {
             "name": "INNARDS",
@@ -3578,19 +3530,7 @@
         "61132346": {
             "name": "Hateful Reflection",
             "difficulty": 6,
-            "skillsets": ["wave"],
-            "xp": {
-                "duals": 1,
-                "fastPaced": 3,
-                "nerve": 1,
-                "cps": 1,
-                "chokepoints": 2,
-                "ship": 1,
-                "memory": 1,
-                "wave": 3,
-                "timings": 2,
-                "swing": 0
-            }
+            "skillsets": ["wave"]
         },
         "70406732": {
             "name": "Anahita",
@@ -9260,7 +9200,19 @@
         "109513812": {
             "name": "HeatSeeker",
             "difficulty": 5,
-            "skillsets": ["memory", "duals"]
+            "skillsets": ["memory"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 2,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
         },
         "9864147": {
             "name": "Space Circles",
@@ -9593,6 +9545,74 @@
             "name": "Variable",
             "difficulty": 0,
             "skillsets": ["fast-paced", "duals"]
+        },
+        "89201076": {
+            "name": "Dismal Duststorm",
+            "difficulty": 5,
+            "skillsets": ["timings"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            }
+        },
+        "75232616": {
+            "name": "sarthix",
+            "difficulty": 5,
+            "skillsets": ["wave", "timings"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 3
+            }
+        },
+        "116401475": {
+            "name": "Galaxy Gas",
+            "difficulty": 6,
+            "skillsets": ["overall"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "102807047": {
+            "name": "Infinite Inversion",
+            "difficulty": 6,
+            "skillsets": ["wave"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 1,
+                "wave": 3
+            }
         }
     }
 }
