@@ -423,6 +423,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Strategy Pack",
+        "description": "Many branches, one end result. How you get there is up to you. (GDDP Monthly Pack for August 2025)",
+        "sprite": "DP_August",
+        "month": 8,
+        "year": 2025,
+        "levelIDs": [67629705, 77682205, 109908097, 113276574, 88543746, 107854141]
+    }, {
         "name": "Mathematics Pack",
         "description": "Welcome back to summer school! Your final test is to beat this pack. :) (GDDP Monthly Pack for July 2025)",
         "sprite": "DP_July",
@@ -717,7 +724,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 69,
+    "database-version": 70,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9615,6 +9622,36 @@
                 "timings": 1,
                 "wave": 3
             }
+        },
+        "67629705": {
+            "name": "Choose a Way",
+            "difficulty": 0,
+            "skillsets": ["nerve-control"]
+        },
+        "77682205": {
+            "name": "skyscrprs",
+            "difficulty": 0,
+            "skillsets": ["learny"]
+        },
+        "109908097": {
+            "name": "Orb Master",
+            "difficulty": 1,
+            "skillsets": ["plat-gimmicky"]
+        },
+        "113276574": {
+            "name": "Forgotten Metropolis",
+            "difficulty": 2,
+            "skillsets": ["nerve-control", "learny"]
+        },
+        "88543746": {
+            "name": "Demon Collection",
+            "difficulty": 3,
+            "skillsets": ["timings", "memory"]
+        },
+        "107854141": {
+            "name": "Hollow",
+            "difficulty": 5,
+            "skillsets": ["memory", "nerve-control", "timings"]
         }
     }
 }
