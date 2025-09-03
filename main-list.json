@@ -724,7 +724,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 75,
+    "database-version": 76,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9553,7 +9553,7 @@
         },
         "59948178": {
             "name": "Bad Trip",
-            "difficulty": 5,
+            "difficulty": 4,
             "skillsets": ["timings", "fast-paced"],
             "xp": {
                 "chokepoints": 2,
@@ -9570,7 +9570,7 @@
         },
         "41409797": {
             "name": "Undergound",
-            "difficulty": 5,
+            "difficulty": 4,
             "skillsets": ["wave"],
             "xp": {
                 "chokepoints": 2,
