@@ -724,7 +724,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 76,
+    "database-version": 77,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9587,7 +9587,7 @@
         },
         "36329434": {
             "name": "ZAPHKIEL",
-            "difficulty": 9,
+            "difficulty": 8,
             "skillsets": ["wave", "chokepoints"],
             "xp": {
                 "chokepoints": 3,
@@ -9655,12 +9655,12 @@
         },
         "18674844": {
             "name": "Cyber Chaos",
-            "difficulty": 5,
+            "difficulty": 4,
             "skillsets": ["timings"]
         },
         "36099108": {
             "name": "Pulsar",
-            "difficulty": 5,
+            "difficulty": 4,
             "skillsets": ["wave"]
         },
         "48942548": {
