@@ -423,6 +423,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Avian Pack",
+        "description": "Quack quack quack (duck all of you tbh) (GDDP Monthly Pack for September 2025)",
+        "sprite": "DP_September",
+        "month": 8,
+        "year": 2025,
+        "levelIDs": [91767011, 70480739, 95683886, 115095108, 74850471, 108182698]
+    }, {
         "name": "The Strategy Pack",
         "description": "Many branches, one end result. How you get there is up to you. (GDDP Monthly Pack for August 2025)",
         "sprite": "DP_August",
@@ -724,7 +731,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 77,
+    "database-version": 78,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9677,6 +9684,36 @@
             "name": "Spacial Rend",
             "difficulty": 9,
             "skillsets": ["overall"]
+        },
+        "91767011": {
+            "name": "Ducky",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "70480739": {
+            "name": "Crow",
+            "difficulty": 0,
+            "skillsets": ["timings"]
+        },
+        "95683886": {
+            "name": "penguin industries",
+            "difficulty": 1,
+            "skillsets": ["learny"]
+        },
+        "115095108": {
+            "name": "Common Loon",
+            "difficulty": 2,
+            "skillsets": ["nerve-control"]
+        },
+        "74850471": {
+            "name": "Shoebill",
+            "difficulty": 3,
+            "skillsets": ["memory"]
+        },
+        "108182698": {
+            "name": "GO bird",
+            "difficulty": 6,
+            "skillsets": ["memory", "nerve-control"]
         }
     }
 }
