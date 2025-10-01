@@ -423,6 +423,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Monster Pack",
+        "description": "The monsters have emerged. (GDDP Monthly Pack for October 2025)",
+        "sprite": "DP_October",
+        "month": 10,
+        "year": 2025,
+        "levelIDs": [74426262, 111514594, 81162638, 113710225, 70579305, 95481638]
+    }, {
         "name": "The Avian Pack",
         "description": "Quack quack quack (duck all of you tbh) (GDDP Monthly Pack for September 2025)",
         "sprite": "DP_September",
@@ -731,7 +738,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 84,
+    "database-version": 87,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9714,6 +9721,36 @@
             "name": "GO bird",
             "difficulty": 6,
             "skillsets": ["memory", "nerve-control"]
+        },
+        "74426262": {
+            "name": "Beleive",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "111514594": {
+            "name": "Decimator",
+            "difficulty": 0,
+            "skillsets": ["learny"]
+        },
+        "113710225": {
+            "name": "The Vermin Queen",
+            "difficulty": 2,
+            "skillsets": ["learny"]
+        },
+        "81162638": {
+            "name": "Dimension",
+            "difficulty": 1,
+            "skillsets": ["learny", "fast-paced"]
+        },
+        "70579305": {
+            "name": "Rotten Vale",
+            "difficulty": 4,
+            "skillsets": ["ship", "wave"]
+        },
+        "95481638": {
+            "name": "The Gins II",
+            "difficulty": 5,
+            "skillsets": ["overall"]
         }
     }
 }
