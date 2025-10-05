@@ -113,7 +113,7 @@
         "sprite": "DP_Onyx",
         "plusSprite": "DP_OnyxPlus",
         "saveID": "onyx",
-        "levelIDs": [58673581, 110913375, 99495619, 71434979, 79771070, 88442157, 75286957, 95176417, 76543324, 107741051, 60978746, 71025973, 109947627, 93917362, 59075347, 72315402, 96083028, 113220284, 95998005, 110500920, 113256247, 93339534, 89187968, 96314787, 81139702],
+        "levelIDs": [58673581, 110913375, 99495619, 71434979, 79771070, 88442157, 75286957, 95176417, 76543324, 107741051, 60978746, 90057148, 71025973, 109947627, 93917362, 59075347, 72315402, 82249742, 96083028, 113220284, 95998005, 110500920, 113256247, 89187968, 86084399],
         "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "reqLevels": 3
     }, {
@@ -122,8 +122,8 @@
         "sprite": "DP_Amethyst",
         "plusSprite": "DP_AmethystPlus",
         "saveID": "amethyst",
-        "levelIDs": [86084399, 90390075, 94359172, 89414220, 95851008, 90477539, 75206202, 93091893, 27690100, 86018142, 49896559, 107805281, 110815379, 73667628, 4125776],
-        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "levelIDs": [90390075, 96314787, 94359172, 81139702, 120255728, 114999625, 94969889, 89414220, 95851008, 90477539, 75206202, 93091893, 27690100, 86018142, 49896559, 91351939, 107805281, 110815379, 73667628, 4125776],
+        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "reqLevels": 2
     }, {
         "name": "Azurite",
@@ -131,8 +131,8 @@
         "sprite": "DP_Azurite",
         "plusSprite": "DP_AzuritePlus",
         "saveID": "azurite",
-        "levelIDs": [89496627, 112313819, 114283297, 116174063, 86407629, 119550490],
-        "practiceIDs": [0, 0, 0, 0, 0, 0],
+        "levelIDs": [89496627, 112313819, 114283297, 116174063, 86407629, 126242564, 119550490, 119544028],
+        "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0],
         "reqLevels": 1
     }, {
         "name": "Obsidian",
@@ -248,7 +248,8 @@
         "sprite": "DP_Onyx",
         "plusSprite": "DP_OnyxPlus",
         "saveID": "legacy-onyx",
-        "levelIDs": [69685815],
+        "levelIDs": [93339534, 69685815],
+        "practiceIDs": [],
         "mainPack": 12
     }, {
         "name": "Legacy Amethyst",
@@ -738,7 +739,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 87,
+    "database-version": 91,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5440,16 +5441,16 @@
             "difficulty": 12,
             "skillsets": ["overall"],
             "xp": {
-                "cps": 2,
                 "chokepoints": 2,
-                "fastPaced": 3,
-                "nerve": 2,
-                "memory": 2,
                 "duals": 1,
-                "wave": 3,
-                "timings": 2,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 2,
                 "ship": 3,
-                "swing": 0
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             }
         },
         "72744364": {
@@ -5506,19 +5507,7 @@
         "93339534": {
             "name": "Damascus",
             "difficulty": 12,
-            "skillsets": ["nerve-control"],
-            "xp": {
-                "nerve": 3,
-                "cps": 1,
-                "wave": 2,
-                "memory": 2,
-                "chokepoints": 1,
-                "ship": 3,
-                "fastPaced": 2,
-                "duals": 1,
-                "timings": 2,
-                "swing": 0
-            }
+            "skillsets": ["nerve-control"]
         },
         "72315402": {
             "name": "arcturus",
@@ -5542,50 +5531,50 @@
             "difficulty": 12,
             "skillsets": ["overall"],
             "xp": {
-                "fastPaced": 2,
-                "ship": 2,
-                "wave": 2,
-                "nerve": 3,
-                "cps": 1,
-                "duals": 2,
-                "memory": 1,
                 "chokepoints": 1,
+                "duals": 2,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 3,
                 "timings": 2,
-                "swing": 3
+                "wave": 2
             }
         },
         "81139702": {
             "name": "The Hallucination",
-            "difficulty": 12,
+            "difficulty": 13,
             "skillsets": ["wave"],
             "xp": {
-                "duals": 1,
-                "cps": 2,
-                "wave": 3,
-                "ship": 1,
-                "timings": 2,
-                "nerve": 3,
-                "memory": 3,
                 "chokepoints": 1,
+                "duals": 1,
                 "fastPaced": 3,
-                "swing": 0
+                "cps": 2,
+                "memory": 3,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             }
         },
         "86084399": {
             "name": "LIMBO",
-            "difficulty": 13,
+            "difficulty": 12,
             "skillsets": ["memory"],
             "xp": {
-                "memory": 3,
-                "cps": 1,
-                "fastPaced": 1,
-                "ship": 1,
-                "wave": 1,
                 "chokepoints": 3,
-                "timings": 2,
                 "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 3,
                 "nerve": 3,
-                "swing": 0
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
             }
         },
         "94359172": {
@@ -9044,7 +9033,7 @@
         },
         "96314787": {
             "name": "Deadlier Clubstep",
-            "difficulty": 12,
+            "difficulty": 13,
             "skillsets": ["timings"],
             "xp": {
                 "chokepoints": 1,
@@ -9751,6 +9740,142 @@
             "name": "The Gins II",
             "difficulty": 5,
             "skillsets": ["overall"]
+        },
+        "90057148": {
+            "name": "Terminal Rampancy",
+            "difficulty": 12,
+            "skillsets": ["learny", "duals"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "82249742": {
+            "name": "Sinister Silence",
+            "difficulty": 12,
+            "skillsets": ["nerve-control"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 1,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 3,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 1,
+                "timings": 3,
+                "wave": 2
+            }
+        },
+        "120255728": {
+            "name": "Sevvend Clubstep",
+            "difficulty": 13,
+            "skillsets": ["timings", "wave", "high-cps"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            }
+        },
+        "114999625": {
+            "name": "Operation Evolution",
+            "difficulty": 13,
+            "skillsets": ["memory", "nerve-control"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 1,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
+        "94969889": {
+            "name": "Belladonna",
+            "difficulty": 13,
+            "skillsets": ["overall"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 2,
+                "fastPaced": 2,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 1
+            }
+        },
+        "91351939": {
+            "name": "Tunnel of Despair",
+            "difficulty": 13,
+            "skillsets": ["timings", "wave"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 3
+            }
+        },
+        "119544028": {
+            "name": "Thinking Space II",
+            "difficulty": 14,
+            "skillsets": ["wave", "chokepoints"],
+            "xp": {
+                "chokepoints": 3,
+                "duals": 2,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 2,
+                "timings": 2,
+                "wave": 3
+            }
+        },
+        "126242564": {
+            "name": "Flamewall",
+            "difficulty": 14,
+            "skillsets": ["nerve-control"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 1,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         }
     }
 }
