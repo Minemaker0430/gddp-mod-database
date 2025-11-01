@@ -424,6 +424,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "Supermarket Pack",
+        "description": "Attention shoppers! This is the Supermarket Pack! (GDDP Monthly Pack for November 2025)",
+        "sprite": "DP_November",
+        "month": 11,
+        "year": 2025,
+        "levelIDs": [72496590, 39961775, 82026581, 59413155, 94773925, 118931226]
+    }, {
         "name": "The Monster Pack",
         "description": "The monsters have emerged. (GDDP Monthly Pack for October 2025)",
         "sprite": "DP_October",
@@ -739,7 +746,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 95,
+    "database-version": 96,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9876,6 +9883,36 @@
                 "timings": 2,
                 "wave": 2
             }
+        },
+        "72496590": {
+            "name": "egg",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "39961775": {
+            "name": "Orange Juice",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "82026581": {
+            "name": "Dip",
+            "difficulty": 1,
+            "skillsets": ["flow"]
+        },
+        "59413155": {
+            "name": "HASH",
+            "difficulty": 2,
+            "skillsets": ["fast-paced"]
+        },
+        "94773925": {
+            "name": "Tangerine",
+            "difficulty": 4,
+            "skillsets": ["fast-paced", "learny"]
+        },
+        "118931226": {
+            "name": "Melon River",
+            "difficulty": 5,
+            "skillsets": ["timings"]
         }
     }
 }
