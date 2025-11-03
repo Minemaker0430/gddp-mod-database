@@ -50,7 +50,7 @@
         "sprite": "DP_Platinum",
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "platinum",
-        "levelIDs": [61079355, 93549959, 109513812, 102352215, 60708767, 66851981, 85933508, 3979721, 92782493, 20761188, 89201076, 108558924, 71728635, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 63433024, 18697406, 73005068, 60726930, 88940074, 75232616],
+        "levelIDs": [61079355, 93549959, 109513812, 102352215, 66851981, 85933508, 3979721, 92782493, 20761188, 89201076, 85972099, 108558924, 71728635, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 18697406, 73005068, 60726930, 88940074, 75232616, 91795562],
         "practiceIDs": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "reqLevels": 8
     }, {
@@ -746,7 +746,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 98,
+    "database-version": 99,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2945,23 +2945,6 @@
             "difficulty": 5,
             "skillsets": ["timings", "wave"]
         },
-        "60708767": {
-            "name": "Misty Mountains",
-            "difficulty": 5,
-            "skillsets": ["timings", "nerve-control"],
-            "xp": {
-                "ship": 2,
-                "memory": 1,
-                "fastPaced": 2,
-                "nerve": 3,
-                "wave": 1,
-                "cps": 1,
-                "timings": 3,
-                "duals": 3,
-                "chokepoints": 2,
-                "swing": 0
-            }
-        },
         "20761188": {
             "name": "Allegiance",
             "difficulty": 5,
@@ -3146,23 +3129,6 @@
             "name": "Artificial Dream",
             "difficulty": 5,
             "skillsets": ["flow", "timings"]
-        },
-        "63433024": {
-            "name": "reverence",
-            "difficulty": 5,
-            "skillsets": ["flow", "wave"],
-            "xp": {
-                "timings": 2,
-                "chokepoints": 2,
-                "cps": 3,
-                "nerve": 1,
-                "wave": 3,
-                "fastPaced": 3,
-                "ship": 2,
-                "duals": 1,
-                "memory": 1,
-                "swing": 0
-            }
         },
         "18697406": {
             "name": "Retention",
@@ -9913,6 +9879,40 @@
             "name": "Melon River",
             "difficulty": 5,
             "skillsets": ["timings"]
+        },
+        "91795562": {
+            "name": "Out of Chaos",
+            "difficulty": 5,
+            "skillsets": ["learny", "nerve-control"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 2,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 1,
+                "wave": 2
+            }
+        },
+        "85972099": {
+            "name": "Shotgun",
+            "difficulty": 5,
+            "skillsets": ["flow"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         }
     }
 }
