@@ -194,8 +194,8 @@
         "sprite": "DP_Platinum",
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "legacy-platinum",
-        "levelIDs": [84766628, 38550757, 83801688, 65633532, 63775846, 52527538, 87481937, 69459902, 36449129, 64239577, 39458641, 78831233, 30219145, 60197839, 32688321, 48454650, 76196489, 51393047, 62809982, 75518661, 7174110, 34379100, 32920197, 60480035, 48020496],
-        "practiceIDs": [],
+        "levelIDs": [63433024, 60708767, 84766628, 38550757, 83801688, 65633532, 63775846, 52527538, 87481937, 69459902, 36449129, 64239577, 39458641, 78831233, 30219145, 60197839, 32688321, 48454650, 76196489, 51393047, 62809982, 75518661, 7174110, 34379100, 32920197, 60480035, 48020496],
+        "practiceIDs": [0, 0],
         "mainPack": 5
     }, {
         "name": "Legacy Sapphire",
@@ -203,8 +203,8 @@
         "sprite": "DP_Sapphire",
         "plusSprite": "DP_SapphirePlus",
         "saveID": "legacy-sapphire",
-        "levelIDs": [61132346, 57390806, 63354496, 90597607, 66858272, 57559425, 62551239, 20077821, 60257058],
-        "practiceIDs": [],
+        "levelIDs": [68193306, 57520174, 68848817, 61132346, 57390806, 63354496, 90597607, 66858272, 57559425, 62551239, 20077821, 60257058],
+        "practiceIDs": [0, 0, 0],
         "mainPack": 6
     }, {
         "name": "Legacy Jade",
@@ -221,8 +221,8 @@
         "sprite": "DP_Emerald",
         "plusSprite": "DP_EmeraldPlus",
         "saveID": "legacy-emerald",
-        "levelIDs": [63560498, 86291702, 37255449, 62119245, 61127840, 70187443, 27580467, 74343352, 34489220, 58306889, 60603962],
-        "practiceIDs": [108219742, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "levelIDs": [73335285, 63560498, 86291702, 37255449, 62119245, 61127840, 70187443, 27580467, 74343352, 34489220, 58306889, 60603962],
+        "practiceIDs": [0, 108219742, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         "mainPack": 8
     }, {
         "name": "Legacy Ruby",
@@ -239,8 +239,8 @@
         "sprite": "DP_Diamond",
         "plusSprite": "DP_DiamondPlus",
         "saveID": "legacy-diamond",
-        "levelIDs": [86787878, 58355141, 91180835, 90597202, 63996127],
-        "practiceIDs": [107373669, 107377147, 107375995, 107377950, 107378043],
+        "levelIDs": [60564010, 86787878, 58355141, 91180835, 90597202, 63996127],
+        "practiceIDs": [0, 107373669, 107377147, 107375995, 107377950, 107378043],
         "mainPack": 10
     }, {
         "name": "Legacy Onyx",
@@ -746,7 +746,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 101,
+    "database-version": 102,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9913,6 +9913,41 @@
                 "timings": 3,
                 "wave": 1
             }
+        },
+        "60564010": {
+            "name": "Aronia",
+            "difficulty": 10,
+            "skillsets": ["duals", "timings"]
+        },
+        "73335285": {
+            "name": "Static Ignition",
+            "difficulty": 8,
+            "skillsets": ["timings", "ship"]
+        },
+        "68848817": {
+            "name": "moment",
+            "difficulty": 6,
+            "skillsets": ["ship", "wave"]
+        },
+        "57520174": {
+            "name": "Artifice",
+            "difficulty": 6,
+            "skillsets": ["fast-paced", "nerve-control"]
+        },
+        "68193306": {
+            "name": "OPSM1",
+            "difficulty": 6,
+            "skillsets": ["timings", "wave"]
+        },
+        "60708767": {
+            "name": "Misty Mountains",
+            "difficulty": 5,
+            "skillsets": ["timings", "nerve-control"]
+        },
+        "63433024": {
+            "name": "reverence",
+            "difficulty": 5,
+            "skillsets": ["flow", "wave"]
         }
     }
 }
