@@ -424,6 +424,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Winter Pack",
+        "description": "Brr its cold out GDDP Monthly Pack for December 2025",
+        "sprite": "DP_December",
+        "month": 12,
+        "year": 2025,
+        "levelIDs": [94861600, 113495588, 87108496, 75327744, 91533016, 110479533]
+    }, {
         "name": "Supermarket Pack",
         "description": "Attention shoppers! This is the Supermarket Pack! (GDDP Monthly Pack for November 2025)",
         "sprite": "DP_November",
@@ -746,7 +753,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 104,
+    "database-version": 107,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9948,6 +9955,36 @@
             "name": "reverence",
             "difficulty": 5,
             "skillsets": ["flow", "wave"]
+        },
+        "94861600": {
+            "name": "Winterbliss",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "113495588": {
+            "name": "Ice Melt",
+            "difficulty": 0,
+            "skillsets": ["nerve-control"]
+        },
+        "87108496": {
+            "name": "Crumbs",
+            "difficulty": 1,
+            "skillsets": ["nerve-control"]
+        },
+        "75327744": {
+            "name": "Hibernal",
+            "difficulty": 2,
+            "skillsets": ["fast-paced", "timings"]
+        },
+        "91533016": {
+            "name": "Acrise",
+            "difficulty": 3,
+            "skillsets": ["high-cps", "ship"]
+        },
+        "110479533": {
+            "name": "Cold Level Go BRRR",
+            "difficulty": 5,
+            "skillsets": ["fast-paced", "overall"]
         }
     }
 }
