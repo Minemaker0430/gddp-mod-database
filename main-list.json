@@ -261,6 +261,12 @@
         "mainPack": 13
     }],
     "bonus": [{
+        "name": "12 Demons of Chirtsmas (2025)",
+        "description": "12 Demons leading up to Christmas, each picked by a different staff member!",
+        "sprite": "DP_Unknown",
+        "saveID": "12doc-2025",
+        "levelIDs": [112770258, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }, {
         "name": "12 Demons of Christmas (2024)",
         "description": "We introduce you to 12 Demons of Christmas 2024 Edition!! Following the same rules as the previous 12DoC packs, each day one level chosen by individual List Managers will be revealed until Christmas!",
         "sprite": "DP_12DoC2024",
@@ -753,7 +759,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 114,
+    "database-version": 116,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -8944,9 +8950,9 @@
             "skillsets": ["memory"]
         },
         "112770258": {
-            "name": "experiment",
+            "name": "experiemnt",
             "difficulty": 0,
-            "skillsets": ["learny"]
+            "skillsets": ["sp-smilebullet", "memory"]
         },
         "108076646": {
             "name": "Ancient Codex",
@@ -10000,6 +10006,7 @@
             "name": "Generic",
             "difficulty": 2,
             "skillsets": ["timings", "wave"]
-        }
+        },
+        "0": {}
     }
 }
