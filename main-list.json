@@ -759,7 +759,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 117,
+    "database-version": 118,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -776,7 +776,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 89978843
         },
         "3543219": {
             "name": "Speed Racer",
@@ -793,7 +794,8 @@
                 "chokepoints": 1,
                 "timings": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89978848
         },
         "63087691": {
             "name": "STARPUNK",
@@ -810,12 +812,14 @@
                 "cps": 1,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89979607
         },
         "77132030": {
             "name": "Ratio Circles",
             "difficulty": 0,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 0
         },
         "80433444": {
             "name": "MAYMORY",
@@ -832,17 +836,20 @@
                 "chokepoints": 1,
                 "fastPaced": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89979768
         },
         "98071844": {
             "name": "Star Road",
             "difficulty": 0,
-            "skillsets": ["learny"]
+            "skillsets": ["learny"],
+            "startpos-copy": 0
         },
         "27143567": {
             "name": "Voyager",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 89980772
         },
         "103574402": {
             "name": "NTTE",
@@ -859,17 +866,20 @@
                 "fastPaced": 2,
                 "memory": 2,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 110234080
         },
         "78797905": {
             "name": "anasthasia",
             "difficulty": 0,
-            "skillsets": ["fast-paced"]
+            "skillsets": ["fast-paced"],
+            "startpos-copy": 0
         },
         "76821414": {
             "name": "Zircon",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "7116121": {
             "name": "Problematic",
@@ -886,7 +896,8 @@
                 "memory": 2,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89984498
         },
         "106696944": {
             "name": "NODE",
@@ -903,7 +914,8 @@
                 "memory": 3,
                 "ship": 2,
                 "timings": 2
-            }
+            },
+            "startpos-copy": 114139709
         },
         "75603568": {
             "name": "Tabasco",
@@ -920,7 +932,8 @@
                 "memory": 2,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89980770
         },
         "17235008": {
             "name": "X",
@@ -937,12 +950,14 @@
                 "memory": 2,
                 "duals": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89981888
         },
         "107791691": {
             "name": "Raven",
             "difficulty": 0,
-            "skillsets": ["fast-paced"]
+            "skillsets": ["fast-paced"],
+            "startpos-copy": 0
         },
         "76799716": {
             "name": "Virtualization",
@@ -959,7 +974,8 @@
                 "chokepoints": 2,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89980854
         },
         "38514054": {
             "name": "Buried Angel",
@@ -976,7 +992,8 @@
                 "memory": 1,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89981892
         },
         "76564776": {
             "name": "weird",
@@ -993,7 +1010,8 @@
                 "chokepoints": 1,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 103025222
         },
         "62067918": {
             "name": "ClutterX",
@@ -1010,7 +1028,8 @@
                 "duals": 0,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 103025524
         },
         "105383537": {
             "name": "Chromatique",
@@ -1027,7 +1046,8 @@
                 "fastPaced": 1,
                 "memory": 2,
                 "swing": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "8660411": {
             "name": "Death Moon",
@@ -1044,7 +1064,8 @@
                 "nerve": 3,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89984497
         },
         "104151099": {
             "name": "Lucy",
@@ -1061,7 +1082,8 @@
                 "fastPaced": 2,
                 "memory": 2,
                 "swing": 3
-            }
+            },
+            "startpos-copy": 110233334
         },
         "68061608": {
             "name": "NothinG",
@@ -1078,7 +1100,8 @@
                 "memory": 1,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89979992
         },
         "86012792": {
             "name": "Cosmic Rush",
@@ -1095,12 +1118,14 @@
                 "duals": 3,
                 "wave": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 103030063
         },
         "3081555": {
             "name": "Chaoz Impact",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "15619194": {
             "name": "Motion",
@@ -1117,7 +1142,8 @@
                 "chokepoints": 2,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89984504
         },
         "2997354": {
             "name": "DeCode",
@@ -1134,7 +1160,8 @@
                 "wave": 2,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89984507
         },
         "27912428": {
             "name": "wowzers holy",
@@ -1151,7 +1178,8 @@
                 "cps": 3,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 89984978
         },
         "81742215": {
             "name": "Fast N Spicy",
@@ -1168,7 +1196,8 @@
                 "timings": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94382515
         },
         "77428474": {
             "name": "Bloudeleuste",
@@ -1185,7 +1214,8 @@
                 "fastPaced": 2,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 103034821
         },
         "70444933": {
             "name": "Collapse",
@@ -1202,7 +1232,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 90018885
         },
         "74449": {
             "name": "hell and heaven",
@@ -1219,12 +1250,14 @@
                 "duals": 0,
                 "ship": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90003244
         },
         "62378908": {
             "name": "Section",
             "difficulty": 1,
-            "skillsets": ["timings", "fast-paced"]
+            "skillsets": ["timings", "fast-paced"],
+            "startpos-copy": 90003239
         },
         "77492867": {
             "name": "COLOR CRUSHER",
@@ -1241,7 +1274,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 114142408
         },
         "27786218": {
             "name": "Mechanical Showdown",
@@ -1258,7 +1292,8 @@
                 "nerve": 1,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90018892
         },
         "78079575": {
             "name": "Fratura",
@@ -1275,12 +1310,14 @@
                 "duals": 0,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114142007
         },
         "4318253": {
             "name": "INSERT COIN",
             "difficulty": 1,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "startpos-copy": 90020171
         },
         "77614559": {
             "name": "red dart",
@@ -1297,7 +1334,8 @@
                 "memory": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90003241
         },
         "58002670": {
             "name": "Sakupen Egg",
@@ -1314,7 +1352,8 @@
                 "duals": 0,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90020179
         },
         "67113181": {
             "name": "Scarlet Smog",
@@ -1331,7 +1370,8 @@
                 "chokepoints": 2,
                 "timings": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90018889
         },
         "86155700": {
             "name": "Silent ClubX Rebirth",
@@ -1348,7 +1388,8 @@
                 "duals": 0,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114142725
         },
         "62133870": {
             "name": "Broken Reality",
@@ -1365,7 +1406,8 @@
                 "duals": 0,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114143169
         },
         "7016598": {
             "name": "Speed of Light II",
@@ -1382,7 +1424,8 @@
                 "cps": 1,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114174561
         },
         "83444471": {
             "name": "WELL RESTED",
@@ -1399,7 +1442,8 @@
                 "fastPaced": 2,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94384569
         },
         "76158198": {
             "name": "Gy",
@@ -1416,7 +1460,8 @@
                 "timings": 2,
                 "nerve": 2,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 90020182
         },
         "47853491": {
             "name": "Tengu Wind",
@@ -1433,7 +1478,8 @@
                 "ship": 2,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90020891
         },
         "14975695": {
             "name": "Reanimation",
@@ -1450,7 +1496,8 @@
                 "timings": 1,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90020880
         },
         "18834999": {
             "name": "VeritY",
@@ -1467,7 +1514,8 @@
                 "timings": 1,
                 "fastPaced": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90022061
         },
         "86665617": {
             "name": "Cant Let vulc",
@@ -1484,7 +1532,8 @@
                 "fastPaced": 3,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114174919
         },
         "43010906": {
             "name": "Hellcat",
@@ -1501,7 +1550,8 @@
                 "chokepoints": 2,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90020878
         },
         "63454942": {
             "name": "Based",
@@ -1518,7 +1568,8 @@
                 "memory": 2,
                 "timings": 2,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 90020884
         },
         "23300671": {
             "name": "Nitrogen",
@@ -1535,7 +1586,8 @@
                 "cps": 2,
                 "nerve": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90022058
         },
         "25706351": {
             "name": "HeLL",
@@ -1552,7 +1604,8 @@
                 "timings": 2,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90022068
         },
         "3471703": {
             "name": "Chaoz Airflow",
@@ -1569,7 +1622,8 @@
                 "nerve": 2,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90022071
         },
         "9287687": {
             "name": "Resurrection",
@@ -1586,7 +1640,8 @@
                 "memory": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90022074
         },
         "98065104": {
             "name": "Toxic Surge",
@@ -1603,7 +1658,8 @@
                 "swing": 2,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 115676119
         },
         "102824936": {
             "name": "Mass Surveillance",
@@ -1620,7 +1676,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 115677616
         },
         "100417573": {
             "name": "Dash v2",
@@ -1637,7 +1694,8 @@
                 "swing": 2,
                 "timings": 2,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "99220012": {
             "name": "Breakout",
@@ -1654,7 +1712,8 @@
                 "swing": 3,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 115678790
         },
         "110790559": {
             "name": "ToE 3",
@@ -1671,7 +1730,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 115683069
         },
         "63075323": {
             "name": "white women",
@@ -1688,7 +1748,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 90024318
         },
         "60084691": {
             "name": "in rainbows",
@@ -1705,7 +1766,8 @@
                 "cps": 2,
                 "wave": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90024320
         },
         "4284013": {
             "name": "Nine Circles",
@@ -1722,7 +1784,8 @@
                 "nerve": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90024328
         },
         "7887341": {
             "name": "Grey Trap",
@@ -1739,7 +1802,8 @@
                 "nerve": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 115203991
         },
         "38445559": {
             "name": "ThermoDynamix",
@@ -1756,7 +1820,8 @@
                 "ship": 3,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90024326
         },
         "62909889": {
             "name": "RGB",
@@ -1773,7 +1838,8 @@
                 "wave": 2,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94385063
         },
         "59315849": {
             "name": "Double Dash",
@@ -1790,12 +1856,14 @@
                 "duals": 3,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90027489
         },
         "13643591": {
             "name": "Ultra Drivers",
             "difficulty": 2,
-            "skillsets": ["memory", "duals"]
+            "skillsets": ["memory", "duals"],
+            "startpos-copy": 0
         },
         "94610603": {
             "name": "Charcoal",
@@ -1812,7 +1880,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 115244125
         },
         "11607707": {
             "name": "Dance Massacre",
@@ -1829,12 +1898,14 @@
                 "chokepoints": 1,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90026088
         },
         "82015235": {
             "name": "Lightning Speed",
             "difficulty": 2,
-            "skillsets": ["duals"]
+            "skillsets": ["duals"],
+            "startpos-copy": 90026096
         },
         "79862130": {
             "name": "Mehdi",
@@ -1851,7 +1922,8 @@
                 "swing": 0,
                 "timings": 0,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 114175597
         },
         "64618054": {
             "name": "Sedulous",
@@ -1868,7 +1940,8 @@
                 "timings": 2,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90026057
         },
         "67461519": {
             "name": "Pain Elemental",
@@ -1885,7 +1958,8 @@
                 "cps": 1,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90026090
         },
         "1299298": {
             "name": "Deadly ClubStep",
@@ -1902,7 +1976,8 @@
                 "nerve": 2,
                 "fastPaced": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90027465
         },
         "65768845": {
             "name": "At The Top",
@@ -1919,7 +1994,8 @@
                 "timings": 3,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90027479
         },
         "71220097": {
             "name": "Mastermind",
@@ -1936,7 +2012,8 @@
                 "timings": 3,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90028693
         },
         "7892386": {
             "name": "Mechanic Megaforce",
@@ -1953,7 +2030,8 @@
                 "nerve": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 102700723
         },
         "62923992": {
             "name": "Sparkling Hope",
@@ -1970,7 +2048,8 @@
                 "nerve": 2,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90953869
         },
         "15855959": {
             "name": "Psychosis",
@@ -1987,7 +2066,8 @@
                 "wave": 2,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90122540
         },
         "62028241": {
             "name": "Eternelle Vehemence",
@@ -2004,7 +2084,8 @@
                 "nerve": 3,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90953893
         },
         "82210980": {
             "name": "overnight",
@@ -2021,7 +2102,8 @@
                 "timings": 2,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 90028688
         },
         "4957691": {
             "name": "Windy Landscape",
@@ -2038,7 +2120,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 94385456
         },
         "110711884": {
             "name": "Terraphobia",
@@ -2055,7 +2138,8 @@
                 "duals": 1,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 111600701
         },
         "36667269": {
             "name": "Diffuse",
@@ -2072,7 +2156,8 @@
                 "ship": 2,
                 "duals": 0,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 90028696
         },
         "84324862": {
             "name": "DAMAGE",
@@ -2089,7 +2174,8 @@
                 "fastPaced": 1,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 102698076
         },
         "9653767": {
             "name": "The Four Elements",
@@ -2106,7 +2192,8 @@
                 "ship": 2,
                 "cps": 1,
                 "swing": 3
-            }
+            },
+            "startpos-copy": 116455225
         },
         "65496280": {
             "name": "Interstellar Infant",
@@ -2123,7 +2210,8 @@
                 "duals": 0,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 116455289
         },
         "7005127": {
             "name": "Horntail Cave",
@@ -2140,7 +2228,8 @@
                 "wave": 2,
                 "fastPaced": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94385839
         },
         "76866307": {
             "name": "EXG",
@@ -2157,7 +2246,8 @@
                 "ship": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94386374
         },
         "86925233": {
             "name": "gooberverse",
@@ -2174,7 +2264,8 @@
                 "timings": 3,
                 "cps": 1,
                 "memory": 1
-            }
+            },
+            "startpos-copy": 114176082
         },
         "68372319": {
             "name": "CHROMA",
@@ -2191,7 +2282,8 @@
                 "ship": 2,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94388047
         },
         "68983167": {
             "name": "FFFFFF",
@@ -2208,7 +2300,8 @@
                 "fastPaced": 2,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94388048
         },
         "56568010": {
             "name": "Magma Bound",
@@ -2225,7 +2318,8 @@
                 "fastPaced": 2,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94387137
         },
         "110653463": {
             "name": "commatose",
@@ -2242,7 +2336,8 @@
                 "wave": 1,
                 "cps": 1,
                 "chokepoints": 2
-            }
+            },
+            "startpos-copy": 114248388
         },
         "89423740": {
             "name": "IMOISTAR",
@@ -2259,7 +2354,8 @@
                 "duals": 1,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 102714079
         },
         "72240540": {
             "name": "Super Mario Wave",
@@ -2276,7 +2372,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 116454364
         },
         "78602801": {
             "name": "Ultrachromatic",
@@ -2293,7 +2390,8 @@
                 "timings": 2,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "63500550": {
             "name": "free level",
@@ -2310,7 +2408,8 @@
                 "wave": 0,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94387131
         },
         "5155022": {
             "name": "Acropolis",
@@ -2327,7 +2426,8 @@
                 "fastPaced": 0,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94387132
         },
         "15395840": {
             "name": "Night Terrors",
@@ -2344,7 +2444,8 @@
                 "cps": 2,
                 "duals": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94388052
         },
         "75806677": {
             "name": "Gumshot",
@@ -2361,7 +2462,8 @@
                 "chokepoints": 1,
                 "wave": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94413390
         },
         "45111047": {
             "name": "Blast Insanity",
@@ -2378,7 +2480,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 116454894
         },
         "67069282": {
             "name": "Swirling Fire",
@@ -2395,7 +2498,8 @@
                 "fastPaced": 3,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94388667
         },
         "63245954": {
             "name": "Cursed Nightmare",
@@ -2412,7 +2516,8 @@
                 "memory": 2,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 102715632
         },
         "43008397": {
             "name": "Bit Reaper",
@@ -2429,7 +2534,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 116455170
         },
         "17312229": {
             "name": "Sadism",
@@ -2446,7 +2552,8 @@
                 "fastPaced": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94403218
         },
         "13579851": {
             "name": "QuantumWave",
@@ -2463,7 +2570,8 @@
                 "duals": 3,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96655413
         },
         "26441161": {
             "name": "Flat Major",
@@ -2480,7 +2588,8 @@
                 "wave": 3,
                 "nerve": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94408284
         },
         "61137742": {
             "name": "Leyak",
@@ -2497,7 +2606,8 @@
                 "ship": 1,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94412280
         },
         "2241592": {
             "name": "Necropolis",
@@ -2514,7 +2624,8 @@
                 "chokepoints": 3,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94408273
         },
         "36834813": {
             "name": "Fiber",
@@ -2531,7 +2642,8 @@
                 "nerve": 1,
                 "cps": 3,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 94407780
         },
         "68662732": {
             "name": "Achlys",
@@ -2548,7 +2660,8 @@
                 "duals": 0,
                 "ship": 3,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 114248543
         },
         "33405303": {
             "name": "The Secret Box",
@@ -2565,7 +2678,8 @@
                 "wave": 3,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94407784
         },
         "84064573": {
             "name": "Cloud Nine",
@@ -2582,7 +2696,8 @@
                 "nerve": 2,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114248548
         },
         "61529436": {
             "name": "arcane ascent",
@@ -2599,7 +2714,8 @@
                 "ship": 2,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "78385421": {
             "name": "DVP",
@@ -2616,7 +2732,8 @@
                 "wave": 2,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94409632
         },
         "68688822": {
             "name": "Ulon",
@@ -2633,7 +2750,8 @@
                 "duals": 0,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94409636
         },
         "61366260": {
             "name": "Beetle",
@@ -2650,7 +2768,8 @@
                 "wave": 2,
                 "chokepoints": 1,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 94409646
         },
         "68718751": {
             "name": "Optic daydream",
@@ -2667,7 +2786,8 @@
                 "chokepoints": 2,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94412276
         },
         "90677710": {
             "name": "DIABLO",
@@ -2684,7 +2804,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "66133800": {
             "name": "Blaster",
@@ -2701,7 +2822,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 94412275
         },
         "96604457": {
             "name": "Sephiroth Ultra",
@@ -2718,7 +2840,8 @@
                 "memory": 1,
                 "swing": 2,
                 "timings": 1
-            }
+            },
+            "startpos-copy": 114250013
         },
         "55454745": {
             "name": "chancla",
@@ -2735,7 +2858,8 @@
                 "timings": 3,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 114248578
         },
         "65894695": {
             "name": "Elysian Aegis",
@@ -2752,7 +2876,8 @@
                 "cps": 2,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94409648
         },
         "814678": {
             "name": "ICE Carbon Diablo X",
@@ -2769,7 +2894,8 @@
                 "chokepoints": 3,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94409649
         },
         "79428382": {
             "name": "MOTHMELONS",
@@ -2786,7 +2912,8 @@
                 "ship": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94410956
         },
         "89865688": {
             "name": "Boom Shakalaka",
@@ -2803,7 +2930,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "78397973": {
             "name": "Darkest Highway",
@@ -2820,7 +2948,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "63915746": {
             "name": "The End",
@@ -2837,7 +2966,8 @@
                 "duals": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 94414529
         },
         "61079355": {
             "name": "Acu",
@@ -2854,7 +2984,8 @@
                 "nerve": 1,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "3979721": {
             "name": "Cataclysm",
@@ -2871,7 +3002,8 @@
                 "nerve": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "85933508": {
             "name": "Lost Love",
@@ -2888,12 +3020,14 @@
                 "chokepoints": 1,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "63775846": {
             "name": "Forbidden Isle",
             "difficulty": 5,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 0
         },
         "20761188": {
             "name": "Allegiance",
@@ -2910,12 +3044,14 @@
                 "memory": 2,
                 "wave": 2,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "52527538": {
             "name": "MELTDOWN",
             "difficulty": 5,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "92782493": {
             "name": "BLACKLIGHTS",
@@ -2932,7 +3068,8 @@
                 "memory": 1,
                 "nerve": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "93549959": {
             "name": "Mystic Bounds",
@@ -2949,12 +3086,14 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "83801688": {
             "name": "Miscellaneous Memory",
             "difficulty": 5,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "startpos-copy": 0
         },
         "71728635": {
             "name": "Helios",
@@ -2971,7 +3110,8 @@
                 "cps": 1,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "92299438": {
             "name": "TUAPEKA",
@@ -2988,7 +3128,8 @@
                 "memory": 1,
                 "nerve": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "76931927": {
             "name": "I NEVER DREAM",
@@ -3005,7 +3146,8 @@
                 "duals": 0,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "88172786": {
             "name": "Robi",
@@ -3022,7 +3164,8 @@
                 "chokepoints": 1,
                 "fastPaced": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "65561437": {
             "name": "Napalm",
@@ -3039,7 +3182,8 @@
                 "duals": 2,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "81944593": {
             "name": "Semicolon 3",
@@ -3056,7 +3200,8 @@
                 "cps": 1,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "88853479": {
             "name": "cerebral hemorrhage",
@@ -3073,12 +3218,14 @@
                 "duals": 3,
                 "cps": 1,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "38550757": {
             "name": "Artificial Dream",
             "difficulty": 5,
-            "skillsets": ["flow", "timings"]
+            "skillsets": ["flow", "timings"],
+            "startpos-copy": 0
         },
         "18697406": {
             "name": "Retention",
@@ -3095,7 +3242,8 @@
                 "nerve": 2,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "73005068": {
             "name": "sunburn",
@@ -3112,12 +3260,14 @@
                 "ship": 2,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "65633532": {
             "name": "Daydream",
             "difficulty": 5,
-            "skillsets": ["fast-paced"]
+            "skillsets": ["fast-paced"],
+            "startpos-copy": 0
         },
         "88940074": {
             "name": "Wind Storm",
@@ -3134,7 +3284,8 @@
                 "cps": 1,
                 "fastPaced": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "60726930": {
             "name": "HURRICANE",
@@ -3151,12 +3302,14 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "84766628": {
             "name": "Cat Planet",
             "difficulty": 5,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 0
         },
         "83570278": {
             "name": "Totem",
@@ -3173,7 +3326,8 @@
                 "nerve": 1,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107029613
         },
         "84829178": {
             "name": "Manic Machine",
@@ -3190,7 +3344,8 @@
                 "ship": 2,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 115309976
         },
         "30194711": {
             "name": "Niflheim",
@@ -3207,7 +3362,8 @@
                 "timings": 3,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95857581
         },
         "82148336": {
             "name": "BROWNOIX",
@@ -3224,7 +3380,8 @@
                 "timings": 2,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96276280
         },
         "83357887": {
             "name": "U235",
@@ -3241,7 +3398,8 @@
                 "memory": 2,
                 "nerve": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95824666
         },
         "33748382": {
             "name": "Novalis",
@@ -3258,12 +3416,14 @@
                 "memory": 2,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96009939
         },
         "57390806": {
             "name": "Digital Disarray",
             "difficulty": 6,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "54588072": {
             "name": "INNARDS",
@@ -3280,7 +3440,8 @@
                 "ship": 2,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95855967
         },
         "81281891": {
             "name": "Motorbreath",
@@ -3297,12 +3458,14 @@
                 "chokepoints": 1,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96276330
         },
         "63354496": {
             "name": "Disentombed",
             "difficulty": 6,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "92245045": {
             "name": "Cluttered Confusion",
@@ -3319,7 +3482,8 @@
                 "wave": 1,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 115310556
         },
         "59899374": {
             "name": "Prismatic Haze",
@@ -3336,7 +3500,8 @@
                 "cps": 3,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95857495
         },
         "64148732": {
             "name": "Carcano",
@@ -3353,7 +3518,8 @@
                 "cps": 2,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95855930
         },
         "70252932": {
             "name": "OOPZ",
@@ -3370,7 +3536,8 @@
                 "timings": 3,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96276906
         },
         "10565740": {
             "name": "Bloodbath",
@@ -3387,7 +3554,8 @@
                 "nerve": 2,
                 "duals": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95411135
         },
         "23262780": {
             "name": "Sakupen Hell",
@@ -3404,12 +3572,14 @@
                 "wave": 3,
                 "fastPaced": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95411281
         },
         "61132346": {
             "name": "Hateful Reflection",
             "difficulty": 6,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 0
         },
         "70406732": {
             "name": "Anahita",
@@ -3426,7 +3596,8 @@
                 "ship": 3,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96276268
         },
         "83340498": {
             "name": "PROTOFLICKER",
@@ -3443,7 +3614,8 @@
                 "timings": 3,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107036207
         },
         "59933468": {
             "name": "Fusion Z",
@@ -3460,7 +3632,8 @@
                 "nerve": 3,
                 "memory": 2,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 96010004
         },
         "35448603": {
             "name": "Blade of Justice",
@@ -3477,7 +3650,8 @@
                 "timings": 2,
                 "chokepoints": 2,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 95855914
         },
         "19759411": {
             "name": "Phobos",
@@ -3494,7 +3668,8 @@
                 "ship": 2,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95857494
         },
         "60289382": {
             "name": "Falcon16",
@@ -3511,7 +3686,8 @@
                 "duals": 0,
                 "ship": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95855877
         },
         "79665466": {
             "name": "Masochism",
@@ -3528,7 +3704,8 @@
                 "cps": 1,
                 "nerve": 1,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 103271148
         },
         "91267754": {
             "name": "Coolie Mazie Paloozie",
@@ -3545,7 +3722,8 @@
                 "wave": 1,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 103328124
         },
         "36107975": {
             "name": "Carnage Mode",
@@ -3562,7 +3740,8 @@
                 "duals": 1,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96180590
         },
         "85317764": {
             "name": "The Cellar Path",
@@ -3579,7 +3758,8 @@
                 "chokepoints": 2,
                 "wave": 2,
                 "swing": 3
-            }
+            },
+            "startpos-copy": 96276908
         },
         "97235578": {
             "name": "water demon",
@@ -3596,7 +3776,8 @@
                 "ship": 1,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 103272663
         },
         "41149984": {
             "name": "Ithacropolis",
@@ -3613,7 +3794,8 @@
                 "ship": 3,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96182126
         },
         "69507105": {
             "name": "RASH",
@@ -3630,7 +3812,8 @@
                 "fastPaced": 3,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96266893
         },
         "70484097": {
             "name": "Endless Dream",
@@ -3647,7 +3830,8 @@
                 "memory": 2,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96268054
         },
         "58507437": {
             "name": "SPEEDRUN",
@@ -3664,7 +3848,8 @@
                 "memory": 2,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96145379
         },
         "72873416": {
             "name": "Boogie",
@@ -3681,7 +3866,8 @@
                 "memory": 3,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108130436
         },
         "26133601": {
             "name": "Athanatos",
@@ -3698,7 +3884,8 @@
                 "timings": 2,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96145430
         },
         "33387622": {
             "name": "SubSonic",
@@ -3715,7 +3902,8 @@
                 "duals": 2,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96266935
         },
         "57047374": {
             "name": "MadMansion",
@@ -3732,7 +3920,8 @@
                 "fastPaced": 2,
                 "ship": 1,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 96276317
         },
         "81548163": {
             "name": "The Sulfur Sea",
@@ -3749,7 +3938,8 @@
                 "nerve": 2,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "78248443": {
             "name": "Worse Trip",
@@ -3766,7 +3956,8 @@
                 "memory": 3,
                 "wave": 2,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 96266897
         },
         "58417850": {
             "name": "Dolos",
@@ -3783,7 +3974,8 @@
                 "wave": 2,
                 "duals": 3,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 96268055
         },
         "55385816": {
             "name": "Balengu Vortex",
@@ -3800,7 +3992,8 @@
                 "duals": 2,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 95824767
         },
         "78007735": {
             "name": "ruber cash 22",
@@ -3817,7 +4010,8 @@
                 "nerve": 2,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96269114
         },
         "57121503": {
             "name": "Shock Therapy",
@@ -3834,7 +4028,8 @@
                 "memory": 1,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96266918
         },
         "44773500": {
             "name": "Zeroikabi",
@@ -3851,7 +4046,8 @@
                 "cps": 2,
                 "nerve": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96186002
         },
         "73733373": {
             "name": "DMG CTRL",
@@ -3868,7 +4064,8 @@
                 "cps": 2,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96181838
         },
         "61531210": {
             "name": "Hyper Paradox",
@@ -3885,7 +4082,8 @@
                 "duals": 2,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 116524174
         },
         "38235367": {
             "name": "Quantum Processing",
@@ -3902,7 +4100,8 @@
                 "cps": 1,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 96145402
         },
         "60130895": {
             "name": "Berserk",
@@ -3919,7 +4118,8 @@
                 "nerve": 3,
                 "memory": 1,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 108183962
         },
         "34057654": {
             "name": "Black Blizzard",
@@ -3936,7 +4136,8 @@
                 "nerve": 3,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108183963
         },
         "73645039": {
             "name": "Crystal",
@@ -3953,7 +4154,8 @@
                 "timings": 2,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108183967
         },
         "85393418": {
             "name": "Edelweiss",
@@ -3970,7 +4172,8 @@
                 "timings": 3,
                 "duals": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108183970
         },
         "95281931": {
             "name": "Neurostasis",
@@ -3987,7 +4190,8 @@
                 "timings": 2,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108183971
         },
         "27122654": {
             "name": "Artificial Ascent",
@@ -4004,7 +4208,8 @@
                 "chokepoints": 2,
                 "duals": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108219732
         },
         "58252259": {
             "name": "Etherial Artifice",
@@ -4021,7 +4226,8 @@
                 "wave": 2,
                 "ship": 2,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 108219735
         },
         "55610687": {
             "name": "Belloq",
@@ -4038,7 +4244,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "79242390": {
             "name": "vaenstep",
@@ -4055,7 +4262,8 @@
                 "nerve": 2,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108219738
         },
         "81429222": {
             "name": "Raisins",
@@ -4072,7 +4280,8 @@
                 "chokepoints": 2,
                 "wave": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "38754426": {
             "name": "Killbot",
@@ -4089,7 +4298,8 @@
                 "ship": 2,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108220720
         },
         "79922944": {
             "name": "Dole Damos",
@@ -4106,7 +4316,8 @@
                 "memory": 3,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "89876243": {
             "name": "FIREPOWER",
@@ -4123,7 +4334,8 @@
                 "memory": 1,
                 "timings": 2,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 108220831
         },
         "79484035": {
             "name": "The Moon Below",
@@ -4140,7 +4352,8 @@
                 "chokepoints": 2,
                 "wave": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "81906166": {
             "name": "Retention Rush",
@@ -4157,7 +4370,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "45094581": {
             "name": "Delta Interface",
@@ -4174,7 +4388,8 @@
                 "memory": 1,
                 "cps": 1,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 108220942
         },
         "37398911": {
             "name": "Stalemate Redux",
@@ -4191,7 +4406,8 @@
                 "nerve": 2,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "37456092": {
             "name": "Digital Descent",
@@ -4208,7 +4424,8 @@
                 "duals": 1,
                 "nerve": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "83164497": {
             "name": "Apollo 11",
@@ -4225,7 +4442,8 @@
                 "cps": 1,
                 "wave": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "62817170": {
             "name": "Lucid Chaos",
@@ -4242,7 +4460,8 @@
                 "cps": 2,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "50333567": {
             "name": "Catalyze",
@@ -4259,7 +4478,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "84960998": {
             "name": "ConFusion",
@@ -4276,7 +4496,8 @@
                 "timings": 2,
                 "wave": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "62869408": {
             "name": "Chromatic Haze",
@@ -4293,7 +4514,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "65969451": {
             "name": "Timor",
@@ -4310,7 +4532,8 @@
                 "duals": 1,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "55547703": {
             "name": "Sunset Sandstorm",
@@ -4327,7 +4550,8 @@
                 "swing": 1,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 108036753
         },
         "83107375": {
             "name": "Nightshade",
@@ -4344,7 +4568,8 @@
                 "duals": 2,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108037086
         },
         "31462941": {
             "name": "Erebus",
@@ -4361,7 +4586,8 @@
                 "cps": 1,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 115534827
         },
         "74840882": {
             "name": "Cersia Difficult",
@@ -4378,7 +4604,8 @@
                 "timings": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108040519
         },
         "28220417": {
             "name": "Yatagarasu",
@@ -4395,7 +4622,8 @@
                 "nerve": 3,
                 "timings": 2,
                 "swing": 2
-            }
+            },
+            "startpos-copy": 108040931
         },
         "77310650": {
             "name": "GONER",
@@ -4412,7 +4640,8 @@
                 "cps": 2,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108041128
         },
         "81535535": {
             "name": "Shmarley Ville",
@@ -4429,7 +4658,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 108041607
         },
         "26681070": {
             "name": "Sonic Wave",
@@ -4446,7 +4676,8 @@
                 "fastPaced": 2,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108041836
         },
         "81373023": {
             "name": "Loochiverse",
@@ -4463,7 +4694,8 @@
                 "fastPaced": 2,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108088045
         },
         "77255632": {
             "name": "Sink",
@@ -4480,7 +4712,8 @@
                 "wave": 3,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108088950
         },
         "64658786": {
             "name": "Wasureta",
@@ -4497,7 +4730,8 @@
                 "timings": 2,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108090108
         },
         "66291197": {
             "name": "Cybernetic Crescent",
@@ -4514,7 +4748,8 @@
                 "fastPaced": 2,
                 "memory": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108090953
         },
         "39832454": {
             "name": "Gamma",
@@ -4531,7 +4766,8 @@
                 "chokepoints": 3,
                 "cps": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108138879
         },
         "81372683": {
             "name": "RANDOM ACCESS MEMORY",
@@ -4548,7 +4784,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 108139193
         },
         "59539361": {
             "name": "Eternal Moment",
@@ -4565,7 +4802,8 @@
                 "cps": 3,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108140113
         },
         "78164953": {
             "name": "Shutdown",
@@ -4582,7 +4820,8 @@
                 "wave": 3,
                 "timings": 2,
                 "swing": 3
-            }
+            },
+            "startpos-copy": 108140313
         },
         "59209010": {
             "name": "Spectrum Cyclone",
@@ -4599,7 +4838,8 @@
                 "duals": 3,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108140552
         },
         "88421468": {
             "name": "AKIRA",
@@ -4616,7 +4856,8 @@
                 "cps": 1,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108140885
         },
         "68908396": {
             "name": "Frozen Cave",
@@ -4633,7 +4874,8 @@
                 "chokepoints": 2,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108142903
         },
         "38655495": {
             "name": "Plasma Pulse Finale",
@@ -4650,7 +4892,8 @@
                 "fastPaced": 2,
                 "wave": 2,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 108143194
         },
         "52919433": {
             "name": "Arctic Lights",
@@ -4667,7 +4910,8 @@
                 "timings": 2,
                 "memory": 0,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108143322
         },
         "56703691": {
             "name": "Ouroboros",
@@ -4684,7 +4928,8 @@
                 "nerve": 3,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 108143972
         },
         "46763581": {
             "name": "kowareta",
@@ -4701,7 +4946,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 107372486
         },
         "68353244": {
             "name": "Nhelv",
@@ -4718,7 +4964,8 @@
                 "cps": 1,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107372916
         },
         "86412942": {
             "name": "Knights of Thunder",
@@ -4735,7 +4982,8 @@
                 "ship": 2,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107373264
         },
         "77681476": {
             "name": "ATOMIC CANNON",
@@ -4752,12 +5000,14 @@
                 "nerve": 2,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107373479
         },
         "86787878": {
             "name": "Sazerix",
             "difficulty": 10,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 107373669
         },
         "90193093": {
             "name": "Twilight",
@@ -4774,7 +5024,8 @@
                 "fastPaced": 3,
                 "chokepoints": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "76865589": {
             "name": "Terminux",
@@ -4791,7 +5042,8 @@
                 "chokepoints": 2,
                 "duals": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107374043
         },
         "90891227": {
             "name": "Coral Cave",
@@ -4808,7 +5060,8 @@
                 "duals": 0,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107374697
         },
         "42584142": {
             "name": "Bloodlust",
@@ -4825,7 +5078,8 @@
                 "ship": 3,
                 "nerve": 3,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 107374955
         },
         "92466083": {
             "name": "Jupiter My Favorite",
@@ -4842,7 +5096,8 @@
                 "nerve": 1,
                 "memory": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "57828784": {
             "name": "The Rupture",
@@ -4859,7 +5114,8 @@
                 "chokepoints": 3,
                 "cps": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107375573
         },
         "68654380": {
             "name": "Omega Interface",
@@ -4876,7 +5132,8 @@
                 "memory": 2,
                 "wave": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107375676
         },
         "55624478": {
             "name": "Ragnarok",
@@ -4893,7 +5150,8 @@
                 "memory": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107375778
         },
         "71912451": {
             "name": "RUST",
@@ -4910,7 +5168,8 @@
                 "fastPaced": 1,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "52310333": {
             "name": "Lucid Nightmares",
@@ -4927,7 +5186,8 @@
                 "cps": 2,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107376712
         },
         "33498127": {
             "name": "SARY NEVER CLEAR",
@@ -4944,7 +5204,8 @@
                 "memory": 2,
                 "chokepoints": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 107376806
         },
         "76159410": {
             "name": "Cosmic Cyclone",
@@ -4961,7 +5222,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 107376927
         },
         "57600307": {
             "name": "Cognition",
@@ -4978,7 +5240,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 107377004
         },
         "94156085": {
             "name": "shimmer",
@@ -4995,12 +5258,14 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 107377067
         },
         "58355141": {
             "name": "Calculator Core",
             "difficulty": 10,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 107377147
         },
         "88136707": {
             "name": "Sky Shredder",
@@ -5017,7 +5282,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 107377191
         },
         "58161496": {
             "name": "Renevant",
@@ -5034,7 +5300,8 @@
                 "swing": 2,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 107377361
         },
         "45866767": {
             "name": "Crimson Planet",
@@ -5051,7 +5318,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 107377465
         },
         "75813671": {
             "name": "Lotus Flower",
@@ -5068,7 +5336,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 107377603
         },
         "54953085": {
             "name": "Thinking Space",
@@ -5085,7 +5354,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "65588448": {
             "name": "Fragile",
@@ -5102,7 +5372,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "69333212": {
             "name": "Promethean",
@@ -5119,7 +5390,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "88611404": {
             "name": "NEUTRA",
@@ -5136,7 +5408,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "58673581": {
             "name": "Kenos",
@@ -5153,7 +5426,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "78435955": {
             "name": "Esfera",
@@ -5170,7 +5444,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "52374843": {
             "name": "Zodiac",
@@ -5187,7 +5462,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "95176417": {
             "name": "NETWORK",
@@ -5204,7 +5480,8 @@
                 "duals": 2,
                 "cps": 3,
                 "swing": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "93917362": {
             "name": "Delta",
@@ -5221,7 +5498,8 @@
                 "duals": 1,
                 "wave": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "75286957": {
             "name": "Shukketsu",
@@ -5238,7 +5516,8 @@
                 "memory": 2,
                 "cps": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "76543324": {
             "name": "Verdant Landscape",
@@ -5255,7 +5534,8 @@
                 "wave": 2,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "71434979": {
             "name": "Trueffet",
@@ -5272,7 +5552,8 @@
                 "chokepoints": 3,
                 "ship": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "60978746": {
             "name": "The Golden",
@@ -5289,7 +5570,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "72744364": {
             "name": "Hard Machine",
@@ -5306,7 +5588,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "71025973": {
             "name": "Oblivion",
@@ -5323,7 +5606,8 @@
                 "cps": 2,
                 "memory": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "59075347": {
             "name": "Tartarus",
@@ -5340,7 +5624,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "93339534": {
             "name": "Damascus",
@@ -5362,7 +5647,8 @@
                 "cps": 2,
                 "chokepoints": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "89187968": {
             "name": "Edge of Destiny",
@@ -5379,7 +5665,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "81139702": {
             "name": "The Hallucination",
@@ -5413,7 +5700,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "94359172": {
             "name": "COMBUSTION",
@@ -5758,227 +6046,272 @@
         "86880648": {
             "name": "Common S3nse",
             "difficulty": 0,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "startpos-copy": 102995693
         },
         "67904095": {
             "name": "PsyWorm",
             "difficulty": 0,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 89981894
         },
         "58356766": {
             "name": "Desolate Deep",
             "difficulty": 0,
-            "skillsets": ["wave", "chokepoints"]
+            "skillsets": ["wave", "chokepoints"],
+            "startpos-copy": 89981890
         },
         "59331033": {
             "name": "Meow",
             "difficulty": 0,
-            "skillsets": ["flow", "fast-paced"]
+            "skillsets": ["flow", "fast-paced"],
+            "startpos-copy": 0
         },
         "72184562": {
             "name": "Outbreak",
             "difficulty": 0,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 89980779
         },
         "97557638": {
             "name": "Theory of Everything 2",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 89979933
         },
         "97557632": {
             "name": "Clubstep",
             "difficulty": 0,
-            "skillsets": ["ship"]
+            "skillsets": ["ship"],
+            "startpos-copy": 89979610
         },
         "57307363": {
             "name": "neXus",
             "difficulty": 0,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 89979223
         },
         "56587109": {
             "name": "phjork",
             "difficulty": 0,
-            "skillsets": ["fast-paced"]
+            "skillsets": ["fast-paced"],
+            "startpos-copy": 89979028
         },
         "68337412": {
             "name": "Cobalt Ruins",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 89980769
         },
         "33244195": {
             "name": "Adust",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90002221
         },
         "11317271": {
             "name": "Blue Hell",
             "difficulty": 0,
-            "skillsets": ["awkward"]
+            "skillsets": ["awkward"],
+            "startpos-copy": 90002229
         },
         "74735688": {
             "name": "THE HILLS HAVE EYES",
             "difficulty": 0,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 90002246
         },
         "5439175": {
             "name": "Parallel Run",
             "difficulty": 0,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "startpos-copy": 90002249
         },
         "61357205": {
             "name": "deep",
             "difficulty": 0,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 90002254
         },
         "27024880": {
             "name": "Bassboost",
             "difficulty": 1,
-            "skillsets": ["ship", "timings"]
+            "skillsets": ["ship", "timings"],
+            "startpos-copy": 90020895
         },
         "5875660": {
             "name": "Toxic Sewers",
             "difficulty": 1,
-            "skillsets": ["ship"]
+            "skillsets": ["ship"],
+            "startpos-copy": 90020185
         },
         "5433594": {
             "name": "System Split",
             "difficulty": 1,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90018893
         },
         "97557640": {
             "name": "Deadlocked",
             "difficulty": 1,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 90003251
         },
         "30157349": {
             "name": "Space Meow",
             "difficulty": 1,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90020168
         },
         "16500835": {
             "name": "Nemesis",
             "difficulty": 1,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 90018883
         },
         "7705437": {
             "name": "Fear Me",
             "difficulty": 1,
-            "skillsets": ["wave", "memory"]
+            "skillsets": ["wave", "memory"],
+            "startpos-copy": 90023733
         },
         "47611766": {
             "name": "Biru",
             "difficulty": 1,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 90023736
         },
         "33618850": {
             "name": "Mystic Spell",
             "difficulty": 1,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 90023740
         },
         "23595034": {
             "name": "Lightstorm",
             "difficulty": 1,
-            "skillsets": ["timings", "duals"]
+            "skillsets": ["timings", "duals"],
+            "startpos-copy": 90023745
         },
         "58939191": {
             "name": "Red Haze",
             "difficulty": 1,
-            "skillsets": ["flow"]
+            "skillsets": ["flow"],
+            "startpos-copy": 94383030
         },
         "18994125": {
             "name": "48155",
             "difficulty": 1,
-            "skillsets": ["awkward"]
+            "skillsets": ["awkward"],
+            "startpos-copy": 90023762
         },
         "7570320": {
             "name": "Radioactive",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90026052
         },
         "9718024": {
             "name": "Creacionist",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 102622204
         },
         "94610370": {
             "name": "Ring Trick",
             "difficulty": 2,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 102702457
         },
         "62521060": {
             "name": "Zap",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90028684
         },
         "4218933": {
             "name": "The Caverns",
             "difficulty": 2,
-            "skillsets": ["duals", "timings"]
+            "skillsets": ["duals", "timings"],
+            "startpos-copy": 90027471
         },
         "30944062": {
             "name": "ARANEO",
             "difficulty": 2,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 90026097
         },
         "4158642": {
             "name": "Breakthrough",
             "difficulty": 2,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "startpos-copy": 90026085
         },
         "60869851": {
             "name": "prompt",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90026054
         },
         "3273541": {
             "name": "Ascend",
             "difficulty": 2,
-            "skillsets": ["memory", "wave"]
+            "skillsets": ["memory", "wave"],
+            "startpos-copy": 90024323
         },
         "40945673": {
             "name": "CraZy",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90028699
         },
         "4524796": {
             "name": "Curse Calling",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90953906
         },
         "7075386": {
             "name": "Jawbreaker",
             "difficulty": 2,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 90953913
         },
         "4744205": {
             "name": "Neon Overdrive",
             "difficulty": 2,
-            "skillsets": ["fast-paced", "duals"]
+            "skillsets": ["fast-paced", "duals"],
+            "startpos-copy": 90953917
         },
         "6487910": {
             "name": "Rabb2t",
             "difficulty": 2,
-            "skillsets": ["fast-paced", "ship"]
+            "skillsets": ["fast-paced", "ship"],
+            "startpos-copy": 90976243
         },
         "7079009": {
             "name": "Shambler",
             "difficulty": 2,
-            "skillsets": ["awkward", "duals"]
+            "skillsets": ["awkward", "duals"],
+            "startpos-copy": 90976248
         },
         "56509088": {
             "name": "Altair",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 90976250
         },
         "8693225": {
             "name": "Chaoz Airflow",
             "difficulty": 2,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 90976255
         },
         "64161645": {
             "name": "Njorun",
             "difficulty": 2,
-            "skillsets": ["fast-paced", "timings"]
+            "skillsets": ["fast-paced", "timings"],
+            "startpos-copy": 90976256
         },
         "67018065": {
             "name": "TENDO",
@@ -6098,307 +6431,368 @@
         "23409681": {
             "name": "Galaxy Breaker",
             "difficulty": 4,
-            "skillsets": ["wave", "chokepoints"]
+            "skillsets": ["wave", "chokepoints"],
+            "startpos-copy": 94412273
         },
         "61799411": {
             "name": "MINDBREAKER",
             "difficulty": 4,
-            "skillsets": ["timings", "memory"]
+            "skillsets": ["timings", "memory"],
+            "startpos-copy": 113100706
         },
         "65046970": {
             "name": "Apollo 13",
             "difficulty": 4,
-            "skillsets": ["wave", "memory"]
+            "skillsets": ["wave", "memory"],
+            "startpos-copy": 94407775
         },
         "8491232": {
             "name": "UltraSonic",
             "difficulty": 4,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 94410962
         },
         "68786602": {
             "name": "CMYK",
             "difficulty": 4,
-            "skillsets": ["fast-paced", "ship"]
+            "skillsets": ["fast-paced", "ship"],
+            "startpos-copy": 94410970
         },
         "19719196": {
             "name": "Rampage",
             "difficulty": 4,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 94408279
         },
         "13457056": {
             "name": "Plasma Pulse II",
             "difficulty": 4,
-            "skillsets": ["timings", "duals"]
+            "skillsets": ["timings", "duals"],
+            "startpos-copy": 94410966
         },
         "60129422": {
             "name": "Apache",
             "difficulty": 4,
-            "skillsets": ["ship", "duals"]
+            "skillsets": ["ship", "duals"],
+            "startpos-copy": 94408272
         },
         "73725400": {
             "name": "CraZy III",
             "difficulty": 4,
-            "skillsets": ["nerve-control", "timings"]
+            "skillsets": ["nerve-control", "timings"],
+            "startpos-copy": 94412283
         },
         "25147297": {
             "name": "hi",
             "difficulty": 4,
-            "skillsets": ["timings", "nerve-control"]
+            "skillsets": ["timings", "nerve-control"],
+            "startpos-copy": 94413377
         },
         "9700312": {
             "name": "Crimson Clutter",
             "difficulty": 4,
-            "skillsets": ["wave", "chokepoints"]
+            "skillsets": ["wave", "chokepoints"],
+            "startpos-copy": 94413387
         },
         "40299716": {
             "name": "Spectral Tentation",
             "difficulty": 4,
-            "skillsets": ["wave", "fast-paced"]
+            "skillsets": ["wave", "fast-paced"],
+            "startpos-copy": 94413384
         },
         "21256194": {
             "name": "Cosmic Calamity",
             "difficulty": 4,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 94414532
         },
         "34386347": {
             "name": "Subterranean Animism",
             "difficulty": 4,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 94414526
         },
         "26512451": {
             "name": "Gammaray",
             "difficulty": 4,
-            "skillsets": ["wave", "ship"]
+            "skillsets": ["wave", "ship"],
+            "startpos-copy": 94413382
         },
         "87481937": {
             "name": "Hidden in the Sand",
             "difficulty": 5,
-            "skillsets": ["ship", "timings"]
+            "skillsets": ["ship", "timings"],
+            "startpos-copy": 0
         },
         "69459902": {
             "name": "nowdead",
             "difficulty": 5,
-            "skillsets": ["fast-paced", "wave"]
+            "skillsets": ["fast-paced", "wave"],
+            "startpos-copy": 0
         },
         "36449129": {
             "name": "NecropoliX",
             "difficulty": 5,
-            "skillsets": ["timings", "chokepoints"]
+            "skillsets": ["timings", "chokepoints"],
+            "startpos-copy": 0
         },
         "64239577": {
             "name": "Ferrum Frenzy",
             "difficulty": 5,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "39458641": {
             "name": "Awakening Hours",
             "difficulty": 5,
-            "skillsets": ["ship", "duals"]
+            "skillsets": ["ship", "duals"],
+            "startpos-copy": 0
         },
         "78831233": {
             "name": "Reflective",
             "difficulty": 5,
-            "skillsets": ["flow", "wave"]
+            "skillsets": ["flow", "wave"],
+            "startpos-copy": 0
         },
         "30219145": {
             "name": "HyperSonic",
             "difficulty": 5,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "60197839": {
             "name": "Precipitance",
             "difficulty": 5,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "32688321": {
             "name": "Incipient",
             "difficulty": 5,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "48454650": {
             "name": "Penombre",
             "difficulty": 5,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "76196489": {
             "name": "troll level",
             "difficulty": 5,
-            "skillsets": ["memory"]
+            "skillsets": ["memory"],
+            "startpos-copy": 0
         },
         "51393047": {
             "name": "Doop",
             "difficulty": 5,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 0
         },
         "62809982": {
             "name": "Thanatophobia",
             "difficulty": 5,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 0
         },
         "75518661": {
             "name": "Make It Drop",
             "difficulty": 5,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 0
         },
         "7174110": {
             "name": "The Ultimate Phase",
             "difficulty": 5,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 0
         },
         "34379100": {
             "name": "Deception Dive",
             "difficulty": 5,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "32920197": {
             "name": "Twisted Tranquility",
             "difficulty": 5,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "60480035": {
             "name": "Mandragora",
             "difficulty": 5,
-            "skillsets": ["duals", "nerve-control"]
+            "skillsets": ["duals", "nerve-control"],
+            "startpos-copy": 0
         },
         "48020496": {
             "name": "Volume",
             "difficulty": 5,
-            "skillsets": ["wave", "ship"]
+            "skillsets": ["wave", "ship"],
+            "startpos-copy": 0
         },
         "90597607": {
             "name": "Le Midd Mapperoonies",
             "difficulty": 6,
-            "skillsets": ["memory", "nerve-control"]
+            "skillsets": ["memory", "nerve-control"],
+            "startpos-copy": 0
         },
         "66858272": {
             "name": "Goldcrest Palace",
             "difficulty": 6,
-            "skillsets": ["duals"]
+            "skillsets": ["duals"],
+            "startpos-copy": 0
         },
         "57559425": {
             "name": "Concaved Memories",
             "difficulty": 6,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "62551239": {
             "name": "Sigma Interface",
             "difficulty": 6,
-            "skillsets": ["timings", "ship"]
+            "skillsets": ["timings", "ship"],
+            "startpos-copy": 0
         },
         "20077821": {
             "name": "Red World Rebirth",
             "difficulty": 6,
-            "skillsets": ["swing-legacy", "ship"]
+            "skillsets": ["swing-legacy", "ship"],
+            "startpos-copy": 0
         },
         "60257058": {
             "name": "Just DANCE",
             "difficulty": 6,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "67569996": {
             "name": "Adrenaline",
             "difficulty": 7,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 96228437
         },
         "66085306": {
             "name": "DARKENED",
             "difficulty": 7,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 96276284
         },
         "46249401": {
             "name": "Abandoned Planet",
             "difficulty": 7,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 96268048
         },
         "55224007": {
             "name": "distraught",
             "difficulty": 7,
-            "skillsets": ["fast-paced", "wave"]
+            "skillsets": ["fast-paced", "wave"],
+            "startpos-copy": 96268051
         },
         "57430694": {
             "name": "Anoxysm",
             "difficulty": 7,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 96269129
         },
         "68323859": {
             "name": "i hate you",
             "difficulty": 7,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 96268059
         },
         "63560498": {
             "name": "Omicron",
             "difficulty": 8,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 108219742
         },
         "86291702": {
             "name": "Nightmare Chasm",
             "difficulty": 8,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "37255449": {
             "name": "Cadrega City",
             "difficulty": 8,
-            "skillsets": ["timings", "duals"]
+            "skillsets": ["timings", "duals"],
+            "startpos-copy": 0
         },
         "62119245": {
             "name": "Occult Outcry",
             "difficulty": 8,
-            "skillsets": ["timings", "memory"]
+            "skillsets": ["timings", "memory"],
+            "startpos-copy": 0
         },
         "61127840": {
             "name": "Surge of the Shield",
             "difficulty": 8,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "70187443": {
             "name": "CHROMA II",
             "difficulty": 8,
-            "skillsets": ["fast-paced", "wave"]
+            "skillsets": ["fast-paced", "wave"],
+            "startpos-copy": 0
         },
         "27580467": {
             "name": "Hatred",
             "difficulty": 8,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 0
         },
         "74343352": {
             "name": "RGB",
             "difficulty": 8,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "34489220": {
             "name": "Step to Hell",
             "difficulty": 8,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 0
         },
         "58306889": {
             "name": "Tapwreck",
             "difficulty": 8,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 0
         },
         "60603962": {
             "name": "Low Death",
             "difficulty": 8,
-            "skillsets": ["timings", "nerve-control"]
+            "skillsets": ["timings", "nerve-control"],
+            "startpos-copy": 0
         },
         "60740290": {
             "name": "Aquatic Auroras",
             "difficulty": 9,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 108144168
         },
         "91180835": {
             "name": "ATOMIC CANNON Mk II",
             "difficulty": 10,
-            "skillsets": ["high-cps"]
+            "skillsets": ["high-cps"],
+            "startpos-copy": 107375995
         },
         "90597202": {
             "name": "CORRODERE",
             "difficulty": 10,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 107377950
         },
         "63996127": {
             "name": "Cold Sweat",
             "difficulty": 10,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 107378043
         },
         "69685815": {
             "name": "Sonic Wave Infinity",
@@ -6450,7 +6844,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "67818901": {
             "name": "widder",
@@ -6477,7 +6872,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "92751949": {
             "name": "CRUNCHDOWN",
@@ -6594,7 +6990,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "64697194": {
             "name": "Carne Aderunt",
@@ -8266,7 +8663,8 @@
                 "swing": 0,
                 "timings": 0,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "24380303": {
             "name": "Ebb",
@@ -8283,7 +8681,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "68923366": {
             "name": "scissors",
@@ -8300,7 +8699,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "90477539": {
             "name": "Saul Goodman",
@@ -8334,7 +8734,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "88938066": {
             "name": "Vapor",
@@ -8381,7 +8782,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "108141323": {
             "name": "DISSONANCE",
@@ -8398,7 +8800,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "96035641": {
             "name": "Scream Machine",
@@ -8415,7 +8818,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "88233955": {
             "name": "DIRECTIONS",
@@ -8432,7 +8836,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "115151904": {
             "name": "ta1LSD0ll",
@@ -8449,7 +8854,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "96471171": {
             "name": "ConClusion",
@@ -8466,7 +8872,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "106522770": {
             "name": "Dry Out Copyable 2",
@@ -8483,7 +8890,8 @@
                 "swing": 2,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "95767653": {
             "name": "Frost Spirit",
@@ -8500,7 +8908,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "95524621": {
             "name": "Crackhead Circles",
@@ -8517,7 +8926,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "69289606": {
             "name": "Widestep",
@@ -8534,7 +8944,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "97364686": {
             "name": "Lithium",
@@ -8551,7 +8962,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "102243781": {
             "name": "Pootis Engage XTREME",
@@ -8568,7 +8980,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "90853661": {
             "name": "Fog",
@@ -8585,7 +8998,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "102712028": {
             "name": "BarbarosFinaleFinale",
@@ -8602,7 +9016,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "79918576": {
             "name": "Jesse Pinkman",
@@ -8619,7 +9034,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "91816388": {
             "name": "TORN",
@@ -8636,7 +9052,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "89513590": {
             "name": "Dump",
@@ -8653,7 +9070,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "103947139": {
             "name": "LD50",
@@ -8670,7 +9088,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "90420966": {
             "name": "Escape Room",
@@ -8687,7 +9106,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "93155813": {
             "name": "Rigel",
@@ -8704,7 +9124,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "110913375": {
             "name": "Judgement Knights",
@@ -8721,7 +9142,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "99495619": {
             "name": "Destruction 19",
@@ -8738,7 +9160,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "79771070": {
             "name": "Aerial Gleam",
@@ -8755,7 +9178,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "88442157": {
             "name": "Critical Heat",
@@ -8772,7 +9196,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "107741051": {
             "name": "Natural Disaster",
@@ -8789,7 +9214,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "109947627": {
             "name": "BPATA MPAKA",
@@ -8806,7 +9232,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "96083028": {
             "name": "Midnight",
@@ -8823,7 +9250,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "113220284": {
             "name": "The Plunge",
@@ -8840,7 +9268,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "113256247": {
             "name": "Collapse",
@@ -8857,7 +9286,8 @@
                 "swing": 3,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "95998005": {
             "name": "SARYYX NEVER CLEAR",
@@ -8874,7 +9304,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "110500920": {
             "name": "The Yangire",
@@ -8891,7 +9322,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "96314787": {
             "name": "Deadlier Clubstep",
@@ -8984,7 +9416,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "9864147": {
             "name": "Space Circles",
@@ -9001,7 +9434,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "96973689": {
             "name": "BITBLEXIT",
@@ -9018,7 +9452,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "116591597": {
             "name": "Adrenaline Rush",
@@ -9035,7 +9470,8 @@
                 "swing": 1,
                 "timings": 1,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "114703942": {
             "name": "Game Over",
@@ -9052,7 +9488,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "102646926": {
             "name": "Aeternus",
@@ -9201,7 +9638,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "66851981": {
             "name": "Redemption",
@@ -9218,7 +9656,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "108558924": {
             "name": "Maths",
@@ -9235,7 +9674,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "48175126": {
             "name": "Idols",
@@ -9252,7 +9692,8 @@
                 "swing": 2,
                 "timings": 1,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "119550490": {
             "name": "Amethyst",
@@ -9316,7 +9757,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "75232616": {
             "name": "sarthix",
@@ -9333,7 +9775,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "116401475": {
             "name": "Galaxy Gas",
@@ -9350,7 +9793,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "102807047": {
             "name": "Infinite Inversion",
@@ -9367,7 +9811,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "67629705": {
             "name": "Choose a Way",
@@ -9414,7 +9859,8 @@
                 "swing": 1,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "41409797": {
             "name": "Undergound",
@@ -9431,7 +9877,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "36329434": {
             "name": "ZAPHKIEL",
@@ -9448,7 +9895,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "83697006": {
             "name": "Edge of the World",
@@ -9465,7 +9913,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "83914474": {
             "name": "ELLIPSISM",
@@ -9482,7 +9931,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "69871779": {
             "name": "Friday Vortex",
@@ -9499,32 +9949,38 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "18674844": {
             "name": "Cyber Chaos",
             "difficulty": 4,
-            "skillsets": ["timings"]
+            "skillsets": ["timings"],
+            "startpos-copy": 0
         },
         "36099108": {
             "name": "Pulsar",
             "difficulty": 4,
-            "skillsets": ["wave"]
+            "skillsets": ["wave"],
+            "startpos-copy": 0
         },
         "48942548": {
             "name": "Dark Flare",
             "difficulty": 9,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "44022701": {
             "name": "Titan Complex",
             "difficulty": 9,
-            "skillsets": ["nerve-control"]
+            "skillsets": ["nerve-control"],
+            "startpos-copy": 0
         },
         "40292513": {
             "name": "Spacial Rend",
             "difficulty": 9,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "91767011": {
             "name": "Ducky",
@@ -9601,7 +10057,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "82249742": {
             "name": "Sinister Silence",
@@ -9618,7 +10075,8 @@
                 "swing": 1,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "120255728": {
             "name": "Sevvend Clubstep",
@@ -9767,7 +10225,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "85972099": {
             "name": "Shotgun",
@@ -9784,7 +10243,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "112921547": {
             "name": "Venom Valley",
@@ -9801,7 +10261,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 0
         },
         "108963146": {
             "name": "OUTPUT SPRING",
@@ -9818,7 +10279,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "77008332": {
             "name": "gravity",
@@ -9835,7 +10297,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "88913586": {
             "name": "Xronier",
@@ -9852,7 +10315,8 @@
                 "swing": 2,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "80178903": {
             "name": "Call Me Maybe",
@@ -9869,42 +10333,50 @@
                 "swing": 3,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 0
         },
         "60564010": {
             "name": "Aronia",
             "difficulty": 10,
-            "skillsets": ["duals", "timings"]
+            "skillsets": ["duals", "timings"],
+            "startpos-copy": 0
         },
         "73335285": {
             "name": "Static Ignition",
             "difficulty": 8,
-            "skillsets": ["timings", "ship"]
+            "skillsets": ["timings", "ship"],
+            "startpos-copy": 0
         },
         "68848817": {
             "name": "moment",
             "difficulty": 6,
-            "skillsets": ["ship", "wave"]
+            "skillsets": ["ship", "wave"],
+            "startpos-copy": 0
         },
         "57520174": {
             "name": "Artifice",
             "difficulty": 6,
-            "skillsets": ["fast-paced", "nerve-control"]
+            "skillsets": ["fast-paced", "nerve-control"],
+            "startpos-copy": 0
         },
         "68193306": {
             "name": "OPSM1",
             "difficulty": 6,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 0
         },
         "60708767": {
             "name": "Misty Mountains",
             "difficulty": 5,
-            "skillsets": ["timings", "nerve-control"]
+            "skillsets": ["timings", "nerve-control"],
+            "startpos-copy": 0
         },
         "63433024": {
             "name": "reverence",
             "difficulty": 5,
-            "skillsets": ["flow", "wave"]
+            "skillsets": ["flow", "wave"],
+            "startpos-copy": 0
         },
         "94861600": {
             "name": "Winterbliss",
@@ -9951,12 +10423,14 @@
                 "swing": 3,
                 "timings": 1,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "98564977": {
             "name": "Breakout",
             "difficulty": 0,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "84815242": {
             "name": "U L T R A W I D E",
@@ -9973,7 +10447,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 0
         },
         "124585003": {
             "name": "Flow",
@@ -9990,22 +10465,26 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 0
         },
         "52663172": {
             "name": "Crisis Complex",
             "difficulty": 2,
-            "skillsets": ["overall"]
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         },
         "44319716": {
             "name": "Coarse",
             "difficulty": 2,
-            "skillsets": ["fast-paced"]
+            "skillsets": ["fast-paced"],
+            "startpos-copy": 0
         },
         "42200414": {
             "name": "Generic",
             "difficulty": 2,
-            "skillsets": ["timings", "wave"]
+            "skillsets": ["timings", "wave"],
+            "startpos-copy": 0
         },
         "0": {}
     }
