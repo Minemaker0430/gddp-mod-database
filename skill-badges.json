@@ -344,7 +344,7 @@
     "sp-mocha": {
         "display-name": "Mocha",
         "type": "special",
-        "description": "This level was chosen for the 12 Demons of Christmas by Mocha.\\n\\n<cy>Hey! That's me!</c>",
+        "description": "This level was chosen for the 12 Demons of Christmas by Mocha.\n\n<cy>Hey! That's me!</c>",
         "sprite": "DP_Skill_Mocha"
     }
 }
