@@ -263,9 +263,9 @@
     "bonus": [{
         "name": "12 Demons of Christmas (2025)",
         "description": "12 Demons leading up to Christmas, each picked by a different staff member!",
-        "sprite": "DP_Unknown",
+        "sprite": "DP_12DoC2025",
         "saveID": "12doc-2025",
-        "levelIDs": [112770258, 94948299, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        "levelIDs": [112770258, 94948299, 18735780, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }, {
         "name": "12 Demons of Christmas (2024)",
         "description": "We introduce you to 12 Demons of Christmas 2024 Edition!! Following the same rules as the previous 12DoC packs, each day one level chosen by individual List Managers will be revealed until Christmas!",
@@ -759,7 +759,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 119,
+    "database-version": 120,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -10487,12 +10487,18 @@
             "startpos-copy": 0
         },
         "0": {
-            "name": {}
+            "name": {},
+            "skillsets": []
         },
         "94948299": {
             "name": "ricochet",
             "difficulty": 0,
             "skillsets": ["sp-tenu"]
+        },
+        "18735780": {
+            "name": "Dear Nostalgists",
+            "difficulty": 0,
+            "skillsets": ["sp-mocha"]
         }
     }
 }
