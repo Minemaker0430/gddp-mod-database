@@ -344,13 +344,13 @@
     "sp-mocha": {
         "display-name": "Mocha",
         "type": "special",
-        "description": "This level was chosen for the 12 Demons of Christmas by Mocha.\n\n<cy>Hey! That's me!</c>",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Mocha.\n\n<cy>Hey! That's me!</c>",
         "sprite": "DP_Skill_Mocha"
     },
     "sp-corrupted": {
         "display-name": "Corrupted",
         "type": "special",
-        "description": "This level was chosen for the 12 Demons of Christmas by Corrupted.",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Corrupted.",
         "sprite": "DP_Skill_Corrupted"
     }
 }
