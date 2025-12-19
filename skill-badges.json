@@ -352,5 +352,11 @@
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Corrupted.",
         "sprite": "DP_Skill_Corrupted"
+    },
+    "sp-hypurdash": {
+        "display-name": "hypurdash",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Chirtsmas by hypurdash.",
+        "sprite": "DP_Skill_Hypurdash"
     }
 }
