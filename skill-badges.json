@@ -358,5 +358,11 @@
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Chirtsmas by hypurdash.",
         "sprite": "DP_Skill_Hypurdash"
+    },
+    "sp-mauv": {
+        "display-name": "Mauv",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by Mauv.",
+        "sprite": "DP_Skill_Mauv"
     }
 }
