@@ -364,5 +364,11 @@
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Mauv.",
         "sprite": "DP_Skill_Mauv"
+    },
+    "sp-qkitti": {
+        "display-name": "qKitti",
+        "type": "special",
+        "description": "This level was chosen for the Twelve Demons of Christmas by qKitti.",
+        "sprite": "DP_Skill_qKitti"
     }
 }
