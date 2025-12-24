@@ -759,7 +759,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 139,
+    "database-version": 140,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2715,7 +2715,7 @@
                 "cps": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 128635195
         },
         "78385421": {
             "name": "DVP",
@@ -2805,7 +2805,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 119474015
         },
         "66133800": {
             "name": "Blaster",
@@ -2931,7 +2931,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 128634813
         },
         "78397973": {
             "name": "Darkest Highway",
@@ -2949,7 +2949,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 128635004
         },
         "63915746": {
             "name": "The End",
@@ -2985,7 +2985,7 @@
                 "chokepoints": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 94435805
         },
         "3979721": {
             "name": "Cataclysm",
@@ -3003,7 +3003,7 @@
                 "chokepoints": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 94435916
         },
         "85933508": {
             "name": "Lost Love",
@@ -3021,7 +3021,7 @@
                 "fastPaced": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 94435937
         },
         "63775846": {
             "name": "Forbidden Isle",
@@ -3045,7 +3045,7 @@
                 "wave": 2,
                 "swing": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 94436931
         },
         "52527538": {
             "name": "MELTDOWN",
@@ -3069,7 +3069,7 @@
                 "nerve": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 121126682
         },
         "93549959": {
             "name": "Mystic Bounds",
@@ -3111,7 +3111,7 @@
                 "duals": 0,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 126370948
         },
         "92299438": {
             "name": "TUAPEKA",
@@ -3129,7 +3129,7 @@
                 "nerve": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 126779798
         },
         "76931927": {
             "name": "I NEVER DREAM",
@@ -3147,7 +3147,7 @@
                 "chokepoints": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 127988398
         },
         "88172786": {
             "name": "Robi",
@@ -3165,7 +3165,7 @@
                 "fastPaced": 0,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 127988389
         },
         "65561437": {
             "name": "Napalm",
@@ -3183,7 +3183,7 @@
                 "fastPaced": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 94446926
         },
         "81944593": {
             "name": "Semicolon 3",
@@ -3201,7 +3201,7 @@
                 "timings": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 126779791
         },
         "88853479": {
             "name": "cerebral hemorrhage",
@@ -3219,7 +3219,7 @@
                 "cps": 1,
                 "swing": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 127988393
         },
         "38550757": {
             "name": "Artificial Dream",
@@ -3243,7 +3243,7 @@
                 "timings": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 113934302
         },
         "73005068": {
             "name": "sunburn",
@@ -3261,7 +3261,7 @@
                 "chokepoints": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 127988383
         },
         "65633532": {
             "name": "Daydream",
@@ -3285,7 +3285,7 @@
                 "fastPaced": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 94448319
         },
         "60726930": {
             "name": "HURRICANE",
@@ -3303,7 +3303,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 94448322
         },
         "84766628": {
             "name": "Cat Planet",
@@ -4245,7 +4245,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 117467750
         },
         "79242390": {
             "name": "vaenstep",
@@ -4281,7 +4281,7 @@
                 "wave": 0,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 96269124
         },
         "38754426": {
             "name": "Killbot",
@@ -4317,7 +4317,7 @@
                 "cps": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117562819
         },
         "89876243": {
             "name": "FIREPOWER",
@@ -4353,7 +4353,7 @@
                 "wave": 0,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117713174
         },
         "81906166": {
             "name": "Retention Rush",
@@ -4371,7 +4371,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 117565399
         },
         "45094581": {
             "name": "Delta Interface",
@@ -4407,7 +4407,7 @@
                 "timings": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117566221
         },
         "37456092": {
             "name": "Digital Descent",
@@ -4425,7 +4425,7 @@
                 "nerve": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117714197
         },
         "83164497": {
             "name": "Apollo 11",
@@ -4443,7 +4443,7 @@
                 "wave": 0,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117715372
         },
         "62817170": {
             "name": "Lucid Chaos",
@@ -4461,7 +4461,7 @@
                 "timings": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117717755
         },
         "50333567": {
             "name": "Catalyze",
@@ -4479,7 +4479,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 117808377
         },
         "84960998": {
             "name": "ConFusion",
@@ -4497,7 +4497,7 @@
                 "wave": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117809090
         },
         "62869408": {
             "name": "Chromatic Haze",
@@ -4533,7 +4533,7 @@
                 "timings": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 117809416
         },
         "55547703": {
             "name": "Sunset Sandstorm",
@@ -5169,7 +5169,7 @@
                 "chokepoints": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 107376637
         },
         "52310333": {
             "name": "Lucid Nightmares",
@@ -5355,7 +5355,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 125692895
         },
         "65588448": {
             "name": "Fragile",
@@ -5391,7 +5391,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 125279745
         },
         "88611404": {
             "name": "NEUTRA",
@@ -5463,7 +5463,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 117429665
         },
         "95176417": {
             "name": "NETWORK",
@@ -5589,7 +5589,7 @@
                 "timings": 3,
                 "wave": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 125903021
         },
         "71025973": {
             "name": "Oblivion",
@@ -5683,7 +5683,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "86084399": {
             "name": "LIMBO",
@@ -5718,7 +5719,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "90390075": {
             "name": "Solar Flare",
@@ -5735,7 +5737,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "89414220": {
             "name": "MINUSdry",
@@ -5752,7 +5755,8 @@
                 "memory": 1,
                 "ship": 3,
                 "swing": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "95851008": {
             "name": "Eyes in the Water",
@@ -5769,7 +5773,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": {}
         },
         "75206202": {
             "name": "Firework",
@@ -5786,7 +5791,8 @@
                 "fastPaced": 2,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "93091893": {
             "name": "Deimos",
@@ -5803,7 +5809,8 @@
                 "memory": 1,
                 "fastPaced": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "107805281": {
             "name": "Menace",
@@ -5820,7 +5827,8 @@
                 "swing": 3,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "27690100": {
             "name": "Slaughterhouse",
@@ -5837,7 +5845,8 @@
                 "cps": 3,
                 "timings": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "86018142": {
             "name": "Kyouki",
@@ -5854,7 +5863,8 @@
                 "nerve": 2,
                 "ship": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "49896559": {
             "name": "Abyss of Darkness",
@@ -5871,7 +5881,8 @@
                 "cps": 1,
                 "duals": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "110815379": {
             "name": "Spectre",
@@ -5888,7 +5899,8 @@
                 "swing": 1,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "4125776": {
             "name": "Silent clubstep",
@@ -5905,7 +5917,8 @@
                 "memory": 2,
                 "timings": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "73667628": {
             "name": "Acheron",
@@ -5922,7 +5935,8 @@
                 "memory": 1,
                 "nerve": 2,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "112313819": {
             "name": "Anathema",
@@ -5939,7 +5953,8 @@
                 "swing": 2,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 118872981
         },
         "89496627": {
             "name": "Avernus",
@@ -5956,7 +5971,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 118876727
         },
         "86407629": {
             "name": "Tidal Wave",
@@ -5973,7 +5989,8 @@
                 "timings": 2,
                 "nerve": 3,
                 "swing": 0
-            }
+            },
+            "startpos-copy": 118874415
         },
         "73902225": {
             "name": "Doom Fractal",
@@ -5990,7 +6007,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "66424234": {
             "name": "Dystopia",
@@ -6007,7 +6025,8 @@
                 "memory": 1,
                 "ship": 3,
                 "swing": 1
-            }
+            },
+            "startpos-copy": {}
         },
         "77049802": {
             "name": "The Nautical (Unnerfed)",
@@ -6024,7 +6043,8 @@
                 "duals": 1,
                 "timings": 1,
                 "swing": 0
-            }
+            },
+            "startpos-copy": {}
         },
         "78614226": {
             "name": "Silent Clubstep II",
@@ -6041,7 +6061,8 @@
                 "memory": 2,
                 "duals": 1,
                 "swing": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "86880648": {
             "name": "Common S3nse",
@@ -8717,7 +8738,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "79238456": {
             "name": "BRAINPOWER",
@@ -8801,7 +8823,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 125904031
         },
         "96035641": {
             "name": "Scream Machine",
@@ -8819,7 +8841,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 125901977
         },
         "88233955": {
             "name": "DIRECTIONS",
@@ -8837,7 +8859,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 125689806
         },
         "115151904": {
             "name": "ta1LSD0ll",
@@ -8855,7 +8877,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 125691213
         },
         "96471171": {
             "name": "ConClusion",
@@ -8873,7 +8895,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 125692271
         },
         "106522770": {
             "name": "Dry Out Copyable 2",
@@ -8891,7 +8913,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 125900928
         },
         "95767653": {
             "name": "Frost Spirit",
@@ -8909,7 +8931,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 125829427
         },
         "95524621": {
             "name": "Crackhead Circles",
@@ -8927,7 +8949,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 125694272
         },
         "69289606": {
             "name": "Widestep",
@@ -8945,7 +8967,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 125902382
         },
         "97364686": {
             "name": "Lithium",
@@ -8981,7 +9003,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 118726793
         },
         "90853661": {
             "name": "Fog",
@@ -8999,7 +9021,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 119674961
         },
         "102712028": {
             "name": "BarbarosFinaleFinale",
@@ -9071,7 +9093,7 @@
                 "timings": 3,
                 "wave": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 118725120
         },
         "103947139": {
             "name": "LD50",
@@ -9340,7 +9362,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": {}
         },
         "114283297": {
             "name": "andromeda",
@@ -9357,7 +9380,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 118537854
         },
         "116174063": {
             "name": "Every End",
@@ -9374,7 +9398,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 118534969
         },
         "102712977": {
             "name": "In Visible",
@@ -9417,7 +9442,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 126204431
         },
         "9864147": {
             "name": "Space Circles",
@@ -9506,7 +9531,8 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "92922586": {
             "name": "howconfusingisthelvl",
@@ -9523,7 +9549,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "111680151": {
             "name": "FAIRY KNIFE HELL",
@@ -9540,7 +9567,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 128353970
         },
         "118059486": {
             "name": "WORLD RENDER",
@@ -9557,7 +9585,8 @@
                 "swing": 1,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "31325851": {
             "name": "Exasperation",
@@ -9574,7 +9603,8 @@
                 "swing": 1,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": 128354086
         },
         "102135018": {
             "name": "ANGELICIDE",
@@ -9591,7 +9621,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "113464561": {
             "name": "Lovers Sadness",
@@ -9639,7 +9670,7 @@
                 "timings": 1,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 121126190
         },
         "66851981": {
             "name": "Redemption",
@@ -9657,7 +9688,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 121126480
         },
         "108558924": {
             "name": "Maths",
@@ -9675,7 +9706,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 126204447
         },
         "48175126": {
             "name": "Idols",
@@ -9693,7 +9724,7 @@
                 "timings": 1,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 122890331
         },
         "119550490": {
             "name": "Amethyst",
@@ -9710,7 +9741,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "88108583": {
             "name": "MINIMUM",
@@ -9878,7 +9910,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 128634369
         },
         "36329434": {
             "name": "ZAPHKIEL",
@@ -9896,7 +9928,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 125578125
         },
         "83697006": {
             "name": "Edge of the World",
@@ -9950,7 +9982,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 117716557
         },
         "18674844": {
             "name": "Cyber Chaos",
@@ -10093,7 +10125,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "114999625": {
             "name": "Operation Evolution",
@@ -10110,7 +10143,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": {}
         },
         "94969889": {
             "name": "Belladonna",
@@ -10127,7 +10161,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": {}
         },
         "91351939": {
             "name": "Tunnel of Despair",
@@ -10144,7 +10179,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "119544028": {
             "name": "Thinking Space II",
@@ -10161,7 +10197,8 @@
                 "swing": 2,
                 "timings": 2,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "126242564": {
             "name": "Flamewall",
@@ -10178,7 +10215,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "72496590": {
             "name": "egg",
