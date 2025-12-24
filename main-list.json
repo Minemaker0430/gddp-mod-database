@@ -265,7 +265,7 @@
         "description": "12 Demons leading up to Christmas, each picked by a different staff member!",
         "sprite": "DP_12DoC2025",
         "saveID": "12doc-2025",
-        "levelIDs": [112770258, 94948299, 18735780, 67978311, 92417063, 69867020, 90408422, 4192768, 76842157, 4545425, 0, 0]
+        "levelIDs": [112770258, 94948299, 18735780, 67978311, 92417063, 69867020, 90408422, 4192768, 76842157, 4545425, 38306937, 0]
     }, {
         "name": "12 Demons of Christmas (2024)",
         "description": "We introduce you to 12 Demons of Christmas 2024 Edition!! Following the same rules as the previous 12DoC packs, each day one level chosen by individual List Managers will be revealed until Christmas!",
@@ -759,7 +759,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 135,
+    "database-version": 136,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -10523,6 +10523,11 @@
             "name": "Stalemate",
             "difficulty": 3,
             "skillsets": ["sp-landet"]
+        },
+        "38306937": {
+            "name": "Buff This",
+            "difficulty": 4,
+            "skillsets": ["sp-hypurdash"]
         }
     }
 }
