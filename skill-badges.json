@@ -303,7 +303,7 @@
         "display-name": "Landet",
         "type": "special",
         "description": "This level was chosen for the Twelve Demons of Christmas by Landet.",
-        "sprite": "DP_Skill_GenericUser"
+        "sprite": "DP_Skill_Landet"
     },
     "sp-tortur": {
         "display-name": "tortur",
