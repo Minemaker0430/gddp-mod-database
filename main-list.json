@@ -759,7 +759,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 140,
+    "database-version": 141,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5720,7 +5720,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 125353145
         },
         "90390075": {
             "name": "Solar Flare",
@@ -5792,7 +5792,7 @@
                 "nerve": 2,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 126503906
         },
         "93091893": {
             "name": "Deimos",
@@ -10180,7 +10180,7 @@
                 "timings": 3,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 127738871
         },
         "119544028": {
             "name": "Thinking Space II",
