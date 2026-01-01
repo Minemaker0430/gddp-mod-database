@@ -430,6 +430,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "Balls Pack",
+        "description": "We balling. (GDDP Monthly Pack for January 2026)",
+        "sprite": "DP_January",
+        "month": 1,
+        "year": 2026,
+        "levelIDs": [76749204, 78061371, 74594851, 114429139, 74178936, 104336808]
+    }, {
         "name": "The Winter Pack",
         "description": "Grab some hot cocoa, snuggle under the covers, and play some GD classics. :) (GDDP Monthly Pack for December 2025)",
         "sprite": "DP_December",
@@ -759,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 142,
+    "database-version": 144,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -10568,6 +10575,36 @@
             "name": "Devils Disco",
             "difficulty": 5,
             "skillsets": ["sp-landet"]
+        },
+        "104336808": {
+            "name": "V O L L E Y",
+            "difficulty": 5,
+            "skillsets": ["ball", "learny"]
+        },
+        "74178936": {
+            "name": "Dust",
+            "difficulty": 3,
+            "skillsets": ["ball", "memory"]
+        },
+        "114429139": {
+            "name": "my balls are fragile",
+            "difficulty": 2,
+            "skillsets": ["ball", "plat-gimmicky"]
+        },
+        "74594851": {
+            "name": "mind control coral",
+            "difficulty": 1,
+            "skillsets": ["ball", "speed-changes"]
+        },
+        "78061371": {
+            "name": "Stylish",
+            "difficulty": 0,
+            "skillsets": ["ball", "duals"]
+        },
+        "76749204": {
+            "name": "beban",
+            "difficulty": 0,
+            "skillsets": ["ball", "chokepoints"]
         }
     }
 }
