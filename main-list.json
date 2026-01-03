@@ -766,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 144,
+    "database-version": 145,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -6015,7 +6015,7 @@
                 "timings": 3,
                 "wave": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 130651015
         },
         "66424234": {
             "name": "Dystopia",
@@ -6033,7 +6033,7 @@
                 "ship": 3,
                 "swing": 1
             },
-            "startpos-copy": {}
+            "startpos-copy": 130661804
         },
         "77049802": {
             "name": "The Nautical (Unnerfed)",
@@ -6051,7 +6051,7 @@
                 "timings": 1,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 130664307
         },
         "78614226": {
             "name": "Silent Clubstep II",
@@ -6069,7 +6069,7 @@
                 "duals": 1,
                 "swing": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 130651007
         },
         "86880648": {
             "name": "Common S3nse",
@@ -9629,7 +9629,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 130664522
         },
         "113464561": {
             "name": "Lovers Sadness",
