@@ -766,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 147,
+    "database-version": 148,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -3094,7 +3094,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 126204467
         },
         "83801688": {
             "name": "Miscellaneous Memory",
@@ -9172,7 +9172,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 130055256
         },
         "99495619": {
             "name": "Destruction 19",
@@ -9797,7 +9797,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 126204415
         },
         "75232616": {
             "name": "sarthix",
@@ -9815,7 +9815,7 @@
                 "timings": 3,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 127988386
         },
         "116401475": {
             "name": "Galaxy Gas",
