@@ -766,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 149,
+    "database-version": 150,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9749,7 +9749,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 131194880
         },
         "88108583": {
             "name": "MINIMUM",
@@ -9899,7 +9899,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 131195975
         },
         "41409797": {
             "name": "Undergound",
@@ -10205,7 +10205,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 131195146
         },
         "126242564": {
             "name": "Flamewall",
@@ -10223,7 +10223,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": {}
+            "startpos-copy": 131195053
         },
         "72496590": {
             "name": "egg",
