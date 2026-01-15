@@ -766,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 154,
+    "database-version": 155,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5853,7 +5853,7 @@
                 "timings": 2,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 131462666
         },
         "86018142": {
             "name": "Kyouki",
