@@ -766,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 153,
+    "database-version": 154,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5416,7 +5416,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 131461621
         },
         "58673581": {
             "name": "Kenos",
@@ -5452,7 +5452,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 131461614
         },
         "52374843": {
             "name": "Zodiac",
@@ -8812,7 +8812,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 131461616
         },
         "108141323": {
             "name": "DISSONANCE",
@@ -8992,7 +8992,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 131461623
         },
         "102243781": {
             "name": "Pootis Engage XTREME",
