@@ -766,7 +766,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 157,
+    "database-version": 158,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -8746,7 +8746,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 131622802
         },
         "79238456": {
             "name": "BRAINPOWER",
