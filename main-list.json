@@ -21,7 +21,7 @@
         "sprite": "DP_Silver",
         "plusSprite": "DP_SilverPlus",
         "saveID": "silver",
-        "levelIDs": [63075323, 60084691, 7887341, 4284013, 62909889, 59315849, 38445559, 68923366, 94610603, 11607707, 84815242, 79862130, 64618054, 67461519, 1299298, 65768845, 71220097, 7892386, 62923992, 15855959, 62028241, 82210980, 124585003, 77884727, 78528225],
+        "levelIDs": [63075323, 105448036, 60084691, 7887341, 4284013, 62909889, 59315849, 85143676, 38445559, 124166764, 68923366, 94610603, 11607707, 84815242, 79862130, 64618054, 67461519, 45176872, 62028241, 7892386, 65768845, 62923992, 71220097, 15855959, 79747970, 18156693, 82210980, 124585003, 77884727, 78528225],
         "reqLevels": 11
     }, {
         "name": "Gold",
@@ -150,7 +150,7 @@
         "sprite": "DP_Silver",
         "plusSprite": "DP_SilverPlus",
         "saveID": "legacy-silver",
-        "levelIDs": [42200414, 13643591, 44319716, 52663172, 82015235, 7570320, 9718024, 94610370, 62521060, 4218933, 30944062, 4158642, 60869851, 3273541, 40945673, 4524796, 7075386, 4744205, 6487910, 7079009, 56509088, 8693225, 64161645],
+        "levelIDs": [1299298, 42200414, 13643591, 44319716, 52663172, 82015235, 7570320, 9718024, 94610370, 62521060, 4218933, 30944062, 4158642, 60869851, 3273541, 40945673, 4524796, 7075386, 4744205, 6487910, 7079009, 56509088, 8693225, 64161645],
         "mainPack": 2
     }, {
         "name": "Legacy Gold",
@@ -753,7 +753,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 165,
+    "database-version": 166,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1910,18 +1910,6 @@
             "name": "Deadly ClubStep",
             "difficulty": 2,
             "skillsets": ["timings", "memory"],
-            "xp": {
-                "cps": 1,
-                "wave": 0,
-                "ship": 2,
-                "chokepoints": 2,
-                "duals": 0,
-                "timings": 2,
-                "memory": 2,
-                "nerve": 2,
-                "fastPaced": 1,
-                "swing": 0
-            },
             "startpos-copy": 90027465
         },
         "65768845": {
@@ -9363,7 +9351,19 @@
         "85143676": {
             "name": "Mechanical RootS",
             "difficulty": 2,
-            "skillsets": ["memory", "timings"]
+            "skillsets": ["memory", "timings"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 0,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 0
+            }
         },
         "90852190": {
             "name": "weaves of origin",
@@ -10704,6 +10704,91 @@
             "name": "The Old Trail",
             "difficulty": 6,
             "skillsets": ["duals", "timings"]
+        },
+        "105448036": {
+            "name": "lochness",
+            "difficulty": 2,
+            "skillsets": ["ship", "timings"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 3,
+                "wave": 0
+            }
+        },
+        "124166764": {
+            "name": "Stellar Sands",
+            "difficulty": 2,
+            "skillsets": ["swing"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 0,
+                "swing": 3,
+                "timings": 2,
+                "wave": 0
+            }
+        },
+        "45176872": {
+            "name": "Rothman Adventures",
+            "difficulty": 2,
+            "skillsets": ["high-cps"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
+        },
+        "79747970": {
+            "name": "theyaremanycolors",
+            "difficulty": 2,
+            "skillsets": ["nerve-control", "fast-paced"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 0,
+                "timings": 1,
+                "wave": 2
+            }
+        },
+        "18156693": {
+            "name": "Chrono Sanctuary",
+            "difficulty": 2,
+            "skillsets": ["overall"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 2,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         }
     }
 }
