@@ -403,6 +403,13 @@
         "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
     }],
     "monthly": [{
+        "name": "The Biome Pack",
+        "description": "O'er the hills, and far away, lying down upon the earth. Biomes o' Plenty for those to explore. March 2026",
+        "sprite": "DP_March",
+        "month": 3,
+        "year": 2026,
+        "levelIDs": [110535166, 124595188, 125132045, 24318979, 115116517, 94690267]
+    }, {
         "name": "Interstellar Pack",
         "description": "The critically acclaimed 2014 Sci-Fi movie (GDDP Monthly Pack for February 2026)",
         "sprite": "DP_February",
@@ -746,7 +753,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 161,
+    "database-version": 165,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -10667,6 +10674,36 @@
                 "timings": 3,
                 "wave": 1
             }
+        },
+        "110535166": {
+            "name": "Electric Algal Bloom",
+            "difficulty": 0,
+            "skillsets": ["learny"]
+        },
+        "124595188": {
+            "name": "Neptunes Path",
+            "difficulty": 0,
+            "skillsets": ["overall"]
+        },
+        "125132045": {
+            "name": "pivo",
+            "difficulty": 1,
+            "skillsets": ["overall"]
+        },
+        "24318979": {
+            "name": "Forests Of Sherwood",
+            "difficulty": 2,
+            "skillsets": ["overall"]
+        },
+        "115116517": {
+            "name": "OCCCCCO",
+            "difficulty": 3,
+            "skillsets": ["nerve-control", "learny"]
+        },
+        "94690267": {
+            "name": "The Old Trail",
+            "difficulty": 6,
+            "skillsets": ["duals", "timings"]
         }
     }
 }
