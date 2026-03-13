@@ -6,7 +6,12 @@
         "plusSprite": "DP_BeginnerPlus",
         "saveID": "beginner",
         "levelIDs": [65765662, 3543219, 63087691, 9864147, 80433444, 105383537, 7116121, 75603568, 1360404, 17235008, 38514054, 76564776, 89652282, 96973689, 123617195, 8660411, 116591597, 68061608, 104151099, 15619194, 114703942, 106696944, 111286661, 2997354, 82622155, 27912428, 81742215, 70444933, 77428474, 72810041],
-        "reqLevels": 13
+        "reqLevels": 13,
+        "textEffects": {
+            "textColor": [0, 134, 168],
+            "gradientColor": [0, 255, 228],
+            "gradient": true
+        }
     }, {
         "name": "Bronze",
         "description": "Entering Medium Demon territory. Things are getting a bit harder, and more focus is required. Beat 12 Medium Demons to achieve this rank!",
@@ -14,7 +19,13 @@
         "plusSprite": "DP_BronzePlus",
         "saveID": "bronze",
         "levelIDs": [74449, 71114971, 24380303, 77492867, 27786218, 78079575, 77614559, 79238456, 58002670, 67113181, 86155700, 102824936, 62133870, 98065104, 7016598, 83444471, 100417573, 76158198, 47853491, 14975695, 18834999, 86665617, 43010906, 63454942, 23300671, 110790559, 99220012, 25706351, 3471703, 9287687],
-        "reqLevels": 12
+        "reqLevels": 12,
+        "textEffects": {
+            "textColor": [121, 66, 0],
+            "gradientColor": [255, 81, 0],
+            "gradient": true,
+            "bevel": true
+        }
     }, {
         "name": "Silver",
         "description": "The Silver tier introduces you to more visibly confusing levels, with a lot of flashing decoration and fake structures. This will definitely come in handy later on!",
@@ -22,7 +33,13 @@
         "plusSprite": "DP_SilverPlus",
         "saveID": "silver",
         "levelIDs": [63075323, 105448036, 60084691, 7887341, 4284013, 62909889, 59315849, 85143676, 38445559, 124166764, 68923366, 94610603, 11607707, 84815242, 79862130, 64618054, 67461519, 45176872, 62028241, 7892386, 65768845, 62923992, 71220097, 15855959, 79747970, 18156693, 82210980, 124585003, 77884727, 78528225],
-        "reqLevels": 11
+        "reqLevels": 11,
+        "textEffects": {
+            "textColor": [189, 189, 189],
+            "gradientColor": [78, 78, 78],
+            "gradient": true,
+            "bevel": true
+        }
     }, {
         "name": "Gold",
         "description": "Timings are getting tougher, spaces become tighter, but you pushed through! You are now ready to take on the higher end Insane Demons, GL!",
@@ -30,7 +47,13 @@
         "plusSprite": "DP_GoldPlus",
         "saveID": "gold",
         "levelIDs": [4957691, 36667269, 76866307, 65496280, 9653767, 110711884, 7005127, 86925233, 56568010, 84324862, 110653463, 68372319, 68983167, 89423740, 72240540, 78602801, 63500550, 5155022, 15395840, 75806677, 45111047, 67069282, 63245954, 43008397, 17312229],
-        "reqLevels": 10
+        "reqLevels": 10,
+        "textEffects": {
+            "textColor": [255, 255, 0],
+            "gradientColor": [255, 196, 0],
+            "gradient": true,
+            "bevel": true
+        }
     }, {
         "name": "Amber",
         "description": "Like Gold, Insane Demons, but much harder >:D Get this, and you will be well prepared for the Extreme Demons!",
@@ -38,7 +61,14 @@
         "plusSprite": "DP_AmberPlus",
         "saveID": "amber",
         "levelIDs": [59948178, 13579851, 61137742, 2241592, 33405303, 36834813, 68662732, 84064573, 41409797, 61529436, 90677710, 78385421, 26441161, 61366260, 68688822, 68718751, 66133800, 96604457, 55454745, 65894695, 814678, 79428382, 89865688, 78397973, 63915746],
-        "reqLevels": 9
+        "reqLevels": 9,
+        "textEffects": {
+            "textColor": [255, 123, 0],
+            "gradientColor": [255, 212, 0],
+            "gradient": true,
+            "gradientType": "radial",
+            "bevel": true
+        }
     }, {
         "name": "Platinum",
         "description": "Welcome to the Extreme Demon club! This rank is quite a lot above the average GD player and you should feel super proud of yourself. GG.",
@@ -46,7 +76,13 @@
         "plusSprite": "DP_PlatinumPlus",
         "saveID": "platinum",
         "levelIDs": [61079355, 93549959, 109513812, 102352215, 66851981, 85933508, 3979721, 92782493, 20761188, 89201076, 85972099, 108558924, 71728635, 92299438, 76931927, 88172786, 65561437, 81944593, 88853479, 18697406, 73005068, 60726930, 88940074, 75232616, 91795562],
-        "reqLevels": 8
+        "reqLevels": 8,
+        "textEffects": {
+            "textColor": [100, 64, 168],
+            "gradientColor": [202, 156, 255],
+            "gradient": true,
+            "bevel": true
+        }
     }, {
         "name": "Sapphire",
         "description": "This is where things really start to step up in difficulty. Beat 7 of the levels to achieve the Sapphire rank, and earn bragging rights to your friends c:",
@@ -54,7 +90,15 @@
         "plusSprite": "DP_SapphirePlus",
         "saveID": "sapphire",
         "levelIDs": [83570278, 84829178, 30194711, 82148336, 83357887, 33748382, 112921547, 116401475, 83340498, 54588072, 48175126, 81281891, 92245045, 59899374, 108963146, 77008332, 64148732, 70252932, 10565740, 102807047, 23262780, 70406732, 59933468, 35448603, 19759411],
-        "reqLevels": 7
+        "reqLevels": 7,
+        "textEffects": {
+            "textColor": [0, 0, 255],
+            "gradientColor": [0, 122, 255],
+            "crystalColor": [110, 170, 255],
+            "gradient": true,
+            "bevel": true,
+            "crystal": true
+        }
     }, {
         "name": "Jade",
         "description": "This tier shows just how far you have gone, how far you can go, and how well you have done. Congrats and carry on!",
@@ -62,7 +106,15 @@
         "plusSprite": "DP_JadePlus",
         "saveID": "jade",
         "levelIDs": [60289382, 79665466, 91267754, 36107975, 85317764, 97235578, 41149984, 69507105, 70484097, 58507437, 72873416, 26133601, 33387622, 57047374, 81548163, 78248443, 58417850, 55385816, 78007735, 57121503, 44773500, 73733373, 60130895, 61531210, 38235367],
-        "reqLevels": 6
+        "reqLevels": 6,
+        "textEffects": {
+            "textColor": [0, 130, 100],
+            "gradientColor": [0, 255, 200],
+            "crystalColor": [180, 255, 200],
+            "gradient": true,
+            "bevel": true,
+            "crystal": true
+        }
     }, {
         "name": "Emerald",
         "description": "This is not an easy feat. You are now getting used to longer levels, crammed with timings and hard sections! Great Job.",
@@ -70,7 +122,15 @@
         "plusSprite": "DP_EmeraldPlus",
         "saveID": "emerald",
         "levelIDs": [34057654, 85393418, 95281931, 58252259, 73645039, 27122654, 55610687, 79242390, 81429222, 38754426, 79922944, 89876243, 79484035, 81906166, 45094581, 37398911, 36329434, 37456092, 88913586, 83164497, 62817170, 50333567, 84960998, 62869408, 65969451],
-        "reqLevels": 6
+        "reqLevels": 6,
+        "textEffects": {
+            "textColor": [0, 150, 0],
+            "gradientColor": [0, 255, 0],
+            "crystalColor": [180, 255, 180],
+            "gradient": true,
+            "bevel": true,
+            "crystal": true
+        }
     }, {
         "name": "Ruby",
         "description": "You have now passed some of the old legendary levels in this game. You show true perseverance and strength!",
@@ -78,7 +138,15 @@
         "plusSprite": "DP_RubyPlus",
         "saveID": "ruby",
         "levelIDs": [81373023, 55547703, 83107375, 31462941, 69871779, 81535535, 74840882, 28220417, 77310650, 26681070, 77255632, 64658786, 66291197, 83914474, 39832454, 81372683, 59539361, 78164953, 59209010, 88421468, 68908396, 83697006, 38655495, 52919433, 56703691],
-        "reqLevels": 5
+        "reqLevels": 5,
+        "textEffects": {
+            "textColor": [150, 0, 0],
+            "gradientColor": [255, 0, 0],
+            "crystalColor": [255, 180, 180],
+            "gradient": true,
+            "bevel": true,
+            "crystal": true
+        }
     }, {
         "name": "Diamond",
         "description": "At this point, you are ready for everything. Not a lot of players have the skill or patience to go for this.",
@@ -86,7 +154,15 @@
         "plusSprite": "DP_DiamondPlus",
         "saveID": "diamond",
         "levelIDs": [89513590, 46763581, 68353244, 86412942, 77681476, 102243781, 90853661, 90193093, 102712028, 76865589, 79918576, 91816388, 42584142, 103947139, 90420966, 92466083, 57828784, 55624478, 68654380, 90891227, 52310333, 71912451, 80178903, 93155813, 33498127],
-        "reqLevels": 4
+        "reqLevels": 4,
+        "textEffects": {
+            "textColor": [0, 50, 75],
+            "gradientColor": [0, 255, 255],
+            "crystalColor": [155, 255, 255],
+            "gradient": true,
+            "bevel": true,
+            "crystal": true
+        }
     }, {
         "name": "Pearl",
         "description": "You have defeated many modern classics, pushing through barriers once considered impossible. Continue climbing your way to the top.",
@@ -94,7 +170,13 @@
         "plusSprite": "DP_PearlPlus",
         "saveID": "pearl",
         "levelIDs": [115151904, 76159410, 57600307, 88233955, 45866767, 94156085, 88136707, 96471171, 58161496, 54953085, 69333212, 106522770, 95767653, 75813671, 96035641, 95524621, 69289606, 72744364, 97364686, 110913375, 108141323, 105625871, 52374843, 88611404, 78435955],
-        "reqLevels": 3
+        "reqLevels": 3,
+        "textEffects": {
+            "textColor": [255, 155, 255],
+            "outlineColor": [255, 255, 255],
+            "gradient": true,
+            "crystal": true
+        }
     }, {
         "name": "Onyx",
         "description": "You are now among the top players. This is a great time to thank all your friends and family.",
@@ -102,7 +184,16 @@
         "plusSprite": "DP_OnyxPlus",
         "saveID": "onyx",
         "levelIDs": [99495619, 65588448, 58673581, 71434979, 79771070, 88442157, 75286957, 95176417, 76543324, 60978746, 90057148, 71025973, 107741051, 109947627, 93917362, 59075347, 72315402, 82249742, 96083028, 110500920, 113220284, 95998005, 113256247, 86084399, 89187968],
-        "reqLevels": 3
+        "reqLevels": 3,
+        "textEffects": {
+            "textColor": [50, 50, 50],
+            "outlineColor": [255, 255, 255],
+            "gradientColor": [150, 150, 150],
+            "crystalColor": [255, 255, 230],
+            "crystalOpacity": 0.5,
+            "gradient": true,
+            "crystal": true
+        }
     }, {
         "name": "Amethyst",
         "description": "You have now proved the impossible. Your skill is unmatched!",
@@ -110,7 +201,18 @@
         "plusSprite": "DP_AmethystPlus",
         "saveID": "amethyst",
         "levelIDs": [90390075, 96314787, 94359172, 81139702, 120255728, 114999625, 94969889, 89414220, 90477539, 95851008, 75206202, 93091893, 27690100, 86018142, 91351939, 49896559, 107805281, 110815379, 73667628, 4125776],
-        "reqLevels": 2
+        "reqLevels": 2,
+        "textEffects": {
+            "textColor": [135, 0, 255],
+            "outlineColor": [255, 255, 255],
+            "gradientColor": [135, 255, 255],
+            "crystalOpacity": 0.5,
+            "starsOpacity": 0.5,
+            "gradientType": "horizontal",
+            "gradient": true,
+            "crystal": true,
+            "stars": true
+        }
     }, {
         "name": "Azurite",
         "description": "Touch grass",
@@ -118,7 +220,18 @@
         "plusSprite": "DP_AzuritePlus",
         "saveID": "azurite",
         "levelIDs": [89496627, 112313819, 127997391, 114283297, 116174063, 110816181, 86407629, 119550490, 126242564, 119544028],
-        "reqLevels": 1
+        "reqLevels": 1,
+        "textEffects": {
+            "textColor": [0, 16, 92],
+            "outlineColor": [255, 255, 255],
+            "gradientColor": [0, 0, 0],
+            "crystalColor": [0, 69, 160],
+            "starsColor": [0, 0, 0],
+            "starsOpacity": 1,
+            "gradient": true,
+            "crystal": true,
+            "stars": true
+        }
     }, {
         "name": "Obsidian",
         "description": "Why?",
@@ -126,7 +239,18 @@
         "plusSprite": "DP_ObsidianPlus",
         "saveID": "obsidian",
         "levelIDs": [111680151, 31325851, 78614226, 73902225, 66424234, 77049802, 102135018, 92922586, 102646926, 118059486],
-        "reqLevels": 1
+        "reqLevels": 1,
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [255, 255, 255],
+            "gradientColor": [85, 85, 85],
+            "starsColor": [0, 0, 0],
+            "crystalOpacity": 0.25,
+            "starsOpacity": 1,
+            "gradient": true,
+            "crystal": true,
+            "stars": true
+        }
     }],
     "legacy": [{
         "name": "Legacy Beginner",
@@ -238,169 +362,303 @@
         "description": "12 Demons leading up to Christmas, each picked by a different staff member!",
         "sprite": "DP_12DoC2025",
         "saveID": "12doc-2025",
-        "levelIDs": [112770258, 94948299, 18735780, 67978311, 92417063, 69867020, 90408422, 4192768, 76842157, 4545425, 38306937, 75350544]
+        "levelIDs": [112770258, 94948299, 18735780, 67978311, 92417063, 69867020, 90408422, 4192768, 76842157, 4545425, 38306937, 75350544],
+        "textEffects": {
+            "textColor": [255, 0, 0],
+            "gradientColor": [0, 255, 0],
+            "gradient": true
+        }
     }, {
         "name": "12 Demons of Christmas (2024)",
         "description": "We introduce you to 12 Demons of Christmas 2024 Edition!! Following the same rules as the previous 12DoC packs, each day one level chosen by individual List Managers will be revealed until Christmas!",
         "sprite": "DP_12DoC2024",
         "saveID": "12doc-2024",
-        "levelIDs": [75462015, 109274356, 20274259, 87381537, 96189372, 108633124, 94888985, 94412187, 82273446, 90818659, 85492715, 50026818]
+        "levelIDs": [75462015, 109274356, 20274259, 87381537, 96189372, 108633124, 94888985, 94412187, 82273446, 90818659, 85492715, 50026818],
+        "textEffects": {
+            "textColor": [255, 0, 0],
+            "gradientColor": [0, 255, 0],
+            "gradient": true
+        }
     }, {
         "name": "12 Demons of Christmas (2023)",
         "description": "Each day a new level picked by members of the List Team",
         "sprite": "DP_12DoC2023",
         "saveID": "12doc-2023",
-        "levelIDs": [6939821, 78407103, 88127208, 94763624, 93048524, 77884727, 67818901, 19564763, 78528225, 92751949, 15576803, 5673017]
+        "levelIDs": [6939821, 78407103, 88127208, 94763624, 93048524, 77884727, 67818901, 19564763, 78528225, 92751949, 15576803, 5673017],
+        "textEffects": {
+            "textColor": [255, 0, 0],
+            "gradientColor": [0, 255, 0],
+            "gradient": true
+        }
     }, {
         "name": "Minigame Pack",
         "description": "A pack of minigames.",
         "sprite": "DP_Minigame",
         "saveID": "minigame",
-        "levelIDs": [70205233, 72325448, 51875825, 71565140, 71734488]
+        "levelIDs": [70205233, 72325448, 51875825, 71565140, 71734488],
+        "textEffects": {
+            "textColor": [50, 50, 50],
+            "outlineColor": [255, 50, 50]
+        }
     }, {
         "name": "GD10",
         "description": "A celebration of Geometry Dash's 10 year anniversary that includes one popular Demon from each year (2013-2023).",
         "sprite": "DP_GD10",
         "saveID": "gd10",
-        "levelIDs": [10109, 413504, 10229235, 26727028, 30533157, 47620786, 56946102, 65044525, 68408784, 77292103, 90475473]
+        "levelIDs": [10109, 413504, 10229235, 26727028, 30533157, 47620786, 56946102, 65044525, 68408784, 77292103, 90475473],
+        "textEffects": {
+            "textColor": [255, 255, 0],
+            "gradientColor": [0, 255, 255],
+            "gradient": true
+        }
     }, {
         "name": "12 Demons of Christmas (2022)",
         "description": "Merry Christmas everyone! Each level is chosen by one of our 12 total staff members, and will be released one level at a time, once a day for the 12 days leading up to Christmas.",
         "sprite": "DP_12DoC2022",
         "saveID": "12doc-2022",
-        "levelIDs": [17233618, 72810041, 64697194, 4245095, 79691289, 70554172, 82804029, 41287705, 73963102, 14850167, 72024993, 56455318]
+        "levelIDs": [17233618, 72810041, 64697194, 4245095, 79691289, 70554172, 82804029, 41287705, 73963102, 14850167, 72024993, 56455318],
+        "textEffects": {
+            "textColor": [255, 0, 0],
+            "gradientColor": [0, 255, 0],
+            "gradient": true
+        }
     }, {
         "name": "Nine Circles Pack",
         "description": "Levels inspired by the well known Zobros level.",
         "sprite": "DP_NineCircles",
         "saveID": "nine-circles",
-        "levelIDs": [77132030, 10972106, 63842337, 64612787, 88853479]
+        "levelIDs": [77132030, 10972106, 63842337, 64612787, 88853479],
+        "textEffects": {
+            "textColor": [50, 50, 50],
+            "special": "nine-circles"
+        }
     }, {
         "name": "Memory Novice",
         "description": "A stepping stone into more difficult memory demons, with levels varying in updates and styles. These levels will help players get used to memory with varying degrees of learning difficulty and different kinds of memory gameplay.",
         "sprite": "DP_MemoryNovice",
         "saveID": "memory-novice",
-        "levelIDs": [2488223, 77492867, 5118127, 68984570, 52210597]
+        "levelIDs": [2488223, 77492867, 5118127, 68984570, 52210597],
+        "textEffects": {
+            "textColor": [100, 255, 100],
+            "gradientColor": [100, 255, 255],
+            "gradient": true
+        }
     }, {
         "name": "Memory Expert",
         "description": "The next step into harder memory demons. This pack includes levels with difficult timings, duals, and other gamemodes alongside memory gameplay.",
         "sprite": "DP_MemoryExpert",
         "saveID": "memory-expert",
-        "levelIDs": [27919097, 58996624, 81189627, 68051532, 52448794]
+        "levelIDs": [27919097, 58996624, 81189627, 68051532, 52448794],
+        "textEffects": {
+            "textColor": [135, 0, 255],
+            "gradientColor": [75, 0, 200],
+            "gradient": true
+        }
     }, {
         "name": "Memory Master",
         "description": "This pack contains 8 of the toughest memory demons in the game!",
         "sprite": "DP_MemoryMaster",
         "saveID": "memory-master",
-        "levelIDs": [56460850, 60284098, 57595201, 57047374, 51584312, 38754426, 52303420, 68353244]
+        "levelIDs": [56460850, 60284098, 57595201, 57047374, 51584312, 38754426, 52303420, 68353244],
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [255, 255, 255],
+            "crystal": true
+        }
     }, {
         "name": "2P Solo Pack",
         "description": "You better get your brain in gear, because these demons require you to use both hands! Intended for solo completion.",
         "sprite": "DP_2PSolo",
         "saveID": "2p-solo",
-        "levelIDs": [83384354, 52917530, 15699542, 47994830, 61417841]
+        "levelIDs": [83384354, 52917530, 15699542, 47994830, 61417841],
+        "textEffects": {
+            "special": "2p-solo"
+        }
     }, {
         "name": "Invisible Pack",
         "description": "Geometry Dash, as you've never seen it before. Beat these 5 invisible demons to get the rank!",
         "sprite": "DP_Invisible",
         "saveID": "invisible",
-        "levelIDs": [76294880, 77031301, 80414998, 30586021, 14145098]
+        "levelIDs": [76294880, 77031301, 80414998, 30586021, 14145098],
+        "textEffects": {
+            "outlineColor": [255, 255, 255],
+            "gradient": true,
+            "special": "invisible"
+        }
     }, {
         "name": "1.9 GDPS Pack",
         "description": "A true classic never goes out of style, this pack contains 5 levels made in 2.1 with 1.9 limitations.",
         "sprite": "DP_19GDPS",
         "saveID": "1pt9-gdps",
-        "levelIDs": [74334112, 78109599, 65331828, 65129353, 59533451]
+        "levelIDs": [74334112, 78109599, 65331828, 65129353, 59533451],
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [255, 255, 255]
+        }
     }, {
         "name": "XXL",
         "description": "These levels are long, very very long. Beat the 5 longest rated levels in the game (at the time of the pack's release) to get this rank!",
         "sprite": "DP_XXL",
         "saveID": "xxl",
-        "levelIDs": [76582313, 72394641, 37040027, 59858021, 72873416]
+        "levelIDs": [76582313, 72394641, 37040027, 59858021, 72873416],
+        "textEffects": {
+            "textColor": [0, 135, 200],
+            "gradient": true
+        }
     }, {
         "name": "The Speedrun Pack",
         "description": "Beat the 5 shortest demons in the game (at the time of the pack's release) to get this rank!",
         "sprite": "DP_Speedrun",
         "saveID": "speedrun",
-        "levelIDs": [67447101, 57515092, 58665401, 67199678, 66765209]
+        "levelIDs": [67447101, 57515092, 58665401, 67199678, 66765209],
+        "textEffects": {
+            "textColor": [0, 255, 0],
+            "gradientType": "horizontal",
+            "gradient": true
+        }
     }, {
         "name": "The Trusta Pack",
-        "description": " In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
+        "description": "In order to get this rank you have to beat all full levels on Trusta's account. And subscribe to Trusta's YouTube channel :)",
         "sprite": "DP_Trusta",
         "saveID": "trusta",
-        "levelIDs": [23262780, 78181354, 60130895, 49291867, 28220417]
+        "levelIDs": [23262780, 78181354, 60130895, 49291867, 28220417],
+        "textEffects": {
+            "textColor": [255, 0, 255],
+            "gradientColor": [0, 255, 255],
+            "gradient": true
+        }
     }, {
         "name": "The Temple Series",
-        "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank! ",
+        "description": "The legendary footprint of Michigun. Beat all of his temple levels to get this rank!",
         "sprite": "DP_Temple",
         "saveID": "temple-series",
-        "levelIDs": [1864168, 2842129, 2891681, 4727649, 11402965, 14880818]
+        "levelIDs": [1864168, 2842129, 2891681, 4727649, 11402965, 14880818],
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [255, 255, 255],
+            "starsOpacity": 0.5,
+            "stars": true
+        }
     }, {
         "name": "The Coder Pack",
         "description": "A pack by ElohmroW containing his levels along with some of his favorites",
         "sprite": "DP_Coder",
         "saveID": "coder",
-        "levelIDs": [217541, 85733571, 101294884, 58120191, 79006927]
+        "levelIDs": [217541, 85733571, 101294884, 58120191, 79006927],
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [0, 255, 0]
+        }
     }, {
         "name": "Kria Pack",
         "description": "A pack containing the 2 co-owner's favorite levels. #Kria (Krtar and Lia)",
         "sprite": "DP_Kria",
         "saveID": "kria",
-        "levelIDs": [65227464, 17351478, 83292647, 18421584, 76742853, 11402965, 80180301, 22203116, 86263198, 85933508]
+        "levelIDs": [65227464, 17351478, 83292647, 18421584, 76742853, 11402965, 80180301, 22203116, 86263198, 85933508],
+        "kria": {
+            "special": "kria"
+        }
     }, {
         "name": "The Aeon Air Pack",
         "description": "Beat all of Aeon's rated Demon levels and subscribe to his YouTube channel :)",
         "sprite": "DP_AeonAir",
         "saveID": "aeonair",
-        "levelIDs": [897837, 949673, 998398, 1041005, 1199226, 1468106, 1529740, 1664297, 1884887, 66807123]
+        "levelIDs": [897837, 949673, 998398, 1041005, 1199226, 1468106, 1529740, 1664297, 1884887, 66807123],
+        "textEffects": {
+            "textColor": [255, 85, 0],
+            "gradientColor": [0, 255, 255],
+            "gradient": true
+        }
     }, {
         "name": "GDDL 1",
         "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
         "sprite": "DP_GDDL1",
         "saveID": "gddl-1",
-        "levelIDs": [13519, 43276194, 64302902, 38427291, 13704546, 21337579, 6664095, 62195944, 61267336, 68408784]
+        "levelIDs": [13519, 43276194, 64302902, 38427291, 13704546, 21337579, 6664095, 62195944, 61267336, 68408784],
+        "textEffects": {
+            "textColor": [255, 230, 0],
+            "gradient": true
+        }
     }, {
         "name": "GDDL 2",
         "description": "These 2 packs are a thank you to the Geometry Dash Demon Ladder for making a pack for the GDDP! 1 level from each of their \"Reference Tiers\" (at the time of the pack's release) up to tier 20 is what this pack contains.",
         "sprite": "DP_GDDL2",
         "saveID": "gddl-2",
-        "levelIDs": [29443338, 46917410, 44062068, 55429960, 64049807, 10505306, 7899562, 15625052, 21952243, 58620226]
+        "levelIDs": [29443338, 46917410, 44062068, 55429960, 64049807, 10505306, 7899562, 15625052, 21952243, 58620226],
+        "textEffects": {
+            "textColor": [255, 230, 0],
+            "gradient": true
+        }
     }, {
         "name": "The Apocalyptic Trilogy",
         "description": "Red hell themed extremes are the best! Beat Cataclysm, Bloodbath and Aftermath.",
         "sprite": "DP_ApocalypticTrilogy",
         "saveID": "apoc-trilogy",
-        "levelIDs": [3979721, 10565740, 25610878]
+        "levelIDs": [3979721, 10565740, 25610878],
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [255, 0, 0],
+            "gradientColor": [255, 0, 0],
+            "starsColor": [255, 0, 0],
+            "stars": true,
+            "gradient": true
+        }
     }, {
         "name": "The Plasma Pack",
         "description": "Beat the 4 Plasma Pulse to get this rank!",
         "sprite": "DP_Plasma",
         "saveID": "plasma",
-        "levelIDs": [8148420, 13457056, 20159880, 38655495]
+        "levelIDs": [8148420, 13457056, 20159880, 38655495],
+        "textEffects": {
+            "textColor": [0, 0, 0],
+            "outlineColor": [255, 0, 255],
+            "gradientColor": [0, 255, 255],
+            "gradient": true
+        }
     }, {
         "name": "RGB",
         "description": "In order to achieve this rank you need to beat Yatagarasu, Erebus and Sonic Wave. The old legendary RGB.",
         "sprite": "DP_RGB",
         "saveID": "rgb",
-        "levelIDs": [28220417, 31462941, 26681070]
+        "levelIDs": [28220417, 31462941, 26681070],
+        "textEffects": {
+            "special": "rgb",
+            "bevel": true
+        }
     }, {
         "name": "The Sonic Series",
         "description": "Beat the entire Sonic series to get this rank!",
         "sprite": "DP_Sonic",
         "saveID": "sonic",
-        "levelIDs": [4706930, 8491232, 30219145, 33387622]
+        "levelIDs": [4706930, 8491232, 30219145, 33387622],
+        "textEffects": {
+            "textColor": [0, 135, 200],
+            "gradientColor": [255, 0, 0],
+            "gradient": true
+        }
     }, {
         "name": "The Lightwave Pack",
         "description": "Infrared, Ultraviolet, Gammaray and.... Microwave? Beat the first 3 mentioned :D",
         "sprite": "DP_Lightwave",
         "saveID": "lightwave",
-        "levelIDs": [8237474, 10288836, 26512451]
+        "levelIDs": [8237474, 10288836, 26512451],
+        "textEffects": {
+            "outlineColor": [100, 135, 200],
+            "gradient": true,
+            "gradientType": "horizontal",
+            "special": "invisible"
+        }
     }, {
         "name": "Sonic Wave Series",
         "description": "You must really like sonic wave if you want this rank. Beat all rated Sonic Wave remakes!",
         "sprite": "DP_SonicWave",
         "saveID": "sonic-wave",
-        "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815]
+        "levelIDs": [51791710, 49576382, 26681070, 68688849, 69685815],
+        "textEffects": {
+            "special": "sonic-wave",
+            "textColor": [0, 52, 100],
+            "bevel": true
+        }
     }],
     "monthly": [{
         "name": "The Biome Pack",
@@ -11164,5 +11422,69 @@
             "description": "This level was chosen for the Twelve Demons of Christmas by qKitti.",
             "sprite": "DP_Skill_qKitti"
         }
+    },
+    "medals": {
+        "normal": [{
+            "name": "ADEPT",
+            "requirement": 6,
+            "color": [107, 130, 255]
+        }, {
+            "name": "PROFESSIONAL",
+            "requirement": 8,
+            "color": [158, 97, 255]
+        }, {
+            "name": "MASTER",
+            "requirement": 10,
+            "color": [255, 137, 107]
+        }, {
+            "name": "GRANDMASTER",
+            "requirement": 12,
+            "color": [255, 207, 119]
+        }, {
+            "name": "GODMASTER",
+            "requirement": 14,
+            "color": [0, 255, 255]
+        }],
+        "plus": [{
+            "name": "EXPERIENCED",
+            "requirement": 4,
+            "color": [158, 255, 96]
+        }, {
+            "name": "EXEMPLARY",
+            "requirement": 5,
+            "color": [116, 255, 156]
+        }, {
+            "name": "EXCELLENT",
+            "requirement": 6,
+            "color": [89, 236, 255]
+        }, {
+            "name": "EXCEPTIONAL",
+            "requirement": 7,
+            "color": [73, 172, 255]
+        }, {
+            "name": "EXTRAORDINARY",
+            "requirement": 8,
+            "color": [63, 122, 255]
+        }, {
+            "name": "EXPERT",
+            "requirement": 9,
+            "color": [118, 92, 255]
+        }, {
+            "name": "EXCESSIVE",
+            "requirement": 10,
+            "color": [98, 36, 255]
+        }, {
+            "name": "EXTREME",
+            "requirement": 11,
+            "color": [115, 0, 255]
+        }, {
+            "name": "EXALTED",
+            "requirement": 12,
+            "color": [181, 67, 255]
+        }, {
+            "name": "PERFECTION",
+            "requirement": 13,
+            "color": [255, 90, 255]
+        }]
     }
 }
