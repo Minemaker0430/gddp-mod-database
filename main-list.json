@@ -1011,7 +1011,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 166,
+    "database-version": 167,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1028,44 +1028,41 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            },
-            "startpos-copy": 89978843
+            }
         },
         "3543219": {
             "name": "Speed Racer",
             "difficulty": 0,
             "skillsets": ["speed-changes"],
             "xp": {
-                "duals": 1,
-                "cps": 1,
-                "nerve": 1,
-                "wave": 0,
-                "ship": 2,
-                "memory": 2,
-                "fastPaced": 1,
                 "chokepoints": 1,
+                "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
                 "timings": 1,
-                "swing": 0
-            },
-            "startpos-copy": 89978848
+                "wave": 0
+            }
         },
         "63087691": {
             "name": "STARPUNK",
             "difficulty": 0,
             "skillsets": ["nerve-control"],
             "xp": {
+                "chokepoints": 1,
                 "duals": 0,
                 "fastPaced": 1,
-                "ship": 1,
-                "nerve": 3,
-                "wave": 2,
-                "timings": 2,
-                "chokepoints": 1,
                 "cps": 1,
                 "memory": 2,
-                "swing": 0
-            },
-            "startpos-copy": 89979607
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "77132030": {
             "name": "Ratio Circles",
@@ -1078,18 +1075,17 @@
             "difficulty": 0,
             "skillsets": ["memory"],
             "xp": {
-                "timings": 1,
+                "chokepoints": 1,
                 "duals": 0,
-                "ship": 0,
+                "fastPaced": 0,
                 "cps": 1,
                 "memory": 3,
-                "wave": 2,
                 "nerve": 1,
-                "chokepoints": 1,
-                "fastPaced": 0,
-                "swing": 0
-            },
-            "startpos-copy": 89979768
+                "ship": 0,
+                "swing": 0,
+                "timings": 1,
+                "wave": 2
+            }
         },
         "98071844": {
             "name": "Star Road",
@@ -1126,18 +1122,17 @@
             "difficulty": 0,
             "skillsets": ["wave"],
             "xp": {
-                "cps": 2,
-                "wave": 3,
                 "chokepoints": 2,
-                "nerve": 2,
-                "timings": 2,
                 "duals": 0,
                 "fastPaced": 2,
+                "cps": 2,
                 "memory": 2,
+                "nerve": 2,
                 "ship": 1,
-                "swing": 0
-            },
-            "startpos-copy": 89984498
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
         },
         "106696944": {
             "name": "NODE",
@@ -1161,36 +1156,34 @@
             "difficulty": 0,
             "skillsets": ["overall"],
             "xp": {
-                "cps": 2,
-                "timings": 2,
-                "ship": 1,
+                "chokepoints": 1,
                 "duals": 0,
                 "fastPaced": 2,
-                "wave": 1,
-                "nerve": 1,
+                "cps": 2,
                 "memory": 2,
-                "chokepoints": 1,
-                "swing": 0
-            },
-            "startpos-copy": 89980770
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
         },
         "17235008": {
             "name": "X",
             "difficulty": 0,
             "skillsets": ["overall"],
             "xp": {
-                "fastPaced": 2,
-                "nerve": 1,
                 "chokepoints": 2,
-                "cps": 1,
-                "timings": 2,
-                "wave": 1,
-                "ship": 2,
-                "memory": 2,
                 "duals": 2,
-                "swing": 0
-            },
-            "startpos-copy": 89981888
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            }
         },
         "107791691": {
             "name": "Raven",
@@ -1209,36 +1202,34 @@
             "difficulty": 0,
             "skillsets": ["gm-changes"],
             "xp": {
+                "chokepoints": 1,
+                "duals": 2,
+                "fastPaced": 1,
                 "cps": 1,
-                "timings": 2,
+                "memory": 1,
                 "nerve": 2,
                 "ship": 2,
-                "fastPaced": 1,
-                "wave": 2,
-                "duals": 2,
-                "memory": 1,
-                "chokepoints": 1,
-                "swing": 0
-            },
-            "startpos-copy": 89981892
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "76564776": {
             "name": "weird",
             "difficulty": 0,
             "skillsets": ["ship", "wave"],
             "xp": {
-                "fastPaced": 2,
-                "nerve": 2,
-                "duals": 0,
-                "wave": 2,
-                "ship": 2,
-                "timings": 1,
-                "cps": 1,
                 "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
                 "memory": 1,
-                "swing": 0
-            },
-            "startpos-copy": 103025222
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 1,
+                "wave": 2
+            }
         },
         "62067918": {
             "name": "ClutterX",
@@ -1251,72 +1242,68 @@
             "difficulty": 0,
             "skillsets": ["swing"],
             "xp": {
-                "ship": 2,
-                "wave": 1,
                 "chokepoints": 2,
                 "duals": 0,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 2,
                 "fastPaced": 1,
+                "cps": 1,
                 "memory": 2,
-                "swing": 3
-            },
-            "startpos-copy": 0
+                "nerve": 2,
+                "ship": 2,
+                "swing": 3,
+                "timings": 2,
+                "wave": 1
+            }
         },
         "8660411": {
             "name": "Death Moon",
             "difficulty": 0,
             "skillsets": ["nerve-control"],
             "xp": {
-                "memory": 2,
                 "chokepoints": 2,
-                "fastPaced": 2,
-                "wave": 3,
-                "timings": 2,
-                "cps": 1,
                 "duals": 2,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
                 "nerve": 3,
                 "ship": 1,
-                "swing": 0
-            },
-            "startpos-copy": 89984497
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            }
         },
         "104151099": {
             "name": "Lucy",
             "difficulty": 0,
             "skillsets": ["swing"],
             "xp": {
-                "ship": 1,
-                "wave": 1,
                 "chokepoints": 1,
                 "duals": 0,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 2,
                 "fastPaced": 2,
+                "cps": 1,
                 "memory": 2,
-                "swing": 3
-            },
-            "startpos-copy": 110233334
+                "nerve": 2,
+                "ship": 1,
+                "swing": 3,
+                "timings": 2,
+                "wave": 1
+            }
         },
         "68061608": {
             "name": "NothinG",
             "difficulty": 0,
             "skillsets": ["ship", "timings"],
             "xp": {
-                "fastPaced": 0,
-                "duals": 0,
-                "ship": 3,
-                "nerve": 2,
-                "timings": 2,
-                "cps": 2,
                 "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 2,
                 "memory": 1,
-                "wave": 2,
-                "swing": 0
-            },
-            "startpos-copy": 89979992
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "86012792": {
             "name": "Cosmic Rush",
@@ -1335,90 +1322,85 @@
             "difficulty": 0,
             "skillsets": ["overall"],
             "xp": {
-                "memory": 1,
-                "timings": 2,
-                "nerve": 2,
-                "fastPaced": 2,
-                "ship": 1,
-                "duals": 2,
-                "wave": 2,
                 "chokepoints": 2,
+                "duals": 2,
+                "fastPaced": 2,
                 "cps": 2,
-                "swing": 0
-            },
-            "startpos-copy": 89984504
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "2997354": {
             "name": "DeCode",
             "difficulty": 0,
             "skillsets": ["timings", "wave"],
             "xp": {
+                "chokepoints": 2,
                 "duals": 0,
                 "fastPaced": 2,
-                "memory": 2,
-                "ship": 2,
-                "timings": 3,
-                "chokepoints": 2,
                 "cps": 2,
-                "wave": 2,
+                "memory": 2,
                 "nerve": 2,
-                "swing": 0
-            },
-            "startpos-copy": 89984507
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            }
         },
         "27912428": {
             "name": "wowzers holy",
             "difficulty": 0,
             "skillsets": ["ship", "ball"],
             "xp": {
-                "wave": 2,
-                "timings": 2,
-                "ship": 2,
-                "nerve": 2,
+                "chokepoints": 2,
                 "duals": 0,
                 "fastPaced": 2,
-                "memory": 2,
                 "cps": 3,
-                "chokepoints": 2,
-                "swing": 0
-            },
-            "startpos-copy": 89984978
+                "memory": 2,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "81742215": {
             "name": "Fast N Spicy",
             "difficulty": 0,
             "skillsets": ["duals"],
             "xp": {
-                "memory": 1,
-                "ship": 1,
-                "wave": 2,
-                "duals": 3,
-                "cps": 2,
-                "fastPaced": 2,
-                "nerve": 2,
-                "timings": 2,
                 "chokepoints": 2,
-                "swing": 0
-            },
-            "startpos-copy": 94382515
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "77428474": {
             "name": "Bloudeleuste",
             "difficulty": 0,
             "skillsets": ["nerve-control"],
             "xp": {
-                "ship": 2,
-                "wave": 2,
                 "chokepoints": 1,
                 "duals": 1,
-                "cps": 1,
-                "timings": 2,
-                "nerve": 3,
                 "fastPaced": 2,
+                "cps": 1,
                 "memory": 1,
-                "swing": 0
-            },
-            "startpos-copy": 103034821
+                "nerve": 3,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            }
         },
         "70444933": {
             "name": "Collapse",
@@ -1435,26 +1417,24 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 2
-            },
-            "startpos-copy": 90018885
+            }
         },
         "74449": {
             "name": "hell and heaven",
             "difficulty": 1,
             "skillsets": ["sp-best-level"],
             "xp": {
-                "timings": 3,
-                "fastPaced": 0,
                 "chokepoints": 3,
+                "duals": 0,
+                "fastPaced": 0,
                 "cps": 0,
                 "memory": 3,
-                "wave": 0,
                 "nerve": 3,
-                "duals": 0,
                 "ship": 3,
-                "swing": 0
-            },
-            "startpos-copy": 90003244
+                "swing": 0,
+                "timings": 3,
+                "wave": 0
+            }
         },
         "62378908": {
             "name": "Section",
@@ -3075,18 +3055,17 @@
             "difficulty": 4,
             "skillsets": ["awkward", "ship"],
             "xp": {
-                "ship": 3,
-                "wave": 0,
-                "fastPaced": 0,
-                "memory": 1,
-                "cps": 1,
-                "duals": 0,
-                "timings": 3,
                 "chokepoints": 3,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 1,
+                "memory": 1,
                 "nerve": 2,
-                "swing": 0
-            },
-            "startpos-copy": 94409649
+                "ship": 3,
+                "swing": 0,
+                "timings": 3,
+                "wave": 0
+            }
         },
         "79428382": {
             "name": "MOTHMELONS",
@@ -7201,8 +7180,7 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
-            },
-            "startpos-copy": 125853944
+            }
         },
         "64697194": {
             "name": "Carne Aderunt",
@@ -9661,8 +9639,7 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            },
-            "startpos-copy": 122761023
+            }
         },
         "96973689": {
             "name": "BITBLEXIT",
@@ -9679,8 +9656,7 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            },
-            "startpos-copy": 0
+            }
         },
         "116591597": {
             "name": "Adrenaline Rush",
@@ -9697,8 +9673,7 @@
                 "swing": 1,
                 "timings": 1,
                 "wave": 1
-            },
-            "startpos-copy": 0
+            }
         },
         "114703942": {
             "name": "Game Over",
@@ -9715,8 +9690,7 @@
                 "swing": 1,
                 "timings": 2,
                 "wave": 2
-            },
-            "startpos-copy": 125854550
+            }
         },
         "102646926": {
             "name": "Aeternus",
@@ -10663,8 +10637,7 @@
                 "swing": 3,
                 "timings": 1,
                 "wave": 2
-            },
-            "startpos-copy": 0
+            }
         },
         "98564977": {
             "name": "Breakout",
