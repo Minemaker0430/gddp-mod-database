@@ -1011,7 +1011,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 167,
+    "database-version": 168,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1710,7 +1710,7 @@
                 "cps": 0,
                 "chokepoints": 2,
                 "ship": 2,
-                "duals": 3,
+                "duals": 2,
                 "nerve": 2,
                 "wave": 2,
                 "memory": 2,
@@ -2250,10 +2250,10 @@
                 "duals": 0,
                 "ship": 2,
                 "fastPaced": 2,
-                "nerve": 2,
+                "nerve": 3,
                 "timings": 2,
                 "cps": 2,
-                "chokepoints": 1,
+                "chokepoints": 2,
                 "wave": 2,
                 "memory": 1,
                 "swing": 0
@@ -2341,12 +2341,12 @@
                 "fastPaced": 1,
                 "cps": 2,
                 "chokepoints": 3,
-                "wave": 3,
+                "wave": 2,
                 "timings": 3,
                 "nerve": 3,
                 "ship": 2,
                 "duals": 0,
-                "swing": 2
+                "swing": 1
             },
             "startpos-copy": 90028696
         },
@@ -2489,7 +2489,7 @@
                 "chokepoints": 1,
                 "memory": 3,
                 "fastPaced": 2,
-                "ship": 2,
+                "ship": 1,
                 "swing": 0
             },
             "startpos-copy": 94388048
@@ -2505,7 +2505,7 @@
                 "memory": 0,
                 "chokepoints": 2,
                 "nerve": 1,
-                "ship": 2,
+                "ship": 1,
                 "fastPaced": 2,
                 "timings": 2,
                 "swing": 0
@@ -2595,7 +2595,7 @@
                 "fastPaced": 0,
                 "duals": 0,
                 "nerve": 1,
-                "ship": 2,
+                "ship": 1,
                 "wave": 0,
                 "cps": 2,
                 "swing": 0
@@ -2644,13 +2644,13 @@
             "skillsets": ["fast-paced", "learny"],
             "xp": {
                 "timings": 2,
-                "cps": 3,
+                "cps": 2,
                 "duals": 0,
                 "ship": 1,
                 "nerve": 1,
-                "memory": 3,
+                "memory": 2,
                 "fastPaced": 3,
-                "chokepoints": 1,
+                "chokepoints": 2,
                 "wave": 1,
                 "swing": 0
             },
@@ -2701,7 +2701,7 @@
                 "wave": 2,
                 "timings": 2,
                 "duals": 3,
-                "ship": 2,
+                "ship": 1,
                 "nerve": 2,
                 "cps": 2,
                 "memory": 2,
@@ -2737,7 +2737,7 @@
                 "nerve": 2,
                 "wave": 3,
                 "chokepoints": 3,
-                "ship": 2,
+                "ship": 1,
                 "timings": 2,
                 "duals": 1,
                 "fastPaced": 2,
@@ -3173,7 +3173,7 @@
                 "duals": 1,
                 "cps": 1,
                 "nerve": 1,
-                "chokepoints": 2,
+                "chokepoints": 1,
                 "swing": 0
             },
             "startpos-copy": 94435805
@@ -3184,9 +3184,9 @@
             "skillsets": ["ship", "wave"],
             "xp": {
                 "ship": 3,
-                "fastPaced": 2,
+                "fastPaced": 1,
                 "memory": 1,
-                "duals": 1,
+                "duals": 0,
                 "timings": 2,
                 "cps": 1,
                 "wave": 2,
@@ -3209,7 +3209,7 @@
                 "duals": 0,
                 "ship": 0,
                 "chokepoints": 1,
-                "fastPaced": 2,
+                "fastPaced": 1,
                 "swing": 0
             },
             "startpos-copy": 94435937
@@ -3424,12 +3424,12 @@
             "skillsets": ["timings", "duals"],
             "xp": {
                 "chokepoints": 2,
-                "duals": 3,
+                "duals": 2,
                 "memory": 3,
-                "cps": 2,
+                "cps": 1,
                 "ship": 2,
                 "fastPaced": 3,
-                "wave": 2,
+                "wave": 1,
                 "nerve": 2,
                 "timings": 3,
                 "swing": 0
@@ -3606,7 +3606,7 @@
                 "nerve": 2,
                 "memory": 2,
                 "fastPaced": 2,
-                "swing": 0
+                "swing": 1
             },
             "startpos-copy": 96009939
         },
@@ -4302,7 +4302,7 @@
                 "chokepoints": 3,
                 "ship": 2,
                 "wave": 3,
-                "fastPaced": 3,
+                "fastPaced": 2,
                 "timings": 2,
                 "duals": 2,
                 "cps": 2,
@@ -4461,7 +4461,7 @@
             "difficulty": 8,
             "skillsets": ["ship", "timings"],
             "xp": {
-                "fastPaced": 2,
+                "fastPaced": 3,
                 "ship": 3,
                 "memory": 2,
                 "cps": 2,
@@ -4949,13 +4949,13 @@
             "xp": {
                 "nerve": 2,
                 "duals": 2,
-                "fastPaced": 2,
-                "timings": 3,
+                "fastPaced": 3,
+                "timings": 2,
                 "wave": 2,
                 "memory": 2,
                 "ship": 2,
-                "chokepoints": 3,
-                "cps": 2,
+                "chokepoints": 2,
+                "cps": 3,
                 "swing": 0
             },
             "startpos-copy": 108138879
@@ -9099,7 +9099,7 @@
                 "memory": 1,
                 "nerve": 3,
                 "ship": 2,
-                "swing": 2,
+                "swing": 0,
                 "timings": 3,
                 "wave": 1
             },
@@ -9985,7 +9985,7 @@
                 "duals": 0,
                 "fastPaced": 2,
                 "cps": 1,
-                "memory": 2,
+                "memory": 3,
                 "nerve": 2,
                 "ship": 2,
                 "swing": 0,
@@ -10022,7 +10022,7 @@
                 "fastPaced": 3,
                 "cps": 3,
                 "memory": 1,
-                "nerve": 2,
+                "nerve": 1,
                 "ship": 2,
                 "swing": 0,
                 "timings": 2,
@@ -10161,7 +10161,7 @@
                 "cps": 2,
                 "memory": 2,
                 "nerve": 3,
-                "ship": 1,
+                "ship": 3,
                 "swing": 0,
                 "timings": 3,
                 "wave": 3
@@ -10460,10 +10460,10 @@
                 "fastPaced": 1,
                 "cps": 1,
                 "memory": 3,
-                "nerve": 1,
+                "nerve": 3,
                 "ship": 2,
                 "swing": 0,
-                "timings": 1,
+                "timings": 3,
                 "wave": 2
             },
             "startpos-copy": 0
@@ -10473,7 +10473,7 @@
             "difficulty": 5,
             "skillsets": ["flow"],
             "xp": {
-                "chokepoints": 1,
+                "chokepoints": 2,
                 "duals": 0,
                 "fastPaced": 3,
                 "cps": 2,
@@ -10545,7 +10545,7 @@
             "difficulty": 8,
             "skillsets": ["fast-paced", "learny", "high-cps"],
             "xp": {
-                "chokepoints": 1,
+                "chokepoints": 2,
                 "duals": 0,
                 "fastPaced": 3,
                 "cps": 3,
