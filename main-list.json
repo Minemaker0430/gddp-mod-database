@@ -169,7 +169,7 @@
         "sprite": "DP_Pearl",
         "plusSprite": "DP_PearlPlus",
         "saveID": "pearl",
-        "levelIDs": [115151904, 76159410, 57600307, 88233955, 45866767, 94156085, 88136707, 96471171, 58161496, 54953085, 69333212, 106522770, 95767653, 75813671, 96035641, 95524621, 69289606, 72744364, 97364686, 110913375, 108141323, 105625871, 52374843, 88611404, 78435955],
+        "levelIDs": [115151904, 76159410, 57600307, 88233955, 45866767, 94156085, 88136707, 96471171, 58161496, 106522770, 54953085, 69333212, 95767653, 97364686, 69289606, 110913375, 96035641, 75813671, 52374843, 95524621, 108141323, 72744364, 105625871, 88611404, 78435955],
         "reqLevels": 3,
         "textEffects": {
             "textColor": [255, 155, 255],
@@ -1011,7 +1011,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 168,
+    "database-version": 170,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5857,7 +5857,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 136683604
         },
         "81139702": {
             "name": "The Hallucination",
@@ -5893,7 +5893,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 136683423
         },
         "94359172": {
             "name": "COMBUSTION",
@@ -6091,7 +6091,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": {}
+            "startpos-copy": 136792254
         },
         "4125776": {
             "name": "Silent clubstep",
@@ -6109,7 +6109,7 @@
                 "timings": 3,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 136791802
         },
         "73667628": {
             "name": "Acheron",
@@ -6127,7 +6127,7 @@
                 "nerve": 2,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 136792099
         },
         "112313819": {
             "name": "Anathema",
@@ -6144,7 +6144,8 @@
                 "swing": 2,
                 "timings": 3,
                 "wave": 2
-            }
+            },
+            "startpos-copy": {}
         },
         "89496627": {
             "name": "Avernus",
@@ -9463,7 +9464,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 136791580
         },
         "113220284": {
             "name": "The Plunge",
@@ -9481,7 +9482,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 136784906
         },
         "113256247": {
             "name": "Collapse",
@@ -9499,7 +9500,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 136684015
         },
         "95998005": {
             "name": "SARYYX NEVER CLEAR",
@@ -9517,7 +9518,7 @@
                 "timings": 3,
                 "wave": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 136685002
         },
         "110500920": {
             "name": "The Yangire",
@@ -9535,7 +9536,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 136684860
         },
         "96314787": {
             "name": "Deadlier Clubstep",
@@ -10914,7 +10915,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 3
-            }
+            },
+            "startpos-copy": {}
         },
         "110816181": {
             "name": "BOOBAWAMBA",
@@ -10931,7 +10933,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 136793206
         },
         "110535166": {
             "name": "Electric Algal Bloom",
