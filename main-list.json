@@ -1011,7 +1011,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 171,
+    "database-version": 172,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -10916,7 +10916,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 136901411
         },
         "110816181": {
             "name": "BOOBAWAMBA",
