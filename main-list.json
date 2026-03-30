@@ -1011,7 +1011,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 172,
+    "database-version": 173,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2582,7 +2582,7 @@
                 "memory": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 128932497
         },
         "63500550": {
             "name": "free level",
@@ -10167,7 +10167,7 @@
                 "timings": 3,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 136972490
         },
         "69871779": {
             "name": "Friday Vortex",
