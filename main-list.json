@@ -661,6 +661,14 @@
         }
     }],
     "monthly": [{
+        "name": "The \"Co-Op\" Pack",
+        "description": "Become a Master at Duals! (GDDP Monthly Pack for April 2026)",
+        "sprite": "DP_April",
+        "month": 4,
+        "year": 2026,
+        "levelIDs": [86522027, 61656103, 109357972, 134644009, 126966462, 128182358],
+        "textEffects": {}
+    }, {
         "name": "The Biome Pack",
         "description": "O'er the hills, and far away, lying down upon the earth. Biomes o' Plenty for those to explore. March 2026",
         "sprite": "DP_March",
@@ -1011,7 +1019,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 174,
+    "database-version": 177,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11050,6 +11058,42 @@
                 "timings": 2,
                 "wave": 2
             }
+        },
+        "86522027": {
+            "name": "Kororinpa",
+            "difficulty": 0,
+            "skillsets": ["2p"],
+            "startpos-copy": 0
+        },
+        "61656103": {
+            "name": "Claim Our Throne",
+            "difficulty": 0,
+            "skillsets": ["2p"],
+            "startpos-copy": 0
+        },
+        "109357972": {
+            "name": "PC2P2C",
+            "difficulty": 1,
+            "skillsets": ["2p"],
+            "startpos-copy": 0
+        },
+        "134644009": {
+            "name": "To Tango",
+            "difficulty": 2,
+            "skillsets": ["2p"],
+            "startpos-copy": 0
+        },
+        "126966462": {
+            "name": "Myself and I",
+            "difficulty": 3,
+            "skillsets": ["2p"],
+            "startpos-copy": 0
+        },
+        "128182358": {
+            "name": "Perfect in Place",
+            "difficulty": 6,
+            "skillsets": ["2p", "fast-paced"],
+            "startpos-copy": 0
         }
     },
     "skillset-data": {
