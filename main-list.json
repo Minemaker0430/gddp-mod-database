@@ -46,7 +46,7 @@
         "sprite": "DP_Gold",
         "plusSprite": "DP_GoldPlus",
         "saveID": "gold",
-        "levelIDs": [4957691, 36667269, 76866307, 65496280, 9653767, 110711884, 7005127, 86925233, 56568010, 84324862, 110653463, 68372319, 68983167, 89423740, 72240540, 78602801, 63500550, 5155022, 15395840, 75806677, 45111047, 67069282, 63245954, 43008397, 17312229],
+        "levelIDs": [113018329, 89749830, 74838946, 4957691, 76866307, 65496280, 9653767, 110711884, 27721246, 58174545, 7005127, 84324862, 56568010, 106171395, 86925233, 110653463, 68372319, 68983167, 89423740, 72240540, 78602801, 63500550, 63245954, 5155022, 15395840, 75806677, 45111047, 123058036, 43008397, 17312229],
         "reqLevels": 10,
         "textEffects": {
             "textColor": [255, 255, 0],
@@ -282,7 +282,7 @@
         "sprite": "DP_Gold",
         "plusSprite": "DP_GoldPlus",
         "saveID": "legacy-gold",
-        "levelIDs": [67018065, 75078198, 37011750, 65269826, 9145341, 82335470, 81748963, 13437081, 18286611, 8237474, 82749804, 7054561, 61067595, 57429286, 27721246, 10288836, 10533089, 51489522, 57179323, 7564845, 9819675, 16272616, 42208264],
+        "levelIDs": [67069282, 36667269, 67018065, 75078198, 37011750, 65269826, 9145341, 82335470, 81748963, 13437081, 18286611, 8237474, 82749804, 7054561, 61067595, 57429286, 27721246, 10288836, 10533089, 51489522, 57179323, 7564845, 9819675, 16272616, 42208264],
         "mainPack": 3
     }, {
         "name": "Legacy Amber",
@@ -1019,7 +1019,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 177,
+    "database-version": 178,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2344,18 +2344,6 @@
             "name": "Diffuse",
             "difficulty": 3,
             "skillsets": ["timings", "wave"],
-            "xp": {
-                "memory": 1,
-                "fastPaced": 1,
-                "cps": 2,
-                "chokepoints": 3,
-                "wave": 2,
-                "timings": 3,
-                "nerve": 3,
-                "ship": 2,
-                "duals": 0,
-                "swing": 1
-            },
             "startpos-copy": 90028696
         },
         "84324862": {
@@ -2686,18 +2674,6 @@
             "name": "Swirling Fire",
             "difficulty": 3,
             "skillsets": ["fast-paced", "timings"],
-            "xp": {
-                "nerve": 2,
-                "timings": 3,
-                "chokepoints": 2,
-                "wave": 1,
-                "duals": 2,
-                "memory": 1,
-                "ship": 2,
-                "fastPaced": 3,
-                "cps": 2,
-                "swing": 0
-            },
             "startpos-copy": 94388667
         },
         "63245954": {
@@ -6606,7 +6582,20 @@
         "27721246": {
             "name": "Blast Furnace",
             "difficulty": 3,
-            "skillsets": ["fast-paced", "nerve-control"]
+            "skillsets": ["fast-paced", "nerve-control"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 1,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            },
+            "startpos-copy": 0
         },
         "10288836": {
             "name": "Ultraviolet",
@@ -11093,6 +11082,114 @@
             "name": "Perfect in Place",
             "difficulty": 6,
             "skillsets": ["2p", "fast-paced"],
+            "startpos-copy": 0
+        },
+        "89749830": {
+            "name": "Sound Boon Machine",
+            "difficulty": 3,
+            "skillsets": ["ship", "wave"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            },
+            "startpos-copy": 0
+        },
+        "74838946": {
+            "name": "Distorzona",
+            "difficulty": 3,
+            "skillsets": ["timings", "fast-paced"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 1
+            },
+            "startpos-copy": 0
+        },
+        "106171395": {
+            "name": "Mitosis",
+            "difficulty": 3,
+            "skillsets": ["duals"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            },
+            "startpos-copy": 0
+        },
+        "123058036": {
+            "name": "Infernum",
+            "difficulty": 3,
+            "skillsets": ["wave", "ship"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            },
+            "startpos-copy": 0
+        },
+        "58174545": {
+            "name": "Dispersion",
+            "difficulty": 3,
+            "skillsets": ["memory", "timings"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 1,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            },
+            "startpos-copy": 0
+        },
+        "113018329": {
+            "name": "Peaks and Shrieks",
+            "difficulty": 3,
+            "skillsets": ["high-cps", "learny"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 3,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 0,
+                "swing": 1,
+                "timings": 3,
+                "wave": 0
+            },
             "startpos-copy": 0
         }
     },
