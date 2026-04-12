@@ -1019,7 +1019,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 178,
+    "database-version": 179,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2769,18 +2769,18 @@
         "61137742": {
             "name": "Leyak",
             "difficulty": 4,
-            "skillsets": ["fast-paced", "learny", "duals"],
+            "skillsets": ["fast-paced", "learny"],
             "xp": {
-                "cps": 3,
+                "chokepoints": 1,
+                "duals": 2,
                 "fastPaced": 3,
-                "timings": 2,
+                "cps": 3,
                 "memory": 3,
                 "nerve": 2,
-                "wave": 1,
-                "duals": 3,
                 "ship": 1,
-                "chokepoints": 1,
-                "swing": 0
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
             },
             "startpos-copy": 94412280
         },
