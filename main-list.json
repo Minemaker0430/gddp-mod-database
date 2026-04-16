@@ -666,8 +666,7 @@
         "sprite": "DP_April",
         "month": 4,
         "year": 2026,
-        "levelIDs": [86522027, 61656103, 109357972, 134644009, 126966462, 128182358],
-        "textEffects": {}
+        "levelIDs": [86522027, 61656103, 109357972, 134644009, 126966462, 128182358]
     }, {
         "name": "The Biome Pack",
         "description": "O'er the hills, and far away, lying down upon the earth. Biomes o' Plenty for those to explore. March 2026",
