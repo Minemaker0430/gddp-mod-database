@@ -1018,7 +1018,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 180,
+    "database-version": 181,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -10045,7 +10045,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 137621392
         },
         "67629705": {
             "name": "Choose a Way",
@@ -10465,7 +10465,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 138834135
         },
         "85972099": {
             "name": "Shotgun",
@@ -10483,7 +10483,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 138834078
         },
         "112921547": {
             "name": "Venom Valley",
@@ -10519,7 +10519,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 137621095
         },
         "77008332": {
             "name": "gravity",
@@ -10537,7 +10537,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 137621085
         },
         "88913586": {
             "name": "Xronier",
@@ -11146,7 +11146,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 139148294
         },
         "123058036": {
             "name": "Infernum",
@@ -11164,7 +11164,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 137935042
         },
         "58174545": {
             "name": "Dispersion",
