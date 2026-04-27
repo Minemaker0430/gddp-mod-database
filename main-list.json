@@ -1018,7 +1018,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 179,
+    "database-version": 180,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1161,7 +1161,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 114139709
         },
         "75603568": {
             "name": "Tabasco",
@@ -6594,7 +6595,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 94402312
         },
         "10288836": {
             "name": "Ultraviolet",
@@ -9618,7 +9619,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 137313927
         },
         "90852190": {
             "name": "weaves of origin",
@@ -9677,7 +9679,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 136500303
         },
         "116591597": {
             "name": "Adrenaline Rush",
@@ -9695,7 +9697,7 @@
                 "timings": 1,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 136500035
         },
         "114703942": {
             "name": "Game Over",
@@ -10661,7 +10663,7 @@
                 "timings": 1,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 136500560
         },
         "98564977": {
             "name": "Breakout",
@@ -10843,7 +10845,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 136500440
         },
         "1360404": {
             "name": "Demon in the house",
@@ -10860,7 +10863,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 136500706
         },
         "111286661": {
             "name": "MUNDUS SANGUINANS",
@@ -10877,7 +10881,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 136905863
         },
         "82622155": {
             "name": "HEAT",
@@ -10894,7 +10899,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 136905816
         },
         "127997391": {
             "name": "Subsuming Vortex",
@@ -10977,7 +10983,8 @@
                 "swing": 0,
                 "timings": 3,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 137313924
         },
         "124166764": {
             "name": "Stellar Sands",
@@ -10994,7 +11001,8 @@
                 "swing": 3,
                 "timings": 2,
                 "wave": 0
-            }
+            },
+            "startpos-copy": 136885265
         },
         "45176872": {
             "name": "Rothman Adventures",
@@ -11011,7 +11019,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 1
-            }
+            },
+            "startpos-copy": 137313911
         },
         "79747970": {
             "name": "theyaremanycolors",
@@ -11028,7 +11037,8 @@
                 "swing": 0,
                 "timings": 1,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 137313934
         },
         "18156693": {
             "name": "Chrono Sanctuary",
@@ -11045,7 +11055,8 @@
                 "swing": 0,
                 "timings": 2,
                 "wave": 2
-            }
+            },
+            "startpos-copy": 137313939
         },
         "86522027": {
             "name": "Kororinpa",
@@ -11099,7 +11110,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 137929762
         },
         "74838946": {
             "name": "Distorzona",
@@ -11117,7 +11128,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 137930521
         },
         "106171395": {
             "name": "Mitosis",
@@ -11171,7 +11182,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 139147770
         },
         "113018329": {
             "name": "Peaks and Shrieks",
@@ -11189,7 +11200,7 @@
                 "timings": 3,
                 "wave": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 139147772
         }
     },
     "skillset-data": {
