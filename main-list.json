@@ -666,8 +666,7 @@
         "sprite": "DP_May",
         "month": 5,
         "year": 2026,
-        "levelIDs": [100645222, 106496293, 81799275, 106340745, 85179204, 106737668],
-        "textEffects": {}
+        "levelIDs": [100645222, 106496293, 81799275, 106340745, 85179204, 106737668]
     }, {
         "name": "The \"Co-Op\" Pack",
         "description": "Become a Master at Duals! (GDDP Monthly Pack for April 2026)",
