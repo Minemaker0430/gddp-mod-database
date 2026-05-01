@@ -661,6 +661,14 @@
         }
     }],
     "monthly": [{
+        "name": "Mazemory Pack",
+        "description": "Monthly Pack Description (GDDP Monthly Pack for [may] [2026])",
+        "sprite": "DP_May",
+        "month": 1,
+        "year": 2026,
+        "levelIDs": [100645222, 106496293, 81799275, 106340745, 85179204, 106737668],
+        "textEffects": {}
+    }, {
         "name": "The \"Co-Op\" Pack",
         "description": "Become a Master at Duals! (GDDP Monthly Pack for April 2026)",
         "sprite": "DP_April",
@@ -1018,7 +1026,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 181,
+    "database-version": 185,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11201,6 +11209,42 @@
                 "wave": 0
             },
             "startpos-copy": 139147772
+        },
+        "106496293": {
+            "name": "In Perceptible",
+            "difficulty": 0,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "106340745": {
+            "name": "eel",
+            "difficulty": 2,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "106737668": {
+            "name": "reset your mind",
+            "difficulty": 7,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "100645222": {
+            "name": "Ultra cycles",
+            "difficulty": 0,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "81799275": {
+            "name": "Amelioration",
+            "difficulty": 1,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "85179204": {
+            "name": "BlackAndWhite",
+            "difficulty": 3,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
         }
     },
     "skillset-data": {
