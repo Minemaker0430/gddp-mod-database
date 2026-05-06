@@ -1025,7 +1025,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 186,
+    "database-version": 187,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5609,7 +5609,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 136905706
         },
         "78435955": {
             "name": "Esfera",
@@ -5830,7 +5830,7 @@
                 "chokepoints": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 125363849
         },
         "89187968": {
             "name": "Edge of Destiny",
@@ -5866,7 +5866,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 137656921
         },
         "86084399": {
             "name": "LIMBO",
@@ -5938,7 +5938,7 @@
                 "ship": 3,
                 "swing": 2
             },
-            "startpos-copy": {}
+            "startpos-copy": 125829415
         },
         "95851008": {
             "name": "Eyes in the Water",
@@ -9378,7 +9378,7 @@
                 "timings": 3,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 138191815
         },
         "79771070": {
             "name": "Aerial Gleam",
@@ -9740,7 +9740,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 130727562
         },
         "92922586": {
             "name": "howconfusingisthelvl",
@@ -9794,7 +9794,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": {}
+            "startpos-copy": 130727568
         },
         "31325851": {
             "name": "Exasperation",
