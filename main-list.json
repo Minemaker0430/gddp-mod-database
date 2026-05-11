@@ -227,7 +227,6 @@
             "gradientColor": [0, 0, 0],
             "crystalColor": [0, 69, 160],
             "starsColor": [0, 0, 0],
-            "starsOpacity": 1,
             "gradient": true,
             "crystal": true,
             "stars": true
@@ -246,7 +245,6 @@
             "gradientColor": [85, 85, 85],
             "starsColor": [0, 0, 0],
             "crystalOpacity": 0.25,
-            "starsOpacity": 1,
             "gradient": true,
             "crystal": true,
             "stars": true
@@ -662,7 +660,7 @@
     }],
     "monthly": [{
         "name": "Mazemory Pack",
-        "description": "Monthly Pack Description (GDDP Monthly Pack for [may] [2026])",
+        "description": "Do you remember the way back home? I sure hope you do. (GDDP Monthly Pack for May 2026)",
         "sprite": "DP_May",
         "month": 5,
         "year": 2026,
@@ -676,7 +674,7 @@
         "levelIDs": [86522027, 61656103, 109357972, 134644009, 126966462, 128182358]
     }, {
         "name": "The Biome Pack",
-        "description": "O'er the hills, and far away, lying down upon the earth. Biomes o' Plenty for those to explore. March 2026",
+        "description": "O'er the hills, and far away, lying down upon the earth. Biomes o' Plenty for those to explore. (GDDP Monthly Pack for March 2026)",
         "sprite": "DP_March",
         "month": 3,
         "year": 2026,
@@ -1025,7 +1023,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 187,
+    "database-version": 188,
     "level-data": {
         "65765662": {
             "name": "iS",
