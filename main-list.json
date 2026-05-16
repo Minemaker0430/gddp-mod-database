@@ -1023,7 +1023,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 190,
+    "database-version": 191,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -7509,8 +7509,9 @@
         },
         "85733571": {
             "name": "All big",
-            "difficulty": 1,
-            "skillsets": ["sp-big"]
+            "difficulty": 3,
+            "skillsets": ["sp-big"],
+            "startpos-copy": 0
         },
         "101294884": {
             "name": "OK",
