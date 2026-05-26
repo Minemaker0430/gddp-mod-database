@@ -1023,7 +1023,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 192,
+    "database-version": 193,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -4695,7 +4695,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 132356407
         },
         "65969451": {
             "name": "Timor",
@@ -5697,7 +5697,7 @@
                 "cps": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 138191109
         },
         "76543324": {
             "name": "Verdant Landscape",
@@ -5715,7 +5715,7 @@
                 "timings": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 134149110
         },
         "71434979": {
             "name": "Trueffet",
@@ -5751,7 +5751,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 138191136
         },
         "72744364": {
             "name": "Hard Machine",
@@ -5787,7 +5787,7 @@
                 "memory": 1,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 134149241
         },
         "59075347": {
             "name": "Tartarus",
@@ -5990,7 +5990,7 @@
                 "fastPaced": 3,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 132675695
         },
         "107805281": {
             "name": "Menace",
@@ -6008,7 +6008,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": {}
+            "startpos-copy": 138191268
         },
         "27690100": {
             "name": "Slaughterhouse",
@@ -6044,7 +6044,7 @@
                 "ship": 1,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 138191203
         },
         "49896559": {
             "name": "Abyss of Darkness",
@@ -6062,7 +6062,7 @@
                 "duals": 2,
                 "swing": 0
             },
-            "startpos-copy": {}
+            "startpos-copy": 134149347
         },
         "110815379": {
             "name": "Spectre",
@@ -9557,7 +9557,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": {}
+            "startpos-copy": 137656996
         },
         "114283297": {
             "name": "andromeda",
@@ -10297,7 +10297,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 134149167
         },
         "82249742": {
             "name": "Sinister Silence",
@@ -10333,7 +10333,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": {}
+            "startpos-copy": 137929449
         },
         "114999625": {
             "name": "Operation Evolution",
@@ -10561,7 +10561,7 @@
                 "timings": 3,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 131763127
         },
         "80178903": {
             "name": "Call Me Maybe",
