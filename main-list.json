@@ -659,6 +659,25 @@
         }
     }],
     "monthly": [{
+        "name": "Rainbow Pack",
+        "description": "Monthly Pack Description (GDDP Monthly Pack for [june] [2026])",
+        "sprite": "DP_June",
+        "month": 6,
+        "year": 2026,
+        "levelIDs": [83620412, 95348970, 115950637, 65412304, 127617884, 91739197],
+        "textEffects": {
+            "gradientColor": {
+                "r": 243,
+                "g": 107,
+                "b": 255
+            },
+            "crystalColor": {
+                "r": 0,
+                "g": 255,
+                "b": 232
+            }
+        }
+    }, {
         "name": "Mazemory Pack",
         "description": "Do you remember the way back home? I sure hope you do. (GDDP Monthly Pack for May 2026)",
         "sprite": "DP_May",
@@ -1023,7 +1042,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 193,
+    "database-version": 202,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11242,6 +11261,42 @@
             "name": "BlackAndWhite",
             "difficulty": 3,
             "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "83620412": {
+            "name": "Colorful Oblivion",
+            "difficulty": 0,
+            "skillsets": ["flow"],
+            "startpos-copy": 0
+        },
+        "95348970": {
+            "name": "Lifelike",
+            "difficulty": 0,
+            "skillsets": ["flow"],
+            "startpos-copy": 0
+        },
+        "115950637": {
+            "name": "Two Steps Back",
+            "difficulty": 1,
+            "skillsets": ["learny"],
+            "startpos-copy": 0
+        },
+        "65412304": {
+            "name": "Twisted Fantasy",
+            "difficulty": 2,
+            "skillsets": ["flow"],
+            "startpos-copy": 0
+        },
+        "127617884": {
+            "name": "Hopes and Dreams",
+            "difficulty": 3,
+            "skillsets": ["ship"],
+            "startpos-copy": 0
+        },
+        "91739197": {
+            "name": "Heavens Door",
+            "difficulty": 5,
+            "skillsets": ["nerve-control", "timings"],
             "startpos-copy": 0
         }
     },
