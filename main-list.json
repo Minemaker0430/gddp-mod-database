@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 204,
+    "database-version": 205,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5759,7 +5759,7 @@
                 "ship": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 141800193
         },
         "60978746": {
             "name": "The Golden",
@@ -5944,7 +5944,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": {}
+            "startpos-copy": 141802715
         },
         "89414220": {
             "name": "MINUSdry",
@@ -5980,7 +5980,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": {}
+            "startpos-copy": 141800166
         },
         "75206202": {
             "name": "Firework",
@@ -9439,7 +9439,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 141800176
         },
         "107741051": {
             "name": "Natural Disaster",
@@ -10377,7 +10377,7 @@
                 "timings": 2,
                 "wave": 1
             },
-            "startpos-copy": {}
+            "startpos-copy": 141800151
         },
         "94969889": {
             "name": "Belladonna",
@@ -10395,7 +10395,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": {}
+            "startpos-copy": 141802571
         },
         "91351939": {
             "name": "Tunnel of Despair",
