@@ -32,7 +32,7 @@
         "sprite": "DP_Silver",
         "plusSprite": "DP_SilverPlus",
         "saveID": "silver",
-        "levelIDs": [63075323, 105448036, 60084691, 7887341, 4284013, 62909889, 59315849, 85143676, 38445559, 124166764, 68923366, 94610603, 11607707, 84815242, 79862130, 64618054, 67461519, 45176872, 62028241, 7892386, 65768845, 62923992, 71220097, 15855959, 79747970, 18156693, 82210980, 124585003, 77884727, 78528225],
+        "levelIDs": [105448036, 60084691, 67300705, 85143676, 111205474, 4284013, 62909889, 59315849, 38445559, 124166764, 68923366, 94610603, 11607707, 84815242, 79862130, 64618054, 67461519, 45176872, 62028241, 7892386, 65768845, 62923992, 71220097, 15855959, 79747970, 18156693, 82210980, 124585003, 77884727, 78528225],
         "reqLevels": 11,
         "textEffects": {
             "textColor": [189, 189, 189],
@@ -46,7 +46,7 @@
         "sprite": "DP_Gold",
         "plusSprite": "DP_GoldPlus",
         "saveID": "gold",
-        "levelIDs": [113018329, 89749830, 74838946, 4957691, 76866307, 65496280, 9653767, 110711884, 27721246, 58174545, 7005127, 84324862, 56568010, 106171395, 86925233, 110653463, 68372319, 68983167, 89423740, 72240540, 78602801, 63500550, 63245954, 5155022, 15395840, 75806677, 45111047, 123058036, 43008397, 17312229],
+        "levelIDs": [113018329, 89749830, 74838946, 4957691, 86565813, 9653767, 63644607, 110711884, 27721246, 58174545, 84324862, 56568010, 106171395, 86925233, 110653463, 68983167, 68372319, 72240540, 85148065, 78602801, 63500550, 63245954, 5155022, 110264740, 15395840, 75806677, 45111047, 123058036, 43008397, 17312229],
         "reqLevels": 10,
         "textEffects": {
             "textColor": [255, 255, 0],
@@ -272,7 +272,7 @@
         "sprite": "DP_Silver",
         "plusSprite": "DP_SilverPlus",
         "saveID": "legacy-silver",
-        "levelIDs": [1299298, 42200414, 13643591, 44319716, 52663172, 82015235, 7570320, 9718024, 94610370, 62521060, 4218933, 30944062, 4158642, 60869851, 3273541, 40945673, 4524796, 7075386, 4744205, 6487910, 7079009, 56509088, 8693225, 64161645],
+        "levelIDs": [7887341, 63075323, 1299298, 42200414, 13643591, 44319716, 52663172, 82015235, 7570320, 9718024, 94610370, 62521060, 4218933, 30944062, 4158642, 60869851, 3273541, 40945673, 4524796, 7075386, 4744205, 6487910, 7079009, 56509088, 8693225, 64161645],
         "mainPack": 2
     }, {
         "name": "Legacy Gold",
@@ -280,7 +280,7 @@
         "sprite": "DP_Gold",
         "plusSprite": "DP_GoldPlus",
         "saveID": "legacy-gold",
-        "levelIDs": [67069282, 36667269, 67018065, 75078198, 37011750, 65269826, 9145341, 82335470, 81748963, 13437081, 18286611, 8237474, 82749804, 7054561, 61067595, 57429286, 10288836, 10533089, 51489522, 57179323, 7564845, 9819675, 16272616, 42208264],
+        "levelIDs": [89423740, 7005127, 65496280, 76866307, 67069282, 36667269, 67018065, 75078198, 37011750, 65269826, 9145341, 82335470, 81748963, 13437081, 18286611, 8237474, 82749804, 7054561, 61067595, 57429286, 10288836, 10533089, 51489522, 57179323, 7564845, 9819675, 16272616, 42208264],
         "mainPack": 3
     }, {
         "name": "Legacy Amber",
@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 205,
+    "database-version": 206,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1979,18 +1979,6 @@
             "name": "white women",
             "difficulty": 2,
             "skillsets": ["memory", "timings"],
-            "xp": {
-                "chokepoints": 1,
-                "duals": 0,
-                "fastPaced": 1,
-                "cps": 1,
-                "memory": 2,
-                "nerve": 1,
-                "ship": 1,
-                "swing": 0,
-                "timings": 2,
-                "wave": 1
-            },
             "startpos-copy": 90024318
         },
         "60084691": {
@@ -2033,18 +2021,6 @@
             "name": "Grey Trap",
             "difficulty": 2,
             "skillsets": ["duals"],
-            "xp": {
-                "memory": 2,
-                "ship": 1,
-                "wave": 1,
-                "fastPaced": 0,
-                "timings": 2,
-                "cps": 0,
-                "duals": 3,
-                "nerve": 2,
-                "chokepoints": 2,
-                "swing": 0
-            },
             "startpos-copy": 115203991
         },
         "38445559": {
@@ -2417,54 +2393,18 @@
             "name": "Interstellar Infant",
             "difficulty": 3,
             "skillsets": ["ship", "wave"],
-            "xp": {
-                "chokepoints": 1,
-                "wave": 3,
-                "ship": 2,
-                "cps": 2,
-                "memory": 0,
-                "nerve": 2,
-                "timings": 2,
-                "duals": 0,
-                "fastPaced": 2,
-                "swing": 0
-            },
             "startpos-copy": 116455289
         },
         "7005127": {
             "name": "Horntail Cave",
             "difficulty": 3,
             "skillsets": ["2p"],
-            "xp": {
-                "timings": 3,
-                "chokepoints": 2,
-                "cps": 1,
-                "nerve": 2,
-                "duals": 3,
-                "memory": 2,
-                "ship": 2,
-                "wave": 2,
-                "fastPaced": 1,
-                "swing": 0
-            },
             "startpos-copy": 94385839
         },
         "76866307": {
             "name": "EXG",
             "difficulty": 3,
             "skillsets": ["overall"],
-            "xp": {
-                "duals": 0,
-                "fastPaced": 2,
-                "memory": 2,
-                "timings": 2,
-                "chokepoints": 1,
-                "wave": 2,
-                "nerve": 1,
-                "ship": 2,
-                "cps": 1,
-                "swing": 0
-            },
             "startpos-copy": 94386374
         },
         "86925233": {
@@ -2561,18 +2501,6 @@
             "name": "IMOISTAR",
             "difficulty": 3,
             "skillsets": ["overall"],
-            "xp": {
-                "timings": 3,
-                "nerve": 2,
-                "chokepoints": 2,
-                "wave": 3,
-                "ship": 2,
-                "fastPaced": 2,
-                "cps": 2,
-                "duals": 1,
-                "memory": 2,
-                "swing": 0
-            },
             "startpos-copy": 102714079
         },
         "72240540": {
@@ -11304,6 +11232,114 @@
             "name": "Heavens Door",
             "difficulty": 6,
             "skillsets": ["nerve-control", "timings"],
+            "startpos-copy": 0
+        },
+        "67300705": {
+            "name": "Octagon Force",
+            "difficulty": 2,
+            "skillsets": ["overall"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 2,
+                "timings": 2,
+                "wave": 2
+            },
+            "startpos-copy": 0
+        },
+        "111205474": {
+            "name": "Thermal Madness",
+            "difficulty": 2,
+            "skillsets": ["2p"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 3,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 0,
+                "swing": 0,
+                "timings": 1,
+                "wave": 2
+            },
+            "startpos-copy": 0
+        },
+        "63644607": {
+            "name": "Bit Byte",
+            "difficulty": 3,
+            "skillsets": ["overall"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            },
+            "startpos-copy": 0
+        },
+        "85148065": {
+            "name": "Haunted ClubStep",
+            "difficulty": 3,
+            "skillsets": ["ship", "memory"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 0,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 3,
+                "wave": 0
+            },
+            "startpos-copy": 0
+        },
+        "86565813": {
+            "name": "Fishbass",
+            "difficulty": 3,
+            "skillsets": ["wave"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            },
+            "startpos-copy": 0
+        },
+        "110264740": {
+            "name": "Hyperion",
+            "difficulty": 3,
+            "skillsets": ["duals", "learny"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            },
             "startpos-copy": 0
         }
     },
