@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 206,
+    "database-version": 207,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -9223,7 +9223,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 142201401
         },
         "89513590": {
             "name": "Dump",
@@ -9259,7 +9259,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 142201645
         },
         "90420966": {
             "name": "Escape Room",
@@ -9277,7 +9277,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 142202111
         },
         "93155813": {
             "name": "Rigel",
