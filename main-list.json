@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 211,
+    "database-version": 212,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11322,7 +11322,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 142459468
         },
         "110264740": {
             "name": "Hyperion",
@@ -11340,7 +11340,7 @@
                 "timings": 2,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 142461155
         }
     },
     "skillset-data": {
