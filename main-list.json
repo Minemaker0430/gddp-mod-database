@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 212,
+    "database-version": 213,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5507,7 +5507,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 142535907
         },
         "69333212": {
             "name": "Promethean",
@@ -5633,7 +5633,7 @@
                 "wave": 2,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 142518835
         },
         "75286957": {
             "name": "Shukketsu",
@@ -9349,7 +9349,7 @@
                 "timings": 1,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 142535981
         },
         "88442157": {
             "name": "Critical Heat",
@@ -9385,7 +9385,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 142518792
         },
         "109947627": {
             "name": "BPATA MPAKA",
@@ -9403,7 +9403,7 @@
                 "timings": 3,
                 "wave": 1
             },
-            "startpos-copy": 0
+            "startpos-copy": 142518755
         },
         "96083028": {
             "name": "Midnight",
@@ -10269,7 +10269,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 142535947
         },
         "120255728": {
             "name": "Sevvend Clubstep",
