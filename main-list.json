@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 213,
+    "database-version": 215,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5231,7 +5231,7 @@
                 "memory": 3,
                 "swing": 0
             },
-            "startpos-copy": 0
+            "startpos-copy": 107577900
         },
         "57828784": {
             "name": "The Rupture",
@@ -9187,7 +9187,7 @@
                 "timings": 3,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 142621738
         },
         "79918576": {
             "name": "Jesse Pinkman",
@@ -9205,7 +9205,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 142621661
         },
         "91816388": {
             "name": "TORN",
@@ -9295,7 +9295,7 @@
                 "timings": 2,
                 "wave": 3
             },
-            "startpos-copy": 0
+            "startpos-copy": 142621600
         },
         "110913375": {
             "name": "Judgement Knights",
