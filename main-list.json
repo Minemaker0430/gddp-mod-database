@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 217,
+    "database-version": 218,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2244,16 +2244,16 @@
             "difficulty": 2,
             "skillsets": ["wave", "timings"],
             "xp": {
-                "fastPaced": 2,
                 "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 2,
                 "cps": 2,
-                "duals": 2,
-                "ship": 1,
-                "timings": 2,
-                "wave": 3,
-                "nerve": 2,
                 "memory": 1,
-                "swing": 0
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             },
             "startpos-copy": 90953869
         },
@@ -2281,15 +2281,15 @@
             "skillsets": ["nerve-control"],
             "xp": {
                 "chokepoints": 2,
-                "wave": 2,
+                "duals": 1,
                 "fastPaced": 2,
-                "timings": 2,
-                "memory": 2,
-                "ship": 2,
-                "duals": 2,
-                "nerve": 3,
                 "cps": 2,
-                "swing": 0
+                "memory": 2,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
             },
             "startpos-copy": 90953893
         },
