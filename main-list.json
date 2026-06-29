@@ -1049,7 +1049,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 219,
+    "database-version": 220,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1839,7 +1839,7 @@
                 "chokepoints": 2,
                 "duals": 0,
                 "fastPaced": 3,
-                "cps": 3,
+                "cps": 2,
                 "memory": 2,
                 "nerve": 2,
                 "ship": 3,
@@ -3572,7 +3572,7 @@
                 "nerve": 1,
                 "ship": 3,
                 "swing": 0,
-                "timings": 3,
+                "timings": 2,
                 "wave": 3
             },
             "startpos-copy": 95855967
@@ -3810,16 +3810,16 @@
             "difficulty": 7,
             "skillsets": ["timings"],
             "xp": {
-                "timings": 2,
-                "cps": 2,
-                "fastPaced": 3,
-                "memory": 1,
-                "wave": 3,
                 "chokepoints": 2,
-                "nerve": 1,
                 "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 1,
                 "ship": 3,
-                "swing": 0
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             },
             "startpos-copy": 95855877
         },
@@ -3828,16 +3828,16 @@
             "difficulty": 7,
             "skillsets": ["ship", "wave"],
             "xp": {
-                "memory": 1,
-                "duals": 3,
-                "wave": 3,
                 "chokepoints": 2,
+                "duals": 1,
                 "fastPaced": 2,
-                "timings": 2,
-                "ship": 2,
                 "cps": 1,
+                "memory": 1,
                 "nerve": 1,
-                "swing": 1
+                "ship": 2,
+                "swing": 1,
+                "timings": 2,
+                "wave": 3
             },
             "startpos-copy": 103271148
         },
