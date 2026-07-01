@@ -659,6 +659,13 @@
         }
     }],
     "monthly": [{
+        "name": "Time Machine Pack",
+        "description": "Monthly Pack Description (GDDP Monthly Pack for [MONTH] [YEAR])",
+        "sprite": "DP_July",
+        "month": 7,
+        "year": 2026,
+        "levelIDs": [123782774, 116765535, 125989605, 80894729, 87330493, 104895221]
+    }, {
         "name": "Rainbow Pack",
         "description": "Monthly Pack Description (GDDP Monthly Pack for [june] [2026])",
         "sprite": "DP_June",
@@ -1049,7 +1056,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 221,
+    "database-version": 222,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11341,6 +11348,42 @@
                 "wave": 2
             },
             "startpos-copy": 142461155
+        },
+        "123782774": {
+            "name": "O",
+            "difficulty": 0,
+            "skillsets": ["awkward"],
+            "startpos-copy": 0
+        },
+        "116765535": {
+            "name": "TimeX Demon",
+            "difficulty": 0,
+            "skillsets": ["overall"],
+            "startpos-copy": 0
+        },
+        "125989605": {
+            "name": "Aether Construct",
+            "difficulty": 1,
+            "skillsets": ["nerve-control", "learny"],
+            "startpos-copy": 0
+        },
+        "80894729": {
+            "name": "HELLGATE",
+            "difficulty": 2,
+            "skillsets": ["timings", "learny"],
+            "startpos-copy": 0
+        },
+        "87330493": {
+            "name": "Sheol Death",
+            "difficulty": 4,
+            "skillsets": ["wave", "high-cps"],
+            "startpos-copy": 0
+        },
+        "104895221": {
+            "name": "Supernova",
+            "difficulty": 5,
+            "skillsets": ["overall"],
+            "startpos-copy": 0
         }
     },
     "skillset-data": {
