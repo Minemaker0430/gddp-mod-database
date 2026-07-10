@@ -1056,7 +1056,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 223,
+    "database-version": 224,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -3725,18 +3725,18 @@
         "70406732": {
             "name": "Anahita",
             "difficulty": 6,
-            "skillsets": ["overall"],
+            "skillsets": ["ship", "fast-paced"],
             "xp": {
-                "cps": 1,
-                "wave": 2,
-                "fastPaced": 2,
-                "timings": 2,
-                "memory": 1,
                 "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 1,
                 "nerve": 2,
                 "ship": 3,
-                "duals": 0,
-                "swing": 0
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
             },
             "startpos-copy": 96276268
         },
