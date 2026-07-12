@@ -664,7 +664,27 @@
         "sprite": "DP_July",
         "month": 7,
         "year": 2026,
-        "levelIDs": [123782774, 116765535, 125989605, 80894729, 87330493, 104895221]
+        "levelIDs": [123782774, 116765535, 125989605, 80894729, 87330493, 104895221],
+        "textEffects": {
+            "textColor": {
+                "r": 126,
+                "g": 241,
+                "b": 255
+            },
+            "gradientColor": {
+                "r": 118,
+                "g": 255,
+                "b": 91
+            },
+            "crystalColor": {
+                "r": 10,
+                "g": 230,
+                "b": 145
+            },
+            "gradient": true,
+            "crystal": true,
+            "gradientType": "horizontal"
+        }
     }, {
         "name": "Rainbow Pack",
         "description": "Monthly Pack Description (GDDP Monthly Pack for [june] [2026])",
@@ -1056,7 +1076,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 224,
+    "database-version": 225,
     "level-data": {
         "65765662": {
             "name": "iS",
