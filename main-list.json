@@ -1076,7 +1076,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 227,
+    "database-version": 228,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -5133,16 +5133,16 @@
             "difficulty": 10,
             "skillsets": ["ship", "wave"],
             "xp": {
-                "cps": 2,
-                "timings": 3,
-                "fastPaced": 2,
-                "nerve": 1,
-                "memory": 2,
-                "wave": 3,
-                "ship": 2,
                 "chokepoints": 2,
                 "duals": 1,
-                "swing": 0
+                "fastPaced": 2,
+                "cps": 2,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 3,
+                "swing": 0,
+                "timings": 3,
+                "wave": 3
             },
             "startpos-copy": 107374043
         },
@@ -5205,16 +5205,16 @@
             "difficulty": 10,
             "skillsets": ["ship", "wave"],
             "xp": {
-                "duals": 2,
-                "wave": 2,
-                "ship": 3,
-                "nerve": 2,
-                "fastPaced": 2,
-                "timings": 2,
-                "memory": 3,
                 "chokepoints": 3,
+                "duals": 2,
+                "fastPaced": 2,
                 "cps": 1,
-                "swing": 0
+                "memory": 1,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             },
             "startpos-copy": 107375573
         },
@@ -5411,11 +5411,11 @@
             "xp": {
                 "chokepoints": 3,
                 "duals": 0,
-                "fastPaced": 3,
+                "fastPaced": 2,
                 "cps": 2,
                 "memory": 1,
                 "nerve": 2,
-                "ship": 2,
+                "ship": 3,
                 "swing": 0,
                 "timings": 2,
                 "wave": 3
@@ -5643,16 +5643,16 @@
             "difficulty": 12,
             "skillsets": ["wave", "ship"],
             "xp": {
-                "wave": 3,
-                "cps": 3,
-                "nerve": 2,
-                "fastPaced": 3,
-                "memory": 3,
-                "duals": 2,
-                "timings": 2,
                 "chokepoints": 3,
-                "ship": 2,
-                "swing": 0
+                "duals": 2,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
             },
             "startpos-copy": 141800193
         },
@@ -5722,8 +5722,8 @@
                 "memory": 1,
                 "nerve": 2,
                 "ship": 3,
-                "swing": 3,
-                "timings": 2,
+                "swing": 2,
+                "timings": 3,
                 "wave": 2
             },
             "startpos-copy": 142202937
@@ -5934,18 +5934,18 @@
         "27690100": {
             "name": "Slaughterhouse",
             "difficulty": 13,
-            "skillsets": ["wave", "ship"],
+            "skillsets": ["wave", "fast-paced"],
             "xp": {
-                "duals": 0,
-                "ship": 2,
-                "fastPaced": 3,
-                "memory": 2,
-                "wave": 3,
                 "chokepoints": 2,
-                "nerve": 2,
+                "duals": 0,
+                "fastPaced": 3,
                 "cps": 3,
+                "memory": 2,
+                "nerve": 2,
+                "ship": 2,
+                "swing": 0,
                 "timings": 2,
-                "swing": 0
+                "wave": 3
             },
             "startpos-copy": 131462666
         },
@@ -8854,11 +8854,11 @@
         "90477539": {
             "name": "Saul Goodman",
             "difficulty": 13,
-            "skillsets": ["fast-paced"],
+            "skillsets": ["fast-paced", "wave"],
             "xp": {
                 "chokepoints": 3,
                 "duals": 0,
-                "fastPaced": 2,
+                "fastPaced": 3,
                 "cps": 2,
                 "memory": 1,
                 "nerve": 2,
@@ -8980,7 +8980,7 @@
                 "duals": 0,
                 "fastPaced": 2,
                 "cps": 1,
-                "memory": 1,
+                "memory": 3,
                 "nerve": 3,
                 "ship": 2,
                 "swing": 0,
@@ -9229,7 +9229,7 @@
             "skillsets": ["learny", "duals", "timings"],
             "xp": {
                 "chokepoints": 1,
-                "duals": 1,
+                "duals": 3,
                 "fastPaced": 1,
                 "cps": 2,
                 "memory": 3,
@@ -9414,9 +9414,9 @@
                 "cps": 2,
                 "memory": 2,
                 "nerve": 1,
-                "ship": 2,
+                "ship": 3,
                 "swing": 0,
-                "timings": 2,
+                "timings": 3,
                 "wave": 2
             },
             "startpos-copy": 136784906
@@ -10500,7 +10500,7 @@
         "80178903": {
             "name": "Call Me Maybe",
             "difficulty": 10,
-            "skillsets": ["timings", "duals"],
+            "skillsets": ["timings", "duals", "swing-legacy"],
             "xp": {
                 "chokepoints": 1,
                 "duals": 2,
@@ -10509,7 +10509,7 @@
                 "memory": 1,
                 "nerve": 1,
                 "ship": 2,
-                "swing": 3,
+                "swing": 2,
                 "timings": 3,
                 "wave": 1
             },
