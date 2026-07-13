@@ -60,7 +60,7 @@
         "sprite": "DP_Amber",
         "plusSprite": "DP_AmberPlus",
         "saveID": "amber",
-        "levelIDs": [59948178, 13579851, 61137742, 2241592, 33405303, 36834813, 68662732, 84064573, 41409797, 61529436, 90677710, 78385421, 26441161, 61366260, 68688822, 68718751, 66133800, 96604457, 55454745, 65894695, 814678, 79428382, 89865688, 78397973, 63915746],
+        "levelIDs": [63593437, 59948178, 61137742, 2241592, 33405303, 36834813, 76532289, 68662732, 84064573, 26441161, 90677710, 78385421, 74263444, 61366260, 41409797, 68688822, 96604457, 90953648, 55454745, 94412187, 814678, 79428382, 89865688, 78397973, 63915746],
         "reqLevels": 9,
         "textEffects": {
             "textColor": [255, 123, 0],
@@ -288,7 +288,7 @@
         "sprite": "DP_Amber",
         "plusSprite": "DP_AmberPlus",
         "saveID": "legacy-amber",
-        "levelIDs": [18674844, 36099108, 23409681, 61799411, 65046970, 8491232, 68786602, 19719196, 13457056, 60129422, 73725400, 25147297, 9700312, 40299716, 21256194, 34386347, 26512451],
+        "levelIDs": [66133800, 65894695, 68718751, 61529436, 13579851, 18674844, 36099108, 23409681, 61799411, 65046970, 8491232, 68786602, 19719196, 13457056, 60129422, 73725400, 25147297, 9700312, 40299716, 21256194, 34386347, 26512451],
         "mainPack": 4
     }, {
         "name": "Legacy Platinum",
@@ -1076,7 +1076,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 226,
+    "database-version": 227,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -2720,18 +2720,6 @@
             "name": "QuantumWave",
             "difficulty": 4,
             "skillsets": ["duals", "memory"],
-            "xp": {
-                "memory": 3,
-                "wave": 3,
-                "ship": 1,
-                "cps": 2,
-                "nerve": 2,
-                "timings": 2,
-                "chokepoints": 2,
-                "duals": 3,
-                "fastPaced": 2,
-                "swing": 0
-            },
             "startpos-copy": 96655413
         },
         "26441161": {
@@ -2864,18 +2852,6 @@
             "name": "arcane ascent",
             "difficulty": 4,
             "skillsets": ["nerve-control"],
-            "xp": {
-                "chokepoints": 2,
-                "memory": 2,
-                "duals": 2,
-                "fastPaced": 2,
-                "wave": 2,
-                "timings": 2,
-                "nerve": 3,
-                "ship": 2,
-                "cps": 2,
-                "swing": 0
-            },
             "startpos-copy": 128635195
         },
         "78385421": {
@@ -2936,18 +2912,6 @@
             "name": "Optic daydream",
             "difficulty": 4,
             "skillsets": ["wave", "spider"],
-            "xp": {
-                "timings": 2,
-                "nerve": 1,
-                "ship": 0,
-                "cps": 1,
-                "fastPaced": 0,
-                "wave": 3,
-                "memory": 1,
-                "chokepoints": 2,
-                "duals": 0,
-                "swing": 0
-            },
             "startpos-copy": 94412276
         },
         "90677710": {
@@ -2972,18 +2936,6 @@
             "name": "Blaster",
             "difficulty": 4,
             "skillsets": ["timings"],
-            "xp": {
-                "chokepoints": 2,
-                "duals": 1,
-                "fastPaced": 0,
-                "cps": 1,
-                "memory": 1,
-                "nerve": 2,
-                "ship": 2,
-                "swing": 0,
-                "timings": 3,
-                "wave": 2
-            },
             "startpos-copy": 94412275
         },
         "96604457": {
@@ -3026,18 +2978,6 @@
             "name": "Elysian Aegis",
             "difficulty": 4,
             "skillsets": ["fast-paced", "timings"],
-            "xp": {
-                "duals": 1,
-                "memory": 2,
-                "nerve": 2,
-                "chokepoints": 2,
-                "fastPaced": 3,
-                "ship": 2,
-                "wave": 1,
-                "cps": 2,
-                "timings": 2,
-                "swing": 0
-            },
             "startpos-copy": 94409648
         },
         "814678": {
@@ -8737,7 +8677,20 @@
         "94412187": {
             "name": "Spearmint",
             "difficulty": 4,
-            "skillsets": ["sp-smilebullet"]
+            "skillsets": ["sp-smilebullet", "fast-paced", "memory"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 3,
+                "nerve": 3,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 2
+            },
+            "startpos-copy": 0
         },
         "82273446": {
             "name": "Insanity",
@@ -11403,6 +11356,78 @@
             "name": "Supernova",
             "difficulty": 5,
             "skillsets": ["overall"],
+            "startpos-copy": 0
+        },
+        "63593437": {
+            "name": "alika",
+            "difficulty": 4,
+            "skillsets": ["nerve-control", "ship"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 1,
+                "fastPaced": 1,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 3,
+                "ship": 3,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            },
+            "startpos-copy": 0
+        },
+        "76532289": {
+            "name": "SUBJ3CT3STR00M",
+            "difficulty": 4,
+            "skillsets": ["duals", "learny"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 0,
+                "cps": 1,
+                "memory": 3,
+                "nerve": 1,
+                "ship": 0,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            },
+            "startpos-copy": 0
+        },
+        "74263444": {
+            "name": "Bluetail Falls",
+            "difficulty": 4,
+            "skillsets": ["wave", "duals", "high-cps"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 3,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 3
+            },
+            "startpos-copy": 0
+        },
+        "90953648": {
+            "name": "dismay",
+            "difficulty": 4,
+            "skillsets": ["fast-paced", "high-cps"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 3,
+                "memory": 0,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 1,
+                "timings": 2,
+                "wave": 2
+            },
             "startpos-copy": 0
         }
     },
