@@ -659,6 +659,31 @@
         }
     }],
     "monthly": [{
+        "name": "RReppeettiittiioonn PPaacckk",
+        "description": "MMoonntthhllyy ppaacckk ffoorr August 2026",
+        "sprite": "DP_August",
+        "month": 8,
+        "year": 2026,
+        "levelIDs": [116676703, 81391957, 105098696, 79054252, 105031888, 80576901],
+        "textEffects": {
+            "textColor": {
+                "r": 85,
+                "g": 185,
+                "b": 189
+            },
+            "gradientColor": {
+                "r": 92,
+                "g": 225,
+                "b": 226
+            },
+            "crystalColor": {
+                "r": 102,
+                "g": 219,
+                "b": 224
+            },
+            "gradient": true
+        }
+    }, {
         "name": "Time Machine Pack",
         "description": "Monthly Pack Description (GDDP Monthly Pack for [MONTH] [YEAR])",
         "sprite": "DP_July",
@@ -1076,7 +1101,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 231,
+    "database-version": 234,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11428,6 +11453,42 @@
                 "timings": 3,
                 "wave": 2
             },
+            "startpos-copy": 0
+        },
+        "116676703": {
+            "name": "would you rather",
+            "difficulty": 0,
+            "skillsets": ["chokepoints"],
+            "startpos-copy": 0
+        },
+        "81391957": {
+            "name": "PXTTXRN SXXKXR",
+            "difficulty": 0,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "105098696": {
+            "name": "A Platformer Level",
+            "difficulty": 1,
+            "skillsets": ["overall"],
+            "startpos-copy": 0
+        },
+        "79054252": {
+            "name": "Sky Island",
+            "difficulty": 2,
+            "skillsets": ["memory", "nerve-control"],
+            "startpos-copy": 0
+        },
+        "105031888": {
+            "name": "Calm Frenzy",
+            "difficulty": 3,
+            "skillsets": ["learny"],
+            "startpos-copy": 0
+        },
+        "80576901": {
+            "name": "in canon",
+            "difficulty": 5,
+            "skillsets": ["memory", "timings"],
             "startpos-copy": 0
         }
     },
