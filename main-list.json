@@ -664,7 +664,7 @@
         "sprite": "DP_August",
         "month": 8,
         "year": 2026,
-        "levelIDs": [116676703, 81391957, 105098696, 79054252, 105031888, 80576901],
+        "levelIDs": [116676703, 81391957, 105098696, 79054252, 105031888, 80575901],
         "textEffects": {
             "textColor": {
                 "r": 85,
@@ -1101,7 +1101,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 234,
+    "database-version": 235,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11485,7 +11485,7 @@
             "skillsets": ["learny"],
             "startpos-copy": 0
         },
-        "80576901": {
+        "80575901": {
             "name": "in canon",
             "difficulty": 5,
             "skillsets": ["memory", "timings"],
