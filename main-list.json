@@ -1101,7 +1101,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 239,
+    "database-version": 241,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11453,7 +11453,7 @@
                 "timings": 3,
                 "wave": 2
             },
-            "startpos-copy": 0
+            "startpos-copy": 146478784
         },
         "116676703": {
             "name": "would you rather",
