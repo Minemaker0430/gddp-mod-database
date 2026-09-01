@@ -660,7 +660,7 @@
     }],
     "monthly": [{
         "name": "Periodic Table Pack",
-        "description": "Monthly Pack Description (GDDP Monthly Pack for [MONTH] [YEAR])",
+        "description": "Jessie we need to cook some levels (GDDP Monthly Pack for September 2026)",
         "sprite": "DP_September",
         "month": 9,
         "year": 2026,
@@ -1117,7 +1117,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 247,
+    "database-version": 248,
     "level-data": {
         "65765662": {
             "name": "iS",
