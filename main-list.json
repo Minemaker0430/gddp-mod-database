@@ -1117,7 +1117,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 248,
+    "database-version": 249,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11511,13 +11511,13 @@
             "name": "Tennessine",
             "difficulty": 0,
             "skillsets": ["flow"],
-            "startpos-copy": 0
+            "startpos-copy": 148137215
         },
         "27990000": {
             "name": "Lanthanium",
             "difficulty": 0,
             "skillsets": ["fast-paced", "chokepoints"],
-            "startpos-copy": 0
+            "startpos-copy": 148137347
         },
         "85695827": {
             "name": "Iodine",
@@ -11529,7 +11529,7 @@
             "name": "Bismuth",
             "difficulty": 2,
             "skillsets": ["wave", "learny"],
-            "startpos-copy": 0
+            "startpos-copy": 148137115
         },
         "129709739": {
             "name": "Arsenic",
@@ -11541,7 +11541,7 @@
             "name": "Carbon",
             "difficulty": 5,
             "skillsets": ["nerve-control", "timings"],
-            "startpos-copy": 0
+            "startpos-copy": 148137206
         }
     },
     "skillset-data": {
