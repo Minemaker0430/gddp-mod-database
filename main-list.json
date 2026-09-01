@@ -659,6 +659,22 @@
         }
     }],
     "monthly": [{
+        "name": "Periodic Table Pack",
+        "description": "Monthly Pack Description (GDDP Monthly Pack for [MONTH] [YEAR])",
+        "sprite": "DP_September",
+        "month": 9,
+        "year": 2026,
+        "levelIDs": [71710243, 27990000, 85695827, 78361312, 129709739, 86754759],
+        "textEffects": {
+            "textColor": {
+                "r": 0,
+                "g": 215,
+                "b": 255
+            },
+            "crystal": true,
+            "stars": true
+        }
+    }, {
         "name": "RReeppeettiittiioonn PPaacckk",
         "description": "MMoonntthhllyy ppaacckk ffoorr August 2026",
         "sprite": "DP_August",
@@ -1101,7 +1117,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 244,
+    "database-version": 247,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11489,6 +11505,42 @@
             "name": "in canon",
             "difficulty": 5,
             "skillsets": ["memory", "timings"],
+            "startpos-copy": 0
+        },
+        "71710243": {
+            "name": "Tennessine",
+            "difficulty": 0,
+            "skillsets": ["flow"],
+            "startpos-copy": 0
+        },
+        "27990000": {
+            "name": "Lanthanium",
+            "difficulty": 0,
+            "skillsets": ["fast-paced", "chokepoints"],
+            "startpos-copy": 0
+        },
+        "85695827": {
+            "name": "Iodine",
+            "difficulty": 1,
+            "skillsets": ["2p", "nerve-control"],
+            "startpos-copy": 0
+        },
+        "78361312": {
+            "name": "Bismuth",
+            "difficulty": 2,
+            "skillsets": ["wave", "learny"],
+            "startpos-copy": 0
+        },
+        "129709739": {
+            "name": "Arsenic",
+            "difficulty": 3,
+            "skillsets": ["overall"],
+            "startpos-copy": 0
+        },
+        "86754759": {
+            "name": "Carbon",
+            "difficulty": 5,
+            "skillsets": ["nerve-control", "timings"],
             "startpos-copy": 0
         }
     },
