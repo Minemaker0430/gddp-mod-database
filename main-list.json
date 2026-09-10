@@ -18,7 +18,7 @@
         "sprite": "DP_Bronze",
         "plusSprite": "DP_BronzePlus",
         "saveID": "bronze",
-        "levelIDs": [74449, 71114971, 24380303, 77492867, 27786218, 78079575, 77614559, 79238456, 58002670, 67113181, 86155700, 102824936, 62133870, 98065104, 7016598, 83444471, 100417573, 76158198, 47853491, 14975695, 18834999, 86665617, 43010906, 63454942, 23300671, 110790559, 99220012, 25706351, 3471703, 9287687],
+        "levelIDs": [110959028, 74449, 71114971, 24380303, 77492867, 78079575, 76280532, 77614559, 79238456, 58002670, 67113181, 86155700, 102824936, 98065104, 7016598, 107020156, 100417573, 76158198, 77831655, 14975695, 18834999, 86665617, 43010906, 63454942, 23300671, 110790559, 99220012, 25706351, 3471703, 91674875, 9287687],
         "reqLevels": 12,
         "textEffects": {
             "textColor": [121, 66, 0],
@@ -264,7 +264,7 @@
         "sprite": "DP_Bronze",
         "plusSprite": "DP_BronzePlus",
         "saveID": "legacy-bronze",
-        "levelIDs": [62378908, 4318253, 27024880, 5875660, 5433594, 97557640, 30157349, 16500835, 7705437, 47611766, 33618850, 23595034, 58939191, 18994125],
+        "levelIDs": [83444471, 27786218, 62133870, 47853491, 62378908, 4318253, 27024880, 5875660, 5433594, 97557640, 30157349, 16500835, 7705437, 47611766, 33618850, 23595034, 58939191, 18994125],
         "mainPack": 1
     }, {
         "name": "Legacy Silver",
@@ -1117,7 +1117,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 250,
+    "database-version": 253,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -1591,18 +1591,6 @@
             "name": "Mechanical Showdown",
             "difficulty": 1,
             "skillsets": ["moving-gp"],
-            "xp": {
-                "cps": 1,
-                "memory": 1,
-                "fastPaced": 2,
-                "timings": 1,
-                "ship": 2,
-                "duals": 2,
-                "chokepoints": 1,
-                "nerve": 1,
-                "wave": 2,
-                "swing": 0
-            },
             "startpos-copy": 90018892
         },
         "78079575": {
@@ -1705,18 +1693,6 @@
             "name": "Broken Reality",
             "difficulty": 1,
             "skillsets": ["wave"],
-            "xp": {
-                "nerve": 2,
-                "fastPaced": 2,
-                "wave": 3,
-                "chokepoints": 2,
-                "cps": 2,
-                "ship": 1,
-                "timings": 1,
-                "duals": 0,
-                "memory": 1,
-                "swing": 0
-            },
             "startpos-copy": 114143169
         },
         "7016598": {
@@ -1741,18 +1717,6 @@
             "name": "WELL RESTED",
             "difficulty": 1,
             "skillsets": ["nerve-control"],
-            "xp": {
-                "wave": 1,
-                "timings": 2,
-                "chokepoints": 1,
-                "cps": 2,
-                "ship": 1,
-                "nerve": 3,
-                "duals": 0,
-                "fastPaced": 2,
-                "memory": 1,
-                "swing": 0
-            },
             "startpos-copy": 94384569
         },
         "76158198": {
@@ -1777,18 +1741,6 @@
             "name": "Tengu Wind",
             "difficulty": 1,
             "skillsets": ["wave"],
-            "xp": {
-                "wave": 3,
-                "timings": 2,
-                "memory": 1,
-                "chokepoints": 2,
-                "cps": 2,
-                "nerve": 1,
-                "duals": 1,
-                "ship": 2,
-                "fastPaced": 2,
-                "swing": 0
-            },
             "startpos-copy": 90020891
         },
         "14975695": {
@@ -7863,7 +7815,20 @@
         "77831655": {
             "name": "Scatterbrains",
             "difficulty": 1,
-            "skillsets": []
+            "skillsets": ["duals"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 3,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 1,
+                "ship": 2,
+                "swing": 0,
+                "timings": 2,
+                "wave": 1
+            },
+            "startpos-copy": 0
         },
         "72275079": {
             "name": "Bitcrunch",
@@ -11542,6 +11507,78 @@
             "difficulty": 5,
             "skillsets": ["nerve-control", "timings"],
             "startpos-copy": 148137206
+        },
+        "91674875": {
+            "name": "Sunfall",
+            "difficulty": 1,
+            "skillsets": ["timings"],
+            "xp": {
+                "chokepoints": 2,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 2,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 1
+            },
+            "startpos-copy": 0
+        },
+        "107020156": {
+            "name": "windglass",
+            "difficulty": 1,
+            "skillsets": ["nerve-control"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 1,
+                "fastPaced": 2,
+                "cps": 1,
+                "memory": 2,
+                "nerve": 3,
+                "ship": 1,
+                "swing": 0,
+                "timings": 2,
+                "wave": 0
+            },
+            "startpos-copy": 146103145
+        },
+        "76280532": {
+            "name": "SYSTEM32",
+            "difficulty": 1,
+            "skillsets": ["timings", "fast-paced"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 2,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 3,
+                "wave": 2
+            },
+            "startpos-copy": 146103136
+        },
+        "110959028": {
+            "name": "Neuf Cercles",
+            "difficulty": 1,
+            "skillsets": ["wave", "fast-paced"],
+            "xp": {
+                "chokepoints": 1,
+                "duals": 0,
+                "fastPaced": 3,
+                "cps": 1,
+                "memory": 1,
+                "nerve": 1,
+                "ship": 1,
+                "swing": 0,
+                "timings": 1,
+                "wave": 3
+            },
+            "startpos-copy": 0
         }
     },
     "skillset-data": {
