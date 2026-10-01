@@ -659,6 +659,26 @@
         }
     }],
     "monthly": [{
+        "name": "The Disturbing Pack",
+        "description": "EPILEPSY AND TYRPOPHPOBIA WARNING. (GDDP Monthly Pack for October 2026)",
+        "sprite": "DP_October",
+        "month": 10,
+        "year": 2026,
+        "levelIDs": [127602122, 136166417, 113697434, 78625754, 76745253, 118685630],
+        "textEffects": {
+            "textColor": {
+                "r": 255,
+                "g": 41,
+                "b": 0
+            },
+            "gradientColor": {
+                "r": 61,
+                "g": 22,
+                "b": 0
+            },
+            "gradient": true
+        }
+    }, {
         "name": "Periodic Table Pack",
         "description": "Jessie we need to cook some levels (GDDP Monthly Pack for September 2026)",
         "sprite": "DP_September",
@@ -1117,7 +1137,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 254,
+    "database-version": 258,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11566,6 +11586,42 @@
                 "timings": 1,
                 "wave": 3
             },
+            "startpos-copy": 0
+        },
+        "118685630": {
+            "name": "3AVNCNMOCT6",
+            "difficulty": 5,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "76745253": {
+            "name": "ENTITY",
+            "difficulty": 4,
+            "skillsets": ["memory"],
+            "startpos-copy": 0
+        },
+        "78625754": {
+            "name": "NEEDLES",
+            "difficulty": 2,
+            "skillsets": ["overall"],
+            "startpos-copy": 0
+        },
+        "136166417": {
+            "name": "The Crossing",
+            "difficulty": 0,
+            "skillsets": ["sp-unique", "memory"],
+            "startpos-copy": 0
+        },
+        "127602122": {
+            "name": "0 exit",
+            "difficulty": 0,
+            "skillsets": ["overall"],
+            "startpos-copy": 0
+        },
+        "113697434": {
+            "name": "MustFeedMustConsume",
+            "difficulty": 1,
+            "skillsets": ["timings"],
             "startpos-copy": 0
         }
     },
