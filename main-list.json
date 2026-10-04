@@ -1137,7 +1137,7 @@
         "year": 2022,
         "levelIDs": [69601365, 8469744, 5875660, 29917082, 10505306, 61997741]
     }],
-    "database-version": 258,
+    "database-version": 259,
     "level-data": {
         "65765662": {
             "name": "iS",
@@ -11592,19 +11592,19 @@
             "name": "3AVNCNMOCT6",
             "difficulty": 5,
             "skillsets": ["memory"],
-            "startpos-copy": 0
+            "startpos-copy": 149968369
         },
         "76745253": {
             "name": "ENTITY",
             "difficulty": 4,
             "skillsets": ["memory"],
-            "startpos-copy": 0
+            "startpos-copy": 149968566
         },
         "78625754": {
             "name": "NEEDLES",
             "difficulty": 2,
             "skillsets": ["overall"],
-            "startpos-copy": 0
+            "startpos-copy": 149968487
         },
         "136166417": {
             "name": "The Crossing",
@@ -11622,7 +11622,7 @@
             "name": "MustFeedMustConsume",
             "difficulty": 1,
             "skillsets": ["timings"],
-            "startpos-copy": 0
+            "startpos-copy": 149968439
         }
     },
     "skillset-data": {
